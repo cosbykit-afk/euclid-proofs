@@ -1,0 +1,1351 @@
+ELEMENTS BOOK 9
+
+                             Applications of Number Theory†
+
+
+
+
+† The propositions contained in Books 7–9 are generally attributed to the school of Pythagoras.
+
+
+
+
+                                                                   253
+STOIQEIWN jþ.                                                                                 ELEMENTS BOOK 9
+
+
+                            aþ.                                                   Proposition 1
+   ᾿Εὰν δύο ὅμοιοι ἐπίπεδοι ἀριθμοὶ πολλαπλασιάσαντες    If two similar plane numbers make some (number by)
+ἀλλήλους ποιῶσί τινα, ὁ γενόμενος τετράγωνος ἔσται.   multiplying one another then the created (number) will
+                                                      be square.
+   Α                                                             A
+   Β                                                             B
+   Γ                                                             C
+   ∆                                                             D
+    ῎Εστωσαν δύο ὅμοιοι ἐπίπεδοι ἀριθμοὶ οἱ Α, Β, καὶ ὁ           Let A and B be two similar plane numbers, and let A
+Α τὸν Β πολλαπλασιάσας τὸν Γ ποιείτω· λέγω, ὅτι ὁ Γ           make C (by) multiplying B. I say that C is square.
+τετράγωνός ἐστιν.                                                 For let A make D (by) multiplying itself. D is thus
+    ῾Ο γὰρ Α ἑαυτὸν πολλαπλασιάσας τὸν Δ ποιείτω. ὁ Δ         square. Therefore, since A has made D (by) multiply-
+ἄρα τετράγωνός ἐστιν. ἐπεὶ οὖν ὁ Α ἑαυτὸν μὲν πολλα-          ing itself, and has made C (by) multiplying B, thus as A
+πλασιάσας τὸν Δ πεποίηκεν, τὸν δὲ Β πολλαπλασιάσας τὸν        is to B, so D (is) to C [Prop. 7.17]. And since A and
+Γ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Δ           B are similar plane numbers, one number thus falls (be-
+πρὸς τὸν Γ. καὶ ἐπεὶ οἱ Α, Β ὅμοιοι ἐπίπεδοί εἰσιν ἀριθμοί,   tween) A and B in mean proportion [Prop. 8.18]. And if
+τῶν Α, Β ἄρα εἷς μέσος ἀνάλογον ἐμπίπτει ἀριθμός. ἐὰν δὲ      (some) numbers fall between two numbers in continued
+δύο ἀριθμῶν μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπίπτωσιν        proportion then, as many (numbers) as fall in (between)
+ἀριθμοί, ὅσοι εἰς αὐτοὺς ἐμπίπτουσι, τοσοῦτοι καὶ εἰς τοὺς    them (in continued proportion), so many also (fall) in
+τὸν αὐτὸν λόγον ἔχοντας· ὥστε καὶ τῶν Δ, Γ εἷς μέσος          (between numbers) having the same ratio (as them in
+ἀνάλογον ἐμπίπτει ἀριθμός. καί ἐστι τετράγωνος ὁ Δ·           continued proportion) [Prop. 8.8]. And hence one num-
+τετράγωνος ἄρα καὶ ὁ Γ· ὅπερ ἔδει δεῖξαι.                     ber falls (between) D and C in mean proportion. And D
+                                                              is square. Thus, C (is) also square [Prop. 8.22]. (Which
+                                                              is) the very thing it was required to show.
+
+                            bþ.                                                   Proposition 2
+   ᾿Εὰν δύο ἀριθμοὶ πολλαπλασιάσαντες ἀλλήλους ποιῶσι            If two numbers make a square (number by) multiply-
+τετράγωνον, ὅμοιοι ἐπίπεδοί εἰσιν ἀριθμοί.                    ing one another then they are similar plane numbers.
+
+              Α                                                           A
+              Β                                                           B
+              Γ                                                           C
+              ∆                                                           D
+   ῎Εστωσαν δύο ἀριθμοὶ οἱ Α, Β, καὶ ὁ Α τὸν Β πολλα-             Let A and B be two numbers, and let A make the
+πλασιάσας τετράγωνον τὸν Γ ποιείτω· λέγω, ὅτι οἱ Α, Β         square (number) C (by) multiplying B. I say that A and
+ὅμοιοι ἐπίπεδοί εἰσιν ἀριθμοί.                                B are similar plane numbers.
+   ῾Ο γὰρ Α ἑαυτὸν πολλαπλασιάσας τὸν Δ ποιείτω· ὁ Δ              For let A make D (by) multiplying itself. Thus, D is
+ἄρα τετράγωνός ἐστιν. καὶ ἐπεὶ ὁ Α ἑαυτὸν μὲν πολλα-          square. And since A has made D (by) multiplying itself,
+πλασιάσας τὸν Δ πεποίηκεν, τὸν δὲ Β πολλαπλασιάσας τὸν        and has made C (by) multiplying B, thus as A is to B, so
+Γ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Β, ὁ Δ πρὸς τὸν        D (is) to C [Prop. 7.17]. And since D is square, and C
+Γ. καὶ ἐπεὶ ὁ Δ τετράγωνός ἐστιν, ἀλλὰ καὶ ὁ Γ, οἱ Δ, Γ       (is) also, D and C are thus similar plane numbers. Thus,
+ἄρα ὅμοιοι ἐπίπεδοί εἰσιν. τῶν Δ, Γ ἄρα εἷς μέσος ἀνάλογον    one (number) falls (between) D and C in mean propor-
+
+
+                                                          254
+STOIQEIWN jþ.                                                                                   ELEMENTS BOOK 9
+
+ἐμπίπτει. καί ἐστιν ὡς ὁ Δ πρὸς τὸν Γ, οὕτως ὁ Α πρὸς τὸν     tion [Prop. 8.18]. And as D is to C, so A (is) to B. Thus,
+Β· καὶ τῶν Α, Β ἄρα εἷς μέσος ἀνάλογον ἐμπίπτει. ἐὰν δὲ       one (number) also falls (between) A and B in mean pro-
+δύο ἀριθμῶν εἷς μέσος ἀνάλογον ἐμπίπτῃ, ὅμοιοι ἐπίπεδοί       portion [Prop. 8.8]. And if one (number) falls (between)
+εἰσιν [οἱ] ἀριθμοί· οἱ ἄρα Α, Β ὅμοιοί εἰσιν ἐπίπεδοι· ὅπερ   two numbers in mean proportion then [the] numbers are
+ἔδει δεῖξαι.                                                  similar plane (numbers) [Prop. 8.20]. Thus, A and B are
+                                                              similar plane (numbers). (Which is) the very thing it was
+                                                              required to show.
+
+                            gþ.                                                    Proposition 3
+   ᾿Εὰν κύβος ἀριθμὸς ἑαυτὸν πολλαπλασιάσας ποιῇ τινα,    If a cube number makes some (number by) multiply-
+ὁ γενόμενος κύβος ἔσται.                               ing itself then the created (number) will be cube.
+            Α                                                              A
+            Β                                                              B
+            Γ                                                              C
+            ∆                                                              D
+    Κύβος γὰρ ἀριθμὸς ὁ Α ἑαυτὸν πολλαπλασιάσας τὸν Β             For let the cube number A make B (by) multiplying
+ποιείτω· λέγω, ὅτι ὁ Β κύβος ἐστίν.                           itself. I say that B is cube.
+    Εἰλήφθω γὰρ τοῦ Α πλευρὰ ὁ Γ, καὶ ὁ Γ ἑαυτὸν πολλα-           For let the side C of A have been taken. And let C
+πλασιάσας τὸν Δ ποιείτω. φανερὸν δή ἐστιν, ὅτι ὁ Γ τὸν Δ      make D by multiplying itself. So it is clear that C has
+πολλαπλασιάσας τὸν Α πεποίηκεν. καὶ ἐπεὶ ὁ Γ ἑαυτὸν πολ-      made A (by) multiplying D. And since C has made D
+λαπλασιάσας τὸν Δ πεποίηκεν, ὁ Γ ἄρα τὸν Δ μετρεῖ κατὰ        (by) multiplying itself, C thus measures D according to
+τὰς ἐν αὑτῷ μονάδας. ἀλλὰ μὴν καὶ ἡ μονὰς τὸν Γ μετρεῖ        the units in it [Def. 7.15]. But, in fact, a unit also mea-
+κατὰ τὰς ἐν αὐτῷ μονάδας· ἔστιν ἄρα ὡς ἡ μονὰς πρὸς τὸν       sures C according to the units in it [Def. 7.20]. Thus, as
+Γ, ὁ Γ πρὸς τὸν Δ. πάλιν, ἐπεὶ ὁ Γ τὸν Δ πολλαπλασιάσας       a unit is to C, so C (is) to D. Again, since C has made A
+τὸν Α πεποίηκεν, ὁ Δ ἄρα τὸν Α μετρεῖ κατὰ τὰς ἐν τῷ Γ        (by) multiplying D, D thus measures A according to the
+μονάδας. μετρεῖ δὲ καὶ ἡ μονὰς τὸν Γ κατὰ τὰς ἐν αὐτῷ         units in C. And a unit also measures C according to the
+μονάδας· ἔστιν ἄρα ὡς ἡ μονὰς πρὸς τὸν Γ, ὁ Δ πρὸς τὸν        units in it. Thus, as a unit is to C, so D (is) to A. But,
+Α. ἀλλ᾿ ὡς ἡ μονὰς πρὸς τὸν Γ, ὁ Γ πρὸς τὸν Δ· καὶ ὡς         as a unit (is) to C, so C (is) to D. And thus as a unit (is)
+ἄρα ἡ μονὰς πρὸς τὸν Γ, οὕτως ὁ Γ πρὸς τὸν Δ καὶ ὁ Δ          to C, so C (is) to D, and D to A. Thus, two numbers, C
+πρὸς τὸν Α. τῆς ἄρα μονάδος καὶ τοῦ Α ἀριθμοῦ δύο μέσοι       and D, have fallen (between) a unit and the number A
+ἀνάλογον κατὰ τὸ συνεχὲς ἐμπεπτώκασιν ἀριθμοὶ οἱ Γ, Δ.        in continued mean proportion. Again, since A has made
+πάλιν, ἐπεὶ ὁ Α ἑαυτὸν πολλαπλασιάσας τὸν Β πεποίηκεν,        B (by) multiplying itself, A thus measures B according
+ὁ Α ἄρα τὸν Β μετρεῖ κατὰ τὰς ἐν αὐτῷ μονάδας· μετρεῖ δὲ      to the units in it. And a unit also measures A according
+καὶ ἡ μονὰς τὸν Α κατὰ τὰς ἐν αὐτῷ μονάδας· ἔστιν ἄρα ὡς      to the units in it. Thus, as a unit is to A, so A (is) to B.
+ἡ μονὰς πρὸς τὸν Α, ὁ Α πρὸς τὸν Β. τῆς δὲ μονάδος καὶ        And two numbers have fallen (between) a unit and A in
+τοῦ Α δύο μέσοι ἀνάλογον ἐμπεπτώκασιν ἀριθμοί· καὶ τῶν        mean proportion. Thus two numbers will also fall (be-
+Α, Β ἄρα δύο μέσοι ἀνάλογον ἐμπεσοῦνται ἀριθμοί. ἐὰν δὲ       tween) A and B in mean proportion [Prop. 8.8]. And if
+δύο ἀριθμῶν δύο μέσοι ἀνάλογον ἐμπίπτωσιν, ὁ δὲ πρῶτος        two (numbers) fall (between) two numbers in mean pro-
+κύβος ᾖ, καὶ ὁ δεύτερος κύβος ἔσται. καί ἐστιν ὁ Α κύβος·     portion, and the first (number) is cube, then the second
+καὶ ὁ Β ἄρα κύβος ἐστίν· ὅπερ ἔδει δεῖξαι.                    will also be cube [Prop. 8.23]. And A is cube. Thus, B
+                                                              is also cube. (Which is) the very thing it was required to
+                                                              show.
+
+                            dþ.                                                    Proposition 4
+   ᾿Εὰν κύβος ἀριθμὸς κύβον ἀριθμὸν πολλαπλασιάσας    If a cube number makes some (number by) multiply-
+ποιῇ τινα, ὁ γενόμενος κύβος ἔσται.                ing a(nother) cube number then the created (number)
+
+
+                                                          255
+STOIQEIWN jþ.                                                                                      ELEMENTS BOOK 9
+
+                                                                  will be cube.
+              Α                                                                   A
+              Β                                                                   B
+              Γ                                                                   C
+              ∆                                                                   D
+    Κύβος γὰρ ἀριθμὸς ὁ Α κύβον ἀριθμὸν τὸν Β πολλα-                  For let the cube number A make C (by) multiplying
+πλασιάσας τὸν Γ ποιείτω· λέγω, ὅτι ὁ Γ κύβος ἐστίν.               the cube number B. I say that C is cube.
+    ῾Ο γὰρ Α ἑαυτὸν πολλαπλασιάσας τὸν Δ ποιείτω· ὁ                   For let A make D (by) multiplying itself. Thus, D is
+Δ ἄρα κύβος ἐστίν. καὶ ἐπεὶ ὁ Α ἑαυτὸν μὲν πολλα-                 cube [Prop. 9.3]. And since A has made D (by) multi-
+πλασιάσας τὸν Δ πεποίηκεν, τὸν δὲ Β πολλαπλασιάσας τὸν            plying itself, and has made C (by) multiplying B, thus
+Γ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Δ πρὸς          as A is to B, so D (is) to C [Prop. 7.17]. And since A
+τὸν Γ. καὶ ἐπεὶ οἱ Α, Β κύβοι εἰσίν, ὅμοιοι στερεοί εἰσιν οἱ Α,   and B are cube, A and B are similar solid (numbers).
+Β. τῶν Α, Β ἄρα δύο μέσοι ἀνάλογον ἐμπίπτουσιν ἀριθμοί·           Thus, two numbers fall (between) A and B in mean pro-
+ὥστε καὶ τῶν Δ, Γ δύο μέσοι ἀνάλογον ἐμπεσοῦνται                  portion [Prop. 8.19]. Hence, two numbers will also fall
+ἀριθμοί. καί ἐστι κύβος ὁ Δ· κύβος ἄρα καὶ ὁ Γ· ὅπερ              (between) D and C in mean proportion [Prop. 8.8]. And
+ἔδει δεῖξαι.                                                      D is cube. Thus, C (is) also cube [Prop. 8.23]. (Which
+                                                                  is) the very thing it was required to show.
+
+                              eþ.                                                     Proposition 5
+   ᾿Εὰν κύβος ἀριθμὸς ἀριθμόν τινα πολλαπλασιάσας κύβον     If a cube number makes a(nother) cube number (by)
+ποιῇ, καὶ ὁ πολλαπλασιασθεὶς κύβος ἔσται.               multiplying some (number) then the (number) multi-
+                                                        plied will also be cube.
+           Α                                                                 A
+           Β                                                                 B
+           Γ                                                                 C
+           ∆                                                                 D
+   Κύβος γὰρ ἀριθμὸς ὁ Α ἀριθμόν τινα τὸν Β πολλα-                    For let the cube number A make the cube (number)
+πλασιάσας κύβον τὸν Γ ποιείτω· λέγω, ὅτι ὁ Β κύβος ἐστίν.         C (by) multiplying some number B. I say that B is cube.
+   ῾Ο γὰρ Α ἑαυτὸν πολλαπλασιάσας τὸν Δ ποιείτω· κύβος                For let A make D (by) multiplying itself. D is thus
+ἄρα ἐστίν ὁ Δ. καὶ ἐπεὶ ὁ Α ἑαυτὸν μὲν πολλαπλασιάσας τὸν         cube [Prop. 9.3]. And since A has made D (by) multiply-
+Δ πεποίηκεν, τὸν δὲ Β πολλαπλασιάσας τὸν Γ πεποίηκεν,             ing itself, and has made C (by) multiplying B, thus as A
+ἔστιν ἀρα ὡς ὁ Α πρὸς τὸν Β, ὁ Δ πρὸς τὸν Γ. καὶ ἐπεὶ             is to B, so D (is) to C [Prop. 7.17]. And since D and C
+οἱ Δ, Γ κύβοι εἰσίν, ὅμοιοι στερεοί εἰσιν. τῶν Δ, Γ ἄρα           are (both) cube, they are similar solid (numbers). Thus,
+δύο μέσοι ἀνάλογον ἐμπίπτουσιν ἀριθμοί. καί ἐστιν ὡς ὁ Δ          two numbers fall (between) D and C in mean proportion
+πρὸς τὸν Γ, οὕτως ὁ Α πρὸς τὸν Β· καὶ τῶν Α, Β ἄρα δύο            [Prop. 8.19]. And as D is to C, so A (is) to B. Thus,
+μέσοι ἀνάλογον ἐμπίπτουσιν ἀριθμοί. καί ἐστι κύβος ὁ Α·           two numbers also fall (between) A and B in mean pro-
+κύβος ἄρα ἐστὶ καὶ ὁ Β· ὅπερ ἔδει δεῖξαι.                         portion [Prop. 8.8]. And A is cube. Thus, B is also cube
+                                                                  [Prop. 8.23]. (Which is) the very thing it was required to
+                                                                  show.
+
+                              þ.                                                     Proposition 6
+   ᾿Εὰν ἀριθμὸς ἑαυτὸν πολλαπλασιάσας κύβον ποιῇ, καὶ                If a number makes a cube (number by) multiplying
+
+
+                                                              256
+STOIQEIWN jþ.                                                                                      ELEMENTS BOOK 9
+
+αὐτὸς κύβος ἔσται.                                             itself then it itself will also be cube.
+           Α                                                               A
+           Β                                                               B
+           Γ                                                               C
+    ᾿Αριθμὸς γὰρ ὁ Α ἑαυτὸν πολλαπλασιάσας κύβον τὸν Β             For let the number A make the cube (number) B (by)
+ποιείτω· λέγω, ὅτι καὶ ὁ Α κύβος ἐστίν.                        multiplying itself. I say that A is also cube.
+    ῾Ο γὰρ Α τὸν Β πολλαπλασιάσας τὸν Γ ποιείτω. ἐπεὶ οὖν          For let A make C (by) multiplying B. Therefore, since
+ὁ Α ἑαυτὸν μὲν πολλαπλασιάσας τὸν Β πεποίηκεν, τὸν δὲ          A has made B (by) multiplying itself, and has made C
+Β πολλαπλασιάσας τὸν Γ πεποίηκεν, ὁ Γ ἄρα κύβος ἐστίν.         (by) multiplying B, C is thus cube. And since A has made
+καὶ ἐπεὶ ὁ Α ἑαυτὸν πολλαπλασιάσας τὸν Β πεποίηκεν, ὁ          B (by) multiplying itself, A thus measures B according to
+Α ἄρα τὸν Β μετρεῖ κατὰ τὰς ἐν αὑτῷ μονάδας. μετρεῖ δὲ         the units in (A). And a unit also measures A according
+καὶ ἡ μονὰς τὸν Α κατὰ τὰς ἐν αὐτῷ μονάδας. ἔστιν ἄρα          to the units in it. Thus, as a unit is to A, so A (is) to
+ὡς ἡ μονὰς πρὸς τὸν Α, οὕτως ὁ Α πρὸς τὸν Β. καὶ ἐπεὶ          B. And since A has made C (by) multiplying B, B thus
+ὁ Α τὸν Β πολλαπλασιάσας τὸν Γ πεποίηκεν, ὁ Β ἄρα τὸν          measures C according to the units in A. And a unit also
+Γ μετρεῖ κατὰ τὰς ἐν τῷ Α μονάδας. μετρεὶ δὲ καὶ ἡ μονὰς       measures A according to the units in it. Thus, as a unit is
+τὸν Α κατὰ τὰς ἐν αὐτῷ μονάδας. ἔστιν ἄρα ὡς ἡ μονὰς           to A, so B (is) to C. But, as a unit (is) to A, so A (is) to
+πρὸς τὸν Α, οὕτως ὁ Β πρὸς τὸν Γ. ἀλλ᾿ ὡς ἡ μονὰς πρὸς         B. And thus as A (is) to B, (so) B (is) to C. And since B
+τὸν Α, οὕτως ὁ Α πρὸς τὸν Β· καὶ ὡς ἄρα ὁ Α πρὸς τὸν Β,        and C are cube, they are similar solid (numbers). Thus,
+ὁ Β πρὸς τὸν Γ. καὶ ἐπεὶ οἱ Β, Γ κύβοι εἰσίν, ὅμοιοι στερεοί   there exist two numbers in mean proportion (between)
+εἰσιν. τῶν Β, Γ ἄρα δύο μέσοι ἀνάλογόν εἰσιν ἀριθμοί. καί      B and C [Prop. 8.19]. And as B is to C, (so) A (is) to B.
+ἐστιν ὡς ὁ Β πρὸς τὸν Γ, ὁ Α πρὸς τὸν Β. καὶ τῶν Α, Β          Thus, there also exist two numbers in mean proportion
+ἄρα δύο μέσοι ἀνάλογόν εἰσιν ἀριθμοί. καί ἐστιν κύβος ὁ        (between) A and B [Prop. 8.8]. And B is cube. Thus, A
+Β· κύβος ἄρα ἐστὶ καὶ ὁ Α· ὅπερ ἔδει δεὶξαι.                   is also cube [Prop. 8.23]. (Which is) the very thing it was
+                                                               required to show.
+
+                            zþ.                                                       Proposition 7
+   ᾿Εὰν σύνθετος ἀριθμὸς ἀριθμόν τινα πολλαπλασιάσας     If a composite number makes some (number by) mul-
+ποιῇ τινα, ὁ γενόμενος στερεὸς ἔσται.                tiplying some (other) number then the created (number)
+                                                     will be solid.
+           Α                                                               A
+           Β                                                               B
+           Γ                                                               C
+           ∆                                                               D
+           Ε                                                               E
+   Σύνθετος γὰρ ἀριθμὸς ὁ Α ἀριθμόν τινα τὸν Β πολλα-              For let the composite number A make C (by) multi-
+πλασιάσας τὸν Γ ποιείτω· λέγω, ὅτι ὁ Γ στερεός ἐστιν.          plying some number B. I say that C is solid.
+   ᾿Επεὶ γὰρ ὁ Α σύνθετός ἐστιν, ὑπὸ ἀριθμοῦ τινος με-             For since A is a composite (number), it will be mea-
+τρηθήσεται. μετρείσθω ὑπὸ τοῦ Δ, καὶ ὁσάκις ὁ Δ τὸν Α          sured by some number. Let it be measured by D. And,
+μετρεῖ, τοσαῦται μονάδες ἔστωσαν ἐν τῷ Ε. ἐπεὶ οὖν ὁ Δ         as many times as D measures A, so many units let there
+τὸν Α μετρεῖ κατὰ τὰς ἐν τῷ Ε μονάδας, ὁ Ε ἄρα τὸν Δ           be in E. Therefore, since D measures A according to
+πολλαπλασιάσας τὸν Α πεποίηκεν. καὶ ἐπεὶ ὁ Α τὸν Β πολ-        the units in E, E has thus made A (by) multiplying D
+λαπλασιάσας τὸν Γ πεποίηκεν, ὁ δὲ Α ἐστιν ὁ ἐκ τῶν Δ, Ε,       [Def. 7.15]. And since A has made C (by) multiplying B,
+ὁ ἄρα ἐκ τῶν Δ, Ε τὸν Β πολλαπλασιάσας τὸν Γ πεποίηκεν.        and A is the (number created) from (multiplying) D, E,
+ὁ Γ ἄρα στερεός ἐστιν, πλευραὶ δὲ αὐτοῦ εἰσιν οἱ Δ, Ε, Β·      the (number created) from (multiplying) D, E has thus
+
+
+                                                           257
+STOIQEIWN jþ.                                                                                  ELEMENTS BOOK 9
+
+ὅπερ ἔδει δεῖξαι.                                             made C (by) multiplying B. Thus, C is solid, and its sides
+                                                              are D, E, B. (Which is) the very thing it was required to
+                                                              show.
+
+                            hþ.                                                    Proposition 8
+   ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον               If any multitude whatsoever of numbers is continu-
+ὦσιν, ὁ μὲν τρίτος ἀπὸ τῆς μονάδος τετράγωνος ἔσται           ously proportional, (starting) from a unit, then the third
+καὶ οἱ ἕνα διαλείποντες, ὁ δὲ τέταρτος κύβος καὶ οἱ           from the unit will be square, and (all) those (numbers
+δύο διαλείποντες πάντες, ὁ δὲ ἕβδομος κύβος ἅμα καὶ           after that) which leave an interval of one (number), and
+τετράγωνος καὶ οἱ πέντε διαλείποντες.                         the fourth (will be) cube, and all those (numbers after
+                                                              that) which leave an interval of two (numbers), and the
+                                                              seventh (will be) both cube and square, and (all) those
+                                                              (numbers after that) which leave an interval of five (num-
+                                                              bers).
+             Α                                                             A
+             Β                                                             B
+             Γ                                                             C
+             ∆                                                             D
+             Ε                                                             E
+             Ζ                                                             F
+    ῎Εστωσαν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογ-           Let any multitude whatsoever of numbers, A, B, C,
+ον οἱ Α, Β, Γ, Δ, Ε, Ζ· λέγω, ὅτι ὁ μὲν τρίτος ἀπὸ            D, E, F , be continuously proportional, (starting) from
+τῆς μονάδος ὁ Β τετράγωνός ἐστι καὶ οἱ ἕνα διαλείποντες       a unit. I say that the third from the unit, B, is square,
+πάντες, ὁ δὲ τέταρτος ὁ Γ κύβος καὶ οἱ δύο διαλείποντες       and all those (numbers after that) which leave an inter-
+πάντες, ὁ δὲ ἕβδομος ὁ Ζ κύβος ἅμα καὶ τετράγωνος καὶ οἱ      val of one (number). And the fourth (from the unit), C,
+πέντε διαλείποντες πάντες.                                    (is) cube, and all those (numbers after that) which leave
+    ᾿Επεὶ γάρ ἐστιν ὡς ἡ μονὰς πρὸς τὸν Α, οὕτως ὁ Α          an interval of two (numbers). And the seventh (from the
+πρὸς τὸν Β, ἰσάκις ἄρα ἡ μονὰς τὸν Α ἀριθμὸν μετρεῖ καὶ       unit), F , (is) both cube and square, and all those (num-
+ὁ Α τὸν Β. ἡ δὲ μονὰς τὸν Α ἀριθμὸν μετρεῖ κατὰ τὰς           bers after that) which leave an interval of five (numbers).
+ἐν αὐτῷ μονάδας· καὶ ὁ Α ἄρα τὸν Β μετρεῖ κατὰ τὰς ἐν             For since as the unit is to A, so A (is) to B, the unit
+τῷ Α μονάδας. ὁ Α ἄρα ἑαυτὸν πολλαπλασιάσας τὸν Β             thus measures the number A the same number of times
+πεποίηκεν· τετράγωνος ἄρα ἐστὶν ὁ Β. καὶ ἐπεὶ οἱ Β, Γ, Δ      as A (measures) B [Def. 7.20]. And the unit measures
+ἑξῆς ἀνάλογόν εἰσιν, ὁ δὲ Β τετράγωνός ἐστιν, καὶ ὁ Δ ἄρα     the number A according to the units in it. Thus, A also
+τετράγωνός ἐστιν. διὰ τὰ αὐτὰ δὴ καὶ ὁ Ζ τετράγωνός           measures B according to the units in A. A has thus made
+ἐστιν. ὁμοίως δὴ δείξομεν, ὅτι καὶ οἱ ἕνα διαλείποντες        B (by) multiplying itself [Def. 7.15]. Thus, B is square.
+πάντες τετράγωνοί εἰσιν. λέγω δή, ὅτι καὶ ὁ τέταρτος ἀπὸ      And since B, C, D are continuously proportional, and B
+τῆς μονάδος ὁ Γ κύβος ἐστὶ καὶ οἱ δύο διαλείποντες πάντες.    is square, D is thus also square [Prop. 8.22]. So, for the
+ἐπεὶ γάρ ἐστιν ὡς ἡ μονὰς πρὸς τὸν Α, οὕτως ὁ Β πρὸς τὸν      same (reasons), F is also square. So, similarly, we can
+Γ, ἰσάκις ἄρα ἡ μονὰς τὸν Α ἀριθμὸν μετρεῖ καὶ ὁ Β τὸν Γ. ἡ   also show that all those (numbers after that) which leave
+δὲ μονὰς τὸν Α ἀριθμὸν μετρεῖ κατὰ τὰς ἐν τῷ Α μονάδας·       an interval of one (number) are square. So I also say that
+καὶ ὁ Β ἄρα τὸν Γ μετρεῖ κατὰ τὰς ἐν τῷ Α μονάδας· ὁ Α        the fourth (number) from the unit, C, is cube, and all
+ἄρα τὸν Β πολλαπλασιάσας τὸν Γ πεποίηκεν. ἐπεὶ οὖν ὁ          those (numbers after that) which leave an interval of two
+Α ἑαυτὸν μὲν πολλαπλασιάσας τὸν Β πεποίηκεν, τὸν δὲ Β         (numbers). For since as the unit is to A, so B (is) to C,
+πολλαπλασιάσας τὸν Γ πεποίηκεν, κύβος ἄρα ἐστὶν ὁ Γ. καὶ      the unit thus measures the number A the same number
+ἐπεὶ οἱ Γ, Δ, Ε, Ζ ἑξῆς ἀνάλογόν εἰσιν, ὁ δὲ Γ κύβος ἐστίν,   of times that B (measures) C. And the unit measures the
+
+
+                                                          258
+STOIQEIWN jþ.                                                                                    ELEMENTS BOOK 9
+
+καὶ ὁ Ζ ἄρα κύβος ἐστίν. ἐδείχθη δὲ καὶ τετράγωνος· ὁ ἄρα       number A according to the units in A. And thus B mea-
+ἕβδομος ἀπὸ τῆς μονάδος κύβος τέ ἐστι καὶ τετράγωνος.           sures C according to the units in A. A has thus made C
+ὁμοίως δὴ δείξομεν, ὅτι καὶ οἱ πέντε διαλείποντες πάντες        (by) multiplying B. Therefore, since A has made B (by)
+κύβοι τέ εἰσι καὶ τετράγωνοι· ὅπερ ἔδει δεῖξαι.                 multiplying itself, and has made C (by) multiplying B, C
+                                                                is thus cube. And since C, D, E, F are continuously pro-
+                                                                portional, and C is cube, F is thus also cube [Prop. 8.23].
+                                                                And it was also shown (to be) square. Thus, the seventh
+                                                                (number) from the unit is (both) cube and square. So,
+                                                                similarly, we can show that all those (numbers after that)
+                                                                which leave an interval of five (numbers) are (both) cube
+                                                                and square. (Which is) the very thing it was required to
+                                                                show.
+
+                            jþ.                                                      Proposition 9
+    ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἑξῆς κατὰ τὸ συνεχὲς           If any multitude whatsoever of numbers is continu-
+ἀριθμοὶ ἀνάλογον ὦσιν, ὁ δὲ μετὰ τὴν μονάδα τετράγωνος ously proportional, (starting) from a unit, and the (num-
+ᾖ, καὶ οἱ λοιποὶ πάντες τετράγωνοι ἔσονται. καὶ ἐὰν ὁ μετὰ ber) after the unit is square, then all the remaining (num-
+τὴν μονάδα κύβος ᾖ, καὶ οἱ λοιποὶ πάντες κύβοι ἔσονται.    bers) will also be square. And if the (number) after the
+                                                           unit is cube, then all the remaining (numbers) will also
+                                                           be cube.
+             Α                                                               A
+             Β                                                               B
+             Γ                                                               C
+             ∆                                                               D
+             Ε                                                               E
+             Ζ                                                               F
+    ῎Εστωσαν ἀπὸ μονάδος ἑξῆς ἀνάλογον ὁσοιδηποτοῦν                 Let any multitude whatsoever of numbers, A, B, C,
+ἀριθμοὶ οἱ Α, Β, Γ, Δ, Ε, Ζ, ὁ δὲ μετὰ τὴν μονάδα               D, E, F , be continuously proportional, (starting) from a
+ὁ Α τετράγωνος ἔστω· λέγω, ὅτι καὶ οἱ λοιποὶ πάντες             unit. And let the (number) after the unit, A, be square. I
+τετράγωνοι ἔσονται.                                             say that all the remaining (numbers) will also be square.
+    ῞Οτι μὲν οὖν ὁ τρίτος ἀπὸ τῆς μονάδος ὁ Β τετράγωνός            In fact, it has (already) been shown that the third
+ἐστι καὶ οἱ ἕνα διαπλείποντες πάντες, δέδεικται· λέγω [δή],     (number) from the unit, B, is square, and all those (num-
+ὅτι καὶ οἱ λοιποὶ πάντες τετράγωνοί εἰσιν. ἐπεὶ γὰρ οἱ Α,       bers after that) which leave an interval of one (number)
+Β, Γ ἑξῆς ἀνάλογόν εἰσιν, καί ἐστιν ὁ Α τετράγωνος, καὶ ὁ       [Prop. 9.8]. [So] I say that all the remaining (num-
+Γ [ἄρα] τετράγωνος ἐστιν. πάλιν, ἐπεὶ [καὶ] οἱ Β, Γ, Δ ἑξῆς     bers) are also square. For since A, B, C are continu-
+ἀνάλογόν εἰσιν, καί ἐστιν ὁ Β τετράγωνος, καὶ ὁ Δ [ἄρα]         ously proportional, and A (is) square, C is [thus] also
+τετράγωνός ἐστιν. ὁμοίως δὴ δείξομεν, ὅτι καὶ οἱ λοιποὶ         square [Prop. 8.22]. Again, since B, C, D are [also] con-
+πάντες τετράγωνοί εἰσιν.                                        tinuously proportional, and B is square, D is [thus] also
+    ᾿Αλλὰ δὴ ἔστω ὁ Α κύβος· λέγω, ὅτι καὶ οἱ λοιποὶ πάντες     square [Prop. 8.22]. So, similarly, we can show that all
+κύβοι εἰσίν.                                                    the remaining (numbers) are also square.
+    ῞Οτι μὲν οὖν ὁ τέταρτος ἀπὸ τῆς μονάδος ὁ Γ κύβος ἐστὶ          And so let A be cube. I say that all the remaining
+καὶ οἱ δύο διαλείποντες πάντες, δέδεικται· λέγω [δή], ὅτι καὶ   (numbers) are also cube.
+οἱ λοιποὶ πάντες κύβοι εἰσίν. ἐπεὶ γάρ ἐστιν ὡς ἡ μονὰς πρὸς        In fact, it has (already) been shown that the fourth
+τὸν Α, οὕτως ὁ Α πρὸς τὸν Β, ἰσάκις ἀρα ἡ μονὰς τὸν Α           (number) from the unit, C, is cube, and all those (num-
+μετρεῖ καὶ ὁ Α τὸν Β. ἡ δὲ μονὰς τὸν Α μετρεῖ κατὰ τὰς ἐν       bers after that) which leave an interval of two (numbers)
+
+
+                                                            259
+STOIQEIWN jþ.                                                                                ELEMENTS BOOK 9
+
+αὐτῷ μονάδας· καὶ ὁ Α ἄρα τὸν Β μετρεῖ κατὰ τὰς ἐν αὑτῷ     [Prop. 9.8]. [So] I say that all the remaining (numbers)
+μονάδας· ὁ Α ἄρα ἑαυτὸν πολλαπλασιάσας τὸν Β πεποίηκεν.     are also cube. For since as the unit is to A, so A (is) to
+καί ἐστιν ὁ Α κύβος. ἐὰν δὲ κύβος ἀριθμὸς ἑαυτὸν πολλα-     B, the unit thus measures A the same number of times
+πλασιάσας ποιῇ τινα, ὁ γενόμενος κύβος ἐστίν· καὶ ὁ Β ἄρα   as A (measures) B. And the unit measures A according
+κύβος ἐστίν. καὶ ἐπεὶ τέσσαρες ἀριθμοὶ οἱ Α, Β, Γ, Δ ἑξῆς   to the units in it. Thus, A also measures B according to
+ἀνάλογόν εἰσιν, καί ἐστιν ὁ Α κύβος, καὶ ὁ Δ ἄρα κύβος      the units in (A). A has thus made B (by) multiplying it-
+ἐστίν. διὰ τὰ αὐτὰ δὴ καὶ ὁ Ε κύβος ἐστίν, καὶ ὁμοίως οἱ    self. And A is cube. And if a cube number makes some
+λοιποὶ πάντες κύβοι εἰσίν· ὅπερ ἔδει δεῖξαι.                (number by) multiplying itself then the created (number)
+                                                            is cube [Prop. 9.3]. Thus, B is also cube. And since the
+                                                            four numbers A, B, C, D are continuously proportional,
+                                                            and A is cube, D is thus also cube [Prop. 8.23]. So, for
+                                                            the same (reasons), E is also cube, and, similarly, all the
+                                                            remaining (numbers) are cube. (Which is) the very thing
+                                                            it was required to show.
+
+                           iþ.                                                  Proposition 10
+   ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ [ἑξῆς] ἀνάλογον           If any multitude whatsoever of numbers is [continu-
+ὦσιν, ὁ δὲ μετὰ τὴν μονάδα μὴ ᾖ τετράγωνος, οὐδ᾿ ἄλλος      ously] proportional, (starting) from a unit, and the (num-
+οὐδεὶς τετράγωνος ἔσται χωρὶς τοῦ τρίτου ἀπὸ τῆς μονάδος    ber) after the unit is not square, then no other (number)
+καὶ τῶν ἕνα διαλειπόντων πάντων. καὶ ἐὰν ὁ μετὰ τὴν         will be square either, apart from the third from the unit,
+μονάδα κύβος μὴ ᾖ, οὐδὲ ἄλλος οὐδεὶς κύβος ἔσται χωρὶς      and all those (numbers after that) which leave an inter-
+τοῦ τετάρτου ἀπὸ τῆς μονάδος καὶ τῶν δύο διαλειπόντων       val of one (number). And if the (number) after the unit
+πάντων.                                                     is not cube, then no other (number) will be cube either,
+                                                            apart from the fourth from the unit, and all those (num-
+                                                            bers after that) which leave an interval of two (numbers).
+            Α                                                            A
+            Β                                                            B
+            Γ                                                            C
+            ∆                                                            D
+            Ε                                                            E
+            Ζ                                                            F
+    ῎Εστωσαν ἀπὸ μονάδος ἑξῆς ἀνάλογον ὁσοιδηποτοῦν            Let any multitude whatsoever of numbers, A, B, C,
+ἀριθμοὶ οἱ Α, Β, Γ, Δ, Ε, Ζ, ὁ μετὰ τὴν μονάδα ὁ Α μὴ       D, E, F , be continuously proportional, (starting) from
+ἔστω τετράγωνος· λέγω, ὅτι οὐδὲ ἄλλος οὐδεὶς τετράγωνος     a unit. And let the (number) after the unit, A, not be
+ἔσται χωρὶς τοῦ τρίτου ἀπὸ τὴς μονάδος [καὶ τῶν ἕνα δια-    square. I say that no other (number) will be square ei-
+λειπόντων].                                                 ther, apart from the third from the unit [and (all) those
+    Εἰ γὰρ δυνατόν, ἔστω ὁ Γ τετράγωνος. ἔστι δὲ καὶ ὁ      (numbers after that) which leave an interval of one (num-
+Β τετράγωνος· οἱ Β, Γ ἄρα πρὸς ἀλλήλους λόγον ἔχου-         ber)].
+σιν, ὃν τετράγωνος ἀριθμὸς πρὸς τετράγωνον ἀριθμόν. καί        For, if possible, let C be square. And B is also
+ἐστιν ὡς ὁ Β πρὸς τὸν Γ, ὁ Α πρὸς τὸν Β· οἱ Α, Β ἄρα        square [Prop. 9.8]. Thus, B and C have to one another
+πρὸς ἀλλήλους λόγον ἔχουσιν, ὃν τετράγωνος ἀριθμὸς πρὸς     (the) ratio which (some) square number (has) to (some
+τετράγωνον ἀριθμόν· ὥστε οἱ Α, Β ὅμοιοι ἐπίπεδοί εἰσιν.     other) square number. And as B is to C, (so) A (is)
+καί ἐστι τετράγωνος ὁ Β· τετράγωνος ἄρα ἐστὶ καὶ ὁ Α·       to B. Thus, A and B have to one another (the) ratio
+ὅπερ οὐχ ὑπέκειτο. οὐκ ἄρα ὁ Γ τετράγωνός ἐστιν. ὁμοίως     which (some) square number has to (some other) square
+δὴ δείξομεν, ὅτι οὐδ᾿ ἄλλος οὐδεὶς τετράγωνός ἐστι χωρὶς    number. Hence, A and B are similar plane (numbers)
+
+
+                                                        260
+STOIQEIWN jþ.                                                                                  ELEMENTS BOOK 9
+
+τοῦ τρίτου ἀπὸ τῆς μονάδος καὶ τῶν ἕνα διαλειπόντων.          [Prop. 8.26]. And B is square. Thus, A is also square.
+    ᾿Αλλὰ δὴ μὴ ἔστω ὁ Α κύβος. λέγω, ὅτι οὐδ᾿ ἄλλος          The very opposite thing was assumed. C is thus not
+οὐδεὶς κύβος ἔσται χωρὶς τοῦ τετάρτου ἀπὸ τῆς μονάδος         square. So, similarly, we can show that no other (number
+καὶ τῶν δύο διαλειπόντων.                                     is) square either, apart from the third from the unit, and
+    Εἰ γὰρ δυνατόν, ἔστω ὁ Δ κύβος. ἔστι δὲ καὶ ὁ Γ κύβος·    (all) those (numbers after that) which leave an interval
+τέταρτος γάρ ἐστιν ἀπὸ τῆς μονάδος. καί ἐστιν ὡς ὁ Γ πρὸς     of one (number).
+τὸν Δ, ὁ Β πρὸς τὸν Γ· καὶ ὁ Β ἄρα πρὸς τὸν Γ λόγον ἔχει,         And so let A not be cube. I say that no other (num-
+ὃν κύβος πρὸς κύβον. καί ἐστιν ὁ Γ κύβος· καὶ ὁ Β ἄρα         ber) will be cube either, apart from the fourth from the
+κύβος ἐστίν. καὶ ἐπεί ἐστιν ὡς ἡ μονὰς πρὸς τὸν Α, ὁ Α πρὸς   unit, and (all) those (numbers after that) which leave an
+τὸν Β, ἡ δὲ μονὰς τὸν Α μετρεῖ κατὰ τὰς ἐν αὐτῷ μονάδας,      interval of two (numbers).
+καὶ ὁ Α ἄρα τὸν Β μετρεῖ κατὰ τὰς ἐν αὑτῷ μονάδας· ὁ Α            For, if possible, let D be cube. And C is also cube
+ἄρα ἑαυτὸν πολλαπλασιάσας κύβον τὸν Β πεποίηκεν. ἐὰν          [Prop. 9.8]. For it is the fourth (number) from the unit.
+δὲ ἀριθμὸς ἑαυτὸν πολλαπλασιάσας κύβον ποιῇ, καὶ αὐτὸς        And as C is to D, (so) B (is) to C. And B thus has to
+κύβος ἔσται. κύβος ἄρα καὶ ὁ Α· ὅπερ οὐχ ὑπόκειται. οὐκ       C the ratio which (some) cube (number has) to (some
+ἄρα ὁ Δ κύβος ἐστίν. ὁμοίως δὴ δείξομεν, ὅτι οὐδ᾿ ἄλλος       other) cube (number). And C is cube. Thus, B is also
+οὐδεὶς κύβος ἐστὶ χωρὶς τοῦ τετάρτου ἀπὸ τῆς μονάδος καὶ      cube [Props. 7.13, 8.25]. And since as the unit is to
+τῶν δύο διαλειπόντων· ὅπερ ἔδει δεῖξαι.                       A, (so) A (is) to B, and the unit measures A accord-
+                                                              ing to the units in it, A thus also measures B according
+                                                              to the units in (A). Thus, A has made the cube (num-
+                                                              ber) B (by) multiplying itself. And if a number makes a
+                                                              cube (number by) multiplying itself then it itself will be
+                                                              cube [Prop. 9.6]. Thus, A (is) also cube. The very oppo-
+                                                              site thing was assumed. Thus, D is not cube. So, simi-
+                                                              larly, we can show that no other (number) is cube either,
+                                                              apart from the fourth from the unit, and (all) those (num-
+                                                              bers after that) which leave an interval of two (numbers).
+                                                              (Which is) the very thing it was required to show.
+
+                           iaþ.                                                   Proposition 11
+   ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον           If any multitude whatsoever of numbers is continu-
+ὦσιν, ὁ ἐλάττων τὸν μείζονα μετρεῖ κατά τινα τῶν ὑπαρχόντ- ously proportional, (starting) from a unit, then a lesser
+ων ἐν τοῖς ἀνάλογον ἀριθμοῖς.                              (number) measures a greater according to some existing
+                                                           (number) among the proportional numbers.
+             Α                                                             A
+             Β                                                             B
+             Γ                                                             C
+             ∆                                                             D
+             Ε                                                             E
+    ῎Εστωσαν ἀπὸ μονάδος τῆς Α ὁποσοιοῦν ἀριθμοὶ ἑξῆς            Let any multitude whatsoever of numbers, B, C, D,
+ἀνάλογον οἱ Β, Γ, Δ, Ε· λέγω, ὅτι τῶν Β, Γ, Δ, Ε ὁ            E, be continuously proportional, (starting) from the unit
+ἐλάχιστος ὁ Β τὸν Ε μετρεῖ κατά τινα τῶν Γ, Δ.                A. I say that, for B, C, D, E, the least (number), B,
+    ᾿Επεὶ γάρ ἐστιν ὡς ἡ Α μονὰς πρὸς τὸν Β, οὕτως ὁ Δ        measures E according to some (one) of C, D.
+πρὸς τὸν Ε, ἰσάκις ἄρα ἡ Α μονὰς τὸν Β ἀριθμὸν μετρεῖ            For since as the unit A is to B, so D (is) to E, the
+καὶ ὁ Δ τὸν Ε· ἐναλλὰξ ἄρα ἰσάκις ἡ Α μονὰς τὸν Δ μετρεῖ      unit A thus measures the number B the same number of
+καὶ ὁ Β τὸν Ε. ἡ δὲ Α μονὰς τὸν Δ μετρεῖ κατὰ τὰς ἐν          times as D (measures) E. Thus, alternately, the unit A
+
+
+                                                          261
+STOIQEIWN jþ.                                                                                  ELEMENTS BOOK 9
+
+αὐτῷ μονάδας· καὶ ὁ Β ἄρα τὸν Ε μετρεῖ κατὰ τὰς ἐν τῷ         measures D the same number of times as B (measures)
+Δ μονάδας· ὥστε ὁ ἐλάσσων ὁ Β τὸν μείζονα τὸν Ε με-           E [Prop. 7.15]. And the unit A measures D according to
+τρεῖ κατά τινα ἀριθμὸν τῶν ὑπαρχόντων ἐν τοῖς ἀνάλογον        the units in it. Thus, B also measures E according to the
+ἀριθμοῖς.                                                     units in D. Hence, the lesser (number) B measures the
+                                                              greater E according to some existing number among the
+                                                              proportional numbers (namely, D).
+
+                       Pìrisma.                                                      Corollary
+    Καὶ φανερόν, ὅτι ἣν ἔχει τάξιν ὁ μετρῶν ἀπὸ μονάδος,    And (it is) clear that what(ever relative) place the
+τὴν αὐτὴν ἔχει καὶ ὁ καθ᾿ ὃν μετρεῖ ἀπὸ τοῦ μετρουμένου measuring (number) has from the unit, the (number)
+ἐπὶ τὸ πρὸ αὐτοῦ. ὅπερ ἔδει δεῖξαι.                      according to which it measures has the same (relative)
+                                                         place from the measured (number), in (the direction of
+                                                         the number) before it. (Which is) the very thing it was
+                                                         required to show.
+
+                           ibþ.                                                   Proposition 12
+   ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον     If any multitude whatsoever of numbers is continu-
+ὦσιν, ὑφ᾿ ὅσων ἂν ὁ ἔσχατος πρώτων ἀριθμῶν μετρῆται, ously proportional, (starting) from a unit, then however
+ὑπὸ τῶν αὐτῶν καὶ ὁ παρὰ τὴν μονάδα μετρηθήσεται.    many prime numbers the last (number) is measured by,
+                                                     the (number) next to the unit will also be measured by
+                                                     the same (prime numbers).
+    Α                             Ε                               A                            E
+    Β                             Ζ                               B                            F
+    Γ                             Η                               C                            G
+    ∆                             Θ                               D                            H
+    ῎Εστωσαν ἀπὸ μονάδος ὁποσοιδηποτοῦν ἀριθμοὶ ἀνάλογ-           Let any multitude whatsoever of numbers, A, B, C,
+ον οἱ Α, Β, Γ, Δ· λέγω, ὅτι ὑφ᾿ ὅσων ἂν ὁ Δ πρώτων            D, be (continuously) proportional, (starting) from a unit.
+ἀριθμῶν μετρῆται, ὑπὸ τῶν αὐτῶν καὶ ὁ Α μετρηθήσεται.         I say that however many prime numbers D is measured
+    Μετρείσθω γὰρ ὁ Δ ὑπό τινος πρώτου ἀριθμοῦ τοῦ Ε·         by, A will also be measured by the same (prime numbers).
+λέγω, ὅτι ὁ Ε τὸν Α μετρεῖ. μὴ γάρ· καί ἐστιν ὁ Ε πρῶτος,         For let D be measured by some prime number E. I
+ἅπας δὲ πρῶτος ἀριθμὸς πρὸς ἅπαντα, ὃν μὴ μετρεῖ, πρῶτός      say that E measures A. For (suppose it does) not. E is
+ἐστιν· οἱ Ε, Α ἄρα πρῶτοι πρὸς ἀλλήλους εἰσίν. καὶ ἐπεὶ       prime, and every prime number is prime to every num-
+ὁ Ε τὸν Δ μετρεῖ, μετρείτω αὐτὸν κατὰ τὸν Ζ· ὁ Ε ἄρα          ber which it does not measure [Prop. 7.29]. Thus, E
+τὸν Ζ πολλαπλασιάσας τὸν Δ πεποίηκεν. πάλιν, ἐπεὶ ὁ Α         and A are prime to one another. And since E measures
+τὸν Δ μετρεῖ κατὰ τὰς ἐν τῷ Γ μονάδας, ὁ Α ἄρα τὸν Γ          D, let it measure it according to F . Thus, E has made
+πολλαπλασιάσας τὸν Δ πεποίηκεν. ἀλλὰ μὴν καὶ ὁ Ε τὸν Ζ        D (by) multiplying F . Again, since A measures D ac-
+πολλαπλασιάσας τὸν Δ πεποίηκεν· ὁ ἄρα ἐκ τῶν Α, Γ ἴσος        cording to the units in C [Prop. 9.11 corr.], A has thus
+ἐστὶ τῷ ἐκ τῶν Ε, Ζ. ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Ε, ὁ Ζ         made D (by) multiplying C. But, in fact, E has also
+πρὸς τὸν Γ. οἱ δὲ Α, Ε πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι,    made D (by) multiplying F . Thus, the (number cre-
+οἱ δὲ ἐλάχιστοι μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας         ated) from (multiplying) A, C is equal to the (number
+ἰσάκις ὅ τε ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν        created) from (multiplying) E, F . Thus, as A is to E,
+ἑπόμενον· μετρεῖ ἄρα ὁ Ε τὸν Γ. μετρείτω αὐτὸν κατὰ τὸν       (so) F (is) to C [Prop. 7.19]. And A and E (are) prime
+Η· ὁ Ε ἄρα τὸν Η πολλαπλασιάσας τὸν Γ πεποίηκεν. ἀλλὰ         (to one another), and (numbers) prime (to one another
+μὴν διὰ τὸ πρὸ τούτου καὶ ὁ Α τὸν Β πολλαπλασιάσας τὸν        are) also the least (of those numbers having the same ra-
+Γ πεποίηκεν. ὁ ἄρα ἐκ τῶν Α, Β ἴσος ἐστὶ τῷ ἐκ τῶν Ε, Η.      tio as them) [Prop. 7.21], and the least (numbers) mea-
+ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Ε, ὁ Η πρὸς τὸν Β. οἱ δὲ Α, Ε       sure those (numbers) having the same ratio as them an
+πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ ἐλάχιστοι ἀριθμοὶ   equal number of times, the leading (measuring) the lead-
+
+
+                                                         262
+STOIQEIWN jþ.                                                                                   ELEMENTS BOOK 9
+
+μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας αὐτοῖς ἰσάκις ὅ τε        ing, and the following the following [Prop. 7.20]. Thus,
+ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν ἑπόμενον·            E measures C. Let it measure it according to G. Thus,
+μετρεῖ ἄρα ὁ Ε τὸν Β. μετρείτω αὐτὸν κατὰ τὸν Θ· ὁ Ε ἄρα        E has made C (by) multiplying G. But, in fact, via the
+τὸν Θ πολλαπλασιάσας τὸν Β πεποίηκεν. ἀλλὰ μὴν καὶ ὁ Α          (proposition) before this, A has also made C (by) multi-
+ἑαυτὸν πολλαπλασιάσας τὸν Β πεποίηκεν· ὁ ἄρα ἐκ τῶν Ε,          plying B [Prop. 9.11 corr.]. Thus, the (number created)
+Θ ἴσος ἐστὶ τῷ ἀπὸ τοῦ Α. ἔστιν ἄρα ὡς ὁ Ε πρὸς τὸν Α, ὁ Α      from (multiplying) A, B is equal to the (number created)
+πρὸς τὸν Θ. οἱ δὲ Α, Ε πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ   from (multiplying) E, G. Thus, as A is to E, (so) G
+δὲ ἐλάχιστοι μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας ἰσάκις       (is) to B [Prop. 7.19]. And A and E (are) prime (to
+ὅ ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν ἑπόμενον·          one another), and (numbers) prime (to one another are)
+μετρεῖ ἄρα ὁ Ε τὸν Α ὡς ἡγούμενος ἡγούμενον. ἀλλὰ μὴν           also the least (of those numbers having the same ratio
+καὶ οὐ μετρεῖ· ὅπερ ἀδύνατον. οὐκ ἄρα οἱ Ε, Α πρῶτοι πρὸς       as them) [Prop. 7.21], and the least (numbers) measure
+ἀλλήλους εἰσίν. σύνθετοι ἄρα. οἱ δὲ σύνθετοι ὑπὸ [πρώτου]       those (numbers) having the same ratio as them an equal
+ἀριθμοῦ τινος μετροῦνται. καὶ ἐπεὶ ὁ Ε πρῶτος ὑπόκειται, ὁ      number of times, the leading (measuring) the leading,
+δὲ πρῶτος ὑπὸ ἑτέρου ἀριθμοῦ οὐ μετρεῖται ἢ ὑφ᾿ ἑαυτοῦ, ὁ       and the following the following [Prop. 7.20]. Thus, E
+Ε ἄρα τοὺς Α, Ε μετρεῖ· ὥστε ὁ Ε τὸν Α μετρεῖ. μετρεῖ δὲ        measures B. Let it measure it according to H. Thus,
+καὶ τὸν Δ· ὁ Ε ἄρα τοὺς Α, Δ μετρεῖ. ὁμοίως δὴ δείξομεν,        E has made B (by) multiplying H. But, in fact, A has
+ὅτι ὑφ᾿ ὅσων ἂν ὁ Δ πρώτων ἀριθμῶν μετρῆται, ὑπὸ τῶν            also made B (by) multiplying itself [Prop. 9.8]. Thus,
+αὐτῶν καὶ ὁ Α μετρηθήσεται· ὅπερ ἔδει δεῖξαι.                   the (number created) from (multiplying) E, H is equal
+                                                                to the (square) on A. Thus, as E is to A, (so) A (is)
+                                                                to H [Prop. 7.19]. And A and E are prime (to one an-
+                                                                other), and (numbers) prime (to one another are) also
+                                                                the least (of those numbers having the same ratio as
+                                                                them) [Prop. 7.21], and the least (numbers) measure
+                                                                those (numbers) having the same ratio as them an equal
+                                                                number of times, the leading (measuring) the leading,
+                                                                and the following the following [Prop. 7.20]. Thus, E
+                                                                measures A, as the leading (measuring the) leading. But,
+                                                                in fact, (E) also does not measure (A). The very thing
+                                                                (is) impossible. Thus, E and A are not prime to one
+                                                                another. Thus, (they are) composite (to one another).
+                                                                And (numbers) composite (to one another) are (both)
+                                                                measured by some [prime] number [Def. 7.14]. And
+                                                                since E is assumed (to be) prime, and a prime (number)
+                                                                is not measured by another number (other) than itself
+                                                                [Def. 7.11], E thus measures (both) A and E. Hence, E
+                                                                measures A. And it also measures D. Thus, E measures
+                                                                (both) A and D. So, similarly, we can show that however
+                                                                many prime numbers D is measured by, A will also be
+                                                                measured by the same (prime numbers). (Which is) the
+                                                                very thing it was required to show.
+
+                            igþ.                                                   Proposition 13
+    ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον         If any multitude whatsoever of numbers is continu-
+ὦσιν, ὁ δὲ μετὰ τὴν μονάδα πρῶτος ᾖ, ὁ μέγιστος ὑπ᾿ ously proportional, (starting) from a unit, and the (num-
+οὐδενὸς [ἄλλου] μετρηθήσεται παρὲξ τῶν ὑπαρχόντων ἐν ber) after the unit is prime, then the greatest (number)
+τοῖς ἀνάλογον ἀριθμοῖς.                                  will be measured by no [other] (numbers) except (num-
+    ῎Εστωσαν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον bers) existing among the proportional numbers.
+οἱ Α, Β, Γ, Δ, ὁ δὲ μετὰ τὴν μονάδα ὁ Α πρῶτος ἔστω·         Let any multitude whatsoever of numbers, A, B, C,
+λέγω, ὅτι ὁ μέγιστος αὐτῶν ὁ Δ ὑπ᾿ οὐδενὸς ἄλλου με- D, be continuously proportional, (starting) from a unit.
+τρηθήσεται παρὲξ τῶν Α, Β, Γ.                            And let the (number) after the unit, A, be prime. I say
+
+
+
+                                                            263
+STOIQEIWN jþ.                                                                                   ELEMENTS BOOK 9
+
+                                                              that the greatest of them, D, will be measured by no other
+                                                              (numbers) except A, B, C.
+       Α                            Ε                                A                             E
+       Β                            Ζ                                B                             F
+       Γ                            Η                                C                             G
+       ∆                            Θ                                D                             H
+    Εἰ γὰρ δυνατόν, μετρείσθω ὑπὸ τοῦ Ε, καὶ ὁ Ε μηδενὶ           For, if possible, let it be measured by E, and let E not
+τῶν Α, Β, Γ ἔστω ὁ αὐτός. φανερὸν δή, ὅτι ὁ Ε πρῶτος          be the same as one of A, B, C. So it is clear that E is
+οὔκ ἐστιν. εἰ γὰρ ὁ Ε πρῶτός ἐστι καὶ μετρεῖ τὸν Δ, καὶ τὸν   not prime. For if E is prime, and measures D, then it will
+Α μετρήσει πρῶτον ὄντα μὴ ὢν αὐτῷ ὁ αὐτός· ὅπερ ἐστὶν         also measure A, (despite A) being prime (and) not being
+ἀδύνατον. οὐκ ἄρα ὁ Ε πρῶτός ἐστιν. σύνθετος ἄρα. πᾶς         the same as it [Prop. 9.12]. The very thing is impossible.
+δὲ σύνθετος ἀριθμὸς ὑπὸ πρώτου τινὸς ἀριθμοῦ μετρεῖται·       Thus, E is not prime. Thus, (it is) composite. And every
+ὁ Ε ἄρα ὑπὸ πρώτου τινὸς ἀριθμοῦ μετρεῖται. λέγω δή, ὅτι      composite number is measured by some prime number
+ὑπ᾿ οὐδενὸς ἄλλου πρώτου μετρηθήσεται πλὴν τοῦ Α. εἰ γὰρ      [Prop. 7.31]. Thus, E is measured by some prime num-
+ὑφ᾿ ἑτέρου μετρεῖται ὁ Ε, ὁ δὲ Ε τὸν Δ μετρεῖ, κἀκεῖνος ἄρα   ber. So I say that it will be measured by no other prime
+τὸν Δ μετρήσει· ὥστε καὶ τὸν Α μετρήσει πρῶτον ὄντα μὴ        number than A. For if E is measured by another (prime
+ὢν αὐτῷ ὁ αὐτός· ὅπερ ἐστὶν ἀδύνατον. ὁ Α ἄρα τὸν Ε           number), and E measures D, then this (prime number)
+μετρεῖ. καὶ ἐπεὶ ὁ Ε τὸν Δ μετρεῖ, μετρείτω αὐτὸν κατὰ τὸν    will thus also measure D. Hence, it will also measure A,
+Ζ. λέγω, ὅτι ὁ Ζ οὐδενὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτός. εἰ γὰρ ὁ   (despite A) being prime (and) not being the same as it
+Ζ ἑνὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτὸς καὶ μετρεῖ τὸν Δ κατὰ τὸν     [Prop. 9.12]. The very thing is impossible. Thus, A mea-
+Ε, καὶ εἷς ἄρα τῶν Α, Β, Γ τὸν Δ μετρεῖ κατά τὸν Ε. ἀλλὰ      sures E. And since E measures D, let it measure it ac-
+εἷς τῶν Α, Β, Γ τὸν Δ μετρεῖ κατά τινα τῶν Α, Β, Γ· καὶ ὁ     cording to F . I say that F is not the same as one of A, B,
+Ε ἄρα ἑνὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτός· ὅπερ οὐχ ὑπόκειται.      C. For if F is the same as one of A, B, C, and measures
+οὐκ ἄρα ὁ Ζ ἑνὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτός. ὁμοίως δὴ          D according to E, then one of A, B, C thus also measures
+δείξομεν, ὅτι μετρεῖται ὁ Ζ ὑπὸ τοῦ Α, δεικνύντες πάλιν,      D according to E. But one of A, B, C (only) measures
+ὅτι ὁ Ζ οὔκ ἐστι πρῶτος. εἰ γὰρ, καὶ μετρεῖ τὸν Δ, καὶ τὸν    D according to some (one) of A, B, C [Prop. 9.11]. And
+Α μετρήσει πρῶτον ὄντα μὴ ὢν αὐτῷ ὁ αὐτός· ὅπερ ἐστὶν         thus E is the same as one of A, B, C. The very oppo-
+ἀδύνατον· οὐκ ἄρα πρῶτός ἐστιν ὁ Ζ· σύνθετος ἄρα. ἅπας        site thing was assumed. Thus, F is not the same as one
+δὲ σύνθετος ἀριθμὸς ὑπὸ πρώτου τινὸς ἀριθμοῦ μετρεῖται· ὁ     of A, B, C. Similarly, we can show that F is measured
+Ζ ἄρα ὑπὸ πρώτου τινὸς ἀριθμοῦ μετρεῖται. λέγω δή, ὅτι ὑφ᾿    by A, (by) again showing that F is not prime. For if (F
+ἑτέρου πρώτου οὐ μετρηθήσεται πλὴν τοῦ Α. εἰ γὰρ ἕτερός       is prime), and measures D, then it will also measure A,
+τις πρῶτος τὸν Ζ μετρεῖ, ὁ δὲ Ζ τὸν Δ μετρεῖ, κἀκεῖνος        (despite A) being prime (and) not being the same as it
+ἄρα τὸν Δ μετρήσει· ὥστε καὶ τὸν Α μετρήσει πρῶτον ὄντα       [Prop. 9.12]. The very thing is impossible. Thus, F is
+μὴ ὢν αὐτῷ ὁ αὐτός· ὅπερ ἐστὶν ἀδύνατον. ὁ Α ἄρα τὸν Ζ        not prime. Thus, (it is) composite. And every composite
+μετρεῖ. καὶ ἐπεὶ ὁ Ε τὸν Δ μετρεῖ κατὰ τὸν Ζ, ὁ Ε ἄρα τὸν     number is measured by some prime number [Prop. 7.31].
+Ζ πολλαπλασιάσας τὸν Δ πεποίηκεν. ἀλλὰ μὴν καὶ ὁ Α τὸν        Thus, F is measured by some prime number. So I say
+Γ πολλαπλασιάσας τὸν Δ πεποίηκεν· ὁ ἄρα ἐκ τῶν Α, Γ           that it will be measured by no other prime number than
+ἴσος ἐστὶ τῷ ἐκ τῶν Ε, Ζ. ἀνάλογον ἄρα ἐστὶν ὡς ὁ Α πρὸς      A. For if some other prime (number) measures F , and
+τὸν Ε, οὕτως ὁ Ζ πρὸς τὸν Γ. ὁ δὲ Α τὸν Ε μετρεῖ· καὶ ὁ Ζ     F measures D, then this (prime number) will thus also
+ἄρα τὸν Γ μετρεῖ. μετρείτω αὐτὸν κατὰ τὸν Η. ὁμοίως δὴ        measure D. Hence, it will also measure A, (despite A)
+δείξομεν, ὅτι ὁ Η οὐδενὶ τῶν Α, Β ἐστιν ὁ αὐτός, καὶ ὅτι      being prime (and) not being the same as it [Prop. 9.12].
+μετρεῖται ὑπὸ τοῦ Α. καὶ ἐπεὶ ὁ Ζ τὸν Γ μετρεῖ κατὰ τὸν Η,    The very thing is impossible. Thus, A measures F . And
+ὁ Ζ ἄρα τὸν Η πολλαπλασιάσας τὸν Γ πεποίηκεν. ἀλλὰ μὴν        since E measures D according to F , E has thus made
+καὶ ὁ Α τὸν Β πολλαπλασιάσας τὸν Γ πεποίηκεν· ὁ ἄρα ἐκ        D (by) multiplying F . But, in fact, A has also made D
+τῶν Α, Β ἴσος ἐστὶ τῷ ἐκ τῶν Ζ, Η. ἀνάλογον ἄρα ὡς ὁ Α        (by) multiplying C [Prop. 9.11 corr.]. Thus, the (number
+πρὸς τὸν Ζ, ὁ Η πρὸς τὸν Β. μετρεῖ δὲ ὁ Α τὸν Ζ· μετρεῖ       created) from (multiplying) A, C is equal to the (number
+ἄρα καὶ ὁ Η τὸν Β. μετρείτω αὐτὸν κατὰ τὸν Θ. ὁμοίως δὴ       created) from (multiplying) E, F . Thus, proportionally,
+δείξομεν, ὅτι ὁ Θ τῷ Α οὐκ ἔστιν ὁ αὐτός. καὶ ἐπεὶ ὁ Η τὸν    as A is to E, so F (is) to C [Prop. 7.19]. And A measures
+
+
+                                                          264
+STOIQEIWN jþ.                                                                                ELEMENTS BOOK 9
+
+Β μετρεῖ κατὰ τὸν Θ, ὁ Η ἄρα τὸν Θ πολλαπλασιάσας τὸν       E. Thus, F also measures C. Let it measure it according
+Β πεποίηκεν. ἀλλὰ μὴν καὶ ὁ Α ἑαυτὸν πολλαπλασιάσας         to G. So, similarly, we can show that G is not the same
+τὸν Β πεποίηκεν· ὁ ἄρα ὑπὸ Θ, Η ἴσος ἐστὶ τῷ ἀπὸ τοῦ Α      as one of A, B, and that it is measured by A. And since
+τετραγώνῳ· ἔστιν ἄρα ὡς ὁ Θ πρὸς τὸν Α, ὁ Α πρὸς τὸν Η.     F measures C according to G, F has thus made C (by)
+μετρεῖ δὲ ὁ Α τὸν Η· μετρεῖ ἄρα καὶ ὁ Θ τὸν Α πρῶτον ὄντα   multiplying G. But, in fact, A has also made C (by) mul-
+μὴ ὢν αὐτῷ ὁ αὐτός· ὅπερ ἄτοπον. οὐκ ἄρα ὁ μέγιστος ὁ       tiplying B [Prop. 9.11 corr.]. Thus, the (number created)
+Δ ὑπὸ ἑτέρου ἀριθμοῦ μετρηθήσεται παρὲξ τῶν Α, Β, Γ·        from (multiplying) A, B is equal to the (number created)
+ὅπερ ἔδει δεῖξαι.                                           from (multiplying) F , G. Thus, proportionally, as A (is)
+                                                            to F , so G (is) to B [Prop. 7.19]. And A measures F .
+                                                            Thus, G also measures B. Let it measure it according to
+                                                            H. So, similarly, we can show that H is not the same as
+                                                            A. And since G measures B according to H, G has thus
+                                                            made B (by) multiplying H. But, in fact, A has also made
+                                                            B (by) multiplying itself [Prop. 9.8]. Thus, the (number
+                                                            created) from (multiplying) H, G is equal to the square
+                                                            on A. Thus, as H is to A, (so) A (is) to G [Prop. 7.19].
+                                                            And A measures G. Thus, H also measures A, (despite
+                                                            A) being prime (and) not being the same as it. The very
+                                                            thing (is) absurd. Thus, the greatest (number) D cannot
+                                                            be measured by another (number) except (one of) A, B,
+                                                            C. (Which is) the very thing it was required to show.
+
+                          idþ.                                                  Proposition 14
+   ᾿Εὰν ἐλάχιστος ἀριθμὸς ὑπὸ πρώτων ἀριθμῶν μετρῆται,    If a least number is measured by (some) prime num-
+ὑπ᾿ οὑδενὸς ἄλλου πρώτου ἀριθμοῦ μετρηθήσεται παρὲξ bers then it will not be measured by any other prime
+τῶν ἐξ ἀρχῆς μετρούντων.                               number except (one of) the original measuring (num-
+                                                       bers).
+
+        Α                        Β                                A                           B
+        Ε                        Γ                                E                           C
+        Ζ                        ∆                                F                           D
+    ᾿Ελάχιστος γὰρ ἀριθμὸς ὁ Α ὑπὸ πρώτων ἀριθμῶν τῶν           For let A be the least number measured by the prime
+Β, Γ, Δ μετρείσθω· λέγω, ὅτι ὁ Α ὑπ᾿ οὐδενὸς ἄλλου          numbers B, C, D. I say that A will not be measured by
+πρώτου ἀριθμοῦ μετρηθήσεται παρὲξ τῶν Β, Γ, Δ.              any other prime number except (one of) B, C, D.
+    Εἰ γὰρ δυνατόν, μετρείσθω ὑπὸ πρώτου τοῦ Ε, καὶ ὁ           For, if possible, let it be measured by the prime (num-
+Ε μηδενὶ τῶν Β, Γ, Δ ἔστω ὁ αὐτός. καὶ ἐπεὶ ὁ Ε τὸν         ber) E. And let E not be the same as one of B, C, D.
+Α μετρεῖ, μετρείτω αὐτὸν κατὰ τὸν Ζ· ὁ Ε ἄρα τὸν Ζ          And since E measures A, let it measure it according to F .
+πολλαπλασιάσας τὸν Α πεποίηκεν. καὶ μετρεῖται ὁ Α ὑπὸ       Thus, E has made A (by) multiplying F . And A is mea-
+πρώτων ἀριθμῶν τῶν Β, Γ, Δ. ἐὰν δὲ δύο ἀριθμοὶ πολ-         sured by the prime numbers B, C, D. And if two num-
+λαπλασιάσαντες ἀλλήλους ποιῶσί τινα, τὸν δὲ γενόμενον       bers make some (number by) multiplying one another,
+ἐξ αὐτῶν μετρῇ τις πρῶτος ἀριθμός, καὶ ἕνα τῶν ἐξ ἀρχῆς     and some prime number measures the number created
+μετρήσει· οἱ Β, Γ, Δ ἄρα ἕνα τῶν Ε, Ζ μετρήσουσιν. τὸν      from them, then (the prime number) will also measure
+μὲν οὖν Ε οὐ μετρήσουσιν· ὁ γὰρ Ε πρῶτός ἐστι καὶ οὐδενὶ    one of the original (numbers) [Prop. 7.30]. Thus, B, C,
+τῶν Β, Γ, Δ ὁ αὐτός. τὸν Ζ ἄρα μετροῦσιν ἐλάσσονα ὄντα      D will measure one of E, F . In fact, they do not measure
+τοῦ Α· ὅπερ ἀδύνατον. ὁ γὰρ Α ὑπόκειται ἐλάχιστος ὑπὸ       E. For E is prime, and not the same as one of B, C, D.
+τῶν Β, Γ, Δ μετρούμενος. οὐκ ἄρα τὸν Α μετρήσει πρῶτος      Thus, they (all) measure F , which is less than A. The
+ἀριθμὸς παρὲξ τῶν Β, Γ, Δ· ὅπερ ἔδει δεῖξαι.                very thing (is) impossible. For A was assumed (to be) the
+                                                            least (number) measured by B, C, D. Thus, no prime
+
+
+                                                        265
+STOIQEIWN jþ.                                                                                ELEMENTS BOOK 9
+
+                                                             number can measure A except (one of) B, C, D. (Which
+                                                             is) the very thing it was required to show.
+
+                           ieþ.                                                 Proposition 15
+   ᾿Εὰν τρεῖς ἀριθμοὶ ἑξῆς ἀνάλογον ὦσιν ἐλάχιστοι τῶν           If three continuously proportional numbers are the
+τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς, δύο ὁποιοιοῦν συν-           least of those (numbers) having the same ratio as them
+τεθέντες πρὸς τὸν λοιπὸν πρῶτοί εἰσιν.                       then two (of them) added together in any way are prime
+                                                             to the remaining (one).
+                                  ∆      Ε          Ζ                                        D       E           F
+  Α                                                            A
+  Β                                                            B
+  Γ                                                            C
+    ῎Εστωσαν τρεῖς ἀριθμοὶ ἑξῆς ἀνάλογον ἐλάχιστοι τῶν           Let A, B, C be three continuously proportional num-
+τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς οἱ Α, Β, Γ· λέγω, ὅτι τῶν     bers (which are) the least of those (numbers) having the
+Α, Β, Γ δύο ὁποιοιοῦν συντεθέντες πρὸς τὸν λοιπὸν πρῶτοι     same ratio as them. I say that two of A, B, C added to-
+εἰσιν, οἱ μὲν Α, Β πρὸς τὸν Γ, οἱ δὲ Β, Γ πρὸς τὸν Α καὶ     gether in any way are prime to the remaining (one), (that
+ἔτι οἱ Α, Γ πρὸς τὸν Β.                                      is) A and B (prime) to C, B and C to A, and, further, A
+    Εἰλήφθωσαν γὰρ ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν           and C to B.
+λόγον ἐχόντων τοῖς Α, Β, Γ δύο οἱ ΔΕ, ΕΖ. φανερὸν                Let the two least numbers, DE and EF , having the
+δή, ὅτι ὁ μὲν ΔΕ ἑαυτὸν πολλαπλασιάσας τὸν Α πεποίηκεν,      same ratio as A, B, C, have been taken [Prop. 8.2].
+τὸν δὲ ΕΖ πολλαπλασιάσας τὸν Β πεποίηκεν, καὶ ἔτι ὁ ΕΖ       So it is clear that DE has made A (by) multiplying it-
+ἑαυτὸν πολλαπλασιάσας τὸν Γ πεποίηκεν. καὶ ἐπεὶ οἱ ΔΕ,       self, and has made B (by) multiplying EF , and, fur-
+ΕΖ ἐλάχιστοί εἰσιν, πρῶτοι πρὸς ἀλλήλους εἰσίν. ἐὰν δὲ       ther, EF has made C (by) multiplying itself [Prop. 8.2].
+δύο ἀριθμοὶ πρῶτοι πρὸς ἀλλήλους ὦσιν, καὶ συναμφότερος      And since DE, EF are the least (of those numbers hav-
+πρὸς ἑκάτερον πρῶτός ἐστιν· καὶ ὁ ΔΖ ἄρα πρὸς ἑκάτερον       ing the same ratio as them), they are prime to one an-
+τῶν ΔΕ, ΕΖ πρῶτός ἐστιν. ἀλλὰ μὴν καὶ ὁ ΔΕ πρὸς τὸν          other [Prop. 7.22]. And if two numbers are prime to
+ΕΖ πρῶτός ἐστιν· οἱ ΔΖ, ΔΕ ἄρα πρὸς τὸν ΕΖ πρῶτοί εἰσιν.     one another then the sum (of them) is also prime to each
+ἐὰν δὲ δύο ἀριθμοὶ πρός τινα ἀριθμὸν πρῶτοι ὦσιν, καὶ ὁ      [Prop. 7.28]. Thus, DF is also prime to each of DE, EF .
+ἐξ αὐτῶν γενόμενος πρὸς τὸν λοιπὸν πρῶτός ἐστιν· ὥστε        But, in fact, DE is also prime to EF . Thus, DF , DE
+ὁ ἐκ τῶν ΖΔ, ΔΕ πρὸς τὸν ΕΖ πρῶτός ἐστιν· ὥστε καὶ ὁ         are (both) prime to EF . And if two numbers are (both)
+ἐκ τῶν ΖΔ, ΔΕ πρὸς τὸν ἀπὸ τοῦ ΕΖ πρῶτός ἐστιν. [ἐὰν         prime to some number then the (number) created from
+γὰρ δύο ἀριθμοὶ πρῶτοι πρὸς ἀλλήλους ὦσιν, ὁ ἐκ τοῦ ἑνὸς     (multiplying) them is also prime to the remaining (num-
+αὐτῶν γενόμενος πρὸς τὸν λοιπὸν πρῶτός ἐστιν]. ἀλλ᾿ ὁ        ber) [Prop. 7.24]. Hence, the (number created) from
+ἐκ τῶν ΖΔ, ΔΕ ὁ ἀπὸ τοῦ ΔΕ ἐστι μετὰ τοῦ ἐκ τῶν ΔΕ,          (multiplying) F D, DE is prime to EF . Hence, the (num-
+ΕΖ· ὁ ἄρα ἀπὸ τοῦ ΔΕ μετὰ τοῦ ἐκ τῶν ΔΕ, ΕΖ πρὸς τὸν         ber created) from (multiplying) F D, DE is also prime
+ἀπὸ τοῦ ΕΖ πρῶτός ἐστιν. καί ἐστιν ὁ μὲν ἀπὸ τοῦ ΔΕ          to the (square) on EF [Prop. 7.25]. [For if two num-
+ὁ Α, ὁ δὲ ἐκ τῶν ΔΕ, ΕΖ ὁ Β, ὁ δὲ ἀπὸ τοῦ ΕΖ ὁ Γ· οἱ         bers are prime to one another then the (number) created
+Α, Β ἄρα συντεθέντες πρὸς τὸν Γ πρῶτοί εἰσιν. ὁμοίως δὴ      from (squaring) one of them is prime to the remaining
+δείξομεν, ὅτι καὶ οἱ Β, Γ πρὸς τὸν Α πρῶτοί εἰσιν. λέγω      (number).] But the (number created) from (multiplying)
+δή, ὅτι καὶ οἱ Α, Γ πρὸς τὸν Β πρῶτοί εἰσιν. ἐπεὶ γὰρ ὁ ΔΖ   F D, DE is the (square) on DE plus the (number cre-
+πρὸς ἑκάτερον τῶν ΔΕ, ΕΖ πρῶτός ἐστιν, καὶ ὁ ἀπὸ τοῦ         ated) from (multiplying) DE, EF [Prop. 2.3]. Thus, the
+ΔΖ πρὸς τὸν ἐκ τῶν ΔΕ, ΕΖ πρῶτός ἐστιν. ἀλλὰ τῷ ἀπὸ          (square) on DE plus the (number created) from (multi-
+τοῦ ΔΖ ἴσοι εἰσὶν οἱ ἀπὸ τῶν ΔΕ, ΕΖ μετὰ τοῦ δὶς ἐκ τῶν      plying) DE, EF is prime to the (square) on EF . And
+ΔΕ, ΕΖ· καὶ οἱ ἀπὸ τῶν ΔΕ, ΕΖ ἄρα μετὰ τοῦ δὶς ὑπὸ τῶν       the (square) on DE is A, and the (number created) from
+ΔΕ, ΕΖ πρὸς τὸν ὑπὸ τῶν ΔΕ, ΕΖ πρῶτοί [εἰσι]. διελόντι       (multiplying) DE, EF (is) B, and the (square) on EF
+οἱ ἀπὸ τῶν ΔΕ, ΕΖ μετὰ τοῦ ἅπαξ ὑπὸ ΔΕ, ΕΖ πρὸς τὸν          (is) C. Thus, A, B summed is prime to C. So, similarly,
+ὑπὸ ΔΕ, ΕΖ πρῶτοί εἰσιν. ἔτι διελόντι οἱ ἀπὸ τῶν ΔΕ, ΕΖ      we can show that B, C (summed) is also prime to A. So
+ἄρα πρὸς τὸν ὑπὸ ΔΕ, ΕΖ πρῶτοί εἰσιν. καί ἐστιν ὁ μὲν        I say that A, C (summed) is also prime to B. For since
+
+
+                                                         266
+STOIQEIWN jþ.                                                                                                  ELEMENTS BOOK 9
+
+ἀπὸ τοῦ ΔΕ ὁ Α, ὁ δὲ ὑπὸ τῶν ΔΕ, ΕΖ ὁ Β, ὁ δὲ ἀπὸ τοῦ DF is prime to each of DE, EF then the (square) on DF
+ΕΖ ὁ Γ. οἱ Α, Γ ἄρα συντεθέντες πρὸς τὸν Β πρῶτοί εἰσιν· is also prime to the (number created) from (multiplying)
+ὅπερ ἔδει δεῖξαι.                                        DE, EF [Prop. 7.25]. But, the (sum of the squares) on
+                                                         DE, EF plus twice the (number created) from (multiply-
+                                                         ing) DE, EF is equal to the (square) on DF [Prop. 2.4].
+                                                         And thus the (sum of the squares) on DE, EF plus twice
+                                                         the (rectangle contained) by DE, EF [is] prime to the
+                                                         (rectangle contained) by DE, EF . By separation, the
+                                                         (sum of the squares) on DE, EF plus once the (rect-
+                                                         angle contained) by DE, EF is prime to the (rectangle
+                                                         contained) by DE, EF .† Again, by separation, the (sum
+                                                         of the squares) on DE, EF is prime to the (rectangle
+                                                         contained) by DE, EF . And the (square) on DE is A,
+                                                         and the (rectangle contained) by DE, EF (is) B, and
+                                                         the (square) on EF (is) C. Thus, A, C summed is prime
+                                                         to B. (Which is) the very thing it was required to show.
+† Since if α β measures α2 + β 2 + 2 α β then it also measures α2 + β 2 + α β, and vice versa.
+
+
+
+                                 iþ.                                                                Proposition 16
+   ᾿Εὰν δύο ἀριθμοὶ πρῶτοι πρὸς ἀλλήλους ὦσιν, οὐκ ἔσται    If two numbers are prime to one another then as the
+ὡς ὁ πρῶτος πρὸς τὸν δεύτερον, οὕτως ὁ δεύτερος πρὸς first is to the second, so the second (will) not (be) to some
+ἄλλον τινά.                                              other (number).
+                   Α                                                                             A
+                   Β                                                                             B
+                   Γ                                                                             C
+   Δύο γὰρ ἀριθμοὶ οἱ Α, Β πρῶτοι πρὸς ἀλλήλους ἔστω-                         For let the two numbers A and B be prime to one
+σαν· λέγω, ὅτι οὐκ ἔστιν ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Β                     another. I say that as A is to B, so B is not to some other
+πρὸς ἄλλον τινά.                                                          (number).
+   Εἰ γὰρ δυνατόν, ἔστω ὡς ὁ Α πρὸς τὸν Β, ὁ Β πρὸς                           For, if possible, let it be that as A (is) to B, (so)
+τὸν Γ. οἱ δὲ Α, Β πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ               B (is) to C. And A and B (are) prime (to one an-
+ἐλάχιστοι ἀριθμοὶ μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας                   other). And (numbers) prime (to one another are) also
+ἰσάκις ὅ τε ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν                    the least (of those numbers having the same ratio as
+ἑπόμενον· μετρεῖ ἄρα ὁ Α τὸν Β ὡς ἡγούμενος ἡγούμενον.                    them) [Prop. 7.21]. And the least numbers measure
+μετρεῖ δὲ καὶ ἑαυτόν· ὁ Α ἄρα τοὺς Α, Β μετρεῖ πρώτους                    those (numbers) having the same ratio (as them) an
+ὄντας πρὸς ἀλλήλους· ὅπερ ἄτοπον. οὐκ ἄρα ἔσται ὡς ὁ Α                    equal number of times, the leading (measuring) the lead-
+πρὸς τὸν Β, οὕτως ὁ Β πρὸς τὸν Γ· ὅπερ ἔδει δεῖξαι.                       ing, and the following the following [Prop. 7.20]. Thus,
+                                                                          A measures B, as the leading (measuring) the leading.
+                                                                          And (A) also measures itself. Thus, A measures A and B,
+                                                                          which are prime to one another. The very thing (is) ab-
+                                                                          surd. Thus, as A (is) to B, so B cannot be to C. (Which
+                                                                          is) the very thing it was required to show.
+
+                                 izþ.                                                                Proposition 17
+   ᾿Εὰν ὦσιν ὁσοιδηποτοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, οἱ δὲ   If any multitude whatsoever of numbers is continu-
+ἄκροι αὐτῶν πρῶτοι πρὸς ἀλλήλους ὦσιν, οὐκ ἔσται ὡς ὁ ously proportional, and the outermost of them are prime
+πρῶτος πρὸς τὸν δεύτερον, οὕτως ὁ ἔσχατος πρὸς ἄλλον to one another, then as the first (is) to the second, so the
+
+
+                                                                       267
+STOIQEIWN jþ.                                                                                  ELEMENTS BOOK 9
+
+τινά.                                                         last will not be to some other (number).
+    ῎Εστωσαν ὁσοιδηποτοῦν ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α,             Let A, B, C, D be any multitude whatsoever of con-
+Β, Γ, Δ, οἱ δὲ ἄκροι αὐτῶν οἱ Α, Δ πρῶτοι πρὸς ἀλλήλους       tinuously proportional numbers. And let the outermost
+ἔστωσαν· λέγω, ὅτι οὐκ ἔστιν ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ       of them, A and D, be prime to one another. I say that as
+Δ πρὸς ἄλλον τινά.                                            A is to B, so D (is) not to some other (number).
+                Α                                                             A
+                Β                                                             B
+                Γ                                                             C
+                ∆                                                             D
+                Ε                                                             E
+    Εἰ γὰρ δυνατόν, ἔστω ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Δ             For, if possible, let it be that as A (is) to B, so D
+πρὸς τὸν Ε· ἐναλλὰξ ἄρα ἐστὶν ὡς ὁ Α πρὸς τὸν Δ, ὁ Β πρὸς     (is) to E. Thus, alternately, as A is to D, (so) B (is)
+τὸν Ε. οἱ δὲ Α, Δ πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ   to E [Prop. 7.13]. And A and D are prime (to one
+ἐλάχιστοι ἀριθμοὶ μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας       another). And (numbers) prime (to one another are)
+ἰσάκις ὅ τε ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν        also the least (of those numbers having the same ra-
+ἑπόμενον. μετρεῖ ἄρα ὁ Α τὸν Β. καί ἐστιν ὡς ὁ Α πρὸς         tio as them) [Prop. 7.21]. And the least numbers mea-
+τὸν Β, ὁ Β πρὸς τὸν Γ. καὶ ὁ Β ἄρα τὸν Γ μετρεῖ΄· ὥστε        sure those (numbers) having the same ratio (as them) an
+καὶ ὁ Α τὸν Γ μετρεῖ. καὶ ἐπεί ἐστιν ὡς ὁ Β πρὸς τὸν Γ,       equal number of times, the leading (measuring) the lead-
+ὁ Γ πρὸς τὸν Δ, μετρεῖ δὲ ὁ Β τὸν Γ, μετρεῖ ἄρα καὶ ὁ Γ       ing, and the following the following [Prop. 7.20]. Thus,
+τὸν Δ. ἀλλ᾿ ὁ Α τὸν Γ ἐμέτρει· ὥστε ὁ Α καὶ τὸν Δ μετρεῖ.     A measures B. And as A is to B, (so) B (is) to C. Thus, B
+μετρεῖ δὲ καὶ ἑαυτόν. ὁ Α ἄρα τοὺς Α, Δ μετρεῖ πρώτους        also measures C. And hence A measures C [Def. 7.20].
+ὄντας πρὸς ἀλλήλους· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα ἔσται       And since as B is to C, (so) C (is) to D, and B mea-
+ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Δ πρὸς ἄλλον τινά· ὅπερ ἔδει       sures C, C thus also measures D [Def. 7.20]. But, A was
+δεῖξαι.                                                       (found to be) measuring C. And hence A also measures
+                                                              D. And (A) also measures itself. Thus, A measures A
+                                                              and D, which are prime to one another. The very thing is
+                                                              impossible. Thus, as A (is) to B, so D cannot be to some
+                                                              other (number). (Which is) the very thing it was required
+                                                              to show.
+
+                           ihþ.                                                   Proposition 18
+   Δύο ἀριθμῶν δοθέντων ἐπισκέψασθαι, εἰ δυνατόν ἐστιν    For two given numbers, to investigate whether it is
+αὐτοῖς τρίτον ἀνάλογον προσευρεῖν.                     possible to find a third (number) proportional to them.
+ Α                         Γ                                    A                        C
+ Β                         ∆                                    B                        D
+    ῎Εστωσαν οἱ δοθέντες δύο ἀριθμοὶ οἱ Α, Β, καὶ                 Let A and B be the two given numbers. And let it
+δέον ἔστω ἐπισκέψασθαι, εἰ δυνατόν ἐστιν αὐτοῖς τρίτον        be required to investigate whether it is possible to find a
+ἀνάλογον προσευρεῖν.                                          third (number) proportional to them.
+    Οἱ δὴ Α, Β ἤτοι πρῶτοι πρὸς ἀλλήλους εἰσὶν ἢ οὔ. καὶ εἰ       So A and B are either prime to one another, or not.
+πρῶτοι πρὸς ἀλλήλους εἰσίν, δέδεικται, ὅτι ἀδύνατόν ἐστιν     And if they are prime to one another then it has (already)
+αὐτοῖς τρίτον ἀνάλογον προσευρεῖν.                            been show that it is impossible to find a third (number)
+    ᾿Αλλὰ δὴ μὴ ἔστωσαν οἱ Α, Β πρῶτοι πρὸς ἀλλήλους,         proportional to them [Prop. 9.16].
+καὶ ὁ Β ἑαυτον πολλαπλασιάσας τὸν Γ ποιείτω. ὁ Α δὴ τὸν           And so let A and B not be prime to one another. And
+Γ ἤτοι μετρεῖ ἢ οὐ μετρεῖ. μετρείτω πρότερον κατὰ τὸν Δ·      let B make C (by) multiplying itself. So A either mea-
+ὁ Α ἄρα τὸν Δ πολλαπλασιάσας τὸν Γ πεποίηκεν. ἀλλα μὴν        sures, or does not measure, C. Let it first of all measure
+καὶ ὁ Β ἑαυτὸν πολλαπλασιάσας τὸν Γ πεποίηκεν· ὁ ἄρα          (C) according to D. Thus, A has made C (by) multiply-
+
+
+
+                                                          268
+STOIQEIWN jþ.                                                                                     ELEMENTS BOOK 9
+
+ἐκ τῶν Α, Δ ἴσος ἐστὶ τῷ ἀπὸ τοῦ Β. ἔστιν ἄρα ὡς ὁ Α          ing D. But, in fact, B has also made C (by) multiplying
+πρὸς τὸν Β, ὁ Β πρὸς τὸν Δ· τοῖς Α, Β ἄρα τρίτος ἀριθμὸς      itself. Thus, the (number created) from (multiplying) A,
+ἀνάλογον προσηύρηται ὁ Δ.                                     D is equal to the (square) on B. Thus, as A is to B, (so)
+   ᾿Αλλὰ δὴ μὴ μετρείτω ὁ Α τὸν Γ· λέγω, ὅτι τοῖς Α, Β        B (is) to D [Prop. 7.19]. Thus, a third number has been
+ἀδύνατόν ἐστι τρίτον ἀνάλογον προσευρεῖν ἀριθμόν. εἰ γὰρ      found proportional to A, B, (namely) D.
+δυνατόν, προσηυρήσθω ὁ Δ. ὁ ἄρα ἐκ τῶν Α, Δ ἴσος ἐστὶ             And so let A not measure C. I say that it is impossi-
+τῷ ἀπὸ τοῦ Β. ὁ δὲ ἀπὸ τοῦ Β ἐστιν ὁ Γ· ὁ ἄρα ἐκ τῶν Α,       ble to find a third number proportional to A, B. For, if
+Δ ἴσος ἐστὶ τῷ Γ. ὥστε ὁ Α τὸν Δ πολλαπλασιάσας τὸν           possible, let it have been found, (and let it be) D. Thus,
+Γ πεποίηκεν· ὁ Α ἄρα τὸν Γ μετρεῖ κατὰ τὸν Δ. ἀλλα μὴν        the (number created) from (multiplying) A, D is equal to
+ὑπόκειται καὶ μὴ μετρῶν· ὅπερ ἄτοπον. οὐκ ἄρα δυνατόν         the (square) on B [Prop. 7.19]. And the (square) on B
+ἐστι τοῖς Α, Β τρίτον ἀνάλογον προσευρεῖν ἀριθμὸν, ὅταν       is C. Thus, the (number created) from (multiplying) A,
+ὁ Α τὸν Γ μὴ μετρῇ· ὅπερ ἔδει δεῖξαι.                         D is equal to C. Hence, A has made C (by) multiplying
+                                                              D. Thus, A measures C according to D. But (A) was, in
+                                                              fact, also assumed (to be) not measuring (C). The very
+                                                              thing (is) absurd. Thus, it is not possible to find a third
+                                                              number proportional to A, B when A does not measure
+                                                              C. (Which is) the very thing it was required to show.
+
+                           ijþ.                                                    Proposition 19†
+   Τριῶν ἀριθμῶν δοθέντων ἐπισκέψασθαι, πότε δυνατόν     For three given numbers, to investigate when it is pos-
+ἐστιν αὐτοῖς τέταρτον ἀνάλογον προσευρεῖν.           sible to find a fourth (number) proportional to them.
+               Α                                                              A
+               Β                                                              B
+               Γ                                                              C
+               ∆                                                              D
+               Ε                                                              E
+    ῎Εστωσαν οἱ δοθέντες τρεῖς ἀριθμοὶ οἱ Α, Β, Γ, καὶ δέον       Let A, B, C be the three given numbers. And let it be
+ἔστω επισκέψασθαι, πότε δυνατόν ἐστιν αὐτοῖς τέταρτον         required to investigate when it is possible to find a fourth
+ἀνάλογον προσευρεῖν.                                          (number) proportional to them.
+    ῎Ητοι οὖν οὔκ εἰσιν ἑξῆς ἀνάλογον, καὶ οἱ ἄκροι αὐτῶν         In fact, (A, B, C) are either not continuously pro-
+πρῶτοι πρὸς ἀλλήλους εἰσίν, ἢ ἑξῆς εἰσιν ἀνάλογον, καὶ οἱ     portional and the outermost of them are prime to one
+ἄκροι αὐτῶν οὔκ εἰσι πρῶτοι πρὸς ἀλλήλους, ἢ οὕτε ἑξῆς        another, or are continuously proportional and the outer-
+εἰσιν ἀνάλογον, οὔτε οἱ ἄκροι αὐτῶν πρῶτοι πρὸς ἀλλήλους      most of them are not prime to one another, or are neither
+εἰσίν, ἢ καὶ ἑξῆς εἰσιν ἀνάλογον, καὶ οἱ ἄκροι αὐτῶν πρῶτοι   continuously proportional nor are the outermost of them
+πρὸς ἀλλήλους εἰσίν.                                          prime to one another, or are continuously proportional
+    Εἰ μὲν οὖν οἱ Α, Β, Γ ἑξῆς εἰσιν ἀνάλογον, καὶ οἱ         and the outermost of them are prime to one another.
+ἄκροι αὐτῶν οἱ Α, Γ πρῶτοι πρὸς ἀλλήλους εἰσίν, δέδεικται,        In fact, if A, B, C are continuously proportional, and
+ὅτι ἀδύνατόν ἐστιν αὐτοῖς τέταρτον ἀνάλογον προσευρεῖν        the outermost of them, A and C, are prime to one an-
+ἀριθμόν. μὴ ἔστωσαν δὴ οἱ Α, Β, Γ ἑξῆς ἀνάλογον τῶν           other, (then) it has (already) been shown that it is im-
+ἀκρῶν πάλιν ὄντων πρώτων πρὸς ἀλλήλους. λέγω, ὅτι             possible to find a fourth number proportional to them
+καὶ οὕτως ἀδύνατόν ἐστιν αὐτοῖς τέταρτον ἀνάλογον προ-        [Prop. 9.17]. So let A, B, C not be continuously propor-
+σευρεῖν. εἰ γὰρ δυνατόν, προσευρήσθω ὁ Δ, ὥστε εἶναι ὡς       tional, (with) the outermost of them again being prime to
+τὸν Α πρὸς τὸν Β, τὸν Γ πρὸς τὸν Δ, καὶ γεγονέτω ὡς ὁ Β       one another. I say that, in this case, it is also impossible
+πρὸς τὸν Γ, ὁ Δ πρὸς τὸν Ε. καὶ ἐπεί ἐστιν ὡς μὲν ὁ Α πρὸς    to find a fourth (number) proportional to them. For, if
+τὸν Β, ὁ Γ πρὸς τὸν Δ, ὡς δὲ ὁ Β πρὸς τὸν Γ, ὁ Δ πρὸς         possible, let it have been found, (and let it be) D. Hence,
+τὸν Ε, δι᾿ ἴσου ἄρα ὡς ὁ Α πρὸς τὸν Γ, ὁ Γ πρὸς τὸν Ε. οἱ     it will be that as A (is) to B, (so) C (is) to D. And let it be
+δὲ Α, Γ πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ ἐλάχιστοι   contrived that as B (is) to C, (so) D (is) to E. And since
+
+
+                                                          269
+STOIQEIWN jþ.                                                                                                        ELEMENTS BOOK 9
+
+μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας ὅ τε ἡγούμενος                       as A is to B, (so) C (is) to D, and as B (is) to C, (so) D
+τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν ἑπόμενον. μετρεῖ ἄρα ὁ                    (is) to E, thus, via equality, as A (is) to C, (so) C (is) to E
+Α τὸν Γ ὡς ἡγούμενος ἡγούμενον. μετρεῖ δὲ καὶ ἑαυτόν·                      [Prop. 7.14]. And A and C (are) prime (to one another).
+ὁ Α ἄρα τοὺς Α, Γ μετρεῖ πρώτους ὄντας πρὸς ἀλλήλους·                      And (numbers) prime (to one another are) also the least
+ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα τοῖς Α, Β, Γ δυνατόν ἐστι                     (numbers having the same ratio as them) [Prop. 7.21].
+τέταρτον ἀνάλογον προσευρεῖν.                                              And the least (numbers) measure those numbers having
+    ᾿Αλλά δὴ πάλιν ἔστωσαν οἱ Α, Β, Γ ἑξῆς ἀνάλογον, οἱ δὲ                 the same ratio as them (the same number of times), the
+Α, Γ μὴ ἔστωσαν πρῶτοι πρὸς ἀλλήλους. λέγω, ὅτι δυνατόν                    leading (measuring) the leading, and the following the
+ἐστιν αὐτοῖς τέταρτον ἀνάλογον προσευρεῖν. ὁ γὰρ Β τὸν Γ                   following [Prop. 7.20]. Thus, A measures C, (as) the
+πολλαπλασιάσας τὸν Δ ποιείτω· ὁ Α ἄρα τὸν Δ ἤτοι μετρεῖ                    leading (measuring) the leading. And it also measures
+ἢ οὐ μετρεῖ. μετρείτω αὐτὸν πρότερον κατὰ τὸν Ε· ὁ Α ἄρα                   itself. Thus, A measures A and C, which are prime to
+τὸν Ε πολλαπλασιάσας τὸν Δ πεποίηκεν. ἀλλὰ μὴν καὶ ὁ                       one another. The very thing is impossible. Thus, it is not
+Β τὸν Γ πολλαπλασιάσας τὸν Δ πεποίηκεν· ὁ ἄρα ἐκ τῶν                       possible to find a fourth (number) proportional to A, B,
+Α, Ε ἴσος ἐστὶ τῷ ἐκ τῶν Β, Γ. ἀνάλογον ἄρα [ἐστὶν] ὡς ὁ                   C.
+Α πρὸς τὸν Β, ὁ Γ πρὸς τὸν Ε· τοὶς Α, Β, Γ ἄρα τέταρτος                        And so let A, B, C again be continuously propor-
+ἀνάλογον προσηύρηται ὁ Ε.                                                  tional, and let A and C not be prime to one another. I
+    ᾿Αλλὰ δὴ μὴ μετρείτω ὁ Α τὸν Δ· λέγω, ὅτι ἀδύνατόν                     say that it is possible to find a fourth (number) propor-
+ἐστι τοῖς Α, Β, Γ τέταρτον ἀνάλογον προσευρεῖν ἀριθμόν.                    tional to them. For let B make D (by) multiplying C.
+εἰ γὰρ δυνατόν, προσευρήσθω ὁ Ε· ὁ ἄρα ἐκ τῶν Α, Ε ἴσος                    Thus, A either measures or does not measure D. Let it,
+ἐστὶ τῷ ἐκ τῶν Β, Γ. ἀλλὰ ὁ ἑκ τῶν Β, Γ ἐστιν ὁ Δ· καὶ                     first of all, measure (D) according to E. Thus, A has
+ὁ ἐκ τῶν Α, Ε ἄρα ἴσος ἐστὶ τῷ Δ. ὁ Α ἄρα τὸν Ε πολλα-                     made D (by) multiplying E. But, in fact, B has also made
+πλασιάσας τὸν Δ πεποίηκεν· ὁ Α ἄρα τὸν Δ μετρεῖ κατὰ τὸν                   D (by) multiplying C. Thus, the (number created) from
+Ε· ὥστε μετρεῖ ὁ Α τὸν Δ. ἀλλὰ καὶ οὐ μετρεῖ· ὅπερ ἄτοπον.                 (multiplying) A, E is equal to the (number created) from
+οὐκ ἄρα δυνάτον ἐστι τοῖς Α, Β, Γ τέταρτον ἀνάλογον προ-                   (multiplying) B, C. Thus, proportionally, as A [is] to B,
+σευρεῖν ἀριθμόν, ὅταν ὁ Α τὸν Δ μὴ μετρῇ. ἀλλὰ δὴ οἱ Α, Β,                 (so) C (is) to E [Prop. 7.19]. Thus, a fourth (number)
+Γ μήτε ἑξῆς ἔστωσαν ἀνάλογον μήτε οἱ ἄκροι πρῶτοι πρὸς                     proportional to A, B, C has been found, (namely) E.
+ἀλλήλους. καὶ ὁ Β τὸν Γ πολλαπλασιάσας τὸν Δ ποιείτω.                          And so let A not measure D. I say that it is impossible
+ὁμοίως δὴ δειχθήσεται, ὅτι εἰ μὲν μετρεῖ ὁ Α τὸν Δ, δυ-                    to find a fourth number proportional to A, B, C. For, if
+νατόν ἐστιν αὐτοῖς ἀνάλογον προσευρεῖν, εἰ δὲ οὐ μετρεῖ,                   possible, let it have been found, (and let it be) E. Thus,
+ἀδύνατον· ὅπερ ἔδει δεῖξαι.                                                the (number created) from (multiplying) A, E is equal to
+                                                                           the (number created) from (multiplying) B, C. But, the
+                                                                           (number created) from (multiplying) B, C is D. And thus
+                                                                           the (number created) from (multiplying) A, E is equal to
+                                                                           D. Thus, A has made D (by) multiplying E. Thus, A
+                                                                           measures D according to E. Hence, A measures D. But,
+                                                                           it also does not measure (D). The very thing (is) absurd.
+                                                                           Thus, it is not possible to find a fourth number propor-
+                                                                           tional to A, B, C when A does not measure D. And so
+                                                                           (let) A, B, C (be) neither continuously proportional, nor
+                                                                           (let) the outermost of them (be) prime to one another.
+                                                                           And let B make D (by) multiplying C. So, similarly, it
+                                                                           can be show that if A measures D then it is possible to
+                                                                           find a fourth (number) proportional to (A, B, C), and
+                                                                           impossible if (A) does not measure (D). (Which is) the
+                                                                           very thing it was required to show.
+† The proof of this proposition is incorrect. There are, in fact, only two cases. Either A, B, C are continuously proportional, with A and C prime
+
+to one another, or not. In the first case, it is impossible to find a fourth proportional number. In the second case, it is possible to find a fourth
+proportional number provided that A measures B times C. Of the four cases considered by Euclid, the proof given in the second case is incorrect,
+since it only demonstrates that if A : B :: C : D then a number E cannot be found such that B : C :: D : E. The proofs given in the other three
+
+
+
+
+                                                                        270
+STOIQEIWN jþ.                                                                                ELEMENTS BOOK 9
+
+cases are correct.
+
+
+                           kþ.                                                  Proposition 20
+   Οἱ πρῶτοι ἀριθμοὶ πλείους εἰσὶ παντὸς τοῦ προτεθέντος    The (set of all) prime numbers is more numerous than
+πλήθους πρώτων ἀριθμῶν.                                  any assigned multitude of prime numbers.
+     Α                           Η                                A                          G
+     Β                                                            B
+     Γ                                                            C
+       Ε                               ∆ Ζ                         E                                 D F
+    ῎Εστωσαν οἱ προτεθέντες πρῶτοι ἀριθμοὶ οἱ Α, Β, Γ·          Let A, B, C be the assigned prime numbers. I say that
+λέγω, ὅτι τῶν Α, Β, Γ πλείους εἰσὶ πρῶτοι ἀριθμοί.          the (set of all) primes numbers is more numerous than A,
+    Εἰλήφθω γὰρ ὁ ὑπὸ τῶν Α, Β, Γ ἐλάχιστος μετρούμενος     B, C.
+καὶ ἔστω ΔΕ, καὶ προσκείσθω τῷ ΔΕ μονὰς ἡ ΔΖ. ὁ δὴ ΕΖ           For let the least number measured by A, B, C have
+ἤτοι πρῶτός ἐστιν ἢ οὔ. ἔστω πρότερον πρῶτος· εὐρημένοι     been taken, and let it be DE [Prop. 7.36]. And let the
+ἄρα εἰσὶ πρῶτοι ἀριθμοὶ οἱ Α, Β, Γ, ΕΖ πλείους τῶν Α, Β,    unit DF have been added to DE. So EF is either prime,
+Γ.                                                          or not. Let it, first of all, be prime. Thus, the (set of)
+    ᾿Αλλὰ δὴ μὴ ἔστω ὁ ΕΖ πρῶτος· ὑπὸ πρώτου ἄρα τινὸς      prime numbers A, B, C, EF , (which is) more numerous
+ἀριθμοῦ μετρεῖται. μετρείσθω ὑπὸ πρώτου τοῦ Η· λέγω,        than A, B, C, has been found.
+ὅτι ὁ Η οὐδενὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτός. εἰ γὰρ δυνατόν,       And so let EF not be prime. Thus, it is measured by
+ἔστω. οἱ δὲ Α, Β, Γ τὸν ΔΕ μετροῦσιν· καὶ ὁ Η ἄρα τὸν       some prime number [Prop. 7.31]. Let it be measured by
+ΔΕ μετρήσει. μετρεῖ δὲ καὶ τὸν ΕΖ· καὶ λοιπὴν τὴν ΔΖ        the prime (number) G. I say that G is not the same as
+μονάδα μετρήσει ὁ Η ἀριθμὸς ὤν· ὄπερ ἄτοπον. οὐκ ἄρα ὁ      any of A, B, C. For, if possible, let it be (the same). And
+Η ἑνὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτός. καὶ ὑπόκειται πρῶτος.      A, B, C (all) measure DE. Thus, G will also measure
+εὑρημένοι ἄρα εἰσὶ πρῶτοι ἀριθμοὶ πλείους τοῦ προτεθέντος   DE. And it also measures EF . (So) G will also mea-
+πλήθους τῶν Α, Β, Γ οἱ Α, Β, Γ, Η· ὅπερ ἔδει δεῖξαι.        sure the remainder, unit DF , (despite) being a number
+                                                            [Prop. 7.28]. The very thing (is) absurd. Thus, G is not
+                                                            the same as one of A, B, C. And it was assumed (to be)
+                                                            prime. Thus, the (set of) prime numbers A, B, C, G,
+                                                            (which is) more numerous than the assigned multitude
+                                                            (of prime numbers), A, B, C, has been found. (Which is)
+                                                            the very thing it was required to show.
+
+                          kaþ.                                                  Proposition 21
+   ᾿Εὰν ἄρτιοι ἀριθμοὶ ὁποσοιοῦν συντεθῶσιν, ὁ ὅλος    If any multitude whatsoever of even numbers is added
+ἄρτιός ἐστιν.                                       together then the whole is even.
+   Α            Β    Γ           ∆                 Ε          A          B       C             D                  E
+   Συγκείσθωσαν γὰρ ἄρτιοι ἀριθμοὶ ὁποσοιοῦν οἱ ΑΒ,             For let any multitude whatsoever of even numbers,
+ΒΓ, ΓΔ, ΔΕ· λέγω, ὅτι ὅλος ὁ ΑΕ ἄρτιός ἐστιν.               AB, BC, CD, DE, lie together. I say that the whole,
+   ᾿Επεὶ γὰρ ἕκαστος τῶν ΑΒ, ΒΓ, ΓΔ, ΔΕ ἄρτιός ἐστιν,       AE, is even.
+ἔχει μέρος ἥμισυ· ὥστε καὶ ὅλος ὁ ΑΕ ἔχει μέρος ἥμισυ.          For since everyone of AB, BC, CD, DE is even, it
+ἄρτιος δὲ ἀριθμός ἐστιν ὁ δίχα διαιρούμενος· ἄρτιος ἄρα     has a half part [Def. 7.6]. And hence the whole AE has
+ἐστὶν ὁ ΑΕ· ὅπερ ἔδει δεῖξαι.                               a half part. And an even number is one (which can be)
+                                                            divided in half [Def. 7.6]. Thus, AE is even. (Which is)
+
+
+
+                                                        271
+STOIQEIWN jþ.                                                                                  ELEMENTS BOOK 9
+
+                                                             the very thing it was required to show.
+
+                           kbþ.                                                   Proposition 22
+   ᾿Εὰν περισσοὶ ἀριθμοὶ ὁποσοιοῦν συντεθῶσιν, τὸ δὲ            If any multitude whatsoever of odd numbers is added
+πλῆθος αὐτῶν ἄρτιον ᾖ, ὁ ὅλος ἄρτιος ἔσται.                  together, and the multitude of them is even, then the
+                                                             whole will be even.
+  Α          Β       Γ                ∆              Ε          A          B       C              D                 E
+   Συγκείσθωσαν γὰρ περισσοὶ ἀριθμοὶ ὁσοιδηποτοῦν                For let any even multitude whatsoever of odd num-
+ἄρτιοι τὸ πλῆθος οἱ ΑΒ, ΒΓ, ΓΔ, ΔΕ· λέγω, ὅτι ὅλος           bers, AB, BC, CD, DE, lie together. I say that the
+ὁ ΑΕ ἄρτιός ἐστιν.                                           whole, AE, is even.
+   ᾿Επεὶ γὰρ ἕκαστος τῶν ΑΒ, ΒΓ, ΓΔ, ΔΕ περιττός ἐστιν,          For since everyone of AB, BC, CD, DE is odd then, a
+ἀφαιρεθείσης μονάδος ἀφ᾿ ἑκάστου ἕκαστος τῶν λοιπῶν          unit being subtracted from each, everyone of the remain-
+ἄρτιος ἔσται· ὥστε καὶ ὁ συγκείμενος ἐξ αὐτῶν ἄρτιος         ders will be (made) even [Def. 7.7]. And hence the sum
+ἔσται. ἔστι δὲ καὶ τὸ πλῆθος τῶν μονάδων ἄρτιον. καὶ         of them will be even [Prop. 9.21]. And the multitude
+ὅλος ἄρα ὁ ΑΕ ἄρτιός ἐστιν· ὅπερ ἔδει δεῖξαι.                of the units is even. Thus, the whole AE is also even
+                                                             [Prop. 9.21]. (Which is) the very thing it was required to
+                                                             show.
+
+                           kgþ.                                                   Proposition 23
+   ᾿Εὰν περισσοὶ ἀριθμοὶ ὁποσοιοῦν συντεθῶσιν, τὸ δὲ            If any multitude whatsoever of odd numbers is added
+πλῆθος αὐτῶν περισσὸν ᾖ, καὶ ὁ ὅλος περισσὸς ἔσται.          together, and the multitude of them is odd, then the
+                                                             whole will also be odd.
+        Α         Β Γ                      Ε ∆                       A          B C                       E D
+   Συγκείσθωσαν γὰρ ὁποσοιοῦν περισσοὶ ἀριθμοί, ὧν τὸ            For let any multitude whatsoever of odd numbers,
+πλῆθος περισσὸν ἔστω, οἱ ΑΒ, ΒΓ, ΓΔ· λέγω, ὅτι καὶ ὅλος      AB, BC, CD, lie together, and let the multitude of them
+ὁ ΑΔ περισσός ἐστιν.                                         be odd. I say that the whole, AD, is also odd.
+   ᾿Αφῃρήσθω ἀπὸ τοῦ ΓΔ μονὰς ἡ ΔΕ· λοιπὸς ἄρα ὁ ΓΕ              For let the unit DE have been subtracted from CD.
+ἄρτιός ἐστιν. ἔστι δὲ καὶ ὁ ΓΑ ἄρτιος· καὶ ὅλος ἄρα ὁ ΑΕ     The remainder CE is thus even [Def. 7.7]. And CA
+ἄρτιός ἐστιν. καί ἐστι μονὰς ἡ ΔΕ. περισσὸς ἄρα ἐστὶν ὁ      is also even [Prop. 9.22]. Thus, the whole AE is also
+ΑΔ· ὅπερ ἔδει δεῖξαι.                                        even [Prop. 9.21]. And DE is a unit. Thus, AD is odd
+                                                             [Def. 7.7]. (Which is) the very thing it was required to
+                                                             show.
+
+                           kdþ.                                                   Proposition 24
+   ᾿Εὰν ἀπὸ ἀρτίου ἀριθμοῦ ἄρτιος ἀφαιρεθῇ, ὁ λοιπὸς   If an even (number) is subtracted from an(other) even
+ἄρτιος ἔσται.                                        number then the remainder will be even.
+        Α                         Γ             Β                    A                        C               B
+    ᾿Απὸ γὰρ ἀρτίου τοῦ ΑΒ ἄρτιος ἀφῃρήσθω ὁ ΒΓ· λέγω,           For let the even (number) BC have been subtracted
+ὅτι ὁ λοιπὸς ὁ ΓΑ ἄρτιός ἐστιν.                              from the even number AB. I say that the remainder CA
+    ᾿Επεὶ γὰρ ὁ ΑΒ ἄρτιός ἐστιν, ἔχει μέρος ἥμισυ. διὰ τὰ is even.
+αὐτὰ δὴ καὶ ὁ ΒΓ ἔχει μέρος ἥμισυ· ὥστε καὶ λοιπὸς [ὁ ΓΑ         For since AB is even, it has a half part [Def. 7.6]. So,
+ἔχει μέρος ἥμισυ] ἄρτιος [ἄρα] ἐστὶν ὁ ΑΓ· ὅπερ ἔδει δεῖξαι. for the same (reasons), BC also has a half part. And
+                                                             hence the remainder [CA has a half part]. [Thus,] AC is
+                                                             even. (Which is) the very thing it was required to show.
+
+
+
+
+                                                          272
+STOIQEIWN jþ.                                                                               ELEMENTS BOOK 9
+
+
+
+                           keþ.                                                 Proposition 25
+   ᾿Εὰν ἀπὸ ἀρτίου ἀριθμοῦ περισσὸς ἀφαιρεθῇ, ὁ λοιπὸς    If an odd (number) is subtracted from an even num-
+περισσὸς ἔσται.                                        ber then the remainder will be odd.
+        Α              Γ          ∆            Β                    A              C       D              B
+   ᾿Απὸ γὰρ ἀρτίου τοῦ ΑΒ περισσὸς ἀφῃρήσθω ὁ ΒΓ·                For let the odd (number) BC have been subtracted
+λέγω, ὅτι ὁ λοιπὸς ὁ ΓΑ περισσός ἐστιν.                      from the even number AB. I say that the remainder CA
+   ᾿Αφῃρήσθω γὰρ ἀπὸ τοῦ ΒΓ μονὰς ἡ ΓΔ· ὁ ΔΒ ἄρα             is odd.
+ἄρτιός ἐστιν. ἔστι δὲ καὶ ὁ ΑΒ ἄρτιος· καὶ λοιπὸς ἄρα ὁ          For let the unit CD have been subtracted from BC.
+ΑΔ ἄρτιός ἐστιν. καί ἐστι μονὰς ἡ ΓΔ· ὁ ΓΑ ἄρα περισσός      DB is thus even [Def. 7.7]. And AB is also even. And
+ἐστιν· ὅπερ ἔδει δεῖξαι.                                     thus the remainder AD is even [Prop. 9.24]. And CD is
+                                                             a unit. Thus, CA is odd [Def. 7.7]. (Which is) the very
+                                                             thing it was required to show.
+
+                           kþ.                                                 Proposition 26
+   ᾿Εὰν ἀπὸ περισσοῦ ἀριθμοῦ περισσὸς ἀφαιρεθῇ, ὁ λοιπὸς    If an odd (number) is subtracted from an odd number
+ἄρτιος ἔσται.                                            then the remainder will be even.
+         Α               Γ                ∆ Β                        A              C               D B
+    ᾿Απὸ γὰρ περισσοῦ τοῦ ΑΒ περισσὸς ἀφῃρήσθω ὁ ΒΓ·             For let the odd (number) BC have been subtracted
+λέγω, ὅτι ὁ λοιπὸς ὁ ΓΑ ἄρτιός ἐστιν.                        from the odd (number) AB. I say that the remainder CA
+    ᾿Επεὶ γὰρ ὁ ΑΒ περισσός ἐστιν, ἀφῃρήσθω μονὰς ἡ ΒΔ·      is even.
+λοιπὸς ἄρα ὁ ΑΔ ἄρτιός ἐστιν. διὰ τὰ αὐτὰ δὴ καὶ ὁ ΓΔ            For since AB is odd, let the unit BD have been
+ἄρτιός ἐστιν· ὥστε καὶ λοιπὸς ὁ ΓΑ ἄρτιός ἐστιν· ὅπερ ἔδει   subtracted (from it). Thus, the remainder AD is even
+δεῖξαι.                                                      [Def. 7.7]. So, for the same (reasons), CD is also
+                                                             even. And hence the remainder CA is even [Prop. 9.24].
+                                                             (Which is) the very thing it was required to show.
+
+                           kzþ.                                                 Proposition 27
+   ᾿Εὰν ἀπὸ περισσοῦ ἀριθμοῦ ἄρτιος ἀφαιρεθῇ, ὁ λοιπὸς    If an even (number) is subtracted from an odd num-
+περισσὸς ἔσται.                                        ber then the remainder will be odd.
+      Α ∆                             Γ         Β                  A D                         C           B
+   ᾿Απὸ γὰρ περισσοῦ τοῦ ΑΒ ἄρτιος ἀφῃρήσθω ὁ ΒΓ·              For let the even (number) BC have been subtracted
+λέγω, ὅτι ὁ λοιπὸς ὁ ΓΑ περισσός ἐστιν.                    from the odd (number) AB. I say that the remainder CA
+   ᾿Αφῃρήσθω [γὰρ] μονὰς ἡ ΑΔ· ὁ ΔΒ ἄρα ἄρτιός ἐστιν. is odd.
+ἔστι δὲ καὶ ὁ ΒΓ ἄρτιος· καὶ λοιπὸς ἄρα ὁ ΓΔ ἄρτιός ἐστιν.     [For] let the unit AD have been subtracted (from AB).
+περισσὸς ἄρα ὁ ΓΑ· ὅπερ ἔδει δεῖξαι.                       DB is thus even [Def. 7.7]. And BC is also even. Thus,
+                                                           the remainder CD is also even [Prop. 9.24]. CA (is) thus
+                                                           odd [Def. 7.7]. (Which is) the very thing it was required
+                                                           to show.
+
+                           khþ.                                                 Proposition 28
+    ᾿Εὰν περισσὸς ἀριθμὸς ἄρτιον πολλαπλασιάσας ποιῇ    If an odd number makes some (number by) multiply-
+τινα, ὁ γενόμενος ἄρτιος ἔσται.                      ing an even (number) then the created (number) will be
+                                                     even.
+
+
+                                                         273
+STOIQEIWN jþ.                                                                                   ELEMENTS BOOK 9
+
+
+         Α                                                             A
+         Β                                                             B
+         Γ                                                             C
+   Περισσὸς γὰρ ἀριθμὸς ὁ Α ἄρτιον τὸν Β πολλα-                  For let the odd number A make C (by) multiplying
+πλασιάσας τὸν Γ ποιείτω· λέγω, ὅτι ὁ Γ ἄρτιός ἐστιν.         the even (number) B. I say that C is even.
+   ᾿Επεὶ γὰρ ὁ Α τὸν Β πολλαπλασιάσας τὸν Γ πεποίηκεν,           For since A has made C (by) multiplying B, C is thus
+ὁ Γ ἄρα σύγκειται ἐκ τοσούτων ἴσων τῷ Β, ὅσαι εἰσὶν ἐν       composed out of so many (magnitudes) equal to B, as
+τῷ Α μονάδες. καί ἐστιν ὁ Β ἄρτιος· ὁ Γ ἄρα σύγκειται        many as (there) are units in A [Def. 7.15]. And B is
+ἐξ ἀρτίων. ἐὰν δὲ ἄρτιοι ἀριθμοὶ ὁποσοιοῦν συντεθῶσιν, ὁ     even. Thus, C is composed out of even (numbers). And
+ὅλος ἄρτιός ἐστιν. ἄρτιος ἄρα ἐστὶν ὁ Γ· ὅπερ ἔδει δεῖξαι.   if any multitude whatsoever of even numbers is added
+                                                             together then the whole is even [Prop. 9.21]. Thus, C is
+                                                             even. (Which is) the very thing it was required to show.
+
+                          kjþ.                                                    Proposition 29
+   ᾿Εὰν περισσὸς ἀριθμὸς περισσὸν ἀριθμὸν πολλαπλασιάς-    If an odd number makes some (number by) multiply-
+ας ποιῇ τινα, ὁ γενόμενος περισσὸς ἔσται.               ing an odd (number) then the created (number) will be
+                                                        odd.
+         Α                                                             A
+         Β                                                             B
+         Γ                                                             C
+   Περισσὸς γὰρ ἀριθμὸς ὁ Α περισσὸν τὸν Β πολλα-               For let the odd number A make C (by) multiplying
+πλασιάσας τὸν Γ ποιείτω· λέγω, ὅτι ὁ Γ περισσός ἐστιν.       the odd (number) B. I say that C is odd.
+   ᾿Επεὶ γὰρ ὁ Α τὸν Β πολλαπλασιάσας τὸν Γ πεποίηκεν,          For since A has made C (by) multiplying B, C is thus
+ὁ Γ ἄρα σύγκειται ἐκ τοσούτων ἴσων τῷ Β, ὅσαι εἰσὶν ἐν τῷ    composed out of so many (magnitudes) equal to B, as
+Α μονάδες. καί ἐστιν ἑκάτερος τῶν Α, Β περισσός· ὁ Γ ἄρα     many as (there) are units in A [Def. 7.15]. And each
+σύγκειται ἐκ περισσῶν ἀριθμῶν, ὧν τὸ πλῆθος περισσόν         of A, B is odd. Thus, C is composed out of odd (num-
+ἐστιν. ὥστε ὁ Γ περισσός ἐστιν· ὅπερ ἔδει δεῖξαι.            bers), (and) the multitude of them is odd. Hence C is odd
+                                                             [Prop. 9.23]. (Which is) the very thing it was required to
+                                                             show.
+
+                           lþ.                                                    Proposition 30
+   ᾿Εὰν περισσὸς ἀριθμὸς ἄρτιον ἀριθμὸν μετρῇ, καὶ τὸν     If an odd number measures an even number then it
+ἥμισυν αὐτοῦ μετρήσει.                                 will also measure (one) half of it.
+            Α                                                              A
+            Β                                                              B
+            Γ                                                              C
+    Περισσὸς γὰρ ἀριθμὸς ὁ Α ἄρτιον τὸν Β μετρείτω· λέγω,       For let the odd number A measure the even (number)
+ὅτι καὶ τὸν ἥμισυν αὐτοῦ μετρήσει.                           B. I say that (A) will also measure (one) half of (B).
+    ᾿Επεὶ γὰρ ὁ Α τὸν Β μετρεῖ, μετρείτω αὐτὸν κατὰ τὸν         For since A measures B, let it measure it according to
+Γ· λέγω, ὅτι ὁ Γ οὐκ ἔστι περισσός. εἰ γὰρ δυνατόν, ἔστω.    C. I say that C is not odd. For, if possible, let it be (odd).
+καὶ ἐπεὶ ὁ Α τὸν Β μετρεῖ κατὰ τὸν Γ, ὁ Α ἄρα τὸν Γ          And since A measures B according to C, A has thus made
+πολλαπλασιάσας τὸν Β πεποίηκεν. ὁ Β ἄρα σύγκειται ἐκ         B (by) multiplying C. Thus, B is composed out of odd
+περισσῶν ἀριθμῶν, ὧν τὸ πλῆθος περισσόν ἐστιν. ὁ Β ἄρα       numbers, (and) the multitude of them is odd. B is thus
+
+
+                                                         274
+STOIQEIWN jþ.                                                                                ELEMENTS BOOK 9
+
+περισσός ἐστιν· ὅπερ ἄτοπον· ὑπόκειται γὰρ ἄρτιος. οὐκ      odd [Prop. 9.23]. The very thing (is) absurd. For (B)
+ἄρα ὁ Γ περισσός ἐστιν· ἄρτιος ἄρα ἐστὶν ὁ Γ. ὥστε ὁ Α      was assumed (to be) even. Thus, C is not odd. Thus, C
+τὸν Β μετρεῖ ἀρτιάκις. διὰ δὴ τοῦτο καὶ τὸν ἥμισυν αὐτοῦ    is even. Hence, A measures B an even number of times.
+μετρήσει· ὅπερ ἔδει δεῖξαι.                                 So, on account of this, (A) will also measure (one) half
+                                                            of (B). (Which is) the very thing it was required to show.
+
+                          laþ.                                                  Proposition 31
+   ᾿Εὰν περισσὸς ἀριθμὸς πρός τινα ἀριθμὸν πρῶτος ᾖ, καὶ     If an odd number is prime to some number then it will
+πρὸς τὸν διπλασίονα αὐτοῦ πρῶτος ἔσται.                  also be prime to its double.
+          Α                                                            A
+          Β                                                            B
+          Γ                                                            C
+          ∆                                                            D
+    Περισσὸς γὰρ ἀριθμὸς ὁ Α πρός τινα ἀριθμὸν τὸν Β            For let the odd number A be prime to some number
+πρῶτος ἔστω, τοῦ δὲ Β διπλασίων ἔστω ὁ Γ· λέγω, ὅτι ὁ Α     B. And let C be double B. I say that A is [also] prime to
+[καὶ] πρὸς τὸν Γ πρῶτός ἐστιν.                              C.
+    Εἰ γὰρ μή εἰσιν [οἱ Α, Γ] πρῶτοι, μετρήσει τις αὐτοὺς       For if [A and C] are not prime (to one another) then
+ἀριθμός. μετρείτω, καὶ ἔστω ὁ Δ. καί ἐστιν ὁ Α περισσός·    some number will measure them. Let it measure (them),
+περισσὸς ἄρα καὶ ὁ Δ. καὶ ἐπεὶ ὁ Δ περισσὸς ὢν τὸν Γ        and let it be D. And A is odd. Thus, D (is) also odd.
+μετρεῖ, καί ἐστιν ὁ Γ ἄρτιος, καὶ τὸν ἥμισυν ἄρα τοῦ Γ      And since D, which is odd, measures C, and C is even,
+μετρήσει [ὁ Δ]. τοῦ δὲ Γ ἥμισύ ἐστιν ὁ Β· ὁ Δ ἄρα τὸν       [D] will thus also measure half of C [Prop. 9.30]. And B
+Β μετρεῖ. μετρεῖ δὲ καὶ τὸν Α. ὁ Δ ἄρα τοὺς Α, Β μετρεῖ     is half of C. Thus, D measures B. And it also measures
+πρώτους ὄντας πρὸς ἀλλήλους· ὅπερ ἐστὶν ἀδύνατον. οὐκ       A. Thus, D measures (both) A and B, (despite) them
+ἄρα ὁ Α πρὸς τὸν Γ πρῶτος οὔκ ἐστιν. οἱ Α, Γ ἄρα πρῶτοι     being prime to one another. The very thing is impossible.
+πρὸς ἀλλήλους εἰσίν· ὅπερ ἔδει δεῖξαι.                      Thus, A is not unprime to C. Thus, A and C are prime to
+                                                            one another. (Which is) the very thing it was required to
+                                                            show.
+
+                          lbþ.                                                  Proposition 32
+   Τῶν ἀπὸ δύαδος διπλασιαζομένων ἀριθμων ἕκαστος     Each of the numbers (which is continually) doubled,
+ἀρτιάκις ἄρτιός ἐστι μόνον.                       (starting) from a dyad, is an even-times-even (number)
+                                                  only.
+          Α                                                            A
+          Β                                                            B
+          Γ                                                            C
+          ∆                                                            D
+    ᾿Απὸ γὰρ δύαδος τῆς Α δεδιπλασιάσθωσαν ὁσοιδη-             For let any multitude of numbers whatsoever, B, C,
+ποτοῦν ἀριθμοὶ οἱ Β, Γ, Δ· λέγω, ὅτι οἱ Β, Γ, Δ ἀρτιάκις    D, have been (continually) doubled, (starting) from the
+ἄρτιοί εἰσι μόνον.                                          dyad A. I say that B, C, D are even-times-even (num-
+    ῞Οτι μὲν οὖν ἕκαστος [τῶν Β, Γ, Δ] ἀρτιάκις ἄρτιός      bers) only.
+ἐστιν, φανερόν· ἀπὸ γὰρ δυάδος ἐστὶ διπλασιασθείς. λέγω,       In fact, (it is) clear that each [of B, C, D] is an
+ὅτι καὶ μόνον. ἐκκείσθω γὰρ μονάς. ἐπεὶ οὖν ἀπὸ μονάδος     even-times-even (number). For it is doubled from a dyad
+ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογόν εἰσιν, ὁ δὲ μετὰ τὴν        [Def. 7.8]. I also say that (they are even-times-even num-
+μονάδα ὁ Α πρῶτός ἐστιν, ὁ μέγιστος τῶν Α, Β, Γ, Δ ὁ        bers) only. For let a unit be laid down. Therefore, since
+
+
+                                                        275
+STOIQEIWN jþ.                                                                                    ELEMENTS BOOK 9
+
+Δ ὑπ᾿ οὐδενὸς ἄλλου μετρηθήσεται παρὲξ τῶν Α, Β, Γ. καί       any multitude of numbers whatsoever are continuously
+ἐστιν ἕκαστος τῶν Α, Β, Γ ἄρτιος· ὁ Δ ἄρα ἀρτιάκις ἄρτιός     proportional, starting from a unit, and the (number) A af-
+ἐστι μόνον. ὁμοίως δὴ δείξομεν, ὅτι [καὶ] ἑκάτερος τῶν Β,     ter the unit is prime, the greatest of A, B, C, D, (namely)
+Γ ἀρτιάκις ἄρτιός ἐστι μόνον· ὅπερ ἔδει δεῖξαι.               D, will not be measured by any other (numbers) except
+                                                              A, B, C [Prop. 9.13]. And each of A, B, C is even. Thus,
+                                                              D is an even-time-even (number) only [Def. 7.8]. So,
+                                                              similarly, we can show that each of B, C is [also] an even-
+                                                              time-even (number) only. (Which is) the very thing it was
+                                                              required to show.
+
+                           lgþ.                                                    Proposition 33
+   ᾿Εὰν ἀριθμὸς τὸν ἥμισυν ἔχῃ περισσόν, ἀρτιάκις πε-    If a number has an odd half then it is an even-time-
+ρισσός ἐστι μόνον.                                    odd (number) only.
+                Α                                                             A
+    ᾿Αριθμὸς γὰρ ὁ Α τὸν ἥμισυν ἐχέτω περισσόν· λέγω, ὅτι         For let the number A have an odd half. I say that A is
+ὁ Α ἀρτιάκις περισσός ἐστι μόνον.                             an even-times-odd (number) only.
+    ῞Οτι μὲν οὖν ἀρτιάκις περισσός ἐστιν, φανερόν· ὁ γὰρ          In fact, (it is) clear that (A) is an even-times-odd
+ἥμισυς αὐτοῦ περισσὸς ὢν μετρεῖ αὐτὸν ἀρτιάκις, λέγω δή,      (number). For its half, being odd, measures it an even
+ὅτι καὶ μόνον. εἰ γὰρ ἔσται ὁ Α καὶ ἀρτιάκις ἄρτιος, με-      number of times [Def. 7.9]. So I also say that (it is
+τρηθήσεται ὑπὸ ἀρτίου κατὰ ἄρτιον ἀριθμόν· ὥστε καὶ ὁ         an even-times-odd number) only. For if A is also an
+ἥμισυς αὐτοῦ μετρηθήσεται ὑπὸ ἀρτίου ἀριθμοῦ περισσὸς         even-times-even (number) then it will be measured by an
+ὤν· ὅπερ ἐστὶν ἄτοπον. ὁ Α ἄρα ἀρτιάκις περισσός ἐστι         even (number) according to an even number [Def. 7.8].
+μόνον· ὅπερ ἔδει δεῖξαι.                                      Hence, its half will also be measured by an even number,
+                                                              (despite) being odd. The very thing is absurd. Thus, A
+                                                              is an even-times-odd (number) only. (Which is) the very
+                                                              thing it was required to show.
+
+                           ldþ.                                                    Proposition 34
+   ᾿Εὰν ἀριθμὸς μήτε τῶν ἀπὸ δυάδος διπλασιαζομένων ᾖ,       If a number is neither (one) of the (numbers) doubled
+μήτε τὸν ἥμισυν ἔχῃ περισσόν, ἀρτιάκις τε ἄρτιός ἐστι καὶ from a dyad, nor has an odd half, then it is (both) an
+ἀρτιάκις περισσός.                                        even-times-even and an even-times-odd (number).
+                Α                                                             A
+    ᾿Αριθμὸς γὰρ ὁ Α μήτε τῶν ἀπὸ δυάδος διπλασιαζομένων          For let the number A neither be (one) of the (num-
+ἔστω μήτε τὸν ἥμισυν ἐχέτω περισσόν· λέγω, ὅτι ὁ Α            bers) doubled from a dyad, nor let it have an odd half.
+ἀρτιάκις τέ ἐστιν ἄρτιος καὶ ἀρτιάκις περισσός.               I say that A is (both) an even-times-even and an even-
+    ῞Οτι μὲν οὖν ὁ Α ἀρτιάκις ἐστὶν ἄρτιος, φανερόν· τὸν      times-odd (number).
+γὰρ ἥμισυν οὐκ ἔχει περισσόν. λέγω δή, ὅτι καὶ ἀρτιάκις πε-       In fact, (it is) clear that A is an even-times-even (num-
+ρισσός ἐστιν. ἐὰν γὰρ τὸν Α τέμνωμεν δίχα καὶ τὸν ἥμισυν      ber) [Def. 7.8]. For it does not have an odd half. So I
+αὐτοῦ δίχα καὶ τοῦτο ἀεὶ ποιῶμεν, καταντήσομεν εἴς τινα       say that it is also an even-times-odd (number). For if we
+ἀριθμὸν περισσόν, ὃς μετρήσει τὸν Α κατὰ ἄρτιον ἀριθμόν.      cut A in half, and (then cut) its half in half, and we do
+εἰ γὰρ οὔ, καταντήσομεν εἰς δυάδα, καὶ ἔσται ὁ Α τῶν ἀπὸ      this continually, then we will arrive at some odd num-
+δυάδος διπλασιαζομένων· ὅπερ οὐχ ὑπόκειται. ὥστε ὁ Α          ber which will measure A according to an even number.
+ἀρτιάκις περισσόν ἐστιν. ἐδείχθη δὲ καὶ ἀρτιάκις ἄρτιος. ὁ    For if not, we will arrive at a dyad, and A will be (one)
+Α ἄρα ἀρτιάκις τε ἄρτιός ἐστι καὶ ἀρτιάκις περισσός· ὅπερ     of the (numbers) doubled from a dyad. The very oppo-
+ἔδει δεῖξαι.                                                  site thing (was) assumed. Hence, A is an even-times-odd
+                                                              (number) [Def. 7.9]. And it was also shown (to be) an
+                                                              even-times-even (number). Thus, A is (both) an even-
+                                                              times-even and an even-times-odd (number). (Which is)
+
+
+
+                                                          276
+STOIQEIWN jþ.                                                                                                            ELEMENTS BOOK 9
+
+                                                                              the very thing it was required to show.
+
+                                   leþ.                                                                Proposition 35†
+   ᾿Εὰν ὦσιν ὁσοιδηποτοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, ἀφαι-                            If there is any multitude whatsoever of continually
+ρεθῶσι δὲ ἀπό τε τοῦ δευτέρου καὶ τοῦ ἐσχάτου ἴσοι τῷ                         proportional numbers, and (numbers) equal to the first
+πρώτῳ, ἔσται ὡς ἡ τοῦ δευτέρου ὑπεροχὴ πρὸς τὸν πρῶτον,                       are subtracted from (both) the second and the last, then
+οὕτως ἡ τοῦ ἐσχάτου ὑπεροχὴ πρὸς τοὺς πρὸ ἑαυτοῦ                              as the excess of the second (number is) to the first, so the
+πάντας.                                                                       excess of the last will be to (the sum of) all those (num-
+                                                                              bers) before it.
+         Α                                                                             A
+          Β                             Η Γ                                             B                             G C
+
+         ∆                                                                             D
+          Ε Λ Κ Θ                                             Ζ                         E L K H                                           F
+    ῎Εστωσαν ὁποσοιδηποτοῦν ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α,                           Let A, BC, D, EF be any multitude whatsoever of
+ΒΓ, Δ, ΕΖ ἀφχόμενοι ἀπὸ ἐλαχίστου τοῦ Α, καὶ ἀφῃρήσθω                         continuously proportional numbers, beginning from the
+ἀπὸ τοῦ ΒΓ καὶ τοῦ ΕΖ τῲ Α ἴσος ἑκάτερος τῶν ΒΗ, ΖΘ·                          least A. And let BG and F H, each equal to A, have been
+λέγω, ὅτι ἐστὶν ὡς ὁ ΗΓ πρὸς τὸν Α, οὕτως ὁ ΕΘ πρὸς                           subtracted from BC and EF (respectively). I say that as
+τοὺς Α, ΒΓ, Δ.                                                                GC is to A, so EH is to A, BC, D.
+    Κείσθω γὰρ τῷ μὲν ΒΓ ἴσος ὁ ΖΚ, τῷ δὲ Δ ἴσος ὁ ΖΛ.                            For let F K be made equal to BC, and F L to D. And
+καὶ ἐπεὶ ὁ ΖΚ τῷ ΒΓ ἴσος ἐστίν, ὧν ὁ ΖΘ τῷ ΒΗ ἴσος ἐστίν,                     since F K is equal to BC, of which F H is equal to BG,
+λοιπὸς ἄρα ὁ ΘΚ λοιπῷ τῷ ΗΓ ἐστιν ἴσος. καὶ ἐπεί ἐστιν ὡς                     the remainder HK is thus equal to the remainder GC.
+ὁ ΕΖ πρὸς τὸν Δ, οὕτως ὁ Δ πρὸς τὸν ΒΓ καὶ ὁ ΒΓ πρὸς                          And since as EF is to D, so D (is) to BC, and BC to
+τὸν Α, ἴσος δὲ ὁ μὲν Δ τῷ ΖΛ, ὁ δὲ ΒΓ τῷ ΖΚ, ὁ δὲ Α τῷ                        A [Prop. 7.13], and D (is) equal to F L, and BC to F K,
+ΖΘ, ἔστιν ἄρα ὡς ὁ ΕΖ πρὸς τὸν ΖΛ, οὕτως ὁ ΛΖ πρὸς τὸν                        and A to F H, thus as EF is to F L, so LF (is) to F K, and
+ΖΚ καὶ ὁ ΖΚ πρὸς τὸν ΖΘ. διελόντι, ὡς ὁ ΕΛ πρὸς τὸν ΛΖ,                       F K to F H. By separation, as EL (is) to LF , so LK (is)
+οὕτως ὁ ΛΚ πρὸς τὸν ΖΚ καὶ ὁ ΚΘ πρὸς τὸν ΖΘ. ἔστιν ἄρα                        to F K, and KH to F H [Props. 7.11, 7.13]. And thus as
+καὶ ὡς εἷς τῶν ἡγουμένων πρὸς ἕνα τῶν ἑπομένων, οὕτως                         one of the leading (numbers) is to one of the following,
+ἅπαντες οἱ ἡγούμενοι πρὸς ἅπαντας τοὺς ἑπομένους· ἔστιν                       so (the sum of) all of the leading (numbers is) to (the
+ἄρα ὡς ὁ ΚΘ πρὸς τὸν ΖΘ, οὕτως οἱ ΕΛ, ΛΚ, ΚΘ πρὸς                             sum of) all of the following [Prop. 7.12]. Thus, as KH
+τοὺς ΛΖ, ΖΚ, ΘΖ. ἴσος δὲ ὁ μὲν ΚΘ τῷ ΓΗ, ὁ δὲ ΖΘ τῷ                           is to F H, so EL, LK, KH (are) to LF , F K, HF . And
+Α, οἱ δὲ ΛΖ, ΖΚ, ΘΖ τοὶς Δ, ΒΓ, Α· ἔστιν ἄρα ὡς ὁ ΓΗ                          KH (is) equal to CG, and F H to A, and LF , F K, HF
+πρὸς τὸν Α, οὕτως ὁ ΕΘ πρὸς τοὺς Δ, ΒΓ, Α. ἔστιν ἄρα                          to D, BC, A. Thus, as CG is to A, so EH (is) to D,
+ὡς ἡ τοῦ δευτέρου ὑπεροχὴ πρὸς τὸν πρῶτον, οὕτως ἡ τοῦ                        BC, A. Thus, as the excess of the second (number) is to
+ἐσχάτου ὑπεροχὴ πρὸς τοὺς πρὸ ἑαυτοῦ πάντας· ὅπερ ἔδει                        the first, so the excess of the last (is) to (the sum of) all
+δεῖξαι.                                                                       those (numbers) before it. (Which is) the very thing it
+                                                                              was required to show.
+† This proposition allows us to sum a geometric series of the form a, a r, a r 2 , a r 3 , · · · a r n−1 .   According to Euclid, the sum Sn satisfies
+(a r − a)/a = (a r n − a)/Sn . Hence, Sn = a (r n − 1)/(r − 1).
+
+
+                                  lþ.                                                                 Proposition 36†
+    ᾿Εὰν ἀπὸ μονάδος ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἐκτεθῶσιν ἐν     If any multitude whatsoever of numbers is set out con-
+τῇ διπλασίονι ἀναλογίᾳ, ἕως οὗ ὁ σύμπας συντεθεὶς πρῶτος tinuously in a double proportion, (starting) from a unit,
+γένηται, καὶ ὁ σύμπας ἐπὶ τὸν ἔσχατον πολλαπλασιασθεὶς until the whole sum added together becomes prime, and
+
+
+                                                                          277
+STOIQEIWN jþ.                                                                                  ELEMENTS BOOK 9
+
+ποιῇ τινα, ὁ γενόμενος τέλειος ἔσται.                         the sum multiplied into the last (number) makes some
+    ᾿Απὸ γὰρ μονάδος ἐκκείσθωσαν ὁσοιδηποτοῦν ἀριθμ-          (number), then the (number so) created will be perfect.
+οὶ ἐν τῇ διπλασίονι ἀναλογίᾳ, ἕως οὗ ὁ σύμπας συντεθεὶς          For let any multitude of numbers, A, B, C, D, be set
+πρῶτος γένηται, οἱ Α, Β, Γ, Δ, καὶ τῷ σύμπαντι ἴσος ἔστω      out (continuouly) in a double proportion, until the whole
+ὁ Ε, καὶ ὁ Ε τὸν Δ πολλαπλασιάσας τὸν ΖΗ ποιείτω. λέγω,       sum added together is made prime. And let E be equal to
+ὅτι ὁ ΖΗ τέλειός ἐστιν.                                       the sum. And let E make F G (by) multiplying D. I say
+                                                              that F G is a perfect (number).
+
+               Α                                                            A
+               Β                                                            B
+               Γ                                                            C
+               ∆                                                            D
+
+  Ε                                                              E
+   Θ Ν Κ                                                          H N K
+
+ Λ                                                               L
+ Μ                                                               M
+  Ζ Ξ                                                  Η           F O                                              G
+
+  Ο                                                              P
+  Π                                                              Q
+    ῞Οσοι γάρ εἰσιν οἱ Α, Β, Γ, Δ τῷ πλήθει, τοσοῦτοι ἀπὸ          For as many as is the multitude of A, B, C, D, let so
+τοῦ Ε εἰλήφθωσαν ἐν τῇ διπλασίονι ἀναλογίᾳ οἱ Ε, ΘΚ, Λ,       many (numbers), E, HK, L, M , have been taken in a
+Μ· δι᾿ ἴσου ἄρα ἐστὶν ὡς ὁ Α πρὸς τὸν Δ, οὕτως ὁ Ε πρὸς       double proportion, (starting) from E. Thus, via equal-
+τὸν Μ. ὁ ἄρα ἐκ τῶν Ε, Δ ἴσος ἐστὶ τῷ ἐκ τῶν Α, Μ. καί        ity, as A is to D, so E (is) to M [Prop. 7.14]. Thus, the
+ἐστιν ὁ ἐκ τῶν Ε, Δ ὁ ΖΗ· καὶ ὁ ἐκ τῶν Α, Μ ἄρα ἐστὶν ὁ       (number created) from (multiplying) E, D is equal to the
+ΖΗ. ὁ Α ἄρα τὸν Μ πολλαπλασιάσας τὸν ΖΗ πεποίηκεν· ὁ          (number created) from (multiplying) A, M . And F G is
+Μ ἄρα τὸν ΖΗ μετρεῖ κατὰ τὰς ἐν τῷ Α μονάδας. καί ἐστι        the (number created) from (multiplying) E, D. Thus,
+δυὰς ὁ Α· διπλάσιος ἄρα ἐστὶν ὁ ΖΗ τοῦ Μ. εἰσὶ δὲ καὶ οἱ Μ,   F G is also the (number created) from (multiplying) A,
+Λ, ΘΚ, Ε ἑξῆς διπλάσιοι ἀλλήλων· οἱ Ε, ΘΚ, Λ, Μ, ΖΗ ἄρα       M [Prop. 7.19]. Thus, A has made F G (by) multiplying
+ἑξῆς ἀνάλογόν εἰσιν ἐν τῇ διπλασίονι ἀναλογίᾳ. ἀφῃρήσθω       M . Thus, M measures F G according to the units in A.
+δὴ ἀπὸ τοῦ δευτέρου τοῦ ΘΚ καὶ τοῦ ἐσχάτου τοῦ ΖΗ τῷ          And A is a dyad. Thus, F G is double M . And M , L,
+πρώτῳ τῷ Ε ἴσος ἑκάτερος τῶν ΘΝ, ΖΞ· ἔστιν ἄρα ὡς ἡ           HK, E are also continuously double one another. Thus,
+τοῦ δευτέρου ἀριθμοῦ ὑπεροχὴ πρὸς τὸν πρῶτον, οὕτως ἡ         E, HK, L, M , F G are continuously proportional in a
+τοῦ ἐσχάτου ὑπεροχὴ πρὸς τοὺς πρὸ ἑαυτοῦ πάντας. ἔστιν        double proportion. So let HN and F O, each equal to the
+ἄρα ὡς ὁ ΝΚ πρὸς τὸν Ε, οὕτως ὁ ΞΗ πρὸς τοὺς Μ, Λ,            first (number) E, have been subtracted from the second
+ΚΘ, Ε. καί ἐστιν ὁ ΝΚ ἴσος τῷ Ε· καὶ ὁ ΞΗ ἄρα ἴσος ἐστὶ       (number) HK and the last F G (respectively). Thus, as
+τοῖς Μ, Λ, ΘΚ, Ε. ἔστι δὲ καὶ ὁ ΖΞ τῷ Ε ἴσος, ὁ δὲ Ε          the excess of the second number is to the first, so the ex-
+τοῖς Α, Β, Γ, Δ καὶ τῇ μονάδι. ὅλος ἄρα ὁ ΖΗ ἴσος ἐστὶ        cess of the last (is) to (the sum of) all those (numbers)
+τοῖς τε Ε, ΘΚ, Λ, Μ καὶ τοῖς Α, Β, Γ, Δ καὶ τῇ μονάδι·        before it [Prop. 9.35]. Thus, as N K is to E, so OG (is)
+καὶ μετρεῖται ὑπ᾿ αὐτῶν. λέγω, ὅτι καὶ ὁ ΖΗ ὐπ᾿ οὐδενὸς       to M , L, KH, E. And N K is equal to E. And thus OG
+ἄλλου μετρηθήσεται παρὲξ τῶν Α, Β, Γ, Δ, Ε, ΘΚ, Λ, Μ          is equal to M , L, HK, E. And F O is also equal to E,
+καὶ τῆς μονάδος. εἰ γὰρ δυνατόν, μετρείτω τις τὸν ΖΗ ὁ        and E to A, B, C, D, and a unit. Thus, the whole of F G
+Ο, καὶ ὁ Ο μηδενὶ τῶν Α, Β, Γ, Δ, Ε, ΘΚ, Λ, Μ ἔστω ὁ          is equal to E, HK, L, M , and A, B, C, D, and a unit.
+αὐτός. καὶ ὁσάκις ὁ Ο τὸν ΖΗ μετρεῖ, τοσαῦται μονάδες         And it is measured by them. I also say that F G will be
+
+
+                                                           278
+STOIQEIWN jþ.                                                                                                 ELEMENTS BOOK 9
+
+ἔστωσαν ἐν τῷ Π· ὁ Π ἄρα τὸν Ο πολλαπλασιάσας τὸν ΖΗ                  measured by no other (numbers) except A, B, C, D, E,
+πεποίηκεν. ἀλλὰ μὴν καὶ ὁ Ε τὸν Δ πολλαπλασιάσας τὸν                  HK, L, M , and a unit. For, if possible, let some (num-
+ΖΗ πεποίηκεν· ἔστιν ἄρα ὡς ὁ Ε πρὸς τὸν Π, ὁ Ο πρὸς τὸν               ber) P measure F G, and let P not be the same as any
+Δ. καὶ ἐπεὶ ἀπὸ μονάδος ἑξῆς ἀνάλογόν εἰσιν οἱ Α, Β, Γ,               of A, B, C, D, E, HK, L, M . And as many times as P
+Δ, ὁ Δ ἄρα ὑπ᾿ οὐδενὸς ἄλλου ἀριθμοῦ μετρηθήσεται παρὲξ               measures F G, so many units let there be in Q. Thus, Q
+τῶν Α, Β, Γ. καὶ ὑπόκειται ὁ Ο οὐδενὶ τῶν Α, Β, Γ ὁ αὐτός·            has made F G (by) multiplying P . But, in fact, E has also
+οὐκ ἄρα μετρήσει ὁ Ο τὸν Δ. ἀλλ᾿ ὡς ὁ Ο πρὸς τὸν Δ, ὁ                 made F G (by) multiplying D. Thus, as E is to Q, so P
+Ε πρὸς τὸν Π· οὐδὲ ὁ Ε ἄρα τὸν Π μετρεῖ. καί ἐστιν ὁ Ε                (is) to D [Prop. 7.19]. And since A, B, C, D are con-
+πρῶτος· πᾶς δὲ πρῶτος ἀριθμὸς πρὸς ἅπαντα, ὃν μὴ μετρεῖ,              tinually proportional, (starting) from a unit, D will thus
+πρῶτός [ἐστιν]. οἱ Ε, Π ἄρα πρῶτοι πρὸς ἀλλήλους εἰσίν. οἱ            not be measured by any other numbers except A, B, C
+δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ ἐλάχιστοι μετροῦσι τοὺς τὸν            [Prop. 9.13]. And P was assumed not (to be) the same
+αὐτὸν λόγον ἔχοντας ἰσάκις ὅ τε ἡγούμενος τὸν ἡγούμενον               as any of A, B, C. Thus, P does not measure D. But,
+καὶ ὁ ἑπόμενος τὸν ἑπόμενον· καί ἐστιν ὡς ὁ Ε πρὸς τὸν Π,             as P (is) to D, so E (is) to Q. Thus, E does not mea-
+ὁ Ο πρὸς τὸν Δ. ἰσάκις ἄρα ὁ Ε τὸν Ο μετρεῖ καὶ ὁ Π τὸν               sure Q either [Def. 7.20]. And E is a prime (number).
+Δ. ὁ δὲ Δ ὑπ᾿ οὐδενὸς ἄλλου μετρεῖται παρὲξ τῶν Α, Β, Γ·              And every prime number [is] prime to every (number)
+ὁ Π ἄρα ἑνὶ τῶν Α, Β, Γ ἐστιν ὁ αὐτός. ἔστω τῷ Β ὁ αὐτός.             which it does not measure [Prop. 7.29]. Thus, E and Q
+καὶ ὅσοι εἰσὶν οἱ Β, Γ, Δ τῷ πλήθει τοσοῦτοι εἰλήφθωσαν               are prime to one another. And (numbers) prime (to one
+ἀπὸ τοῦ Ε οἱ Ε, ΘΚ, Λ. καί εἰσιν οἱ Ε, ΘΚ, Λ τοῖς Β, Γ, Δ             another are) also the least (of those numbers having the
+ἐν τῷ αὐτῷ λόγω· δι᾿ ἴσου ἄρα ἐστὶν ὡς ὁ Β πρὸς τὸν Δ, ὁ              same ratio as them) [Prop. 7.21], and the least (num-
+Ε πρὸς τὸν Λ. ὁ ἄρα ἐκ τῶν Β, Λ ἴσος ἐστὶ τῷ ἐκ τῶν Δ,                bers) measure those (numbers) having the same ratio as
+Ε· ἀλλ᾿ ὁ ἐκ τῶν Δ, Ε ἴσος ἐστὶ τῷ ἐκ τῶν Π, Ο· καὶ ὁ ἐκ              them an equal number of times, the leading (measuring)
+τῶν Π, Ο ἄρα ἴσος ἐστὶ τῷ ἐκ τῶν Β, Λ. ἔστιν ἄρα ὡς ὁ Π               the leading, and the following the following [Prop. 7.20].
+πρὸς τὸν Β, ὁ Λ πρὸς τὸν Ο. καί ἐστιν ὁ Π τῷ Β ὁ αὐτός·               And as E is to Q, (so) P (is) to D. Thus, E measures P
+καὶ ὁ Λ ἄρα τῳ Ο ἐστιν ὁ αὐτός· ὅπερ ἀδύνατον· ὁ γὰρ Ο                the same number of times as Q (measures) D. And D
+ὑπόκειται μηδενὶ τῶν ἐκκειμένων ὁ αὐτός· οὐκ ἄρα τὸν ΖΗ               is not measured by any other (numbers) except A, B, C.
+μετρήσει τις ἀριθμὸς παρὲξ τῶν Α, Β, Γ, Δ, Ε, ΘΚ, Λ, Μ                Thus, Q is the same as one of A, B, C. Let it be the same
+καὶ τῆς μονάδος. καὶ ἐδείχη ὁ ΖΗ τοῖς Α, Β, Γ, Δ, Ε, ΘΚ,              as B. And as many as is the multitude of B, C, D, let so
+Λ, Μ καὶ τῇ μονάδι ἴσος. τέλειος δὲ ἀριθμός ἐστιν ὁ τοῖς              many (of the set out numbers) have been taken, (start-
+ἑαυτοῦ μέρεσιν ἴσος ὤν· τέλειος ἄρα ἐστὶν ὁ ΖΗ· ὅπερ ἔδει             ing) from E, (namely) E, HK, L. And E, HK, L are in
+δεῖξαι.                                                               the same ratio as B, C, D. Thus, via equality, as B (is)
+                                                                      to D, (so) E (is) to L [Prop. 7.14]. Thus, the (number
+                                                                      created) from (multiplying) B, L is equal to the (num-
+                                                                      ber created) from multiplying D, E [Prop. 7.19]. But,
+                                                                      the (number created) from (multiplying) D, E is equal
+                                                                      to the (number created) from (multiplying) Q, P . Thus,
+                                                                      the (number created) from (multiplying) Q, P is equal
+                                                                      to the (number created) from (multiplying) B, L. Thus,
+                                                                      as Q is to B, (so) L (is) to P [Prop. 7.19]. And Q is the
+                                                                      same as B. Thus, L is also the same as P . The very thing
+                                                                      (is) impossible. For P was assumed not (to be) the same
+                                                                      as any of the (numbers) set out. Thus, F G cannot be
+                                                                      measured by any number except A, B, C, D, E, HK, L,
+                                                                      M , and a unit. And F G was shown (to be) equal to (the
+                                                                      sum of) A, B, C, D, E, HK, L, M , and a unit. And a
+                                                                      perfect number is one which is equal to (the sum of) its
+                                                                      own parts [Def. 7.22]. Thus, F G is a perfect (number).
+                                                                      (Which is) the very thing it was required to show.
+† This proposition demonstrates that perfect numbers take the form 2n−1 (2n − 1) provided that 2n − 1 is a prime number. The ancient Greeks
+
+knew of four perfect numbers: 6, 28, 496, and 8128, which correspond to n = 2, 3, 5, and 7, respectively.
+
+
+
+
+                                                                   279
+280

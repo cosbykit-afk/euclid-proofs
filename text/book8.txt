@@ -1,0 +1,1276 @@
+ELEMENTS BOOK 8
+
+                                         Continued Proportion†
+
+
+
+
+† The propositions contained in Books 7–9 are generally attributed to the school of Pythagoras.
+
+
+
+
+                                                                   227
+STOIQEIWN hþ.                                                                                   ELEMENTS BOOK 8
+
+
+                           aþ.                                                    Proposition 1
+   ᾿Εὰν ὦσιν ὁσοιδηποτοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, οἱ δὲ     If there are any multitude whatsoever of continuously
+ἄκροι αὐτῶν πρῶτοι πρὸς ἀλλήλους ὦσιν, ἐλάχιστοί εἰσι proportional numbers, and the outermost of them are
+τῶν τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς.                    prime to one another, then the (numbers) are the least
+                                                       of those (numbers) having the same ratio as them.
+   Α                               Ε                            A                                 E
+   Β                               Ζ                            B                                 F
+   Γ                               Η                            C                                 G
+   ∆                               Θ                            D                                 H
+   ῎Εστωσαν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α, Β,             Let A, B, C, D be any multitude whatsoever of con-
+Γ, Δ, οἱ δὲ ἄκροι αὐτῶν οἱ Α, Δ, πρῶτοι πρὸς ἀλλήλους        tinuously proportional numbers. And let the outermost
+ἔστωσαν· λέγω, ὅτι οἱ Α, Β, Γ, Δ ἐλάχιστοί εἰσι τῶν τὸν      of them, A and D, be prime to one another. I say that
+αὐτὸν λόγον ἐχόντων αὐτοῖς.                                  A, B, C, D are the least of those (numbers) having the
+   Εἰ γὰρ μή, ἔστωσαν ἐλάττονες τῶν Α, Β, Γ, Δ οἱ Ε,         same ratio as them.
+Ζ, Η, Θ ἐν τῷ αὐτῷ λόγῳ ὄντες αὐτοῖς. καὶ ἐπεὶ οἱ Α,             For if not, let E, F , G, H be less than A, B, C, D
+Β, Γ, Δ ἐν τῷ αὐτῷ λόγῳ εἰσὶ τοῖς Ε, Ζ, Η, Θ, καί ἐστιν      (respectively), being in the same ratio as them. And since
+ἴσον τὸ πλῆθος [τῶν Α, Β, Γ, Δ] τῷ πλήθει [τῶν Ε, Ζ, Η,      A, B, C, D are in the same ratio as E, F , G, H, and the
+Θ], δι᾿ ἴσου ἄρα ἐστὶν ὡς ὁ Α πρὸς τὸν Δ, ὁ Ε πρὸς τὸν       multitude [of A, B, C, D] is equal to the multitude [of E,
+Θ. οἱ δὲ Α, Δ πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ      F , G, H], thus, via equality, as A is to D, (so) E (is) to H
+ἐλάχιστοι ἀριθμοὶ μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας      [Prop. 7.14]. And A and D (are) prime (to one another).
+ἰσάκις ὅ τε μείζων τὸν μείζονα καὶ ὁ ἐλάσσων τὸν ἐλάσσονα,   And prime (numbers are) also the least of those (numbers
+τουτέστιν ὅ τε ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος        having the same ratio as them) [Prop. 7.21]. And the
+τὸν ἑπόμενον. μετρεῖ ἄρα ὁ Α τὸν Ε ὁ μείζων τὸν ἐλάσσονα·    least numbers measure those (numbers) having the same
+ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα οἱ Ε, Ζ, Η, Θ ἐλάσσονες         ratio (as them) an equal number of times, the greater
+ὄντες τῶν Α, Β, Γ, Δ ἐν τῷ αὐτῷ λόγῳ εἰσὶν αὐτοῖς. οἱ Α,     (measuring) the greater, and the lesser the lesser—that
+Β, Γ, Δ ἄρα ἐλάχιστοί εἰσι τῶν τὸν αὐτὸν λόγον ἐχόντων       is to say, the leading (measuring) the leading, and the
+αὐτοῖς· ὅπερ ἔδει δεῖξαι.                                    following the following [Prop. 7.20]. Thus, A measures
+                                                             E, the greater (measuring) the lesser. The very thing is
+                                                             impossible. Thus, E, F , G, H, being less than A, B, C,
+                                                             D, are not in the same ratio as them. Thus, A, B, C, D
+                                                             are the least of those (numbers) having the same ratio as
+                                                             them. (Which is) the very thing it was required to show.
+
+                           bþ.                                                    Proposition 2
+    Αριθμοὺς εὑρεῖν ἑξῆς ἀνάλογον ἐλαχίστους, ὅσους ἂν           To find the least numbers, as many as may be pre-
+ἐπιτάξῃ τις, ἐν τῷ δοθέντι λόγῳ.                             scribed, (which are) continuously proportional in a given
+    ῎Εστω ὁ δοθεὶς λόγος ἐν ἐλάχίστοις ἀριθμοῖς ὁ τοῦ        ratio.
+Α πρὸς τὸν Β· δεῖ δὴ ἀριθμοὺς εὑρεῖν ἑξῆς ἀνάλογον               Let the given ratio, (expressed) in the least numbers,
+ἐλαχίστους, ὅσους ἄν τις ἐπιτάξῃ, ἐν τῷ τοῦ Α πρὸς τὸν Β     be that of A to B. So it is required to find the least num-
+λόγῳ.                                                        bers, as many as may be prescribed, (which are) in the
+    ᾿Επιτετάχθωσαν δὴ τέσσαρες, καὶ ὁ Α ἑαυτὸν πολλα-        ratio of A to B.
+πλασιάσας τὸν Γ ποιείτω, τὸν δὲ Β πολλαπλασιάσας τὸν Δ           Let four (numbers) have been prescribed. And let A
+ποιείτω, καὶ ἔτι ὁ Β ἑαυτὸν πολλαπλασιάσας τὸν Ε ποιείτω,    make C (by) multiplying itself, and let it make D (by)
+καὶ ἔτι ὁ Α τοὺς Γ, Δ, Ε πολλαπλασιάσας τοὺς Ζ, Η, Θ         multiplying B. And, further, let B make E (by) multiply-
+ποιείτω, ὁ δὲ Β τὸν Ε πολλαπλασιάσας τὸν Κ ποιείτω.          ing itself. And, further, let A make F , G, H (by) mul-
+                                                             tiplying C, D, E. And let B make K (by) multiplying
+                                                             E.
+
+
+                                                         228
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+
+   Α                    Γ                                        A                    C
+   Β                    ∆                                        B                    D
+                        Ε                                                             E
+   Ζ                                                             F
+   Η                                                             G
+   Θ                                                             H
+   Κ                                                             K
+    Καὶ ἐπεὶ ὁ Α ἑαυτὸν μὲν πολλαπλασιάσας τὸν Γ                 And since A has made C (by) multiplying itself, and
+πεποίηκεν, τὸν δὲ Β πολλαπλασιάσας τὸν Δ πεποίηκεν,          has made D (by) multiplying B, thus as A is to B, [so] C
+ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Β, [οὕτως] ὁ Γ πρὸς τὸν Δ.         (is) to D [Prop. 7.17]. Again, since A has made D (by)
+πάλιν, ἐπεὶ ὁ μὲν Α τὸν Β πολλαπλασιάσας τὸν Δ πεποίηκεν,    multiplying B, and B has made E (by) multiplying itself,
+ὁ δὲ Β ἑαυτὸν πολλαπλασιάσας τὸν Ε πεποίηκεν, ἑκάτερος       A, B have thus made D, E, respectively, (by) multiplying
+ἄρα τῶν Α, Β τὸν Β πολλαπλασιάσας ἑκάτερον τῶν Δ, Ε          B. Thus, as A is to B, so D (is) to E [Prop. 7.18]. But, as
+πεποίηκεν. ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Δ πρὸς       A (is) to B, (so) C (is) to D. And thus as C (is) to D, (so)
+τὸν Ε. ἀλλ᾿ ὡς ὁ Α πρὸς τὸν Β, ὁ Γ πρὸς τὸν Δ· καὶ ὡς        D (is) to E. And since A has made F , G (by) multiplying
+ἄρα ὁ Γ πρὸς τὸν Δ, ὁ Δ πρὸς τὸν Ε. καὶ ἐπεὶ ὁ Α τοὺς Γ,     C, D, thus as C is to D, [so] F (is) to G [Prop. 7.17].
+Δ πολλαπλασιάσας τοὺς Ζ, Η πεποίηκεν, ἔστιν ἄρα ὡς ὁ Γ       And as C (is) to D, so A was to B. And thus as A (is)
+πρὸς τὸν Δ, [οὕτως] ὁ Ζ πρὸς τὸν Η. ὡς δὲ ὁ Γ πρὸς τὸν       to B, (so) F (is) to G. Again, since A has made G, H
+Δ, οὕτως ἦν ὁ Α πρὸς τὸν Β· καὶ ὡς ἄρα ὁ Α πρὸς τὸν Β, ὁ     (by) multiplying D, E, thus as D is to E, (so) G (is) to
+Ζ πρὸς τὸν Η. πάλιν, ἐπεὶ ὁ Α τοὺς Δ, Ε πολλαπλασιάσας       H [Prop. 7.17]. But, as D (is) to E, (so) A (is) to B.
+τοὺς Η, Θ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Δ πρὸς τὸν Ε, ὁ Η        And thus as A (is) to B, so G (is) to H. And since A, B
+πρὸς τὸν Θ. ἀλλ᾿ ὡς ὁ Δ πρὸς τὸν Ε, ὁ Α πρὸς τὸν Β. καὶ      have made H, K (by) multiplying E, thus as A is to B,
+ὡς ἄρα ὁ Α πρὸς τὸν Β, οὕτως ὁ Η πρὸς τὸν Θ. καὶ ἐπεὶ        so H (is) to K. But, as A (is) to B, so F (is) to G, and
+οἱ Α, Β τὸν Ε πολλαπλασιάσαντες τοὺς Θ, Κ πεποιήκασιν,       G to H. And thus as F (is) to G, so G (is) to H, and H
+ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Θ πρὸς τὸν Κ. ἀλλ᾿      to K. Thus, C, D, E and F , G, H, K are (both continu-
+ὡς ὁ Α πρὸς τὸν Β, οὕτως ὅ τε Ζ πρὸς τὸν Η καὶ ὁ Η πρὸς      ously) proportional in the ratio of A to B. So I say that
+τὸν Θ. καὶ ὡς ἄρα ὁ Ζ πρὸς τὸν Η, οὕτως ὅ τε Η πρὸς          (they are) also the least (sets of numbers continuously
+τὸν Θ καὶ ὁ Θ πρὸς τὸν Κ· οἱ Γ, Δ, Ε ἄρα καὶ οἱ Ζ, Η,        proportional in that ratio). For since A and B are the
+Θ, Κ ἀνάλογόν εἰσιν ἐν τῷ τοῦ Α πρὸς τὸν Β λόγῳ. λέγω        least of those (numbers) having the same ratio as them,
+δή, ὅτι καὶ ἐλάχιστοι. ἐπεὶ γὰρ οἱ Α, Β ἐλάχιστοί εἰσι τῶν   and the least of those (numbers) having the same ratio
+τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς, οἱ δὲ ἐλάχιστοι τῶν τὸν      are prime to one another [Prop. 7.22], A and B are thus
+αὐτὸν λόγον ἐχόντων πρῶτοι πρὸς ἀλλήλους εἰσίν, οἱ Α, Β      prime to one another. And A, B have made C, E, respec-
+ἄρα πρῶτοι πρὸς ἀλλήλους εἰσίν. καὶ ἑκάτερος μὲν τῶν Α,      tively, (by) multiplying themselves, and have made F , K
+Β ἑαυτὸν πολλαπλασιάσας ἑκάτερον τῶν Γ, Ε πεποίηκεν,         by multiplying C, E, respectively. Thus, C, E and F , K
+ἑκάτερον δὲ τῶν Γ, Ε πολλαπλασιάσας ἑκάτερον τῶν Ζ, Κ        are prime to one another [Prop. 7.27]. And if there are
+πεποίηκεν· οἱ Γ, Ε ἄρα καὶ οἱ Ζ, Κ πρῶτοι πρὸς ἀλλήλους      any multitude whatsoever of continuously proportional
+εἰσίν. ἐὰν δὲ ὦσιν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, οἱ       numbers, and the outermost of them are prime to one
+δὲ ἄκροι αὐτῶν πρῶτοι πρὸς ἀλλήλους ὦσιν, ἐλάχιστοί εἰσι     another, then the (numbers) are the least of those (num-
+τῶν τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς. οἱ Γ, Δ, Ε ἄρα καὶ       bers) having the same ratio as them [Prop. 8.1]. Thus, C,
+οἱ Ζ, Η, Θ, Κ ἐλάχιστοί εἰσι τῶν τὸν αὐτὸν λόγον ἐχόντων     D, E and F , G, H, K are the least of those (continuously
+τοῖς Α, Β· ὅπερ ἔδει δεῖξαι.                                 proportional sets of numbers) having the same ratio as A
+                                                             and B. (Which is) the very thing it was required to show.
+
+
+
+
+                                                         229
+STOIQEIWN hþ.                                                                                 ELEMENTS BOOK 8
+
+                       Pìrisma.                                                     Corollary
+   ᾿Εκ δὴ τούτου φανερόν, ὅτι ἐὰν τρεῖς ἀριθμοὶ ἑξῆς         So it is clear, from this, that if three continuously pro-
+ἀνάλογον ἐλάχιστοι ὦσι τῶν τὸν αὐτὸν λόγον ἐχόντων portional numbers are the least of those (numbers) hav-
+αὐτοῖς, οἱ ἄκρον αὐτῶν τετράγωνοί εἰσιν, ἐὰν δὲ τέσσαρες, ing the same ratio as them then the outermost of them
+κύβοι.                                                    are square, and, if four (numbers), cube.
+
+                           gþ.                                                   Proposition 3
+    ᾿Εὰν ὦσιν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον ἐλάχιστ-    If there are any multitude whatsoever of continu-
+οι τῶν τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς, οἱ ἄκροι αὐτῶν ously proportional numbers (which are) the least of those
+πρῶτοι πρὸς ἀλλήλους εἰσίν.                            (numbers) having the same ratio as them then the outer-
+                                                       most of them are prime to one another.
+ Α                        Ε              Η                     A                       E              G
+ Β                        Ζ              Θ                     B                       F              H
+ Γ                                       Κ                     C                                      K
+ ∆                                                             D
+
+ Λ                                                             L
+ Μ                                                             M
+ Ν                                                             N
+ Ξ                                                             O
+    ῎Εστωσαν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον ἐλάχιστοι          Let A, B, C, D be any multitude whatsoever of con-
+τῶν τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς οἱ Α, Β, Γ, Δ· λέγω,     tinuously proportional numbers (which are) the least of
+ὅτι οἱ ἄκροι αὐτῶν οἱ Α, Δ πρῶτοι πρὸς ἀλλήλους εἰσίν.      those (numbers) having the same ratio as them. I say
+    Εἰλήφθωσαν γὰρ δύο μὲν ἀριθμοὶ ἐλάχιστοι ἐν τῷ τῶν      that the outermost of them, A and D, are prime to one
+Α, Β, Γ, Δ λόγῳ οἱ Ε, Ζ, τρεῖς δὲ οἱ Η, Θ, Κ, καὶ ἑξῆς      another.
+ἑνὶ πλείους, ἕως τὸ λαμβανόμενον πλῆθος ἴσον γένηται τῷ         For let the two least (numbers) E, F (which are)
+πλήθει τῶν Α, Β, Γ, Δ. εἰλήφθωσαν καὶ ἔστωσαν οἱ Λ, Μ,      in the same ratio as A, B, C, D have been taken
+Ν, Ξ.                                                       [Prop. 7.33]. And the three (least numbers) G, H, K
+    Καὶ ἐπεὶ οἱ Ε, Ζ ἐλάχιστοί εἰσι τῶν τὸν αὐτὸν λόγον     [Prop. 8.2]. And (so on), successively increasing by one,
+ἐχόντων αὐτοῖς, πρῶτοι πρὸς ἀλλήλους εἰσίν. καὶ ἐπεὶ        until the multitude of (numbers) taken is made equal to
+ἑκάτερος τῶν Ε, Ζ ἑαυτὸν μὲν πολλαπλασιάσας ἑκάτερον        the multitude of A, B, C, D. Let them have been taken,
+τῶν Η, Κ πεποίηκεν, ἑκάτερον δὲ τῶν Η, Κ πολλα-             and let them be L, M , N , O.
+πλασιάσας ἑκάτερον τῶν Λ, Ξ πεποίηκεν, καὶ οἱ Η, Κ ἄρα          And since E and F are the least of those (numbers)
+καὶ οἱ Λ, Ξ πρῶτοι πρὸς ἀλλήλους εἰσίν. καὶ ἐπεὶ οἱ Α, Β,   having the same ratio as them they are prime to one an-
+Γ, Δ ἐλάχιστοί εἰσι τῶν τὸν αὐτὸν λόγον ἐχόντων αὐτοῖς,     other [Prop. 7.22]. And since E, F have made G, K, re-
+εἰσὶ δὲ καὶ οἱ Λ, Μ, Ν, Ξ ἐλάχιστοι ἐν τῷ αὐτῷ λόγῳ ὄντες   spectively, (by) multiplying themselves [Prop. 8.2 corr.],
+τοῖς Α, Β, Γ, Δ, καί ἐστιν ἴσον τὸ πλῆθος τῶν Α, Β, Γ,      and have made L, O (by) multiplying G, K, respec-
+Δ τῷ πλήθει τῶν Λ, Μ, Ν, Ξ, ἕκαστος ἄρα τῶν Α, Β, Γ,        tively, G, K and L, O are thus also prime to one another
+Δ ἑκάστῳ τῶν Λ, Μ, Ν, Ξ ἴσος ἐστίν· ἴσος ἄρα ἐστὶν ὁ        [Prop. 7.27]. And since A, B, C, D are the least of those
+μὲν Α τῷ Λ, ὁ δὲ Δ τῷ Ξ. καί εἰσιν οἱ Λ, Ξ πρῶτοι πρὸς      (numbers) having the same ratio as them, and L, M , N ,
+ἀλλήλους. καὶ οἱ Α, Δ ἄρα πρῶτοι πρὸς ἀλλήλους εἰσίν·       O are also the least (of those numbers having the same
+ὅπερ ἔδει δεῖξαι.                                           ratio as them), being in the same ratio as A, B, C, D, and
+                                                            the multitude of A, B, C, D is equal to the multitude of
+                                                            L, M , N , O, thus A, B, C, D are equal to L, M , N , O,
+                                                            respectively. Thus, A is equal to L, and D to O. And L
+                                                            and O are prime to one another. Thus, A and D are also
+                                                            prime to one another. (Which is) the very thing it was
+
+
+                                                         230
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+                                                             required to show.
+
+                           dþ.                                                    Proposition 4
+    Λόγων δοθέντων ὁποσωνοῦν ἐν ἐλαχίστοις ἀριθμοῖς         For any multitude whatsoever of given ratios, (ex-
+ἀριθμοὺς εὑρεῖν ἑξῆς ἀνάλογον ἐλαχίστους ἐν τοῖς δοθεῖσι pressed) in the least numbers, to find the least numbers
+λόγοις.                                                  continuously proportional in these given ratios.
+Α                            Β                                 A                           B
+Γ                            ∆                                 C                           D
+Ε                            Ζ                                 E                           F
+
+Ν                            Θ                                 N                           H
+Ξ                            Η                                 O                           G
+Μ                            Κ                                 M                           K
+Ο                            Λ                                 P                           L
+    ῎Εστωσαν οἱ δοθέντες λόγοι ἐν ἐλαχίστοις ἀριθμοῖς ὅ          Let the given ratios, (expressed) in the least numbers,
+τε τοῦ Α πρὸς τὸν Β καὶ ὁ τοῦ Γ πρὸς τὸν Δ καὶ ἔτι ὁ         be the (ratios) of A to B, and of C to D, and, further,
+τοῦ Ε πρὸς τὸν Ζ· δεῖ δὴ ἀριθμοὺς εὑρεῖν ἑξῆς ἀνάλογον       of E to F . So it is required to find the least numbers
+ἐλαχίστους ἔν τε τῷ τοῦ Α πρὸς τὸν Β λόγῳ καὶ ἐν τῷ τοῦ      continuously proportional in the ratio of A to B, and of
+Γ πρὸς τὸν Δ καὶ ἔτι τῷ τοῦ Ε πρὸς τὸν Ζ.                    C to B, and, further, of E to F .
+    Εἰλήφθω γὰρ ὁ ὑπὸ τῶν Β, Γ ἐλάχιστος μετρούμενος             For let the least number, G, measured by (both) B and
+ἀριθμὸς ὁ Η. καὶ ὁσάκις μὲν ὁ Β τὸν Η μετρεῖ, τοσαυτάκις     C have be taken [Prop. 7.34]. And as many times as B
+καὶ ὁ Α τὸν Θ μετρείτω, ὁσάκις δὲ ὁ Γ τὸν Η μετρεῖ, το-      measures G, so many times let A also measure H. And as
+σαυτάκις καὶ ὁ Δ τὸν Κ μετρείτω. ὁ δὲ Ε τὸν Κ ἤτοι μετρεῖ    many times as C measures G, so many times let D also
+ἢ οὐ μετρεῖ. μετρείτω πρότερον. καὶ ὁσάκις ὁ Ε τὸν Κ με-     measure K. And E either measures, or does not measure,
+τρεῖ, τοσαυτάκις καὶ ὁ Ζ τὸν Λ μετρείτω. καὶ ἐπεὶ ἰσάκις ὁ   K. Let it, first of all, measure (K). And as many times as
+Α τὸν Θ μετρεῖ καὶ ὁ Β τὸν Η, ἔστιν ἄρα ὡς ὁ Α πρὸς τὸν      E measures K, so many times let F also measure L. And
+Β, οὕτως ὁ Θ πρὸς τὸν Η. διὰ τὰ αὐτὰ δὴ καὶ ὡς ὁ Γ πρὸς      since A measures H the same number of times that B also
+τὸν Δ, οὕτως ὁ Η πρὸς τὸν Κ, καὶ ἔτι ὡς ὁ Ε πρὸς τὸν Ζ,      (measures) G, thus as A is to B, so H (is) to G [Def. 7.20,
+οὕτως ὁ Κ πρὸς τὸν Λ· οἱ Θ, Η, Κ, Λ ἄρα ἑξῆς ἀνάλογόν        Prop. 7.13]. And so, for the same (reasons), as C (is) to
+εἰσιν ἔν τε τῷ τοῦ Α πρὸς τὸν Β καὶ ἐν τῷ τοῦ Γ πρὸς τὸν     D, so G (is) to K, and, further, as E (is) to F , so K (is)
+Δ καὶ ἔτι ἐν τῷ τοῦ Ε πρὸς τὸν Ζ λόγῳ. λέγω δή, ὅτι καὶ      to L. Thus, H, G, K, L are continuously proportional in
+ἐλάχιστοι. εἰ γὰρ μή εἰσιν οἱ Θ, Η, Κ, Λ ἑξῆς ἀνάλογον       the ratio of A to B, and of C to D, and, further, of E to
+ἐλάχιστοι ἔν τε τοῖς τοῦ Α πρὸς τὸν Β καὶ τοῦ Γ πρὸς τὸν     F . So I say that (they are) also the least (numbers con-
+Δ καὶ ἐν τῷ τοῦ Ε πρὸς τὸν Ζ λόγοις, ἔστωσαν οἱ Ν, Ξ,        tinuously proportional in these ratios). For if H, G, K,
+Μ, Ο. καὶ ἐπεί ἐστιν ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Ν πρὸς       L are not the least numbers continuously proportional in
+τὸν Ξ, οἱ δὲ Α, Β ἐλάχιστοι, οἱ δὲ ἐλάχιστοι μετροῦσι τοὺς   the ratios of A to B, and of C to D, and of E to F , let N ,
+τὸν αὐτὸν λόγον ἔχοντας ἰσάκις ὅ τε μείζων τὸν μείζονα       O, M , P be (the least such numbers). And since as A is
+καὶ ὁ ἐλάσσων τὸν ἐλάσσονα, τουτέστιν ὅ τε ἡγούμενος         to B, so N (is) to O, and A and B are the least (numbers
+τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν ἑπόμενον, ὁ Β ἄρα τὸν       which have the same ratio as them), and the least (num-
+Ξ μετρεῖ. διὰ τὰ αὐτὰ δὴ καὶ ὁ Γ τὸν Ξ μετρεῖ· οἱ Β, Γ       bers) measure those (numbers) having the same ratio (as
+ἄρα τὸν Ξ μετροῦσιν· καὶ ὁ ἐλάχιστος ἄρα ὑπὸ τῶν Β, Γ        them) an equal number of times, the greater (measur-
+μετρούμενος τὸν Ξ μετρήσει. ἐλάχιστος δὲ ὑπὸ τῶν Β, Γ        ing) the greater, and the lesser the lesser—that is to say,
+μετρεῖται ὁ Η· ὁ Η ἄρα τὸν Ξ μετρεῖ ὁ μείζων τὸν ἐλάσσονα·   the leading (measuring) the leading, and the following
+ὅπερ ἐστὶν ἀδύντατον. οὐκ ἄρα ἔσονταί τινες τῶν Θ, Η, Κ,     the following [Prop. 7.20], B thus measures O. So, for
+Λ ἐλάσσονες ἀριθμοὶ ἑξῆς ἔν τε τῷ τοῦ Α πρὸς τὸν Β καὶ       the same (reasons), C also measures O. Thus, B and C
+τῷ τοῦ Γ πρὸς τὸν Δ καὶ ἔτι τῷ τοῦ Ε πρὸς τὸν Ζ λόγῷ.        (both) measure O. Thus, the least number measured by
+                                                             (both) B and C will also measure O [Prop. 7.35]. And
+                                                             G (is) the least number measured by (both) B and C.
+
+
+                                                         231
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+                                                              Thus, G measures O, the greater (measuring) the lesser.
+                                                              The very thing is impossible. Thus, there cannot be any
+                                                              numbers less than H, G, K, L (which are) continuously
+                                                              (proportional) in the ratio of A to B, and of C to D, and,
+                                                              further, of E to F .
+    Α                          Β                                  A                          B
+    Γ                          ∆                                  C                          D
+    Ε                          Ζ                                  E                          F
+
+    Ν                          Θ                                  N                          H
+    Ξ                          Η                                  O                          G
+    Μ                          Κ                                  M                          K
+    Ο                                                             P
+                      Π                                                             Q
+                      Ρ                                                             R
+                      Σ                                                             S
+                      Τ                                                             T
+    Μὴ μετρείτω δὴ ὁ Ε τὸν Κ, καὶ εἰλήφθω ὑπὸ τῶν Ε,              So let E not measure K. And let the least num-
+Κ ἐλάχιστος μετρούμενος ἀριθμὸς ὁ Μ. καὶ ὁσάκις μὲν           ber, M , measured by (both) E and K have been taken
+ὁ Κ τὸν Μ μετρεῖ, τοσαυτάκις καὶ ἑκάτερος τῶν Θ, Η            [Prop. 7.34]. And as many times as K measures M , so
+ἑκάτερον τῶν Ν, Ξ μετρείτω, ὁσάακις δὲ ὁ Ε τὸν Μ με-          many times let H, G also measure N , O, respectively.
+τρεῖ, τοσαυτάκις καὶ ὁ Ζ τὸν Ο μετρείτω. ἐπεὶ ἰσάκις ὁ Θ      And as many times as E measures M , so many times let
+τὸν Ν μετρεῖ καὶ ὁ Η τὸν Ξ, ἔστιν ἄρα ὡς ὁ Θ πρὸς τὸν         F also measure P . Since H measures N the same num-
+Η, οὕτως ὁ Ν πρὸς τὸν Ξ. ὡς δὲ ὁ Θ πρὸς τὸν Η, οὕτως          ber of times as G (measures) O, thus as H is to G, so
+ὁ Α πρὸς τὸν Β· καὶ ὡς ἄρα ὁ Α πρὸς τὸν Β, οὕτως ὁ Ν          N (is) to O [Def. 7.20, Prop. 7.13]. And as H (is) to G,
+πρὸς τὸν Ξ. διὰ τὰ αὐτὰ δὴ καὶ ὡς ὁ Γ πρὸς τὸν Δ, οὕτως       so A (is) to B. And thus as A (is) to B, so N (is) to
+ὁ Ξ πρὸς τὸν Μ. πάλιν, ἐπεὶ ἰσάκις ὁ Ε τὸν Μ μετρεῖ καὶ       O. And so, for the same (reasons), as C (is) to D, so O
+ὁ Ζ τὸν Ο, ἔστιν ἄρα ὡς ὁ Ε πρὸς τὸν Ζ, οὕτως ὁ Μ πρὸς        (is) to M . Again, since E measures M the same num-
+τὸν Ο· οἱ Ν, Ξ, Μ, Ο ἄρα ἑξῆς ἀνάλογόν εἰσιν ἐν τοῖς τοῦ      ber of times as F (measures) P , thus as E is to F , so
+τε Α πρὸς τὸν Β καὶ τοῦ Γ πρὸς τὸν Δ καὶ ἔτι τοῦ Ε πρὸς       M (is) to P [Def. 7.20, Prop. 7.13]. Thus, N , O, M , P
+τὸν Ζ λόγοις. λέγω δή, ὅτι καὶ ἐλάχιστοι ἐν τοῖς Α Β, Γ       are continuously proportional in the ratios of A to B, and
+Δ, Ε Ζ λόγοις. εἰ γὰρ μή, ἔσονταί τινες τῶν Ν, Ξ, Μ, Ο        of C to D, and, further, of E to F . So I say that (they
+ἐλάσσονες ἀριθμοὶ ἑξῆς ἀνάλογον ἐν τοῖς Α Β, Γ Δ, Ε Ζ         are) also the least (numbers) in the ratios of A B, C D,
+λόγοις. ἔστωσαν οἱ Π, Ρ, Σ, Τ. καὶ ἐπεί ἐστιν ὡς ὁ Π πρὸς     E F . For if not, then there will be some numbers less
+τὸν Ρ, οὕτως ὁ Α πρὸς τὸν Β, οἱ δὲ Α, Β ἐλάχιστοι, οἱ δὲ      than N , O, M , P (which are) continuously proportional
+ἐλάχιστοι μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας αὐτοῖς        in the ratios of A B, C D, E F . Let them be Q, R, S,
+ἰσάκις ὅ τε ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν        T . And since as Q is to R, so A (is) to B, and A and B
+ἑπόμενον, ὁ Β ἄρα τὸν Ρ μετρεῖ. διὰ τὰ αὐτὰ δὴ καὶ ὁ Γ        (are) the least (numbers having the same ratio as them),
+τὸν Ρ μετρεῖ· οἱ Β, Γ ἄρα τὸν Ρ μετροῦσιν. καὶ ὁ ἐλάχιστος    and the least (numbers) measure those (numbers) hav-
+ἄρα ὑπὸ τῶν Β, Γ μετούμενος τὸν Ρ μετρήσει. ἐλάχιστος         ing the same ratio as them an equal number of times,
+δὲ ὑπὸ τῶν Β, Γ μετρούμενος ἐστιν ὁ Η· ὁ Η ἄρα τὸν Ρ          the leading (measuring) the leading, and the following
+μετρεῖ. καί ἐστιν ὡς ὁ Η πρὸς τὸν Ρ, οὕτως ὁ Κ πρὸς τὸν       the following [Prop. 7.20], B thus measures R. So, for
+Σ· καὶ ὁ Κ ἄρα τὸν Σ μετρεῖ. μετρεῖ δὲ καὶ ὁ Ε τὸν Σ· οἱ Ε,   the same (reasons), C also measures R. Thus, B and C
+Κ ἄρα τὸν Σ μετροῦσιν. καὶ ὁ ἐλάχιστος ἄρα ὑπὸ τῶν Ε, Κ       (both) measure R. Thus, the least (number) measured by
+μετρούμενος τὸν Σ μετρήσει. ἐλάχιστος δὲ ὑπὸ τῶν Ε, Κ         (both) B and C will also measure R [Prop. 7.35]. And G
+μετρούμενός ἐστιν ὁ Μ· ὁ Μ ἄρα τὸν Σ μετρεῖ ὁ μείζων τὸν      is the least number measured by (both) B and C. Thus,
+ἐλάσσονα· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα ἔσονταί τινες τῶν      G measures R. And as G is to R, so K (is) to S. Thus,
+
+
+
+                                                          232
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+Ν, Ξ, Μ, Ο ἐλάσσονες ἀριθμοὶ ἑξῆς ἀνάλογον ἔν τε τοῖς       K also measures S [Def. 7.20]. And E also measures
+τοῦ Α πρὸς τὸν Β καὶ τοῦ Γ πρὸς τὸν Δ καὶ ἔτι τοῦ Ε πρὸς    S [Prop. 7.20]. Thus, E and K (both) measure S. Thus,
+τὸν Ζ λόγοις· οἱ Ν, Ξ, Μ, Ο ἄρα ἑξῆς ἀνάλογον ἐλάχιστοί     the least (number) measured by (both) E and K will also
+εἰσιν ἐν τοῖς Α Β, Γ Δ, Ε Ζ λόγοις· ὅπερ ἔδει δεῖξαι.       measure S [Prop. 7.35]. And M is the least (number)
+                                                            measured by (both) E and K. Thus, M measures S, the
+                                                            greater (measuring) the lesser. The very thing is impos-
+                                                            sible. Thus there cannot be any numbers less than N , O,
+                                                            M , P (which are) continuously proportional in the ratios
+                                                            of A to B, and of C to D, and, further, of E to F . Thus,
+                                                            N , O, M , P are the least (numbers) continuously propor-
+                                                            tional in the ratios of A B, C D, E F . (Which is) the very
+                                                            thing it was required to show.
+
+                           eþ.                                                   Proposition 5
+   Οἱ ἐπίπεδοι ἀριθμοὶ πρὸς ἀλλήλους λόγον ἔχουσι τὸν    Plane numbers have to one another the ratio compoun-
+συγκείμενον ἐκ τῶν πλευρῶν.                           ded† out of (the ratios of) their sides.
+            Α                                                            A
+            Β                                                            B
+
+            Γ               ∆                                            C                 D
+            Ε               Ζ                                            E                 F
+
+            Η                                                            G
+            Θ                                                            H
+            Κ                                                            K
+
+            Λ                                                            L
+    ῎Εστωσαν ἐπίπεδοι ἀριθμοὶ οἱ Α, Β, καὶ τοῦ μὲν Α            Let A and B be plane numbers, and let the numbers
+πλευραὶ ἔστωσαν οἱ Γ, Δ ἀριθμοί, τοῦ δὲ Β οἱ Ε, Ζ· λέγω,    C, D be the sides of A, and (the numbers) E, F (the
+ὅτι ὁ Α πρὸς τὸν Β λόγον ἔχει τὸν συγκείμενον ἐκ τῶν        sides) of B. I say that A has to B the ratio compounded
+πλευρῶν.                                                    out of (the ratios of) their sides.
+    Λόγων γὰρ δοθέντων τοῦ τε ὃν ἔχει ὁ Γ πρὸς τὸν Ε καὶ        For given the ratios which C has to E, and D (has) to
+ὁ Δ πρὸς τὸν Ζ εἰλήφθωσαν ἀριθμοὶ ἑξῆς ἐλάχιστοι ἐν τοῖς    F , let the least numbers, G, H, K, continuously propor-
+Γ Ε, Δ Ζ λόγοις, οἱ Η, Θ, Κ, ὥστε εἶναι ὡς μὲν τὸν Γ πρὸς   tional in the ratios C E, D F have been taken [Prop. 8.4],
+τὸν Ε, οὕτως τὸν Η πρὸς τὸν Θ, ὡς δὲ τὸν Δ πρὸς τὸν Ζ,      so that as C is to E, so G (is) to H, and as D (is) to F , so
+οὕτως τὸν Θ πρὸς τὸν Κ. καὶ ὁ Δ τὸν Ε πολλαπλασιάσας        H (is) to K. And let D make L (by) multiplying E.
+τὸν Λ ποιείτω.                                                  And since D has made A (by) multiplying C, and has
+    Καὶ ἐπεὶ ὁ Δ τὸν μὲν Γ πολλαπλασιάσας τὸν Α             made L (by) multiplying E, thus as C is to E, so A (is) to
+πεποίηκεν, τὸν δὲ Ε πολλαπλασιάσας τὸν Λ πεποίηκεν,         L [Prop. 7.17]. And as C (is) to E, so G (is) to H. And
+ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Ε, οὕτως ὁ Α πρὸς τὸν Λ. ὡς       thus as G (is) to H, so A (is) to L. Again, since E has
+δὲ ὁ Γ πρὸς τὸν Ε, οὕτως ὁ Η πρὸς τὸν Θ· καὶ ὡς ἄρα ὁ       made L (by) multiplying D [Prop. 7.16], but, in fact, has
+Η πρὸς τὸν Θ, οὕτως ὁ Α πρὸς τὸν Λ. πάλιν, ἐπεὶ ὁ Ε τὸν     also made B (by) multiplying F , thus as D is to F , so L
+Δ πολλαπλασιάσας τὸν Λ πεποίηκεν, ἀλλὰ μὴν καὶ τὸν Ζ        (is) to B [Prop. 7.17]. But, as D (is) to F , so H (is) to
+πολλαπλασιάσας τὸν Β πεποίηκεν, ἔστιν ἄρα ὡς ὁ Δ πρὸς       K. And thus as H (is) to K, so L (is) to B. And it was
+τὸν Ζ, οὕτως ὁ Λ πρὸς τὸν Β. ἀλλ᾿ ὡς ὁ Δ πρὸς τὸν Ζ,        also shown that as G (is) to H, so A (is) to L. Thus, via
+οὕτως ὁ Θ πρὸς τὸν Κ· καὶ ὡς ἄρα ὁ Θ πρὸς τὸν Κ, οὕτως      equality, as G is to K, [so] A (is) to B [Prop. 7.14]. And
+ὁ Λ πρὸς τὸν Β. ἐδείχθη δὲ καὶ ὡς ὁ Η πρὸς τὸν Θ, οὕτως     G has to K the ratio compounded out of (the ratios of)
+ὁ Α πρὸς τὸν Λ· δι᾿ ἴσου ἄρα ἐστὶν ὡς ὁ Η πρὸς τὸν Κ,       the sides (of A and B). Thus, A also has to B the ratio
+[οὕτως] ὁ Α πρὸς τὸν Β. ὁ δὲ Η πρὸς τὸν Κ λόγον ἔχει        compounded out of (the ratios of) the sides (of A and B).
+
+
+                                                        233
+STOIQEIWN hþ.                                                                                ELEMENTS BOOK 8
+
+τὸν συγκείμενον ἐκ τῶν πλευρῶν· καὶ ὁ Α ἄρα πρὸς τὸν (Which is) the very thing it was required to show.
+Β λόγον ἔχει τὸν συγκείμενον ἐκ τῶν πλευρῶν· ὅπερ ἔδει
+δεῖξαι.
+† i.e., multiplied.
+
+
+
+                           þ.                                                  Proposition 6
+   ᾿Εὰν ὦσιν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, ὁ δὲ        If there are any multitude whatsoever of continuously
+πρῶτος τὸν δεύτερον μὴ μετρῇ, οὐδὲ ἄλλος οὐδεὶς οὐδένα proportional numbers, and the first does not measure the
+μετρήσει.                                              second, then no other (number) will measure any other
+                                                       (number) either.
+               Α                                                       A
+               Β                                                       B
+               Γ                                                       C
+               ∆                                                       D
+               Ε                                                       E
+
+               Ζ                                                       F
+               Η                                                       G
+               Θ                                                       H
+    ῎Εστωσαν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α, Β,           Let A, B, C, D, E be any multitude whatsoever of
+Γ, Δ, Ε, ὁ δὲ Α τὸν Β μὴ μετρείτω· λέγω, ὅτι οὐδὲ ἄλλος     continuously proportional numbers, and let A not mea-
+οὐδεὶς οὐδένα μετρήσει.                                     sure B. I say that no other (number) will measure any
+    ῞Οτι μὲν οὖν οἱ Α, Β, Γ, Δ, Ε ἑξῆς ἀλλήλους οὐ με-      other (number) either.
+τροῦσιν, φανερόν· οὐδὲ γὰρ ὁ Α τὸν Β μετρεῖ. λέγω               Now, (it is) clear that A, B, C, D, E do not succes-
+δή, ὅτι οὐδὲ ἄλλος οὐδεὶς οὐδένα μετρήσει. εἰ γὰρ δυ-       sively measure one another. For A does not even mea-
+νατόν, μετρείτω ὁ Α τὸν Γ. καὶ ὅσοι εἰσὶν οἱ Α, Β, Γ,       sure B. So I say that no other (number) will measure
+τοσοῦτοι εἰλήφθωσαν ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν         any other (number) either. For, if possible, let A measure
+λόγον ἐχόντων τοῖς Α, Β, Γ οἱ Ζ, Η, Θ. καὶ ἐπεὶ οἱ Ζ,       C. And as many (numbers) as are A, B, C, let so many
+Η, Θ ἐν τῷ αὐτῷ λόγῳ εἰσὶ τοῖς Α, Β, Γ, καί ἐστιν ἴσον τὸ   of the least numbers, F , G, H, have been taken of those
+πλῆθος τῶν Α, Β, Γ τῷ πλήθει τῶν Ζ, Η, Θ, δι᾿ ἴσου ἄρα      (numbers) having the same ratio as A, B, C [Prop. 7.33].
+ἐστὶν ὡς ὁ Α πρὸς τὸν Γ, οὕτως ὁ Ζ πρὸς τὸν Θ. καὶ ἐπεί     And since F , G, H are in the same ratio as A, B, C, and
+ἐστιν ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Ζ πρὸς τὸν Η, οὐ μετρεῖ    the multitude of A, B, C is equal to the multitude of F ,
+δὲ ὁ Α τὸν Β, οὐ μετρεῖ ἄρα οὐδὲ ὁ Ζ τὸν Η· οὐκ ἄρα μονάς   G, H, thus, via equality, as A is to C, so F (is) to H
+ἐστιν ὁ Ζ· ἡ γὰρ μονὰς πάντα ἀριθμὸν μετρεῖ. καί εἰσιν οἱ   [Prop. 7.14]. And since as A is to B, so F (is) to G,
+Ζ, Θ πρῶτοι πρὸς ἀλλήλους [οὐδὲ ὁ Ζ ἄρα τὸν Θ μετρεῖ].      and A does not measure B, F does not measure G either
+καί ἐστιν ὡς ὁ Ζ πρὸς τὸν Θ, οὕτως ὁ Α πρὸς τὸν Γ· οὐδὲ     [Def. 7.20]. Thus, F is not a unit. For a unit measures
+ὁ Α ἄρα τὸν Γ μετρεῖ. ὁμοίως δὴ δείξομεν, ὅτι οὐδὲ ἄλλος    all numbers. And F and H are prime to one another
+οὐδεὶς οὐδένα μετρήσει· ὅπερ ἔδει δεῖξαι.                   [Prop. 8.3] [and thus F does not measure H]. And as
+                                                            F is to H, so A (is) to C. And thus A does not measure
+                                                            C either [Def. 7.20]. So, similarly, we can show that no
+                                                            other (number) can measure any other (number) either.
+                                                            (Which is) the very thing it was required to show.
+
+                           zþ.                                                  Proposition 7
+   ᾿Εὰν ὦσιν ὁποσοιοῦν ἀριθμοὶ [ἑξῆς] ἀνάλογον, ὁ δὲ           If there are any multitude whatsoever of [continu-
+πρῶτος τὸν ἔσχατον μετρῇ, καὶ τὸν δεύτερον μετρήσει.        ously] proportional numbers, and the first measures the
+
+                                                        234
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+                                                             last, then (the first) will also measure the second.
+              Α                                                            A
+              Β                                                            B
+              Γ                                                            C
+              ∆                                                            D
+   ῎Εστωσαν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α, Β, Γ,       Let A, B, C, D be any number whatsoever of continu-
+Δ, ὁ δὲ Α τὸν Δ μετρείτω· λέγω, ὅτι καὶ ὁ Α τὸν Β μετρεῖ. ously proportional numbers. And let A measure D. I say
+   Εἰ γὰρ οὐ μετρεῖ ὁ Α τὸν Β, οὐδὲ ἄλλος οὐδεὶς οὐδένα that A also measures B.
+μετρήσει· μετρεῖ δὲ ὁ Α τὸν Δ. μετρεῖ ἄρα καὶ ὁ Α τὸν Β·      For if A does not measure B then no other (number)
+ὅπερ ἔδει δεῖξαι.                                         will measure any other (number) either [Prop. 8.6]. But
+                                                          A measures D. Thus, A also measures B. (Which is) the
+                                                          very thing it was required to show.
+
+                           hþ.                                                    Proposition 8
+   ᾿Εὰν δύο ἀριθμῶν μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον             If between two numbers there fall (some) numbers in
+ἐμπίπτωσιν ἀριθμοί, ὅσοι εἰς αὐτοὺς μεταξὺ κατὰ τὸ συ-       continued proportion then, as many numbers as fall in
+νεχὲς ἀνόλογον ἐμπίπτουσιν ἀριθμοί, τοσοῦτοι καὶ εἰς τοὺς    between them in continued proportion, so many (num-
+τὸν αὐτὸν λόγον ἔχοντας [αὐτοῖς] μεταξὺ κατὰ τὸ συνὲχες      bers) will also fall in between (any two numbers) having
+ἀνάλογον ἐμπεσοῦνται                                         the same ratio [as them] in continued proportion.
+      Α                   Ε                                        A                    E
+      Γ                   Μ                                        C                    M
+      ∆                   Ν                                        D                    N
+      Β                   Ζ                                        B                    F
+
+      Η                                                            G
+      Θ                                                            H
+      Κ                                                            K
+      Λ                                                            L
+    Δύο γὰρ ἀριθμῶν τῶν Α, Β μεταξὺ κατὰ τὸ συνεχὲς              For let the numbers, C and D, fall between two num-
+ἀνάλογον ἐμπιπτέτωσαν ἀριθμοὶ οἱ Γ, Δ, καὶ πεποιήσθω ὡς      bers, A and B, in continued proportion, and let it have
+ὁ Α πρὸς τὸν Β, οὕτως ὁ Ε πρὸς τὸν Ζ· λέγω, ὅτι ὅσοι εἰς     been contrived (that) as A (is) to B, so E (is) to F . I say
+τοὺς Α, Β μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπεπτώκασιν       that, as many numbers as have fallen in between A and
+ἀριθμοί, τοσοῦτοι καὶ εἰς τοὺς Ε, Ζ μεταξὺ κατὰ τὸ συνεχὲς   B in continued proportion, so many (numbers) will also
+ἀνάλογον ἐμπεσοῦνται.                                        fall in between E and F in continued proportion.
+    ῞Οσοι γάρ εἰσι τῷ πλήθει οἱ Α, Β, Γ, Δ, τοσοῦτοι             For as many as A, B, C, D are in multitude, let so
+εἰλήφθωσαν ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν λόγον             many of the least numbers, G, H, K, L, having the same
+ἐχόντων τοῖς Α, Γ, Δ, Β οἱ Η, Θ, Κ, Λ· οἱ ἄρα ἄκροι          ratio as A, B, C, D, have been taken [Prop. 7.33]. Thus,
+αὐτῶν οἱ Η, Λ πρῶτοι πρὸς ἀλλήλους εἰσίν. καὶ ἐπεὶ οἱ Α,     the outermost of them, G and L, are prime to one another
+Γ, Δ, Β τοῖς Η, Θ, Κ, Λ ἐν τῷ αὐτῷ λόγῳ εἰσίν, καί ἐστιν     [Prop. 8.3]. And since A, B, C, D are in the same ratio
+ἴσον τὸ πλῆθος τῶν Α, Γ, Δ, Β τῷ πλήθει τῶν Η, Θ, Κ,         as G, H, K, L, and the multitude of A, B, C, D is equal
+Λ, δι᾿ ἴσου ἄρα ἐστὶν ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Η πρὸς      to the multitude of G, H, K, L, thus, via equality, as A is
+τὸν Λ. ὡς δὲ ὁ Α πρὸς τὸν Β, οὕτως ὁ Ε πρὸς τὸν Ζ· καὶ       to B, so G (is) to L [Prop. 7.14]. And as A (is) to B, so
+
+
+                                                         235
+STOIQEIWN hþ.                                                                                    ELEMENTS BOOK 8
+
+ὡς ἄρα ὁ Η πρὸς τὸν Λ, οὕτως ὁ Ε πρὸς τὸν Ζ. οἱ δὲ Η, Λ       E (is) to F . And thus as G (is) to L, so E (is) to F . And
+πρῶτοι, οἱ δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ ἐλάχιστοι ἀριθμοὶ   G and L (are) prime (to one another). And (numbers)
+μετροῦσι τοὺς τὸν αὐτὸν λόγον ἔχοντας ἰσάκις ὅ τε μείζων      prime (to one another are) also the least (numbers hav-
+τὸν μείζονα καὶ ὁ ἐλάσσων τὸν ἐλάσσονα, τουτέστιν ὅ τε        ing the same ratio as them) [Prop. 7.21]. And the least
+ἡγούμενος τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν ἑπόμενον.          numbers measure those (numbers) having the same ratio
+ἰσάκις ἄρα ὁ Η τὸν Ε μετρεῖ καὶ ὁ Λ τὸν Ζ. ὁσάκις δὴ ὁ Η      (as them) an equal number of times, the greater (measur-
+τὸν Ε μετρεῖ, τοσαυτάκις καὶ ἑκάτερος τῶν Θ, Κ ἑκάτερον       ing) the greater, and the lesser the lesser—that is to say,
+τῶν Μ, Ν μετρείτω· οἱ Η, Θ, Κ, Λ ἄρα τοὺς Ε, Μ, Ν, Ζ          the leading (measuring) the leading, and the following
+ἰσάκις μετροῦσιν. οἱ Η, Θ, Κ, Λ ἄρα τοῖς Ε, Μ, Ν, Ζ ἐν τῷ     the following [Prop. 7.20]. Thus, G measures E the same
+αὐτῷ λόγῳ εἰσίν. ἀλλὰ οἱ Η, Θ, Κ, Λ τοῖς Α, Γ, Δ, Β ἐν τῷ     number of times as L (measures) F . So as many times as
+αὐτῷ λόγῳ εἰσίν· καὶ οἱ Α, Γ, Δ, Β ἄρα τοῖς Ε, Μ, Ν, Ζ ἐν     G measures E, so many times let H, K also measure M ,
+τῷ αὐτῷ λόγῳ εἰσίν. οἱ δὲ Α, Γ, Δ, Β ἑξῆς ἀνάλογόν εἰσιν·     N , respectively. Thus, G, H, K, L measure E, M , N ,
+καὶ οἱ Ε, Μ, Ν, Ζ ἄρα ἑξῆς ἀνάλογόν εἰσιν. ὅσοι ἄρα εἰς       F (respectively) an equal number of times. Thus, G, H,
+τοὺς Α, Β μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπεπτώκασιν        K, L are in the same ratio as E, M , N , F [Def. 7.20].
+ἀριθμοί, τοσοῦτοι καὶ εἰς τοὺς Ε, Ζ μεταξὺ κατὰ τὸ συνεχὲς    But, G, H, K, L are in the same ratio as A, C, D, B.
+ἀνάλογον ἐμπεπτώκασιν ἀριθμοί· ὅπερ ἔδει δεῖξαι.              Thus, A, C, D, B are also in the same ratio as E, M , N ,
+                                                              F . And A, C, D, B are continuously proportional. Thus,
+                                                              E, M , N , F are also continuously proportional. Thus,
+                                                              as many numbers as have fallen in between A and B in
+                                                              continued proportion, so many numbers have also fallen
+                                                              in between E and F in continued proportion. (Which is)
+                                                              the very thing it was required to show.
+
+                            jþ.                                                    Proposition 9
+    ᾿Εὰν δύο ἀριθμοὶ πρῶτοι πρὸς ἀλλήλους ὦσιν, καὶ               If two numbers are prime to one another and there
+εἰς αὐτοὺς μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπίπτωσιν         fall in between them (some) numbers in continued pro-
+ἀριθμοί, ὅσοι εἰς αὐτοὺς μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον      portion then, as many numbers as fall in between them
+ἐμπίπτουσιν ἀριθμοί, τοσοῦτοι καὶ ἑκατέρου αὐτῶν καὶ          in continued proportion, so many (numbers) will also fall
+μονάδος μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπεσοῦνται.          between each of them and a unit in continued proportion.
+   Α                              Θ                              A                           H
+   Γ                              Κ                              C                           K
+   ∆                              Λ                              D                           L
+   Β                                                             B
+                              Μ                                                             M
+   Ε                                                             E
+                              Ν                                                             N
+   Ζ                          Ξ                                  F                          O
+   Η                          Ο                                  G                          P
+    ῎Εστωσαν δύο ἀριθμοὶ πρῶτοι πρὸς ἀλλήλους οἱ Α,              Let A and B be two numbers (which are) prime to
+Β, καὶ εἰς αὐτοὺς μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον             one another, and let the (numbers) C and D fall in be-
+ἐμπιπτέτωσαν οἱ Γ, Δ, καὶ ἐκκείσθω ἡ Ε μονάς· λέγω,           tween them in continued proportion. And let the unit E
+ὅτι ὅσοι εἰς τοὺς Α, Β μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον        be set out. I say that, as many numbers as have fallen
+ἐμπεπτώκασιν ἀριθμοί, τοσοῦτοι καὶ ἑκατέρου τῶν Α,            in between A and B in continued proportion, so many
+Β καὶ τῆς μονάδος μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον             (numbers) will also fall between each of A and B and
+ἐμπεσοῦνται.                                                  the unit in continued proportion.
+    Εἰλήφθωσαν γὰρ δύο μὲν ἀριθμοὶ ἐλάχιστοι ἐν τῷ τῶν           For let the least two numbers, F and G, which are in
+Α, Γ, Δ, Β λόγῳ ὄντες οἱ Ζ, Η, τρεῖς δὲ οἱ Θ, Κ, Λ, καὶ ἀεὶ   the ratio of A, C, D, B, have been taken [Prop. 7.33].
+
+
+                                                          236
+STOIQEIWN hþ.                                                                                 ELEMENTS BOOK 8
+
+ἑξῆς ἑνὶ πλείους, ἕως ἂν ἴσον γένηται τὸ πλῆθος αὐτῶν τῷ     And the (least) three (numbers), H, K, L. And so on,
+πλήθει τῶν Α, Γ, Δ, Β. εἰλήφθωσαν, καὶ ἔστωσαν οἱ Μ, Ν,      successively increasing by one, until the multitude of the
+Ξ, Ο. φανερὸν δή, ὅτι ὁ μὲν Ζ ἑαυτὸν πολλαπλασιάσας τὸν      (least numbers taken) is made equal to the multitude of
+Θ πεποίηκεν, τὸν δὲ Θ πολλαπλασιάσας τὸν Μ πεποίηκεν,        A, C, D, B [Prop. 8.2]. Let them have been taken, and
+καὶ ὁ Η ἑαυτὸν μὲν πολλαπλασιάσας τὸν Λ πεποίηκεν, τὸν       let them be M , N , O, P . So (it is) clear that F has made
+δὲ Λ πολλαπλασιάσας τὸν Ο πεποίηκεν. καὶ ἐπεὶ οἱ Μ, Ν,       H (by) multiplying itself, and has made M (by) multi-
+Ξ, Ο ἐλάχιστοί εἰσι τῶν τὸν αὐτὸν λόγον ἐχόντων τοῖς Ζ,      plying H. And G has made L (by) multiplying itself, and
+Η, εἰσὶ δὲ καὶ οἱ Α, Γ, Δ, Β ἐλάχιστοι τῶν τὸν αὐτὸν λόγον   has made P (by) multiplying L [Prop. 8.2 corr.]. And
+ἐχόντων τοῖς Ζ, Η, καί ἐστιν ἴσον τὸ πλῆθος τῶν Μ, Ν, Ξ,     since M , N , O, P are the least of those (numbers) hav-
+Ο τῷ πλήθει τῶν Α, Γ, Δ, Β, ἕκαστος ἄρα τῶν Μ, Ν, Ξ, Ο       ing the same ratio as F , G, and A, C, D, B are also the
+ἑκάστῳ τῶν Α, Γ, Δ, Β ἴσος ἐστίν· ἴσος ἄρα ἐστὶν ὁ μὲν Μ     least of those (numbers) having the same ratio as F , G
+τῷ Α, ὁ δὲ Ο τῷ Β. καὶ ἐπεὶ ὁ Ζ ἑαυτὸν πολλαπλασιάσας        [Prop. 8.2], and the multitude of M , N , O, P is equal
+τὸν Θ πεποίηκεν, ὁ Ζ ἄρα τὸν Θ μετρεῖ κατὰ τὰς ἐν τῷ Ζ       to the multitude of A, C, D, B, thus M , N , O, P are
+μονάδας. μετρεῖ δὲ καὶ ἡ Ε μονὰς τὸν Ζ κατὰ τὰς ἐν αὐτῷ      equal to A, C, D, B, respectively. Thus, M is equal to
+μονάδας· ἰσάκις ἄρα ἡ Ε μονὰς τὸν Ζ ἀριθμὸν μετρεῖ καὶ ὁ Ζ   A, and P to B. And since F has made H (by) multiply-
+τὸν Θ. ἔστιν ἄρα ὡς ἡ Ε μονὰς πρὸς τὸν Ζ ἀριθμόν, οὕτως      ing itself, F thus measures H according to the units in F
+ὁ Ζ πρὸς τὸν Θ. πάλιν, ἐπεὶ ὁ Ζ τὸν Θ πολλαπλασιάσας         [Def. 7.15]. And the unit E also measures F according to
+τὸν Μ πεποίηκεν, ὁ Θ ἄρα τὸν Μ μετρεῖ κατὰ τὰς ἐν τῷ Ζ       the units in it. Thus, the unit E measures the number F
+μονάδας. μετρεῖ δὲ καὶ ἡ Ε μονὰς τὸν Ζ ἀριθμὸν κατὰ τὰς ἐν   as many times as F (measures) H. Thus, as the unit E is
+αὐτῷ μονάδας· ἰσάκις ἄρα ἡ Ε μονὰς τὸν Ζ ἀριθμὸν μετρεῖ      to the number F , so F (is) to H [Def. 7.20]. Again, since
+καὶ ὁ Θ τὸν Μ. ἔστιν ἄρα ὡς ἡ Ε μονὰς πρὸς τὸν Ζ ἀριθμόν,    F has made M (by) multiplying H, H thus measures M
+οὕτως ὁ Θ πρὸς τὸν Μ. ἐδείχθη δὲ καὶ ὡς ἡ Ε μονὰς πρὸς       according to the units in F [Def. 7.15]. And the unit E
+τὸν Ζ ἀριθμόν, οὕτως ὁ Ζ πρὸς τὸν Θ· καὶ ὡς ἄρα ἡ Ε μονὰς    also measures the number F according to the units in it.
+πρὸς τὸν Ζ ἀριθμόν, οὕτως ὁ Ζ πρὸς τὸν Θ καὶ ὁ Θ πρὸς        Thus, the unit E measures the number F as many times
+τὸν Μ. ἴσος δὲ ὁ Μ τῷ Α· ἔστιν ἄρα ὡς ἡ Ε μονὰς πρὸς τὸν     as H (measures) M . Thus, as the unit E is to the number
+Ζ ἀριθμόν, οὕτως ὁ Ζ πρὸς τὸν Θ καὶ ὁ Θ πρὸς τὸν Α. διὰ      F , so H (is) to M [Prop. 7.20]. And it was shown that as
+τὰ αὐτὰ δὴ καὶ ὡς ἡ Ε μονὰς πρὸς τὸν Η ἀριθμόν, οὕτως ὁ      the unit E (is) to the number F , so F (is) to H. And thus
+Η πρὸς τὸν Λ καὶ ὁ Λ πρὸς τὸν Β. ὅσοι ἄρα εἰς τοὺς Α, Β      as the unit E (is) to the number F , so F (is) to H, and H
+μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπεπτώκασιν ἀριθμοί,        (is) to M . And M (is) equal to A. Thus, as the unit E is
+τοσοῦτοι καὶ ἑκατέρου τῶν Α, Β καὶ μονάδος τῆς Ε μεταξὺ      to the number F , so F (is) to H, and H to A. And so, for
+κατὰ τὸ συνεχὲς ἀνάλογον ἐμπεπτώκασιν ἀριθμοί· ὅπερ ἔδει     the same (reasons), as the unit E (is) to the number G,
+δεῖξαι.                                                      so G (is) to L, and L to B. Thus, as many (numbers) as
+                                                             have fallen in between A and B in continued proportion,
+                                                             so many numbers have also fallen between each of A and
+                                                             B and the unit E in continued proportion. (Which is) the
+                                                             very thing it was required to show.
+
+                           iþ.                                                   Proposition 10
+   ᾿Εάν δύο ἀριθμῶν ἑκατέρου καὶ μονάδος μεταξὺ κατὰ             If (some) numbers fall between each of two numbers
+τὸ συνεχὲς ἀνάλογον ἐμπίπτωσιν ἀριθμοί, ὅσοι ἑκατέρου        and a unit in continued proportion then, as many (num-
+αὐτῶν καὶ μονάδος μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον            bers) as fall between each of the (two numbers) and the
+ἐμπίπτουσιν ἀριθμοί, τοσοῦτοι καὶ εἰς αὐτοὺς μεταξὺ κατὰ     unit in continued proportion, so many (numbers) will
+τὸ συνεχὲς ἀνάλογον ἐμπεσοῦνται.                             also fall in between the (two numbers) themselves in con-
+   Δύο γὰρ ἀριθμῶν τῶν Α, Β καὶ μονάδος τῆς Γ με-            tinued proportion.
+ταξύ κατὰ τὸ συνεχὲς ἀνάλογον ἐμπιπτέτωσαν ἀριθμοὶ οἵ            For let the numbers D, E and F , G fall between the
+τε Δ, Ε καὶ οἱ Ζ, Η· λέγω, ὅτι ὅσοι ἑκατέρου τῶν Α,          numbers A and B (respectively) and the unit C in con-
+Β καὶ μονάδος τῆς Γ μεταξὺ κατὰ τὸ συνεχὲς ἀνάλογον          tinued proportion. I say that, as many numbers as have
+ἐμπεπτώκασιν ἀριθμοί, τοσοῦτοι καὶ εἰς τοὺς Α, Β μεταξὺ      fallen between each of A and B and the unit C in contin-
+κατὰ τὸ συνεχὲς ἀνάλογον ἐμπεσοῦνται.                        ued proportion, so many will also fall in between A and
+                                                             B in continued proportion.
+
+
+                                                         237
+STOIQEIWN hþ.                                                                                 ELEMENTS BOOK 8
+
+  Γ                      Γ                                    C                        C
+  ∆                      Ζ                                    D                        F
+  Ε                      Η                                    E                        G
+  Α                      Β                                    A                        B
+
+  Θ                                                           H
+  Κ                                                           K
+  Λ                                                           L
+    ῾Ο Δ γὰρ τὸν Ζ πολλαπλασιάσας τὸν Θ ποιείτω,                For let D make H (by) multiplying F . And let D, F
+ἑκάτερος δὲ τῶν Δ, Ζ τὸν Θ πολλαπλασιάσας ἑκάτερον          make K, L, respectively, by multiplying H.
+τῶν Κ, Λ ποιείτω.                                               As since as the unit C is to the number D, so D (is) to
+    Καὶ ἐπεί ἐστιν ὡς ἡ Γ μονὰς πρὸς τὸν Δ ἀριθμόν, οὕτως   E, the unit C thus measures the number D as many times
+ὁ Δ πρὸς τὸν Ε, ἰσάκις ἄρα ἡ Γ μονὰς τὸν Δ ἀριθμὸν μετρεῖ   as D (measures) E [Def. 7.20]. And the unit C measures
+καὶ ὁ Δ τὸν Ε. ἡ δὲ Γ μονὰς τὸν Δ ἀριθμὸν μετρεῖ κατὰ τὰς   the number D according to the units in D. Thus, the
+ἐν τῷ Δ μονάδας· καὶ ὁ Δ ἄρα ἀριθμὸς τὸν Ε μετρεῖ κατὰ      number D also measures E according to the units in D.
+τὰς ἐν τῷ Δ μονάδας· ὁ Δ ἄρα ἑαυτὸν πολλαπλασιάσας τὸν      Thus, D has made E (by) multiplying itself. Again, since
+Ε πεποίηκεν. πάλιν, ἐπεί ἐστιν ὡς ἡ Γ [μονὰς] πρὸς τὸν      as the [unit] C is to the number D, so E (is) to A, the
+Δ ἀριθμὸν, οὕτως ὁ Ε πρὸς τὸν Α, ἰσάκις ἄρα ἡ Γ μονὰς       unit C thus measures the number D as many times as E
+τὸν Δ ἀριθμὸν μετρεῖ καὶ ὁ Ε τὸν Α. ἡ δὲ Γ μονὰς τὸν        (measures) A [Def. 7.20]. And the unit C measures the
+Δ ἀριθμὸν μετρεῖ κατὰ τὰς ἐν τῷ Δ μονάδας· καὶ ὁ Ε ἄρα      number D according to the units in D. Thus, E also mea-
+τὸν Α μετρεῖ κατὰ τὰς ἐν τῷ Δ μονάδας· ὁ Δ ἄρα τὸν Ε        sures A according to the units in D. Thus, D has made
+πολλαπλασιάσας τὸν Α πεποίηκεν. διὰ τὰ αὐτὰ δὴ καὶ ὁ        A (by) multiplying E. And so, for the same (reasons), F
+μὲν Ζ ἑαυτὸν πολλαπλασιάσας τὸν Η πεποίηκεν, τὸν δὲ Η       has made G (by) multiplying itself, and has made B (by)
+πολλαπλασιάσας τὸν Β πεποίηκεν. καὶ ἐπεὶ ὁ Δ ἑαυτὸν μὲν     multiplying G. And since D has made E (by) multiplying
+πολλαπλασιάσας τὸν Ε πεποίηκεν, τὸν δὲ Ζ πολλαπλασιάσας     itself, and has made H (by) multiplying F , thus as D is to
+τὸν Θ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Ε     F , so E (is) to H [Prop 7.17]. And so, for the same rea-
+πρὸς τὸν Θ. διὰ τὰ αὐτὰ δὴ καὶ ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ   sons, as D (is) to F , so H (is) to G [Prop. 7.18]. And thus
+Θ πρὸς τὸν Η. καὶ ὡς ἄρα ὁ Ε πρὸς τὸν Θ, οὕτως ὁ Θ πρὸς     as E (is) to H, so H (is) to G. Again, since D has made
+τὸν Η. πάλιν, ἐπεὶ ὁ Δ ἑκάτερον τῶν Ε, Θ πολλαπλασιάσας     A, K (by) multiplying E, H, respectively, thus as E is to
+ἑκάτερον τῶν Α, Κ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Ε πρὸς τὸν Θ,   H, so A (is) to K [Prop 7.17]. But, as E (is) to H, so D
+οὕτως ὁ Α πρὸς τὸν Κ. ἀλλ᾿ ὡς ὁ Ε πρὸς τὸν Θ, οὕτως ὁ Δ     (is) to F . And thus as D (is) to F , so A (is) to K. Again,
+πρὸς τὸν Ζ· καὶ ὡς ἄρα ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Α πρὸς τὸν   since D, F have made K, L, respectively, (by) multiply-
+Κ. πάλιν, ἐπεὶ ἑκάτερος τῶν Δ, Ζ τὸν Θ πολλαπλασιάσας       ing H, thus as D is to F , so K (is) to L [Prop. 7.18]. But,
+ἑκάτερον τῶν Κ, Λ πεποίηκεν, ἕστιν ἄρα ὡς ὁ Δ πρὸς τὸν      as D (is) to F , so A (is) to K. And thus as A (is) to K,
+Ζ, οὕτως ὁ Κ πρὸς τὸν Λ. ἀλλ᾿ ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ    so K (is) to L. Further, since F has made L, B (by) mul-
+Α πρὸς τὸν Κ· καὶ ὡς ἄρα ὁ Α πρὸς τὸν Κ, οὕτως ὁ Κ πρὸς     tiplying H, G, respectively, thus as H is to G, so L (is) to
+τὸν Λ. ἔτι ἐπεὶ ὁ Ζ ἑκάτερον τῶν Θ, Η πολλαπλασιάσας        B [Prop 7.17]. And as H (is) to G, so D (is) to F . And
+ἑκάτερον τῶν Λ, Β πεποίηκεν, ἔστιν ἄρα ὡς ὁ Θ πρὸς τὸν      thus as D (is) to F , so L (is) to B. And it was also shown
+Η, οὕτως ὁ Λ πρὸς τὸν Β. ὡς δὲ ὁ Θ πρὸς τὸν Η, οὕτως        that as D (is) to F , so A (is) to K, and K to L. And thus
+ὁ Δ πρὸς τὸν Ζ· καὶ ὡς ἄρα ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Λ        as A (is) to K, so K (is) to L, and L to B. Thus, A, K,
+πρὸς τὸν Β. ἐδείχθη δὲ καὶ ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὅ τε    L, B are successively in continued proportion. Thus, as
+Α πρὸς τὸν Κ καὶ ὁ Κ πρὸς τὸν Λ· καὶ ὡς ἄρα ὁ Α πρὸς        many numbers as fall between each of A and B and the
+τὸν Κ, οὕτως ὁ Κ πρὸς τὸν Λ καὶ ὁ Λ πρὸς τὸν Β. οἱ Α,       unit C in continued proportion, so many will also fall in
+Κ, Λ, Β ἄρα κατὰ τὸ συνεχὲς ἑξῆς εἰσιν ἀνάλογον. ὅσοι       between A and B in continued proportion. (Which is)
+ἄρα ἑκατέρου τῶν Α, Β καὶ τῆς Γ μονάδος μεταξὺ κατὰ         the very thing it was required to show.
+τὸ συνεχὲς ἀνάλογον ἐμπίπτουσιν ἀριθμοί, τοσοῦτοι καὶ εἰς
+τοὺς Α, Β μεταξὺ κατὰ τὸ συνεχὲς ἐμπεσοῦνται· ὅπερ ἔδει
+
+
+
+                                                        238
+STOIQEIWN hþ.                                                                                           ELEMENTS BOOK 8
+
+δεῖξαι.
+
+                                iaþ.                                                          Proposition 11
+    Δύο τετραγώνων ἀριθμῶν εἷς μέσος ἀνάλογόν ἐστιν     There exists one number in mean proportion to two
+ἀριθμός, καὶ ὁ τετράγωνος πρὸς τὸν τετράγωνον δι- (given) square numbers.† And (one) square (number)
+πλασίονα λόγον ἔχει ἤπερ ἡ πλευρὰ πρὸς τὴν πλευράν. has to the (other) square (number) a squared‡ ratio with
+                                                    respect to (that) the side (of the former has) to the side
+                                                    (of the latter).
+            Α                                                                     A
+            Β                                                                     B
+            Γ                  ∆                                                  C                 D
+            Ε                                                                     E
+    ῎Εστωσαν τετράγωνοι ἀριθμοὶ οἱ Α, Β, καὶ τοῦ μὲν Α                     Let A and B be square numbers, and let C be the side
+πλευρὰ ἔστω ὁ Γ, τοῦ δὲ Β ὁ Δ· λέγω, ὅτι τῶν Α, Β εἷς                  of A, and D (the side) of B. I say that there exists one
+μέσος ἀνάλογόν ἐστιν ἀριθμός, καὶ ὁ Α πρὸς τὸν Β δι-                   number in mean proportion to A and B, and that A has
+πλασίονα λόγον ἔχει ἤπερ ὁ Γ πρὸς τὸν Δ.                               to B a squared ratio with respect to (that) C (has) to D.
+    ῾Ο Γ γὰρ τὸν Δ πολλαπλασιάσας τὸν Ε ποιείτω. καὶ                       For let C make E (by) multiplying D. And since A is
+ἐπεὶ τετράγωνός ἐστιν ὁ Α, πλευρὰ δὲ αὐτοῦ ἐστιν ὁ Γ, ὁ Γ              square, and C is its side, C has thus made A (by) multi-
+ἄρα ἑαυτὸν πολλαπλασιάσας τὸν Α πεποίηκεν. διὰ τὰ αὐτὰ                 plying itself. And so, for the same (reasons), D has made
+δὴ καὶ ὁ Δ ἑαυτὸν πολλαπλασιάσας τὸν Β πεποίηκεν. ἐπεὶ                 B (by) multiplying itself. Therefore, since C has made A,
+οὖν ὁ Γ ἑκάτερον τῶν Γ, Δ πολλαπλασιάσας ἑκάτερον τῶν                  E (by) multiplying C, D, respectively, thus as C is to D,
+Α, Ε πεποίηκεν, ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Α                 so A (is) to E [Prop. 7.17]. And so, for the same (rea-
+πρὸς τὸν Ε. διὰ τὰ αὐτὰ δὴ καὶ ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ              sons), as C (is) to D, so E (is) to B [Prop. 7.18]. And
+Ε πρὸς τὸν Β. καὶ ὡς ἄρα ὁ Α πρὸς τὸν Ε, οὕτως ὁ Ε πρὸς                thus as A (is) to E, so E (is) to B. Thus, one number
+τὸν Β. τῶν Α, Β ἄρα εἷς μέσος ἀνάλογόν ἐστιν ἀριθμός.                  (namely, E) is in mean proportion to A and B.
+    Λέγω δή, ὅτι καὶ ὁ Α πρὸς τὸν Β διπλασίονα λόγον ἔχει                  So I say that A also has to B a squared ratio with
+ἤπερ ὁ Γ πρὸς τὸν Δ. ἐπεὶ γὰρ τρεῖς ἀριθμοὶ ἀνάλογόν εἰσιν             respect to (that) C (has) to D. For since A, E, B are
+οἱ Α, Ε, Β, ὁ Α ἄρα πρὸς τὸν Β διπλασίονα λόγον ἔχει ἤπερ              three (continuously) proportional numbers, A thus has
+ὁ Α πρὸς τὸν Ε. ὡς δὲ ὁ Α πρὸς τὸν Ε, οὕτως ὁ Γ πρὸς                   to B a squared ratio with respect to (that) A (has) to E
+τὸν Δ. ὁ Α ἄρα πρὸς τὸν Β διπλασίονα λόγον ἔχει ἤπερ ἡ                 [Def. 5.9]. And as A (is) to E, so C (is) to D. Thus, A has
+Γ πλευρὰ πρὸς τὴν Δ· ὅπερ ἔδει δεῖξαι.                                 to B a squared ratio with respect to (that) side C (has)
+                                                                       to (side) D. (Which is) the very thing it was required to
+                                                                       show.
+† In other words, between two given square numbers there exists a number in continued proportion.
+
+‡ Literally, “double”.
+
+
+
+                                ibþ.                                                          Proposition 12
+    Δύο κύβων ἀριθμῶν δύο μέσοι ἀνάλογόν εἰσιν ἀριθμοί,                    There exist two numbers in mean proportion to two
+καὶ ὁ κύβος πρὸς τὸν κύβον τριπλασίονα λόγον ἔχει ἤπερ ἡ               (given) cube numbers.† And (one) cube (number) has to
+πλευρὰ πρὸς τὴν πλευράν.                                               the (other) cube (number) a cubed‡ ratio with respect
+    ῎Εστωσαν κύβοι ἀριθμοὶ οἱ Α, Β καὶ τοῦ μὲν Α πλευρὰ                to (that) the side (of the former has) to the side (of the
+ἔστω ὁ Γ, τοῦ δὲ Β ὁ Δ· λέγω, ὅτι τῶν Α, Β δύο μέσοι                   latter).
+ἀνάλογόν εἰσιν ἀριθμοί, καὶ ὁ Α πρὸς τὸν Β τριπλασίονα                     Let A and B be cube numbers, and let C be the side
+λόγον ἔχει ἤπερ ὁ Γ πρὸς τὸν Δ.                                        of A, and D (the side) of B. I say that there exist two
+                                                                       numbers in mean proportion to A and B, and that A has
+
+
+                                                                   239
+STOIQEIWN hþ.                                                                                           ELEMENTS BOOK 8
+
+                                                                      to B a cubed ratio with respect to (that) C (has) to D.
+  Α                                   Ε                                  A                             E
+  Β                                   Ζ                                  B                             F
+  Γ                                   Η                                  C                             G
+  ∆                                   Θ                                  D                             H
+                                      Κ                                                                K
+    ῾Ο γὰρ Γ ἑαυτὸν μὲν πολλαπλασιάσας τὸν Ε ποιείτω,                     For let C make E (by) multiplying itself, and let it
+τὸν δὲ Δ πολλαπλασιάσας τὸν Ζ ποιείτω, ὁ δὲ Δ ἑαυτὸν                  make F (by) multiplying D. And let D make G (by) mul-
+πολλαπλασιάσας τὸν Η ποιείτω, ἑκάτερος δὲ τῶν Γ, Δ τὸν                tiplying itself, and let C, D make H, K, respectively, (by)
+Ζ πολλαπλασιάσας ἑκάτερον τῶν Θ, Κ ποιείτω.                           multiplying F .
+    Καὶ ἐπεὶ κύβος ἐστὶν ὁ Α, πλευρὰ δὲ αὐτοῦ ὁ Γ, καὶ ὁ                  And since A is cube, and C (is) its side, and C has
+Γ ἑαυτὸν μὲν πολλαπλασιάσας τὸν Ε πεποίηκεν, ὁ Γ ἄρα                  made E (by) multiplying itself, C has thus made E (by)
+ἑαυτὸν μὲν πολλαπλασιάσας τὸν Ε πεποίηκεν, τὸν δὲ Ε                   multiplying itself, and has made A (by) multiplying E.
+πολλαπλασιάσας τὸν Α πεποίηκεν. διὰ τὰ αὐτὰ δὴ καὶ ὁ                  And so, for the same (reasons), D has made G (by) mul-
+Δ ἑαυτὸν μὲν πολλαπλασιάσας τὸν Η πεποίηκεν, τὸν δὲ Η                 tiplying itself, and has made B (by) multiplying G. And
+πολλαπλασιάσας τὸν Β πεποίηκεν. καὶ ἐπεὶ ὁ Γ ἑκάτερον                 since C has made E, F (by) multiplying C, D, respec-
+τῶν Γ, Δ πολλαπλασιάσας ἑκάτερον τῶν Ε, Ζ πεποίηκεν,                  tively, thus as C is to D, so E (is) to F [Prop. 7.17]. And
+ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ε πρὸς τὸν Ζ.                    so, for the same (reasons), as C (is) to D, so F (is) to G
+διὰ τὰ αὐτὰ δὴ καὶ ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ζ πρὸς                  [Prop. 7.18]. Again, since C has made A, H (by) multi-
+τὸν Η. πάλιν, ἐπεὶ ὁ Γ ἑκάτερον τῶν Ε, Ζ πολλαπλασιάσας               plying E, F , respectively, thus as E is to F , so A (is) to
+ἑκάτερον τῶν Α, Θ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Ε πρὸς τὸν                H [Prop. 7.17]. And as E (is) to F , so C (is) to D. And
+Ζ, οὕτως ὁ Α πρὸς τὸν Θ. ὡς δὲ ὁ Ε πρὸς τὸν Ζ, οὕτως ὁ Γ              thus as C (is) to D, so A (is) to H. Again, since C, D
+πρὸς τὸν Δ· καὶ ὡς ἄρα ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Α πρὸς τὸν             have made H, K, respectively, (by) multiplying F , thus
+Θ. πάλιν, ἐπεὶ ἑκάτερος τῶν Γ, Δ τὸν Ζ πολλαπλασιάσας                 as C is to D, so H (is) to K [Prop. 7.18]. Again, since D
+ἑκάτερον τῶν Θ, Κ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν                has made K, B (by) multiplying F , G, respectively, thus
+Δ, οὕτως ὁ Θ πρὸς τὸν Κ. πάλιν, ἐπεὶ ὁ Δ ἑκάτερον τῶν                 as F is to G, so K (is) to B [Prop. 7.17]. And as F (is)
+Ζ, Η πολλαπλασιάσας ἑκάτερον τῶν Κ, Β πεποίηκεν, ἔστιν                to G, so C (is) to D. And thus as C (is) to D, so A (is)
+ἄρα ὡς ὁ Ζ πρὸς τὸν Η, οὕτως ὁ Κ πρὸς τὸν Β. ὡς δὲ ὁ Ζ                to H, and H to K, and K to B. Thus, H and K are two
+πρὸς τὸν Η, οὕτως ὁ Γ πρὸς τὸν Δ· καὶ ὡς ἄρα ὁ Γ πρὸς                 (numbers) in mean proportion to A and B.
+τὸν Δ, οὕτως ὅ τε Α πρὸς τὸν Θ καὶ ὁ Θ πρὸς τὸν Κ καὶ                     So I say that A also has to B a cubed ratio with re-
+ὁ Κ πρὸς τὸν Β. τῶν Α, Β ἄρα δύο μέσοι ἀνάλογόν εἰσιν                 spect to (that) C (has) to D. For since A, H, K, B are
+οἱ Θ, Κ.                                                              four (continuously) proportional numbers, A thus has
+    Λέγω δή, ὅτι καὶ ὁ Α πρὸς τὸν Β τριπλασίονα λόγον ἔχει            to B a cubed ratio with respect to (that) A (has) to H
+ἤπερ ὁ Γ πρὸς τὸν Δ. ἐπεὶ γὰρ τέσσαρες ἀριθμοὶ ἀνάλογόν               [Def. 5.10]. And as A (is) to H, so C (is) to D. And
+εἰσιν οἱ Α, Θ, Κ, Β, ὁ Α ἄρα πρὸς τὸν Β τριπλασίονα λόγον             [thus] A has to B a cubed ratio with respect to (that) C
+ἔχει ἤπερ ὁ Α πρὸς τὸν Θ. ὡς δὲ ὁ Α πρὸς τὸν Θ, οὕτως ὁ               (has) to D. (Which is) the very thing it was required to
+Γ πρὸς τὸν Δ· καὶ ὁ Α [ἄρα] πρὸς τὸν Β τριπλασίονα λόγον              show.
+ἔχει ἤπερ ὁ Γ πρὸς τὸν Δ· ὅπερ ἔδει δεῖξαι.
+† In other words, between two given cube numbers there exist two numbers in continued proportion.
+
+‡ Literally, “triple”.
+
+
+
+                               igþ.                                                           Proposition 13
+   ᾿Εὰν ὦσιν ὁσοιδηποτοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, καὶ            If there are any multitude whatsoever of continuously
+πολλαπλασιάσας ἕκαστος ἑαυτὸν ποιῇ τινα, οἱ γενόμενοι proportional numbers, and each makes some (number
+ἐξ αὐτῶν ἀνάλογον ἔσονται· καὶ ἐὰν οἱ ἐξ ἀρχῆς τοὺς by) multiplying itself, then the (numbers) created from
+γενομένους πολλαπλασιάσαντες ποιῶσί τινας, καὶ αὐτοὶ them will (also) be (continuously) proportional. And if
+ἀνάλογον ἔσονται [καὶ ἀεὶ περὶ τοὺς ἄκρους τοῦτο συμβαίνει]. the original (numbers) make some (more numbers by)
+   ῎Εστωσαν ὁποσοιοῦν ἀριθμοὶ ἑξῆς ἀνάλογον, οἱ Α, Β, multiplying the created (numbers) then these will also
+
+
+                                                                   240
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+Γ, ὡς ὁ Α πρὸς τὸν Β, οὕτως ὁ Β πρὸς τὸν Γ, καὶ οἱ          be (continuously) proportional [and this always happens
+Α, Β, Γ ἑαυτοὺς μὲν πολλαπλασιάσαντες τοὺς Δ, Ε, Ζ          with the extremes].
+ποιείτωσαν, τοὺς δὲ Δ, Ε, Ζ πολλαπλασιάσαντες τοὺς Η,          Let A, B, C be any multitude whatsoever of contin-
+Θ, Κ ποιείτωσαν· λέγω, ὅτι οἵ τε Δ, Ε, Ζ καὶ οἱ Η, Θ, Κ     uously proportional numbers, (such that) as A (is) to B,
+ἑξῆς ἀνάλογον εἰσιν.                                        so B (is) to C. And let A, B, C make D, E, F (by)
+                                                            multiplying themselves, and let them make G, H, K (by)
+                                                            multiplying D, E, F . I say that D, E, F and G, H, K are
+                                                            continuously proportional.
+ Α                               Λ                            A                            L
+ Β                               Ξ                            B                            O
+ Γ                               Μ                            C                            M
+                                 Ν                                                         N
+ ∆                                                            D
+                                 Ο                                                         P
+ Ε                                                            E
+                                 Π                                                         Q
+ Ζ                                                            F
+
+ Η                                                            G
+ Θ                                                            H
+ Κ                                                            K
+   ῾Ο μὲν γὰρ Α τὸν Β πολλαπλασιάσας τὸν Λ ποιείτω,             For let A make L (by) multiplying B. And let A, B
+ἑκάτερος δὲ τῶν Α, Β τὸν Λ πολλαπλασιάσας ἑκάτερον τῶν      make M , N , respectively, (by) multiplying L. And, again,
+Μ, Ν ποιείτω. καὶ πάλιν ὁ μὲν Β τὸν Γ πολλαπλασιάσας τὸν    let B make O (by) multiplying C. And let B, C make P ,
+Ξ ποιείτω, ἑκάτερος δὲ τῶν Β, Γ τὸν Ξ πολλαπλασιάσας        Q, respectively, (by) multplying O.
+ἑκάτερον τῶν Ο, Π ποιείτω.                                      So, similarly to the above, we can show that D, L,
+   ῾Ομοίως δὴ τοῖς ἐπάνω δεῖξομεν, ὅτι οἱ Δ, Λ, Ε καὶ οἱ    E and G, M , N , H are continuously proportional in the
+Η, Μ, Ν, Θ ἑξῆς εἰσιν ἀνάλογον ἐν τῷ τοῦ Α πρὸς τὸν         ratio of A to B, and, further, (that) E, O, F and H, P , Q,
+Β λόγῳ, καὶ ἔτι οἱ Ε, Ξ, Ζ καὶ οἱ Θ, Ο, Π, Κ ἑξῆς εἰσιν     K are continuously proportional in the ratio of B to C.
+ἀνάλογον ἐν τῷ τοῦ Β πρὸς τὸν Γ λόγῳ. καί ἐστιν ὡς ὁ Α      And as A is to B, so B (is) to C. And thus D, L, E are in
+πρὸς τὸν Β, οὕτως ὁ Β πρὸς τὸν Γ· καὶ οἱ Δ, Λ, Ε ἄρα τοῖς   the same ratio as E, O, F , and, further, G, M , N , H (are
+Ε, Ξ, Ζ ἐν τῷ αὐτῷ λόγῳ εἰσὶ καὶ ἔτι οἱ Η, Μ, Ν, Θ τοῖς     in the same ratio) as H, P , Q, K. And the multitude of
+Θ, Ο, Π, Κ. καί ἐστιν ἴσον τὸ μὲν τῶν Δ, Λ, Ε πλῆθος τῷ     D, L, E is equal to the multitude of E, O, F , and that of
+τῶν Ε, Ξ, Ζ πλήθει, τὸ δὲ τῶν Η, Μ, Ν, Θ τῷ τῶν Θ, Ο,       G, M , N , H to that of H, P , Q, K. Thus, via equality, as
+Π, Κ· δι᾿ ἴσου ἄρα ἐστὶν ὡς μὲν ὁ Δ πρὸς τὸν Ε, οὕτως ὁ     D is to E, so E (is) to F , and as G (is) to H, so H (is) to
+Ε πρὸς τὸν Ζ, ὡς δὲ ὁ Η πρὸς τὸν Θ, οὕτως ὁ Θ πρὸς τὸν      K [Prop. 7.14]. (Which is) the very thing it was required
+Κ· ὅπερ ἔδει δεῖξαι.                                        to show.
+
+                          idþ.                                                  Proposition 14
+   ᾿Εὰν τετράγωνος τετράγωνον μετρῇ, καὶ ἡ πλευρὰ τὴν           If a square (number) measures a(nother) square
+πλευρὰν μετρήσει· καὶ ἐὰν ἡ πλευρὰ τὴν πλευρὰν μετρῇ, καὶ   (number) then the side (of the former) will also mea-
+ὁ τετράγωνος τὸν τετράγωνον μετρήσει.                       sure the side (of the latter). And if the side (of a square
+   ῎Εστωσαν τετράγωνοι ἀριθμοὶ οἱ Α, Β, πλευραὶ δὲ αὐτῶν    number) measures the side (of another square number)
+ἔστωσαν οἱ Γ, Δ, ὁ δὲ Α τὸν Β μετρείτω· λέγω, ὅτι καὶ ὁ     then the (former) square (number) will also measure the
+Γ τὸν Δ μετρεῖ.                                             (latter) square (number).
+                                                                Let A and B be square numbers, and let C and D be
+                                                            their sides (respectively). And let A measure B. I say that
+                                                            C also measures D.
+
+
+
+
+                                                        241
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+
+   Α                                 Γ                              A                              C
+   Β                                 ∆                              B                              D
+
+   Ε                                                                E
+    ῾Ο Γ γὰρ τὸν Δ πολλαπλασιάσας τὸν Ε ποιείτω· οἱ Α, Ε,         For let C make E (by) multiplying D. Thus, A, E,
+Β ἄρα ἑξῆς ἀνάλογόν εἰσιν ἐν τῷ τοῦ Γ πρὸς τὸν Δ λόγῳ.        B are continuously proportional in the ratio of C to D
+καὶ ἐπεὶ οἱ Α, Ε, Β ἐξῆς ἀνάλογόν εἰσιν, καὶ μετρεῖ ὁ Α τὸν   [Prop. 8.11]. And since A, E, B are continuously pro-
+Β, μετρεῖ ἄρα καὶ ὁ Α τὸν Ε. καί ἐστιν ὡς ὁ Α πρὸς τὸν Ε,     portional, and A measures B, A thus also measures E
+οὕτως ὁ Γ πρὸς τὸν Δ· μετρεῖ ἄρα καὶ ὁ Γ τὸν Δ.               [Prop. 8.7]. And as A is to E, so C (is) to D. Thus, C
+    Πάλιν δὴ ὁ Γ τὸν Δ μετρείτω· λέγω, ὅτι καὶ ὁ Α τὸν Β      also measures D [Def. 7.20].
+μετρεῖ.                                                           So, again, let C measure D. I say that A also measures
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ὁμοίως δείξομεν,           B.
+ὅτι οἱ Α, Ε, Β ἑξῆς ἀνάλογόν εἰσιν ἐν τῷ τοῦ Γ πρὸς τὸν Δ         For similarly, with the same construction, we can
+λόγῳ. καὶ ἐπεί ἐστιν ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Α πρὸς        show that A, E, B are continuously proportional in the
+τὸν Ε, μετρεῖ δὲ ὁ Γ τὸν Δ, μετρεῖ ἄρα καὶ ὁ Α τὸν Ε. καί     ratio of C to D. And since as C is to D, so A (is) to E,
+εἰσιν οἱ Α, Ε, Β ἑξῆς ἀνάλογον· μετρεῖ ἄρα καὶ ὁ Α τὸν Β.     and C measures D, A thus also measures E [Def. 7.20].
+    ᾿Εὰν ἄρα τετράγωνος τετράγωνον μετρῇ, καὶ ἡ πλευρὰ        And A, E, B are continuously proportional. Thus, A also
+τὴν πλευρὰν μετρήσει· καὶ ἐὰν ἡ πλευρὰ τὴν πλευρὰν μετρῇ,     measures B.
+καὶ ὁ τετράγωνος τὸν τετράγωνον μετρήσει· ὅπερ ἔδει               Thus, if a square (number) measures a(nother) square
+δεῖξαι.                                                       (number) then the side (of the former) will also measure
+                                                              the side (of the latter). And if the side (of a square num-
+                                                              ber) measures the side (of another square number) then
+                                                              the (former) square (number) will also measure the (lat-
+                                                              ter) square (number). (Which is) the very thing it was
+                                                              required to show.
+
+                           ieþ.                                                   Proposition 15
+    ᾿Εὰν κύβος ἀριθμὸς κύβον ἀριθμὸν μετρῇ, καὶ ἡ πλευρὰ          If a cube number measures a(nother) cube number
+τὴν πλευρὰν μετρήσει· καὶ ἐὰν ἡ πλευρὰ τὴν πλευρὰν μετρῇ,     then the side (of the former) will also measure the side
+καὶ ὁ κύβος τὸν κύβον μετρήσει.                               (of the latter). And if the side (of a cube number) mea-
+    Κύβος γὰρ ἀριθμὸς ὁ Α κύβον τὸν Β μετρείτω, καὶ τοῦ       sures the side (of another cube number) then the (for-
+μὲν Α πλευρὰ ἔστω ὁ Γ, τοῦ δὲ Β ὁ Δ· λέγω, ὅτι ὁ Γ τὸν        mer) cube (number) will also measure the (latter) cube
+Δ μετρεῖ.                                                     (number).
+                                                                  For let the cube number A measure the cube (num-
+                                                              ber) B, and let C be the side of A, and D (the side) of B.
+                                                              I say that C measures D.
+ Α                                       Γ                      A                                      C
+ Β                                       ∆                      B                                      D
+
+ Ε                      Θ                                       E                      H
+ Η                      Κ                                       G                      K
+
+ Ζ                                                              F
+   ῾Ο Γ γὰρ ἑαυτὸν πολλαπλασιάσας τὸν Ε ποιείτω, ὁ δὲ Δ             For let C make E (by) multiplying itself. And let
+
+
+                                                          242
+STOIQEIWN hþ.                                                                                   ELEMENTS BOOK 8
+
+ἑαυτὸν πολλαπλασιάσας τὸν Η ποιείτω, καὶ ἔτι ὁ Γ τὸν Δ       D make G (by) multiplying itself. And, further, [let] C
+πολλαπλασιάσας τὸν Ζ [ποιείτω], ἑκάτερος δὲ τῶν Γ, Δ τὸν     [make] F (by) multiplying D, and let C, D make H, K,
+Ζ πολλαπλασιάσας ἑκάτερον τῶν Θ, Κ ποιείτω. φανερὸν          respectively, (by) multiplying F . So it is clear that E, F ,
+δή, ὅτι οἱ Ε, Ζ, Η καὶ οἱ Α, Θ, Κ, Β ἑξῆς ἀνάλογόν εἰσιν     G and A, H, K, B are continuously proportional in the
+ἐν τῷ τοῦ Γ πρὸς τὸν Δ λόγῳ. καὶ ἐπεὶ οἱ Α, Θ, Κ, Β ἑξῆς     ratio of C to D [Prop. 8.12]. And since A, H, K, B are
+ἀνάλογόν εἰσιν, καὶ μετρεῖ ὁ Α τὸν Β, μετρεῖ ἄρα καὶ τὸν     continuously proportional, and A measures B, (A) thus
+Θ. καί ἐστιν ὡς ὁ Α πρὸς τὸν Θ, οὕτως ὁ Γ πρὸς τὸν Δ·        also measures H [Prop. 8.7]. And as A is to H, so C (is)
+μετρεῖ ἄρα καὶ ὁ Γ τὸν Δ.                                    to D. Thus, C also measures D [Def. 7.20].
+    ᾿Αλλὰ δὴ μετρείτω ὁ Γ τὸν Δ· λέγω, ὅτι καὶ ὁ Α τὸν Β         And so let C measure D. I say that A will also mea-
+μετρήσει.                                                    sure B.
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ὁμοίως δὴ δείξομεν,           For similarly, with the same construction, we can
+ὅτι οἱ Α, Θ, Κ, Β ἑξῆς ἀνάλογόν εἰσιν ἐν τῷ τοῦ Γ πρὸς       show that A, H, K, B are continuously proportional in
+τὸν Δ λόγῳ. καὶ ἐπεὶ ὁ Γ τὸν Δ μετρεῖ, καί ἐστιν ὡς ὁ Γ      the ratio of C to D. And since C measures D, and as C is
+πρὸς τὸν Δ, οὕτως ὁ Α πρὸς τὸν Θ, καὶ ὁ Α ἄρα τὸν Θ          to D, so A (is) to H, A thus also measures H [Def. 7.20].
+μετρεῖ· ὥστε καὶ τὸν Β μετρεῖ ὁ Α· ὅπερ ἔδει δεῖξαι.         Hence, A also measures B. (Which is) the very thing it
+                                                             was required to show.
+
+                           iþ.                                                   Proposition 16
+   ᾿Εὰν τετράγωνος ἀριθμὸς τετράγωνον ἀριθμὸν μὴ            If a square number does not measure a(nother)
+μετρῇ, οὐδὲ ἡ πλευρὰ τὴν πλευρὰν μετρήσει· κἂν ἡ πλευρὰ square number then the side (of the former) will not
+τὴν πλευρὰν μὴ μετρῇ, οὐδὲ ὁ τετράγωνος τὸν τετράγωνον measure the side (of the latter) either. And if the side (of
+μετρήσει.                                               a square number) does not measure the side (of another
+                                                        square number) then the (former) square (number) will
+                                                        not measure the (latter) square (number) either.
+      Α                             Γ                             .
+
+
+
+
+                                                                      A                             C
+      Β                             ∆                                 B                             D
+    ῎Εστωσαν τετρὰγωνοι ἀριθμοὶ οἱ Α, Β, πλευραὶ δὲ αὐτῶν       Let A and B be square numbers, and let C and D be
+ἔστωσαν οἱ Γ, Δ, καὶ μὴ μετρείτω ὁ Α τὸν Β· λὲγω, ὅτι οὐδὲ   their sides (respectively). And let A not measure B. I say
+ὁ Γ τὸν Δ μετρεῖ.                                            that C does not measure D either.
+    Εἰ γὰρ μετρεῖ ὁ Γ τὸν Δ, μετρήσει καὶ ὁ Α τὸν Β. οὐ         For if C measures D then A will also measure B
+μετρεῖ δὲ ὁ Α τὸν Β· οὐδὲ ἄρα ὁ Γ τὸν Δ μετρήσει.            [Prop. 8.14]. And A does not measure B. Thus, C will
+    Μὴ μετρείτω [δὴ] πάλιν ὁ Γ τὸν Δ· λέγω, ὅτι οὐδὲ ὁ Α     not measure D either.
+τὸν Β μετρήσει.                                                 [So], again, let C not measure D. I say that A will not
+    Εἰ γὰρ μετρεῖ ὁ Α τὸν Β, μετρήσει καὶ ὁ Γ τὸν Δ. οὐ      measure B either.
+μετρεῖ δὲ ὁ Γ τὸν Δ· οὐδ᾿ ἄρα ὁ Α τὸν Β μετρήσει· ὅπερ          For if A measures B then C will also measure D
+ἔδει δεῖξαι.                                                 [Prop. 8.14]. And C does not measure D. Thus, A will
+                                                             not measure B either. (Which is) the very thing it was
+                                                             required to show.
+
+                           izþ.                                                   Proposition 17
+   ᾿Εὰν κύβος ἀριθμὸς κύβον ἀριθμὸν μὴ μετρῇ, οὐδὲ ἡ      If a cube number does not measure a(nother) cube
+πλευρὰ τὴν πλευρὰν μετρήσει· κἂν ἡ πλευρὰ τὴν πλευρὰν number then the side (of the former) will not measure the
+μὴ μετρῇ, οὐδὲ ὁ κύβος τὸν κύβον μετρήσει.            side (of the latter) either. And if the side (of a cube num-
+                                                      ber) does not measure the side (of another cube number)
+                                                      then the (former) cube (number) will not measure the
+                                                      (latter) cube (number) either.
+
+
+
+
+                                                         243
+STOIQEIWN hþ.                                                                                    ELEMENTS BOOK 8
+
+
+      Α                             Γ                             .
+
+
+
+
+                                                                      A                               C
+      Β                             ∆                                 B                               D
+    Κύβος γὰρ ἀριθμὸς ὁ Α κύβον ἀριθμὸν τὸν Β μὴ με-             For let the cube number A not measure the cube num-
+τρείτω, καὶ τοῦ μὲν Α πλευρὰ ἔστω ὁ Γ, τοῦ δὲ Β ὁ Δ·         ber B. And let C be the side of A, and D (the side) of B.
+λέγω, ὅτι ὁ Γ τὸν Δ οὐ μετρήσει.                             I say that C will not measure D.
+    Εἰ γὰρ μετρεῖ ὁ Γ τὸν Δ, καὶ ὁ Α τὸν Β μετρήσει. οὐ          For if C measures D then A will also measure B
+μετρεῖ δὲ ὁ Α τὸν Β· οὐδ᾿ ἄρα ὁ Γ τὸν Δ μετρεῖ.              [Prop. 8.15]. And A does not measure B. Thus, C does
+    ᾿Αλλὰ δὴ μὴ μετρείτω ὁ Γ τὸν Δ· λέγω, ὅτι οὐδὲ ὁ Α       not measure D either.
+τὸν Β μετρήσει.                                                  And so let C not measure D. I say that A will not
+    Εἰ γὰρ ὁ Α τὸν Β μετρεῖ, καὶ ὁ Γ τὸν Δ μετρήσει. οὐ      measure B either.
+μετρεῖ δὲ ὁ Γ τὸν Δ· οὐδ᾿ ἄρα ὁ Α τὸν Β μετρήσει· ὅπερ           For if A measures B then C will also measure D
+ἔδει δεῖξαι.                                                 [Prop. 8.15]. And C does not measure D. Thus, A will
+                                                             not measure B either. (Which is) the very thing it was
+                                                             required to show.
+
+                           ihþ.                                                   Proposition 18
+    Δύο ὁμοίων ἐπιπέδων ἀριθμῶν εἷς μέσος ἀνάλογόν ἐστιν       There exists one number in mean proportion to two
+ἀριθμός· καὶ ὁ ἐπίπεδος πρὸς τὸν ἐπίπεδον διπλασίονα λόγον similar plane numbers. And (one) plane (number) has to
+ἔχει ἤπερ ἡ ὁμόλογος πλευρὰ πρὸς τὴν ὁμόλογον πλευράν. the (other) plane (number) a squared† ratio with respect
+                                                           to (that) a corresponding side (of the former has) to a
+                                                           corresponding side (of the latter).
+    Α                    Β                                       A                      B
+    Γ                    Ε                                       C                      E
+    ∆                    Ζ                                       D                      F
+
+    Η                                                            G
+    ῎Εστωσαν δύο ὅμοιοι ἐπίπεδοι ἀριθμοὶ οἱ Α, Β, καὶ τοῦ        Let A and B be two similar plane numbers. And let
+μὲν Α πλευραὶ ἔστωσαν οἱ Γ, Δ ἀριθμοί, τοῦ δὲ Β οἱ Ε,        the numbers C, D be the sides of A, and E, F (the sides)
+Ζ. καὶ ἐπεὶ ὅμοιοι ἐπίπεδοί εἰσιν οἱ ἀνάλογον ἔχοντες τὰς    of B. And since similar numbers are those having pro-
+πλευράς, ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ε πρὸς         portional sides [Def. 7.21], thus as C is to D, so E (is) to
+τὸν Ζ. λέγω οὖν, ὅτι τῶν Α, Β εἷς μέσος ἀνάλογόν ἐστιν       F . Therefore, I say that there exists one number in mean
+ἀριθμός, καὶ ὁ Α πρὸς τὸν Β διπλασίονα λόγον ἔχει ἤπερ ὁ     proportion to A and B, and that A has to B a squared
+Γ πρὸς τὸν Ε ἢ ὁ Δ πρὸς τὸν Ζ, τουτέστιν ἤπερ ἡ ὁμόλογος     ratio with respect to that C (has) to E, or D to F —that is
+πλευρὰ πρὸς τὴν ὁμόλογον [πλευράν].                          to say, with respect to (that) a corresponding side (has)
+    Καὶ ἐπεί ἐστιν ὡς ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ε πρὸς τὸν     to a corresponding [side].
+Ζ, ἐναλλὰξ ἄρα ἐστὶν ὡς ὁ Γ πρὸς τὸν Ε, ὁ Δ πρὸς τὸν Ζ.          For since as C is to D, so E (is) to F , thus, alternately,
+καὶ ἐπεὶ ἐπίπεδός ἐστιν ὁ Α, πλευραὶ δὲ αὐτοῦ οἱ Γ, Δ, ὁ Δ   as C is to E, so D (is) to F [Prop. 7.13]. And since A is
+ἄρα τὸν Γ πολλαπλασιάσας τὸν Α πεποίηκεν. διὰ τὰ αὐτὰ        plane, and C, D its sides, D has thus made A (by) mul-
+δὴ καὶ ὁ Ε τὸν Ζ πολλαπλασιάσας τὸν Β πεποίηκεν. ὁ Δ         tiplying C. And so, for the same (reasons), E has made
+δὴ τὸν Ε πολλαπλασιάσας τὸν Η ποιείτω. καὶ ἐπεὶ ὁ Δ τὸν      B (by) multiplying F . So let D make G (by) multiplying
+μὲν Γ πολλαπλασιάσας τὸν Α πεποίηκεν, τὸν δὲ Ε πολλα-        E. And since D has made A (by) multiplying C, and has
+πλασιάσας τὸν Η πεποίηκεν, ἔστιν ἄρα ὡς ὁ Γ πρὸς τὸν Ε,      made G (by) multiplying E, thus as C is to E, so A (is) to
+οὕτως ὁ Α πρὸς τὸν Η. ἀλλ᾿ ὡς ὁ Γ πρὸς τὸν Ε, [οὕτως]        G [Prop. 7.17]. But as C (is) to E, [so] D (is) to F . And
+ὁ Δ πρὸς τὸν Ζ· καὶ ὡς ἄρα ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Α         thus as D (is) to F , so A (is) to G. Again, since E has
+πρὸς τὸν Η. πάλιν, ἐπεὶ ὁ Ε τὸν μὲν Δ πολλαπλασιάσας τὸν     made G (by) multiplying D, and has made B (by) multi-
+Η πεποίηκεν, τὸν δὲ Ζ πολλαπλασιάσας τὸν Β πεποίηκεν,        plying F , thus as D is to F , so G (is) to B [Prop. 7.17].
+ἔστιν ἄρα ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Η πρὸς τὸν Β.           And it was also shown that as D (is) to F , so A (is) to G.
+ἐδείχθη δὲ καὶ ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ Α πρὸς τὸν         And thus as A (is) to G, so G (is) to B. Thus, A, G, B are
+
+
+                                                         244
+STOIQEIWN hþ.                                                                                   ELEMENTS BOOK 8
+
+Η· καὶ ὡς ἄρα ὁ Α πρὸς τὸν Η, οὕτως ὁ Η πρὸς τὸν Β. οἱ        continously proportional. Thus, there exists one number
+Α, Η, Β ἄρα ἑξῆς ἀνάλογόν εἰσιν. τῶν Α, Β ἄρα εἷς μέσος       (namely, G) in mean proportion to A and B.
+ἀνάλογόν ἐστιν ἀριθμός.                                           So I say that A also has to B a squared ratio with
+    Λέγω δή, ὅτι καὶ ὁ Α πρὸς τὸν Β διπλασίονα λόγον          respect to (that) a corresponding side (has) to a corre-
+ἔχει ἤπερ ἡ ὁμόλογος πλευρὰ πρὸς τὴν ὁμόλογον πλευράν,        sponding side—that is to say, with respect to (that) C
+τουτέστιν ἤπερ ὁ Γ πρὸς τὸν Ε ἢ ὁ Δ πρὸς τὸν Ζ. ἐπεὶ γὰρ      (has) to E, or D to F . For since A, G, B are continuously
+οἱ Α, Η, Β ἑξῆς ἀνάλογόν εἰσιν, ὁ Α πρὸς τὸν Β διπλασίονα     proportional, A has to B a squared ratio with respect to
+λόγον ἔχει ἤπερ πρὸς τὸν Η. καί ἐστιν ὡς ὁ Α πρὸς τὸν Η,      (that A has) to G [Prop. 5.9]. And as A is to G, so C (is)
+οὕτως ὅ τε Γ πρὸς τὸν Ε καὶ ὁ Δ πρὸς τὸν Ζ. καὶ ὁ Α ἄρα       to E, and D to F . And thus A has to B a squared ratio
+πρὸς τὸν Β διπλασίονα λόγον ἔχει ἤπερ ὁ Γ πρὸς τὸν Ε ἢ        with respect to (that) C (has) to E, or D to F . (Which
+ὁ Δ πρὸς τὸν Ζ· ὅπερ ἔδει δεῖξαι.                             is) the very thing it was required to show.
+† Literally, “double”.
+
+
+
+                           ijþ.                                                   Proposition 19
+    Δύο ὁμοίων στερεῶν ἀριθμῶν δύο μέσοι ἀνάλογον              Two numbers fall (between) two similar solid num-
+ἐμπίπτουσιν ἀριθμοί· καὶ ὁ στερεὸς πρὸς τὸν ὅμοιον στερεὸν bers in mean proportion. And a solid (number) has to
+τριπλασίονα λόγον ἔχει ἤπερ ἡ ὁμόλογος πλευρὰ πρὸς τὴν a similar solid (number) a cubed† ratio with respect to
+ὁμόλογον πλευράν.                                          (that) a corresponding side (has) to a corresponding side.
+  Α                             Γ                            A                             C
+                                ∆                                                          D
+                                  Ε                                                            E
+
+  Β                               Ζ                             B                              F
+                                  Η                                                            G
+                                  Θ                                                            H
+ Κ                                                              K
+ Μ                               Ν                              M                                N
+  Λ                              Ξ                              L                                O
+    ῎Εστωσαν δύο ὅμοιοι στερεοὶ οἱ Α, Β, καὶ τοῦ μὲν Α            Let A and B be two similar solid numbers, and let
+πλευραὶ ἔστωσαν οἱ Γ, Δ, Ε, τοῦ δὲ Β οἱ Ζ, Η, Θ. καὶ ἐπεὶ     C, D, E be the sides of A, and F , G, H (the sides) of
+ὅμοιοι στερεοί εἰσιν οἱ ἀνάλογον ἔχοντες τὰς πλευράς, ἔστιν   B. And since similar solid (numbers) are those having
+ἄρα ὡς μὲν ὁ Γ πρὸς τὸν Δ, οὕτως ὁ Ζ πρὸς τὸν Η, ὡς δὲ        proportional sides [Def. 7.21], thus as C is to D, so F
+ὁ Δ πρὸς τὸν Ε, οὕτως ὁ Η πρὸς τὸν Θ. λέγω, ὅτι τῶν Α,        (is) to G, and as D (is) to E, so G (is) to H. I say that
+Β δύο μέσοι ἀνάλογόν ἐμπίπτουσιν ἀριθμοί, καὶ ὁ Α πρὸς        two numbers fall (between) A and B in mean proportion,
+τὸν Β τριπλασίονα λόγον ἔχει ἤπερ ὁ Γ πρὸς τὸν Ζ καὶ ὁ        and (that) A has to B a cubed ratio with respect to (that)
+Δ πρὸς τὸν Η καὶ ἔτι ὁ Ε πρὸς τὸν Θ.                          C (has) to F , and D to G, and, further, E to H.
+    ῾Ο Γ γὰρ τὸν Δ πολλαπλασιάσας τὸν Κ ποιείτω, ὁ δὲ             For let C make K (by) multiplying D, and let F make
+Ζ τὸν Η πολλαπλασιάσας τὸν Λ ποιείτω. καὶ ἐπεὶ οἱ Γ,          L (by) multiplying G. And since C, D are in the same
+Δ τοὶς Ζ, Η ἐν τῷ αὐτῷ λόγῳ εἰσίν, καὶ ἐκ μὲν τῶν Γ,          ratio as F , G, and K is the (number created) from (mul-
+Δ ἐστιν ὁ Κ, ἐκ δὲ τῶν Ζ, Η ὁ Λ, οἱ Κ, Λ [ἄρα] ὅμοιοι         tiplying) C, D, and L the (number created) from (multi-
+ἐπίπεδοί εἰσιν ἀριθμοί· τῶν Κ, Λ ἄρα εἷς μέσος ἀνάλογόν       plying) F , G, [thus] K and L are similar plane numbers
+ἐστιν ἀριθμός. ἔστω ὁ Μ. ὁ Μ ἄρα ἐστὶν ὁ ἐκ τῶν Δ,            [Def. 7.21]. Thus, there exits one number in mean pro-
+Ζ, ὡς ἐν τῷ πρὸ τούτου θεωρήματι ἐδείχθη. καὶ ἐπεὶ ὁ          portion to K and L [Prop. 8.18]. Let it be M . Thus, M is
+Δ τὸν μὲν Γ πολλαπλασιάσας τὸν Κ πεποίηκεν, τὸν δὲ Ζ          the (number created) from (multiplying) D, F , as shown
+πολλαπλασιάσας τὸν Μ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Γ πρὸς         in the theorem before this (one). And since D has made
+τὸν Ζ, οὕτως ὁ Κ πρὸς τὸν Μ. ἀλλ᾿ ὡς ὁ Κ πρὸς τὸν Μ,          K (by) multiplying C, and has made M (by) multiplying
+ὁ Μ πρὸς τὸν Λ. οἱ Κ, Μ, Λ ἄρα ἑξῆς εἰσιν ἀνάλογον ἐν         F , thus as C is to F , so K (is) to M [Prop. 7.17]. But, as
+
+
+
+                                                          245
+STOIQEIWN hþ.                                                                                     ELEMENTS BOOK 8
+
+τῷ τοῦ Γ πρὸς τὸν Ζ λόγῷ. καὶ ἐπεί ἐστιν ὡς ὁ Γ πρὸς τὸν      K (is) to M , (so) M (is) to L. Thus, K, M , L are contin-
+Δ, οὕτως ὁ Ζ πρὸς τὸν Η, ἐναλλὰξ ἄρα ἐστὶν ὡς ὁ Γ πρὸς        uously proportional in the ratio of C to F . And since as
+τὸν Ζ, οὕτως ὁ Δ πρὸς τὸν Η. διὰ τὰ αὐτὰ δὴ καὶ ὡς ὁ Δ        C is to D, so F (is) to G, thus, alternately, as C is to F , so
+πρὸς τὸν Η, οὕτως ὁ Ε πρὸς τὸν Θ. οἱ Κ, Μ, Λ ἄρα ἑξῆς         D (is) to G [Prop. 7.13]. And so, for the same (reasons),
+εἰσιν ἀνάλογον ἔν τε τῷ τοῦ Γ πρὸς τὸν Ζ λόγῳ καὶ τῷ          as D (is) to G, so E (is) to H. Thus, K, M , L are contin-
+τοῦ Δ πρὸς τὸν Η καὶ ἔτι τῷ τοῦ Ε πρὸς τὸν Θ. ἑκατερος        uously proportional in the ratio of C to F , and of D to G,
+δὴ τῶν Ε, Θ τὸν Μ πολλαπλασιάσας ἑκάτερον τῶν Ν, Ξ            and, further, of E to H. So let E, H make N , O, respec-
+ποιείτω. καὶ ἐπεὶ στερεός ἐστιν ὁ Α, πλευραὶ δὲ αὐτοῦ εἰσιν   tively, (by) multiplying M . And since A is solid, and C,
+οἱ Γ, Δ, Ε, ὁ Ε ἄρα τὸν ἐκ τῶν Γ, Δ πολλαπλασιάσας τὸν        D, E are its sides, E has thus made A (by) multiplying
+Α πεποίηκεν. ὁ δὲ ἐκ τῶν Γ, Δ ἐστιν ὁ Κ· ὁ Ε ἄρα τὸν Κ        the (number created) from (multiplying) C, D. And K
+πολλαπλασιάσας τὸν Α πεποίηκεν. διὰ τὰ αὐτὰ δὴ καὶ ὁ Θ        is the (number created) from (multiplying) C, D. Thus,
+τὸν Λ πολλαπλασιάσας τὸν Β πεποίηκεν. καὶ ἐπεὶ ὁ Ε τὸν        E has made A (by) multiplying K. And so, for the same
+Κ πολλαπλασιάσας τὸν Α πεποίηκεν, ἀλλὰ μὴν καὶ τὸν Μ          (reasons), H has made B (by) multiplying L. And since
+πολλαπλασιάσας τὸν Ν πεποίηκεν, ἔστιν ἄρα ὡς ὁ Κ πρὸς         E has made A (by) multiplying K, but has, in fact, also
+τὸν Μ, οὕτως ὁ Α πρὸς τὸν Ν. ὡς δὲ ὁ Κ πρὸς τὸν Μ,            made N (by) multiplying M , thus as K is to M , so A (is)
+οὕτως ὅ τε Γ πρὸς τὸν Ζ καὶ ὁ Δ πρὸς τὸν Η καὶ ἔτι ὁ Ε        to N [Prop. 7.17]. And as K (is) to M , so C (is) to F ,
+πρὸς τὸν Θ· καὶ ὡς ἄρα ὁ Γ πρὸς τὸν Ζ καὶ ὁ Δ πρὸς τὸν        and D to G, and, further, E to H. And thus as C (is) to
+Η καὶ ὁ Ε πρὸς τὸν Θ, οὕτως ὁ Α πρὸς τὸν Ν. πάλιν, ἐπεὶ       F , and D to G, and E to H, so A (is) to N . Again, since
+ἑκάτερος τῶν Ε, Θ τὸν Μ πολλαπλασιάσας ἑκάτερον τῶν           E, H have made N , O, respectively, (by) multiplying M ,
+Ν, Ξ πεποίηκεν, ἔστιν ἄρα ὡς ὁ Ε πρὸς τὸν Θ, οὕτως ὁ Ν        thus as E is to H, so N (is) to O [Prop. 7.18]. But, as
+πρὸς τὸν Ξ. ἀλλ᾿ ὡς ὁ Ε πρὸς τὸν Θ, οὕτως ὅ τε Γ πρὸς τὸν     E (is) to H, so C (is) to F , and D to G. And thus as C
+Ζ καὶ ὁ Δ πρὸς τὸν Η· καὶ ὡς ἄρα ὁ Γ πρὸς τὸν Ζ καὶ ὁ Δ       (is) to F , and D to G, and E to H, so (is) A to N , and
+πρὸς τὸν Η καὶ ὁ Ε πρὸς τὸν Θ, οὕτως ὅ τε Α πρὸς τὸν Ν        N to O. Again, since H has made O (by) multiplying M ,
+καὶ ὁ Ν πρὸς τὸν Ξ. πάλιν, ἐπεὶ ὁ Θ τὸν Μ πολλαπλασιάσας      but has, in fact, also made B (by) multiplying L, thus as
+τὸν Ξ πεποίηκεν, ἀλλὰ μὴν καὶ τὸν Λ πολλαπλασιάσας τὸν        M (is) to L, so O (is) to B [Prop. 7.17]. But, as M (is)
+Β πεποίηκεν, ἔστιν ἄρα ὡς ὁ Μ πρὸς τὸν Λ, οὕτως ὁ Ξ πρὸς      to L, so C (is) to F , and D to G, and E to H. And thus
+τὸν Β. ἀλλ᾿ ὡς ὁ Μ πρὸς τὸν Λ, οὕτως ὅ τε Γ πρὸς τὸν Ζ        as C (is) to F , and D to G, and E to H, so not only (is)
+καὶ ὁ Δ πρὸς τὸν Η καὶ ὁ Ε πρὸς τὸν Θ. καὶ ὡς ἄρα ὁ Γ         O to B, but also A to N , and N to O. Thus, A, N , O,
+πρὸς τὸν Ζ καὶ ὁ Δ πρὸς τὸν Η καὶ ὁ Ε πρὸς τὸν Θ, οὕτως       B are continuously proportional in the aforementioned
+οὐ μόνον ὁ Ξ πρὸς τὸν Β, ἀλλὰ καὶ ὁ Α πρὸς τὸν Ν καὶ ὁ        ratios of the sides.
+Ν πρὸς τὸν Ξ. οἱ Α, Ν, Ξ, Β ἄρα ἑξῆς εἰσιν ἀνάλογον ἐν            So I say that A also has to B a cubed ratio with respect
+τοῖς εἰρημένοις τῶν πλευρῶν λόγοις.                           to (that) a corresponding side (has) to a corresponding
+    Λέγω, ὅτι καὶ ὁ Α πρὸς τὸν Β τριπλασίονα λόγον            side—that is to say, with respect to (that) the number C
+ἔχει ἤπερ ἡ ὁμόλογος πλευρὰ πρὸς τὴν ὁμόλογον πλευράν,        (has) to F , or D to G, and, further, E to H. For since A,
+τουτέστιν ἤπερ ὁ Γ ἀριθμὸς πρὸς τὸν Ζ ἢ ὁ Δ πρὸς τὸν          N , O, B are four continuously proportional numbers, A
+Η καὶ ἔτι ὁ Ε πρὸς τὸν Θ. ἐπεὶ γὰρ τέσσαρες ἀριθμοὶ ἑξῆς      thus has to B a cubed ratio with respect to (that) A (has)
+ἀνάλογόν εἰσιν οἱ Α, Ν, Ξ, Β, ὁ Α ἄρα πρὸς τὸν Β τρι-         to N [Def. 5.10]. But, as A (is) to N , so it was shown (is)
+πλασίονα λόγον ἔχει ἤπερ ὁ Α πρὸς τὸν Ν. ἀλλ᾿ ὡς ὁ Α          C to F , and D to G, and, further, E to H. And thus A has
+πρὸς τὸν Ν, οὕτως ἐδείχθη ὅ τε Γ πρὸς τὸν Ζ καὶ ὁ Δ πρὸς      to B a cubed ratio with respect to (that) a corresponding
+τὸν Η καὶ ἔτι ὁ Ε πρὸς τὸν Θ. καὶ ὁ Α ἄρα πρὸς τὸν Β          side (has) to a corresponding side—that is to say, with
+τριπλασίονα λόγον ἔχει ἤπερ ἡ ομόλογος πλευρὰ πρὸς τὴν        respect to (that) the number C (has) to F , and D to G,
+ὁμόλογον πλευράν, τουτέστιν ἤπερ ὁ Γ ἀριθμὸς πρὸς τὸν         and, further, E to H. (Which is) the very thing it was
+Ζ καὶ ὁ Δ πρὸς τὸν Η καὶ ἔτι ὁ Ε πρὸς τὸν Θ· ὅπερ ἔδει        required to show.
+δεῖξαι.
+† Literally, “triple”.
+
+
+
+                            kþ.                                                    Proposition 20
+   ᾿Εὰν δύο ἀριθμῶν εἷς μέσος ἀνάλογον ἐμπίπτῇ ἀριθμός,    If one number falls between two numbers in mean
+ὅμοιοι ἐπίπεδοι ἔσονται οἱ ἀριθμοί.                     proportion then the numbers will be similar plane (num-
+
+
+                                                          246
+STOIQEIWN hþ.                                                                                                     ELEMENTS BOOK 8
+
+    Δύο γὰρ ἀριθμῶν τῶν Α, Β εἷς μέσος ἀνάλογον bers).
+ἐμπιπτέτω ἀριθμὸς ὁ Γ· λέγω, ὅτι οἱ Α, Β ὅμοιοι ἐπίπεδοί    For let one number C fall between the two numbers A
+εἰσιν ἀριθμοί.                                           and B in mean proportion. I say that A and B are similar
+                                                         plane numbers.
+      Α                                  ∆                                      A                                   D
+      Γ                                  Ζ                                      C                                   F
+      Β                                                                         B
+                                         Ε                                                                          E
+                                         Η                                                                          G
+    Εἰλήφθωσαν [γὰρ] ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν                         [For] let the least numbers, D and E, having the
+λόγον ἐχόντων τοῖς Α, Γ οἱ Δ, Ε· ἰσάκις ἄρα ὁ Δ τὸν Α                    same ratio as A and C have been taken [Prop. 7.33].
+μετρεῖ καὶ ὁ Ε τὸν Γ. ὁσάκις δὴ ὁ Δ τὸν Α μετρεῖ, τοσαῦται               Thus, D measures A as many times as E (measures) C
+μονάδες ἔστωσαν ἐν τῷ Ζ· ὁ Ζ ἄρα τὸν Δ πολλαπλασιάσας                    [Prop. 7.20]. So as many times as D measures A, so
+τὸν Α πεποίηκεν. ὥστε ὁ Α ἐπίπεδός ἐστιν, πλευραὶ δὲ                     many units let there be in F . Thus, F has made A (by)
+αὐτοῦ οἱ Δ, Ζ. πάλιν, ἐπεὶ οἱ Δ, Ε ἐλάχιστοί εἰσι τῶν τὸν                multiplying D [Def. 7.15]. Hence, A is plane, and D,
+αὐτὸν λόγον ἐχόντων τοῖς Γ, Β, ἰσάκις ἄρα ὁ Δ τὸν Γ με-                  F (are) its sides. Again, since D and E are the least
+τρεῖ καὶ ὁ Ε τὸν Β. ὁσάκις δὴ ὁ Ε τὸν Β μετρεῖ, τοσαῦται                 of those (numbers) having the same ratio as C and B,
+μονάδες ἔστωσαν ἐν τῷ Η. ὁ Ε ἄρα τὸν Β μετρεῖ κατὰ τὰς                   D thus measures C as many times as E (measures) B
+ἐν τῷ Η μονάδας· ὁ Η ἄρα τὸν Ε πολλαπλασιάσας τὸν Β                      [Prop. 7.20]. So as many times as E measures B, so
+πεποίηκεν. ὁ Β ἄρα ἐπίπεδος ἐστι, πλευραὶ δὲ αὐτοῦ εἰσιν                 many units let there be in G. Thus, E measures B ac-
+οἱ Ε, Η. οἱ Α, Β ἄρα ἐπίπεδοί εἰσιν ἀριθμοί. λέγω δή, ὅτι                cording to the units in G. Thus, G has made B (by) mul-
+καὶ ὅμοιοι. ἐπεὶ γὰρ ὁ Ζ τὸν μὲν Δ πολλαπλασιάσας τὸν                    tiplying E [Def. 7.15]. Thus, B is plane, and E, G are
+Α πεποίηκεν, τὸν δὲ Ε πολλαπλασιάσας τὸν Γ πεποίηκεν,                    its sides. Thus, A and B are (both) plane numbers. So I
+ἔστιν ἄρα ὡς ὁ Δ πρὸς τὸν Ε, οὕτως ὁ Α πρὸς τὸν Γ,                       say that (they are) also similar. For since F has made A
+τουτέστιν ὁ Γ πρὸς τὸν Β. πάλιν, ἐπεὶ ὁ Ε ἑκάτερον τῶν Ζ,                (by) multiplying D, and has made C (by) multiplying E,
+Η πολλαπλασιάσας τοὺς Γ, Β πεποίηκεν, ἔστιν ἄρα ὡς ὁ Ζ                   thus as D is to E, so A (is) to C—that is to say, C to B
+πρὸς τὸν Η, οὕτως ὁ Γ πρὸς τὸν Β. ὡς δὲ ὁ Γ πρὸς τὸν Β,                  [Prop. 7.17].† Again, since E has made C, B (by) multi-
+οὕτως ὁ Δ πρὸς τὸν Ε· καὶ ὡς ἄρα ὁ Δ πρὸς τὸν Ε, οὕτως                   plying F , G, respectively, thus as F is to G, so C (is) to
+ὁ Ζ πρὸς τὸν Η· καὶ ἐναλλὰξ ὡς ὁ Δ πρὸς τὸν Ζ, οὕτως ὁ                   B [Prop. 7.17]. And as C (is) to B, so D (is) to E. And
+Ε πρὸς τὸν Η. οἱ Α, Β ἄρα ὅμοιοι ἐπίπεδοι ἀριθμοί εἰσιν· αἱ              thus as D (is) to E, so F (is) to G. And, alternately, as D
+γὰρ πλευραὶ αὐτῶν ἀνάλογόν εἰσιν· ὅπερ ἔδει δεῖξαι.                      (is) to F , so E (is) to G [Prop. 7.13]. Thus, A and B are
+                                                                         similar plane numbers. For their sides are proportional
+                                                                         [Def. 7.21]. (Which is) the very thing it was required to
+                                                                         show.
+† This part of the proof is defective, since it is not demonstrated that F × E = C. Furthermore, it is not necessary to show that D : E :: A : C,
+
+because this is true by hypothesis.
+
+
+                                 kaþ.                                                             Proposition 21
+    ᾿Εὰν δύο ἀριθμῶν δύο μέσοι ἀνάλογον ἐμπίπτωσιν                          If two numbers fall between two numbers in mean
+ἀριθμοί, ὅμοιοι στερεοί εἰσιν οἱ ἀριθμοί.                                proportion then the (latter) are similar solid (numbers).
+    Δύο γὰρ ἀριθμῶν τῶν Α, Β δύο μέσοι ἀνάλογον                             For let the two numbers C and D fall between the two
+ἐμπιπτέτωσαν ἀριθμοὶ οἱ Γ, Δ· λέγω, ὅτι οἱ Α, Β ὅμοιοι                   numbers A and B in mean proportion. I say that A and
+στερεοί εἰσιν.                                                           B are similar solid (numbers).
+    Εἰλήφθωσαν γὰρ ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν                          For let the three least numbers E, F , G having the
+λόγον ἐχόντων τοῖς Α, Γ, Δ τρεῖς οἱ Ε, Ζ, Η· οἱ ἄρα ἄκροι                same ratio as A, C, D have been taken [Prop. 8.2]. Thus,
+αὐτῶν οἱ Ε, Η πρῶτοι πρὸς ἀλλήλους εἰσίν. καὶ ἐπεὶ τῶν                   the outermost of them, E and G, are prime to one an-
+Ε, Η εἷς μέσος ἀνάλογον ἐμπέπτωκεν ἀριθμὸς ὁ Ζ, οἱ Ε,                    other [Prop. 8.3]. And since one number, F , has fallen
+Η ἄρα ἀριθμοὶ ὅμοιοι ἐπίπεδοί εἰσιν. ἔστωσαν οὖν τοῦ μὲν                 (between) E and G in mean proportion, E and G are
+
+
+                                                                      247
+STOIQEIWN hþ.                                                                                  ELEMENTS BOOK 8
+
+Ε πλευραὶ οἱ Θ, Κ, τοῦ δὲ Η οἱ Λ, Μ. φανερὸν ἄρα ἐστὶν       thus similar plane numbers [Prop. 8.20]. Therefore, let
+ἐκ τοῦ πρὸ τούτου, ὅτι οἱ Ε, Ζ, Η ἑξῆς εἰσιν ἀνάλογον ἔν     H, K be the sides of E, and L, M (the sides) of G. Thus,
+τε τῷ τοῦ Θ πρὸς τὸν Λ λόγῳ καὶ τῷ τοῦ Κ πρὸς τὸν Μ.         it is clear from the (proposition) before this (one) that E,
+καὶ ἐπεὶ οἱ Ε, Ζ, Η ἐλάχιστοί εἰσι τῶν τὸν αὐτὸν λόγον       F , G are continuously proportional in the ratio of H to
+ἐχόντων τοῖς Α, Γ, Δ, καί ἐστιν ἴσον τὸ πλῆθος τῶν Ε,        L, and of K to M . And since E, F , G are the least (num-
+Ζ, Η τῷ πλήθει τῶν Α, Γ, Δ, δι᾿ ἴσου ἄρα ἐστὶν ὡς ὁ Ε        bers) having the same ratio as A, C, D, and the multitude
+πρὸς τὸν Η, οὕτως ὁ Α πρὸς τὸν Δ. οἱ δὲ Ε, Η πρῶτοι, οἱ      of E, F , G is equal to the multitude of A, C, D, thus,
+δὲ πρῶτοι καὶ ἐλάχιστοι, οἱ δὲ ἐλάχιστοι μετροῦσι τοὺς τὸν   via equality, as E is to G, so A (is) to D [Prop. 7.14].
+αὐτὸν λόγον ἔχοντας αὐτοῖς ἰσάκις ὅ τε μείζων τὸν μείζονα    And E and G (are) prime (to one another), and prime
+καὶ ὁ ἐλάσσων τὸν ἐλάσσονα, τουτέστιν ὅ τε ἡγούμενος         (numbers) are also the least (of those numbers having
+τὸν ἡγούμενον καὶ ὁ ἑπόμενος τὸν ἑπόμενον· ἰσάκις ἄρα        the same ratio as them) [Prop. 7.21], and the least (num-
+ὁ Ε τὸν Α μετρεῖ καὶ ὁ Η τὸν Δ. ὁσάκις δὴ ὁ Ε τὸν Α          bers) measure those (numbers) having the same ratio as
+μετρεῖ, τοσαῦται μονάδες ἔστωσαν ἐν τῷ Ν. ὁ Ν ἄρα τὸν Ε      them an equal number of times, the greater (measuring)
+πολλαπλασιάσας τὸν Α πεποίηκεν. ὁ δὲ Ε ἐστιν ὁ ἐκ τῶν        the greater, and the lesser the lesser—that is to say, the
+Θ, Κ· ὁ Ν ἄρα τὸν ἐκ τῶν Θ, Κ πολλαπλασιάσας τὸν Α           leading (measuring) the leading, and the following the
+πεποίηκεν. στερεὸς ἄρα ἐστὶν ὁ Α, πλευραὶ δὲ αὐτοῦ εἰσιν     following [Prop. 7.20]. Thus, E measures A the same
+οἱ Θ, Κ, Ν. πάλιν, ἐπεὶ οἱ Ε, Ζ, Η ἐλάχιστοί εἰσι τῶν τὸν    number of times as G (measures) D. So as many times as
+αὐτὸν λόγον ἐχόντων τοῖς Γ, Δ, Β, ἰσάκις ἄρα ὁ Ε τὸν Γ       E measures A, so many units let there be in N . Thus, N
+μετρεῖ καὶ ὁ Η τὸν Β. ὁσάκις δὴ ὁ Ε τὸν Γ μετρεῖ, τοσαῦται   has made A (by) multiplying E [Def. 7.15]. And E is the
+μονάδες ἔστωσαν ἐν τῷ Ξ. ὁ Η ἄρα τὸν Β μετρεῖ κατὰ τὰς       (number created) from (multiplying) H and K. Thus, N
+ἐν τῷ Ξ μονάδας· ὁ Ξ ἄρα τὸν Η πολλαπλασιάσας τὸν Β          has made A (by) multiplying the (number created) from
+πεποίηκεν. ὁ δὲ Η ἐστιν ὁ ἐκ τῶν Λ, Μ· ὁ Ξ ἄρα τὸν ἐκ        (multiplying) H and K. Thus, A is solid, and its sides are
+τῶν Λ, Μ πολλαπλασιάσας τὸν Β πεποίηκεν. στερεὸς ἄρα         H, K, N . Again, since E, F , G are the least (numbers)
+ἐστὶν ὁ Β, πλευραὶ δὲ αὐτοῦ εἰσιν οἱ Λ, Μ, Ξ· οἱ Α, Β ἄρα    having the same ratio as C, D, B, thus E measures C the
+στερεοί εἰσιν.                                               same number of times as G (measures) B [Prop. 7.20].
+                                                             So as many times as E measures C, so many units let
+                                                             there be in O. Thus, G measures B according to the units
+                                                             in O. Thus, O has made B (by) multiplying G. And
+                                                             G is the (number created) from (multiplying) L and M .
+                                                             Thus, O has made B (by) multiplying the (number cre-
+                                                             ated) from (multiplying) L and M . Thus, B is solid, and
+                                                             its sides are L, M , O. Thus, A and B are (both) solid.
+ Α                              Θ                              A                               H
+ Γ                              Κ                              C                               K
+ ∆                              Ν                              D                               N
+ Β                                                             B
+
+ Ε                              Λ                              E                              L
+ Ζ                              Μ                              F                              M
+ Η                              Ξ                              G                              O
+   Λέγω [δή], ὅτι καὶ ὅμοιοι. ἐπεὶ γὰρ οἱ Ν, Ξ τὸν Ε πολ-        [So] I say that (they are) also similar. For since N , O
+λαπλασιάσαντες τοὺς Α, Γ πεποιήκασιν, ἔστιν ἄρα ὡς ὁ Ν       have made A, C (by) multiplying E, thus as N is to O, so
+πρὸς τὸν Ξ, ὁ Α πρὸς τὸν Γ, τουτέστιν ὁ Ε πρὸς τὸν Ζ.        A (is) to C—that is to say, E to F [Prop. 7.18]. But, as
+ἀλλ᾿ ὡς ὁ Ε πρὸς τὸν Ζ, ὁ Θ πρὸς τὸν Λ καὶ ὁ Κ πρὸς τὸν      E (is) to F , so H (is) to L, and K to M . And thus as H
+Μ· καὶ ὡς ἄρα ὁ Θ πρὸς τὸν Λ, οὕτως ὁ Κ πρὸς τὸν Μ καὶ       (is) to L, so K (is) to M , and N to O. And H, K, N are
+ὁ Ν πρὸς τὸν Ξ. καί εἰσιν οἱ μὲν Θ, Κ, Ν πλευραὶ τοῦ Α,      the sides of A, and L, M , O the sides of B. Thus, A and
+
+
+
+                                                         248
+STOIQEIWN hþ.                                                                                       ELEMENTS BOOK 8
+
+οἱ δὲ Ξ, Λ, Μ πλευραὶ τοῦ Β. οἱ Α, Β ἄρα ἀριθμοὶ ὅμοιοι B are similar solid numbers [Def. 7.21]. (Which is) the
+στερεοί εἰσιν· ὅπερ ἔδει δεῖξαι.                        very thing it was required to show.
+† The Greek text has “O, L, M ”, which is obviously a mistake.
+
+
+
+                                kbþ.                                                     Proposition 22
+   ᾿Εὰν τρεῖς ἀριθμοὶ ἑξῆς ἀνάλογον ὦσιν, ὁ δὲ πρῶτος                 If three numbers are continuously proportional, and
+τετράγωνος ᾖ, καὶ ὁ τρίτος τετράγωνος ἔσται.                       the first is square, then the third will also be square.
+                    Α                                                                A
+                    Β                                                                B
+                    Γ                                                                C
+   ῎Εστωσαν τρεῖς ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α, Β, Γ, ὁ δὲ               Let A, B, C be three continuously proportional num-
+πρῶτος ὁ Α τετράγωνος ἔστω· λέγω, ὅτι καὶ ὁ τρίτος ὁ Γ             bers, and let the first A be square. I say that the third C
+τετράγωνός ἐστιν.                                                  is also square.
+   ᾿Επεὶ γὰρ τῶν Α, Γ εἷς μέσος ἀνάλογόν ἐστιν ἀριθμὸς                 For since one number, B, is in mean proportion to
+ὁ Β, οἱ Α, Γ ἄρα ὅμοιοι ἐπίπεδοί εἰσιν. τετράγωνος δὲ ὁ Α·         A and C, A and C are thus similar plane (numbers)
+τετράγωνος ἄρα καὶ ὁ Γ· ὅπερ ἔδει δεῖξαι.                          [Prop. 8.20]. And A is square. Thus, C is also square
+                                                                   [Def. 7.21]. (Which is) the very thing it was required to
+                                                                   show.
+
+                                kgþ.                                                     Proposition 23
+   ᾿Εὰν τέσσαρες ἀριθμοὶ ἑξῆς ἀνάλογον ὦσιν, ὁ δὲ πρῶτος              If four numbers are continuously proportional, and
+κύβος ᾖ, καὶ ὁ τέταρτος κύβος ἔσται.                               the first is cube, then the fourth will also be cube.
+                  Α                                                              .   A
+                  Β                                                                  B
+                  Γ                                                                  C
+                  ∆                                                                  D
+    ῎Εστωσαν τέσσαρες ἀριθμοὶ ἑξῆς ἀνάλογον οἱ Α, Β, Γ,        Let A, B, C, D be four continuously proportional
+Δ, ὁ δὲ Α κύβος ἔστω· λέγω, ὅτι καὶ ὁ Δ κύβος ἐστίν.       numbers, and let A be cube. I say that D is also cube.
+    ᾿Επεὶ γὰρ τῶν Α, Δ δύο μέσοι ἀνάλογόν εἰσιν ἀριθμοὶ        For since two numbers, B and C, are in mean propor-
+οἱ Β, Γ, οἱ Α, Δ ἄρα ὅμοιοί εἰσι στερεοὶ ἀριθμοί. κύβος δὲ tion to A and D, A and D are thus similar solid numbers
+ὁ Α· κύβος ἄρα καὶ ὁ Δ· ὅπερ ἔδει δεῖξαι.                  [Prop. 8.21]. And A (is) cube. Thus, D (is) also cube
+                                                           [Def. 7.21]. (Which is) the very thing it was required to
+                                                           show.
+
+                                kdþ.                                                     Proposition 24
+   ᾿Εὰν δύο ἀριθμοὶ πρὸς ἀλλήλους λόγον ἔχωσιν, ὃν       If two numbers have to one another the ratio which
+τετράγωνος ἀριθμὸς πρὸς τετράγωνον ἀριθμόν, ὁ δὲ a square number (has) to a(nother) square number, and
+πρῶτος τετράγωνος ᾖ, καὶ ὁ δεύτερος τετράγωνος ἔσται. the first is square, then the second will also be square.
+    Α                                       Γ                          A                                C
+    Β                                       ∆                          B                                D
+    Δύο γὰρ ἀριθμοὶ οἱ Α, Β πρὸς ἀλλήλους λόγον                        For let two numbers, A and B, have to one another
+
+
+                                                                 249
+STOIQEIWN hþ.                                                                                 ELEMENTS BOOK 8
+
+ἐχέτωσαν, ὃν τετράγωνος ἀριθμὸς ὁ Γ πρὸς τετράγωνον          the ratio which the square number C (has) to the square
+ἀριθμὸν τὸν Δ, ὁ δὲ Α τετράγωνος ἔστω· λέγω, ὅτι καὶ ὁ       number D. And let A be square. I say that B is also
+Β τετράγωνός ἐστιν.                                          square.
+    ᾿Επεὶ γὰρ οἱ Γ, Δ τετράγωνοί εἰσιν, οἱ Γ, Δ ἄρα ὅμοιοι       For since C and D are square, C and D are thus sim-
+ἐπίπεδοί εἰσιν. τῶν Γ, Δ ἄρα εἷς μέσος ἀνάλογον ἐμπίπτει     ilar plane (numbers). Thus, one number falls (between)
+ἀριθμός. καί ἐστιν ὡς ὁ Γ πρὸς τὸν Δ, ὁ Α πρὸς τὸν Β·        C and D in mean proportion [Prop. 8.18]. And as C is
+καὶ τῶν Α, Β ἄρα εἷς μέσος ἀνάλογον ἐμπίπτει ἀριθμός. καί    to D, (so) A (is) to B. Thus, one number also falls (be-
+ἐστιν ὁ Α τετράγωνος· καὶ ὁ Β ἄρα τετράγωνός ἐστιν· ὅπερ     tween) A and B in mean proportion [Prop. 8.8]. And A
+ἔδει δεῖξαι.                                                 is square. Thus, B is also square [Prop. 8.22]. (Which is)
+                                                             the very thing it was required to show.
+
+                           keþ.                                                  Proposition 25
+    ᾿Εὰν δύο ἀριθμοὶ πρὸς ἀλλήλους λόγον ἔχωσιν, ὃν        If two numbers have to one another the ratio which
+κύβος ἀριθμὸς πρὸς κύβον ἀριθμόν, ὁ δὲ πρῶτος κύβος ᾖ, a cube number (has) to a(nother) cube number, and the
+καὶ ὁ δεύτερος κύβος ἔσται.                            first is cube, then the second will also be cube.
+ Α                         Γ                                   A                        C
+ Ε                                                             E
+ Ζ                                                             F
+ Β                         ∆                                   B                        D
+    Δύο γὰρ ἀριθμοὶ οἱ Α, Β πρὸς ἀλλήλους λόγον                  For let two numbers, A and B, have to one another
+ἐχέτωσαν, ὃν κύβος ἀριθμὸς ὁ Γ πρὸς κύβον ἀριθμὸν τὸν        the ratio which the cube number C (has) to the cube
+Δ, κύβος δὲ ἔστω ὁ Α· λέγω [δή], ὅτι καὶ ὁ Β κύβος ἐστίν.    number D. And let A be cube. [So] I say that B is also
+    ᾿Επεὶ γὰρ οἱ Γ, Δ κύβοι εἰσίν, οἱ Γ, Δ ὅμοιοι στε-       cube.
+ρεοί εἰσιν· τῶν Γ, Δ ἄρα δύο μέσοι ἀνάλογον ἐμπίπτουσιν          For since C and D are cube (numbers), C and D are
+ἀριθμοί. ὅσοι δὲ εἰς τοὺς Γ, Δ μεταξὺ κατὰ τὸ συνεχὲς        (thus) similar solid (numbers). Thus, two numbers fall
+ἀνάλογον ἐμπίπτουσιν, τοσοῦτοι καὶ εἰς τοὺς τὸν αὐτὸν        (between) C and D in mean proportion [Prop. 8.19].
+λόγον ἔχοντας αὐτοῖς· ὥστε καὶ τῶν Α, Β δύο μέσοι            And as many (numbers) as fall in between C and D in
+ἀνάλογον ἐμπίπτουσιν ἀριθμοί. ἐμπιπτέτωσαν οἱ Ε, Ζ. ἐπεὶ     continued proportion, so many also (fall) in (between)
+οὖν τέσσαρες ἀριθμοὶ οἱ Α, Ε, Ζ, Β ἑξῆς ἀνάλογόν εἰσιν,      those (numbers) having the same ratio as them (in con-
+καί ἐστι κύβος ὁ Α, κύβος ἄρα καὶ ὁ Β· ὅπερ ἔδει δεῖξαι.     tinued proportion) [Prop. 8.8]. And hence two numbers
+                                                             fall (between) A and B in mean proportion. Let E and F
+                                                             (so) fall. Therefore, since the four numbers A, E, F , B
+                                                             are continuously proportional, and A is cube, B (is) thus
+                                                             also cube [Prop. 8.23]. (Which is) the very thing it was
+                                                             required to show.
+
+                          kþ.                                                   Proposition 26
+    Οἱ ὅμοιοι ἐπίπεδοι ἀριθμοὶ πρὸς ἀλλήλους λόγον ἔχου-    Similar plane numbers have to one another the ratio
+σιν, ὃν τετράγωνος ἀριθμὸς πρὸς τετράγωνον ἀριθμόν.      which (some) square number (has) to a(nother) square
+                                                         number.
+   Α                              ∆                             A                               D
+   Γ                              Ε                             C                               E
+   Β                              Ζ                             B                               F
+   ῎Εστωσαν ὅμοιοι ἐπίπεδοι ἀριθμοὶ οἱ Α, Β· λέγω, ὅτι          Let A and B be similar plane numbers. I say that A
+ὁ Α πρὸς τὸν Β λόγον ἔχει, ὃν τετράγωνος ἀριθμὸς πρὸς        has to B the ratio which (some) square number (has) to
+
+
+
+                                                         250
+STOIQEIWN hþ.                                                                                    ELEMENTS BOOK 8
+
+τετράγωνον ἀριθμόν.                                            a(nother) square number.
+    ᾿Επεὶ γὰρ οἱ Α, Β ὅμοιοι ἐπίπεδοί εἰσιν, τῶν Α, Β ἄρα          For since A and B are similar plane numbers, one
+εἷς μέσος ἀνάλογον ἐμπίπτει ἀριθμός. ἐμπιπτέτω καὶ ἔστω ὁ      number thus falls (between) A and B in mean propor-
+Γ, καὶ εἰλήφθωσαν ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν λόγον        tion [Prop. 8.18]. Let it (so) fall, and let it be C. And
+ἐχόντων τοῖς Α, Γ, Β οἱ Δ, Ε, Ζ· οἱ ἄρα ἄκροι αὐτῶν οἱ         let the least numbers, D, E, F , having the same ratio
+Δ, Ζ τετράγωνοί εἰσιν. καὶ ἐπεί ἐστιν ὡς ὁ Δ πρὸς τὸν Ζ,       as A, C, B have been taken [Prop. 8.2]. The outermost
+οὕτως ὁ Α πρὸς τὸν Β, καί εἰσιν οἱ Δ, Ζ τετράγωνοι, ὁ Α        of them, D and F , are thus square [Prop. 8.2 corr.]. And
+ἄρα πρὸς τὸν Β λόγον ἔχει, ὃν τετράγωνος ἀριθμὸς πρὸς          since as D is to F , so A (is) to B, and D and F are square,
+τετράγωνον ἀριθμόν· ὅπερ ἔδει δεῖξαι.                          A thus has to B the ratio which (some) square number
+                                                               (has) to a(nother) square number. (Which is) the very
+                                                               thing it was required to show.
+
+                           kzþ.                                                    Proposition 27
+    Οἱ ὅμοιοι στερεοὶ ἀριθμοὶ πρὸς ἀλλήλους λόγον ἔχου-     Similar solid numbers have to one another the ratio
+σιν, ὃν κύβος ἀριθμὸς πρὸς κύβον ἀριθμόν.               which (some) cube number (has) to a(nother) cube num-
+                                                        ber.
+    Α                             Ε                                A                             E
+    Γ                             Ζ                                C                             F
+    ∆                             Η                                D                             G
+    Β                             Θ                                B                             H
+    ῎Εστωσαν ὅμοιοι στερεοὶ ἀριθμοὶ οἱ Α, Β· λέγω, ὅτι ὁ           Let A and B be similar solid numbers. I say that A
+Α πρὸς τὸν Β λόγον ἔχει, ὃν κύβος ἀριθμὸς πρὸς κύβον           has to B the ratio which (some) cube number (has) to
+ἀριθμόν.                                                       a(nother) cube number.
+    ᾿Επεὶ γὰρ οἱ Α, Β ὅμοιοι στερεοί εἰσιν, τῶν Α, Β ἄρα δύο       For since A and B are similar solid (numbers), two
+μέσοι ἀνάλογον ἐμπίπτουσιν ἀριθμοί. ἐμπιπτέτωσαν οἱ Γ,         numbers thus fall (between) A and B in mean proportion
+Δ, καὶ εἰλήφθωσαν ἐλάχιστοι ἀριθμοὶ τῶν τὸν αὐτὸν λόγον        [Prop. 8.19]. Let C and D have (so) fallen. And let the
+ἐχόντων τοῖς Α, Γ, Δ, Β ἴσοι αὐτοῖς τὸ πλῆθος οἱ Ε, Ζ, Η,      least numbers, E, F , G, H, having the same ratio as A,
+Θ· οἱ ἄρα ἄκροι αὐτῶν οἱ Ε, Θ κύβοι εἰσίν. καί ἐστιν ὡς ὁ      C, D, B, (and) equal in multitude to them, have been
+Ε πρὸς τὸν Θ, οὕτως ὁ Α πρὸς τὸν Β· καὶ ὁ Α ἄρα πρὸς           taken [Prop. 8.2]. Thus, the outermost of them, E and
+τὸν Β λόγον ἔχει, ὃν κύβος ἀριθμὸς πρὸς κύβον ἀριθμόν·         H, are cube [Prop. 8.2 corr.]. And as E is to H, so A (is)
+ὅπερ ἔδει δεῖξαι.                                              to B. And thus A has to B the ratio which (some) cube
+                                                               number (has) to a(nother) cube number. (Which is) the
+                                                               very thing it was required to show.
+
+
+
+
+                                                           251
+252

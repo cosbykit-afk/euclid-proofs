@@ -1,0 +1,1375 @@
+ELEMENTS BOOK 5
+
+                                                            Proportion†
+
+
+
+
+   † The theory of proportion set out in this book is generally attributed to Eudoxus of Cnidus. The novel feature of this theory is its ability to deal
+
+with irrational magnitudes, which had hitherto been a major stumbling block for Greek mathematicians. Throughout the footnotes in this book,
+α, β, γ, etc., denote general (possibly irrational) magnitudes, whereas m, n, l, etc., denote positive integers.
+
+
+                                                                         129
+STOIQEIWN eþ.                                                                                      ELEMENTS BOOK 5
+
+
+                          VOroi.                                                       Definitions
+    αʹ. Μέρος ἐστὶ μέγεθος μεγέθους τὸ ἔλασσον τοῦ                 1. A magnitude is a part of a(nother) magnitude, the
+μείζονος, ὅταν καταμετρῇ τὸ μεῖζον.                            lesser of the greater, when it measures the greater.†
+    βʹ. Πολλαπλάσιον δὲ τὸ μεῖζον τοῦ ἐλάττονος, ὅταν κα-          2. And the greater (magnitude is) a multiple of the
+ταμετρῆται ὑπὸ τοῦ ἐλάττονος.                                  lesser when it is measured by the lesser.
+    γʹ. Λόγος ἐστὶ δύο μεγεθῶν ὁμογενῶν ἡ κατὰ πη-                 3. A ratio is a certain type of condition with respect to
+λικότητά ποια σχέσις.                                          size of two magnitudes of the same kind.‡
+    δʹ. Λόγον ἔχειν πρὸς ἄλληλα μεγέθη λέγεται, ἃ δύναται          4. (Those) magnitudes are said to have a ratio with re-
+πολλαπλασιαζόμενα ἀλλήλων ὑπερέχειν.                           spect to one another which, being multiplied, are capable
+    εʹ. ᾿Εν τῷ αὐτῷ λόγῳ μεγέθη λέγεται εἶναι πρῶτον           of exceeding one another.§
+πρὸς δεύτερον καὶ τρίτον πρὸς τέταρτον, ὅταν τὰ τοῦ                5. Magnitudes are said to be in the same ratio, the first
+πρώτου καί τρίτου ἰσάκις πολλαπλάσια τῶν τοῦ δευτέρου          to the second, and the third to the fourth, when equal
+καὶ τετάρτου ἰσάκις πολλαπλασίων καθ᾿ ὁποιονοῦν πολλα-         multiples of the first and the third either both exceed, are
+πλασιασμὸν ἑκάτερον ἑκατέρου ἢ ἅμα ὑπερέχῃ ἢ ἅμα ἴσα ᾖ         both equal to, or are both less than, equal multiples of the
+ἢ ἅμα ἐλλείπῇ ληφθέντα κατάλληλα.                              second and the fourth, respectively, being taken in corre-
+    ϛʹ. Τὰ δὲ τὸν αὐτὸν ἔχοντα λόγον μεγέθη ἀνάλογον           sponding order, according to any kind of multiplication
+καλείσθω.                                                      whatever.¶
+    ζʹ. ῞Οταν δὲ τῶν ἰσάκις πολλαπλασίων τὸ μὲν τοῦ                6. And let magnitudes having the same ratio be called
+πρώτου πολλαπλάσιον ὑπερέχῃ τοῦ τοῦ δευτέρου πολ-              proportional.∗
+λαπλασίου, τὸ δὲ τοῦ τρίτου πολλαπλάσιον μὴ ὑπερέχῃ                7. And when for equal multiples (as in Def. 5), the
+τοῦ τοῦ τετάρτου πολλαπλασίου, τότε τὸ πρῶτον πρὸς τὸ          multiple of the first (magnitude) exceeds the multiple of
+δεύτερον μείζονα λόγον ἔχειν λέγεται, ἤπερ τὸ τρίτον πρὸς      the second, and the multiple of the third (magnitude)
+τὸ τέταρτον.                                                   does not exceed the multiple of the fourth, then the first
+    ηʹ. ᾿Αναλογία δὲ ἐν τρισὶν ὅροις ἐλαχίστη ἐστίν.           (magnitude) is said to have a greater ratio to the second
+    θʹ. ῞Οταν δὲ τρία μεγέθη ἀνάλογον ᾖ, τὸ πρῶτον πρὸς        than the third (magnitude has) to the fourth.
+τὸ τρίτον διπλασίονα λόγον ἔχειν λέγεται ἤπερ πρὸς τὸ              8. And a proportion in three terms is the smallest
+δεύτερον.                                                      (possible).$
+    ιʹ. ῞Οταν δὲ τέσσαρα μεγέθη ἀνάλογον ᾖ, τὸ πρῶτον              9. And when three magnitudes are proportional, the
+πρὸς τὸ τέταρτον τριπλασίονα λόγον ἔχειν λέγεται ἤπερ          first is said to have to the third the squaredk ratio of that
+πρὸς τὸ δεύτερον, καὶ ἀεὶ ἑξῆς ὁμοίως, ὡς ἂν ἡ ἀναλογία        (it has) to the second.††
+ὑπάρχῃ.                                                            10. And when four magnitudes are (continuously)
+    ιαʹ. ῾Ομόλογα μεγέθη λέγεται τὰ μὲν ἡγούμενα τοῖς          proportional, the first is said to have to the fourth the
+ἡγουμένοις τὰ δὲ ἑπόμενα τοῖς ἑπομένοις.                       cubed‡‡ ratio of that (it has) to the second.§§ And so on,
+    ιβʹ. ᾿Εναλλὰξ λόγος ἐστὶ λῆψις τοῦ ἡγουμένου πρὸς τὸ       similarly, in successive order, whatever the (continuous)
+ἡγούμενον καὶ τοῦ ἑπομένου πρὸς τὸ ἑπόμενον.                   proportion might be.
+    ιγʹ. ᾿Ανάπαλιν λόγος ἐστὶ λῆψις τοῦ ἑπομένου ὡς                11. These magnitudes are said to be corresponding
+ἡγουμένου πρὸς τὸ ἡγούμενον ὡς ἑπόμενον.                       (magnitudes): the leading to the leading (of two ratios),
+    ιδʹ. Σύνθεσις λόγου ἐστὶ λῆψις τοῦ ἡγουμένου μετὰ τοῦ      and the following to the following.
+ἑπομένου ὡς ἑνὸς πρὸς αὐτὸ τὸ ἑπόμενον.                            12. An alternate ratio is a taking of the (ratio of the)
+    ιεʹ. Διαίρεσις λόγου ἐστὶ λῆψις τῆς ὑπεροχῆς, ᾗ ὑπερέχει   leading (magnitude) to the leading (of two equal ratios),
+τὸ ἡγούμενον τοῦ ἑπομένου, πρὸς αὐτὸ τὸ ἑπόμενον.              and (setting it equal to) the (ratio of the) following (mag-
+    ιϛʹ. ᾿Αναστροφὴ λόγου ἐστὶ λῆψις τοῦ ἡγουμένου πρὸς        nitude) to the following.¶¶
+τὴν ὑπεροχήν, ᾗ ὑπερέχει τὸ ἡγούμενον τοῦ ἑπομένου.                13. An inverse ratio is a taking of the (ratio of the) fol-
+    ιζʹ. Δι᾿ ἴσου λόγος ἐστὶ πλειόνων ὄντων μεγεθῶν καὶ        lowing (magnitude) as the leading and the leading (mag-
+ἄλλων αὐτοῖς ἴσων τὸ πλῆθος σύνδυο λαμβανομένων καὶ            nitude) as the following.∗∗
+ἐν τῷ αὐτῷ λόγῳ, ὅταν ᾖ ὡς ἐν τοῖς πρώτοις μεγέθεσι τὸ             14. A composition of a ratio is a taking of the (ratio of
+πρῶτον πρὸς τὸ ἔσχατον, οὕτως ἐν τοῖς δευτέροις μεγέθεσι       the) leading plus the following (magnitudes), as one, to
+τὸ πρῶτον πρὸς τὸ ἔσχατον· ἢ ἄλλως· λῆψις τῶν ἄκρων            the following (magnitude) by itself.$$
+
+
+
+                                                           130
+STOIQEIWN eþ.                                                                                                               ELEMENTS BOOK 5
+
+καθ᾿ ὑπεξαίρεσιν τῶν μέσων.                                                         15. A separation of a ratio is a taking of the (ratio
+    ιηʹ. Τεταραγμένη δὲ ἀναλογία ἐστίν, ὅταν τριῶν ὄντων                        of the) excess by which the leading (magnitude) exceeds
+μεγεθῶν καὶ ἄλλων αὐτοῖς ἴσων τὸ πλῆθος γίνηται ὡς μὲν                          the following to the following (magnitude) by itself.kk
+ἐν τοῖς πρώτοις μεγέθεσιν ἡγούμενον πρὸς ἐπόμενον, οὕτως                            16. A conversion of a ratio is a taking of the (ratio
+ἐν τοῖς δευτέροις μεγέθεσιν ἡγούμενον πρὸς ἑπόμενον, ὡς                         of the) leading (magnitude) to the excess by which the
+δὲ ἐν τοῖς πρώτοις μεγέθεσιν ἑπόμενον πρὸς ἄλλο τι, οὕτως                       leading (magnitude) exceeds the following.†††
+ἐν τοῖς δευτέροις ἄλλο τι πρὸς ἡγούμενον.                                           17. There being several magnitudes, and other (mag-
+                                                                                nitudes) of equal number to them, (which are) also in the
+                                                                                same ratio taken two by two, a ratio via equality (or ex
+                                                                                aequali) occurs when as the first is to the last in the first
+                                                                                (set of) magnitudes, so the first (is) to the last in the sec-
+                                                                                ond (set of) magnitudes. Or alternately, (it is) a taking of
+                                                                                the (ratio of the) outer (magnitudes) by the removal of
+                                                                                the inner (magnitudes).‡‡‡
+                                                                                    18. There being three magnitudes, and other (magni-
+                                                                                tudes) of equal number to them, a perturbed proportion
+                                                                                occurs when as the leading is to the following in the first
+                                                                                (set of) magnitudes, so the leading (is) to the following
+                                                                                in the second (set of) magnitudes, and as the following
+                                                                                (is) to some other (i.e., the remaining magnitude) in the
+                                                                                first (set of) magnitudes, so some other (is) to the leading
+                                                                                in the second (set of) magnitudes.§§§
+† In other words, α is said to be a part of β if β = m α.
+
+‡ In modern notation, the ratio of two magnitudes, α and β, is denoted α : β.
+
+§ In other words, α has a ratio with respect to β if m α > β and n β > α, for some m and n.
+
+¶ In other words, α : β :: γ : δ if and only if m α > n β whenever m γ > n δ, and m α = n β whenever m γ = n δ, and m α < n β whenever
+
+m γ < n δ, for all m and n. This definition is the kernel of Eudoxus’ theory of proportion, and is valid even if α, β, etc., are irrational.
+∗ Thus if α and β have the same ratio as γ and δ then they are proportional. In modern notation, α : β :: γ : δ.
+
+$ In modern notation, a proportion in three terms—α, β, and γ—is written: α : β :: β : γ.
+k Literally, “double”.
+
+†† In other words, if α : β :: β : γ then α : γ :: α 2 : β 2 .
+
+‡‡ Literally, “triple”.
+
+§§ In other words, if α : β :: β : γ :: γ : δ then α : δ :: α 3 : β 3 .
+
+¶¶ In other words, if α : β :: γ : δ then the alternate ratio corresponds to α : γ :: β : δ.
+
+∗∗ In other words, if α : β then the inverse ratio corresponds to β : α.
+
+$$ In other words, if α : β then the composed ratio corresponds to α + β : β.
+
+kk In other words, if α : β then the separated ratio corresponds to α − β : β.
+
+††† In other words, if α : β then the converted ratio corresponds to α : α − β.
+
+‡‡‡ In other words, if α, β, γ are the first set of magnitudes, and δ, ǫ, ζ the second set, and α : β : γ :: δ : ǫ : ζ, then the ratio via equality (or ex
+
+aequali) corresponds to α : γ :: δ : ζ.
+§§§ In other words, if α, β, γ are the first set of magnitudes, and δ, ǫ, ζ the second set, and α : β :: δ : ǫ as well as β : γ :: ζ : δ, then the proportion
+
+is said to be perturbed.
+
+
+                                      aþ.                                                                  Proposition 1†
+   ᾿Εὰν ᾖ ὁποσαοῦν μεγέθη ὁποσωνοῦν μεγεθῶν ἴσων τὸ       If there are any number of magnitudes whatsoever
+πλῆθος ἕκαστον ἑκάστου ἰσάκις πολλαπλάσιον, ὁσαπλάσιόν (which are) equal multiples, respectively, of some (other)
+ἐστιν ἓν τῶν μεγεθῶν ἑνός, τοσαυταπλάσια ἔσται καὶ τὰ magnitudes, of equal number (to them), then as many
+
+                                                                            131
+STOIQEIWN eþ.                                                                                                 ELEMENTS BOOK 5
+
+πάντα τῶν πάντων.                                                          times as one of the (first) magnitudes is (divisible) by
+                                                                           one (of the second), so many times will all (of the first
+                                                                           magnitudes) also (be divisible) by all (of the second).
+   Α            Η            Β Γ                   Θ               ∆            A       G          B C               H             D
+
+  Ε                              Ζ                                           E                         F
+   ῎Εστω ὁποσαοῦν μεγέθη τὰ ΑΒ, ΓΔ ὁποσωνοῦν με-                               Let there be any number of magnitudes whatsoever,
+γεθῶν τῶν Ε, Ζ ἴσων τὸ πλῆθος ἕκαστον ἑκάστου ἰσάκις                       AB, CD, (which are) equal multiples, respectively, of
+πολλαπλάσιον· λέγω, ὅτι ὁσαπλάσιόν ἐστι τὸ ΑΒ τοῦ Ε,                       some (other) magnitudes, E, F , of equal number (to
+τοσαυταπλάσια ἔσται καὶ τὰ ΑΒ, ΓΔ τῶν Ε, Ζ.                                them). I say that as many times as AB is (divisible) by E,
+   ᾿Επεὶ γὰρ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΑΒ τοῦ Ε καὶ                      so many times will AB, CD also be (divisible) by E, F .
+τὸ ΓΔ τοῦ Ζ, ὅσα ἄρα ἐστὶν ἐν τῷ ΑΒ μεγέθη ἴσα τῷ Ε,                           For since AB, CD are equal multiples of E, F , thus
+τοσαῦτα καὶ ἐν τῷ ΓΔ ἴσα τῷ Ζ. διῃρήσθω τὸ μὲν ΑΒ εἰς τὰ                   as many magnitudes as (there) are in AB equal to E, so
+τῷ Ε μεγέθη ἴσα τὰ ΑΗ, ΗΒ, τὸ δὲ ΓΔ εἰς τὰ τῷ Ζ ἴσα τὰ                     many (are there) also in CD equal to F . Let AB have
+ΓΘ, ΘΔ· ἔσται δὴ ἴσον τὸ πλῆθος τῶν ΑΗ, ΗΒ τῷ πλήθει                       been divided into magnitudes AG, GB, equal to E, and
+τῶν ΓΘ, ΘΔ. καὶ ἐπεὶ ἴσον ἐστὶ τὸ μὲν ΑΗ τῷ Ε, τὸ δὲ ΓΘ                    CD into (magnitudes) CH, HD, equal to F . So, the
+τῷ Ζ, ἴσον ἄρα τὸ ΑΗ τῷ Ε, καὶ τὰ ΑΗ, ΓΘ τοῖς Ε, Ζ. διὰ                    number of (divisions) AG, GB will be equal to the num-
+τὰ αὐτὰ δὴ ἴσον ἐστὶ τὸ ΗΒ τῷ Ε, καὶ τὰ ΗΒ, ΘΔ τοῖς Ε,                     ber of (divisions) CH, HD. And since AG is equal to E,
+Ζ· ὅσα ἄρα ἐστὶν ἐν τῷ ΑΒ ἴσα τῷ Ε, τοσαῦτα καὶ ἐν τοῖς                    and CH to F , AG (is) thus equal to E, and AG, CH to E,
+ΑΒ, ΓΔ ἴσα τοῖς Ε, Ζ· ὁσαπλάσιον ἄρα ἐστὶ τὸ ΑΒ τοῦ Ε,                     F . So, for the same (reasons), GB is equal to E, and GB,
+τοσαυταπλάσια ἔσται καὶ τὰ ΑΒ, ΓΔ τῶν Ε, Ζ.                                HD to E, F . Thus, as many (magnitudes) as (there) are
+   ᾿Εὰν ἄρα ᾖ ὁποσαοῦν μεγέθη ὁποσωνοῦν μεγεθῶν                            in AB equal to E, so many (are there) also in AB, CD
+ἴσων τὸ πλῆθος ἕκαστον ἑκάστου ἰσάκις πολλαπλάσιον,                        equal to E, F . Thus, as many times as AB is (divisible)
+ὁσαπλάσιόν ἐστιν ἓν τῶν μεγεθῶν ἑνός, τοσαυταπλάσια                        by E, so many times will AB, CD also be (divisible) by
+ἔσται καὶ τὰ πάντα τῶν πάντων· ὅπερ ἔδει δεῖξαι.                           E, F .
+                                                                               Thus, if there are any number of magnitudes what-
+                                                                           soever (which are) equal multiples, respectively, of some
+                                                                           (other) magnitudes, of equal number (to them), then as
+                                                                           many times as one of the (first) magnitudes is (divisi-
+                                                                           ble) by one (of the second), so many times will all (of the
+                                                                           first magnitudes) also (be divisible) by all (of the second).
+                                                                           (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads m α + m β + · · · = m (α + β + · · · ).
+
+
+
+                                  bþ.                                                           Proposition 2†
+   ᾿Εὰν πρῶτον δευτέρου ἰσάκις ᾖ πολλαπλάσιον καὶ τρίτον                       If a first (magnitude) and a third are equal multiples
+τετάρτου, ᾖ δὲ καὶ πέμπτον δευτέρου ἰσάκις πολλαπλάσιον                    of a second and a fourth (respectively), and a fifth (mag-
+καὶ ἕκτον τετάρτου, καὶ συντεθὲν πρῶτον καὶ πέμπτον                        nitude) and a sixth (are) also equal multiples of the sec-
+δευτέρου ἰσάκις ἔσται πολλαπλάσιον καὶ τρίτον καὶ ἕκτον                    ond and fourth (respectively), then the first (magnitude)
+τετάρτου.                                                                  and the fifth, being added together, and the third and the
+   Πρῶτον γὰρ τὸ ΑΒ δευτέρου τοῦ Γ ἰσάκις ἔστω πολ-                        sixth, (being added together), will also be equal multiples
+λαπλάσιον καὶ τρίτον τὸ ΔΕ τετάρτου τοῦ Ζ, ἔστω δὲ καὶ                     of the second (magnitude) and the fourth (respectively).
+πέμπτον τὸ ΒΗ δευτέρου τοῦ Γ ἰσάκις πολλαπλάσιον καὶ                           For let a first (magnitude) AB and a third DE be
+ἕκτον τὸ ΕΘ τετάρτου τοῦ Ζ· λέγω, ὅτι καὶ συντεθὲν                         equal multiples of a second C and a fourth F (respec-
+πρῶτον καὶ πέμπτον τὸ ΑΗ δευτέρου τοῦ Γ ἰσάκις ἔσται                       tively). And let a fifth (magnitude) BG and a sixth EH
+πολλαπλάσιον καὶ τρίτον καὶ ἕκτον τὸ ΔΘ τετάρτου τοῦ Ζ.                    also be (other) equal multiples of the second C and the
+                                                                           fourth F (respectively). I say that the first (magnitude)
+                                                                           and the fifth, being added together, (to give) AG, and the
+                                                                           third (magnitude) and the sixth, (being added together,
+
+
+                                                                       132
+STOIQEIWN eþ.                                                                                             ELEMENTS BOOK 5
+
+                                                                       to give) DH, will also be equal multiples of the second
+                                                                       (magnitude) C and the fourth F (respectively).
+          Α                 Β            Η                                       A               B           G
+
+      Γ                                                                      C
+          ∆                            Ε                  Θ                      D                         E               H
+
+      Ζ                                                                      F
+    ᾿Επεὶ γὰρ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΑΒ τοῦ Γ καὶ τὸ                  For since AB and DE are equal multiples of C and F
+ΔΕ τοῦ Ζ, ὅσα ἄρα ἐστὶν ἐν τῷ ΑΒ ἴσα τῷ Γ, τοσαῦτα καὶ                 (respectively), thus as many (magnitudes) as (there) are
+ἐν τῷ ΔΕ ἴσα τῷ Ζ. διὰ τὰ αὐτὰ δὴ καὶ ὅσα ἐστὶν ἐν τῷ ΒΗ               in AB equal to C, so many (are there) also in DE equal to
+ἴσα τῷ Γ, τοσαῦτα καὶ ἐν τῷ ΕΘ ἴσα τῷ Ζ· ὅσα ἄρα ἐστὶν ἐν              F . And so, for the same (reasons), as many (magnitudes)
+ὅλῳ τῷ ΑΗ ἴσα τῷ Γ, τοσαῦτα καὶ ἐν ὅλῳ τῷ ΔΘ ἴσα τῷ Ζ·                 as (there) are in BG equal to C, so many (are there)
+ὁσαπλάσιον ἄρα ἐστὶ τὸ ΑΗ τοῦ Γ, τοσαυταπλάσιον ἔσται                  also in EH equal to F . Thus, as many (magnitudes) as
+καὶ τὸ ΔΘ τοῦ Ζ. καὶ συντεθὲν ἄρα πρῶτον καὶ πέμπτον τὸ                (there) are in the whole of AG equal to C, so many (are
+ΑΗ δευτέρου τοῦ Γ ἰσάκις ἔσται πολλαπλάσιον καὶ τρίτον                 there) also in the whole of DH equal to F . Thus, as many
+καὶ ἕκτον τὸ ΔΘ τετάρτου τοῦ Ζ.                                        times as AG is (divisible) by C, so many times will DH
+    ᾿Εὰν ἄρα πρῶτον δευτέρου ἰσάκις ᾖ πολλαπλάσιον καὶ                 also be divisible by F . Thus, the first (magnitude) and
+τρίτον τετάρτου, ᾖ δὲ καὶ πέμπτον δευτέρου ἰσάκις πολ-                 the fifth, being added together, (to give) AG, and the
+λαπλάσιον καὶ ἕκτον τετάρτου, καὶ συντεθὲν πρῶτον καὶ                  third (magnitude) and the sixth, (being added together,
+πέμπτον δευτέρου ἰσάκις ἔσται πολλαπλάσιον καὶ τρίτον καὶ              to give) DH, will also be equal multiples of the second
+ἕκτον τετάρτου· ὅπερ ἔδει δεῖξαι.                                      (magnitude) C and the fourth F (respectively).
+                                                                           Thus, if a first (magnitude) and a third are equal mul-
+                                                                       tiples of a second and a fourth (respectively), and a fifth
+                                                                       (magnitude) and a sixth (are) also equal multiples of the
+                                                                       second and fourth (respectively), then the first (magni-
+                                                                       tude) and the fifth, being added together, and the third
+                                                                       and sixth, (being added together), will also be equal mul-
+                                                                       tiples of the second (magnitude) and the fourth (respec-
+                                                                       tively). (Which is) the very thing it was required to show.
+† In modern notation, this propostion reads m α + n α = (m + n) α.
+
+
+
+                                gþ.                                                         Proposition 3†
+    ᾿Εὰν πρῶτον δευτέρου ἰσάκις ᾖ πολλαπλάσιον καὶ τρίτον                  If a first (magnitude) and a third are equal multiples
+τετάρτου, ληφθῇ δὲ ἰσάκις πολλαπλάσια τοῦ τε πρώτου                    of a second and a fourth (respectively), and equal multi-
+καὶ τρίτου, καὶ δι᾿ ἴσου τῶν ληφθέντων ἑκάτερον ἑκατέρου               ples are taken of the first and the third, then, via equality,
+ἰσάκις ἔσται πολλαπλάσιον τὸ μὲν τοῦ δευτέρου τὸ δὲ τοῦ                the (magnitudes) taken will also be equal multiples of the
+τετάρτου.                                                              second (magnitude) and the fourth, respectively.
+    Πρῶτον γὰρ τὸ Α δευτέρου τοῦ Β ἰσάκις ἔστω πολ-                        For let a first (magnitude) A and a third C be equal
+λαπλάσιον καὶ τρίτον τὸ Γ τετάρτου τοῦ Δ, καὶ εἰλήφθω                  multiples of a second B and a fourth D (respectively),
+τῶν Α, Γ ἰσάκις πολλαπλάσια τὰ ΕΖ, ΗΘ· λέγω, ὅτι ἰσάκις                and let the equal multiples EF and GH have been taken
+ἐστὶ πολλαπλάσιον τὸ ΕΖ τοῦ Β καὶ τὸ ΗΘ τοῦ Δ.                         of A and C (respectively). I say that EF and GH are
+    ᾿Επεὶ γὰρ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΕΖ τοῦ Α καὶ                 equal multiples of B and D (respectively).
+τὸ ΗΘ τοῦ Γ, ὅσα ἄρα ἐστὶν ἐν τῷ ΕΖ ἴσα τῷ Α, τοσαῦτα                      For since EF and GH are equal multiples of A and
+καὶ ἐν τῷ ΗΘ ἴσα τῷ Γ. διῃρήσθω τὸ μὲν ΕΖ εἰς τὰ τῷ Α                  C (respectively), thus as many (magnitudes) as (there)
+μεγέθη ἴσα τὰ ΕΚ, ΚΖ, τὸ δὲ ΗΘ εἰς τὰ τῷ Γ ἴσα τὰ ΗΛ,                  are in EF equal to A, so many (are there) also in GH
+
+
+                                                                     133
+STOIQEIWN eþ.                                                                                       ELEMENTS BOOK 5
+
+ΛΘ· ἔσται δὴ ἴσον τὸ πλῆθος τῶν ΕΚ, ΚΖ τῷ πλήθει τῶν               equal to C. Let EF have been divided into magnitudes
+ΗΛ, ΛΘ. καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον τὸ Α τοῦ Β καὶ           EK, KF equal to A, and GH into (magnitudes) GL, LH
+τὸ Γ τοῦ Δ, ἴσον δὲ τὸ μὲν ΕΚ τῷ Α, τὸ δὲ ΗΛ τῷ Γ,                 equal to C. So, the number of (magnitudes) EK, KF
+ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ ΕΚ τοῦ Β καὶ τὸ ΗΛ τοῦ             will be equal to the number of (magnitudes) GL, LH.
+Δ. διὰ τὰ αὐτὰ δὴ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΚΖ τοῦ Β             And since A and C are equal multiples of B and D (re-
+καὶ τὸ ΛΘ τοῦ Δ. ἐπεὶ οὖν πρῶτον τὸ ΕΚ δευτέρου τοῦ Β              spectively), and EK (is) equal to A, and GL to C, EK
+ἴσάκις ἐστὶ πολλαπλάσιον καὶ τρίτον τὸ ΗΛ τετάρτου τοῦ             and GL are thus equal multiples of B and D (respec-
+Δ, ἔστι δὲ καὶ πέμπτον τὸ ΚΖ δευτέρου τοῦ Β ἰσάκις πολ-            tively). So, for the same (reasons), KF and LH are equal
+λαπλάσιον καὶ ἕκτον τὸ ΛΘ τετάρτου τοῦ Δ, καὶ συντεθὲν             multiples of B and D (respectively). Therefore, since the
+ἄρα πρῶτον καὶ πέμπτον τὸ ΕΖ δευτέρου τοῦ Β ἰσάκις ἐστὶ            first (magnitude) EK and the third GL are equal mul-
+πολλαπλάσιον καὶ τρίτον καὶ ἕκτον τὸ ΗΘ τετάρτου τοῦ Δ.            tiples of the second B and the fourth D (respectively),
+                                                                   and the fifth (magnitude) KF and the sixth LH are also
+                                                                   equal multiples of the second B and the fourth D (re-
+                                                                   spectively), then the first (magnitude) and fifth, being
+                                                                   added together, (to give) EF , and the third (magnitude)
+                                                                   and sixth, (being added together, to give) GH, are thus
+                                                                   also equal multiples of the second (magnitude) B and the
+                                                                   fourth D (respectively) [Prop. 5.2].
+   Α                                                                   A
+   Β                                                                   B
+    Ε                            Κ                           Ζ          E                       K                       F
+
+   Γ                                                                   C
+   ∆                                                                   D
+    Η                   Λ                  Θ                            G               L               H
+   ᾿Εὰν ἄρα πρῶτον δευτέρου ἰσάκις ᾖ πολλαπλάσιον                      Thus, if a first (magnitude) and a third are equal mul-
+καὶ τρίτον τετάρτου, ληφθῇ δὲ τοῦ πρώτου καὶ τρίτου                tiples of a second and a fourth (respectively), and equal
+ἰσάκις πολλαπλάσια, καὶ δι᾿ ἴσου τῶν ληφθέντων ἑκάτερον            multiples are taken of the first and the third, then, via
+ἑκατέρου ἰσάκις ἔσται πολλαπλάσιον τὸ μὲν τοῦ δευτέρου             equality, the (magnitudes) taken will also be equal mul-
+τὸ δὲ τοῦ τετάρτου· ὅπερ ἔδει δεῖξαι.                              tiples of the second (magnitude) and the fourth, respec-
+                                                                   tively. (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads m(n α) = (m n) α.
+
+
+
+                                dþ.                                                    Proposition 4†
+    ᾿Εὰν πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἔχῃ λόγον καὶ                  If a first (magnitude) has the same ratio to a second
+τρίτον πρὸς τέταρτον, καὶ τὰ ἰσάκις πολλαπλάσια τοῦ τε             that a third (has) to a fourth then equal multiples of the
+πρώτου καὶ τρίτου πρὸς τὰ ἰσάκις πολλαπλάσια τοῦ δευτέρου          first (magnitude) and the third will also have the same
+καὶ τετάρτου καθ᾿ ὁποιονοῦν πολλαπλασιασμὸν τὸν αὐτὸν              ratio to equal multiples of the second and the fourth, be-
+ἕξει λόγον ληφθέντα κατάλληλα.                                     ing taken in corresponding order, according to any kind
+    Πρῶτον γὰρ τὸ Α πρὸς δεύτερον τὸ Β τὸν αὐτὸν ἐχέτω             of multiplication whatsoever.
+λόγον καὶ τρίτον τὸ Γ πρὸς τέταρτον τὸ Δ, καὶ εἰλήφθω                  For let a first (magnitude) A have the same ratio to
+τῶν μὲν Α, Γ ἰσάκις πολλαπλάσια τὰ Ε, Ζ, τῶν δὲ Β, Δ               a second B that a third C (has) to a fourth D. And let
+ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Η, Θ· λέγω, ὅτι              equal multiples E and F have been taken of A and C
+ἐστὶν ὡς τὸ Ε πρὸς τὸ Η, οὕτως τὸ Ζ πρὸς τὸ Θ.                     (respectively), and other random equal multiples G and
+
+
+                                                                 134
+STOIQEIWN eþ.                                                                                                       ELEMENTS BOOK 5
+
+                                                                             H of B and D (respectively). I say that as E (is) to G, so
+                                                                             F (is) to H.
+               Α                                                                             A
+               Β                                                                             B
+               Ε                                                                             E
+               Η                                                                             G
+               Κ                                                                             K
+               Μ                                                                             M
+               Γ                                                                             C
+               ∆                                                                             D
+               Ζ                                                                             F
+               Θ                                                                             H
+               Λ                                                                             L
+               Ν                                                                             N
+    Εἰλήφθω γὰρ τῶν μὲν Ε, Ζ ἰσάκις πολλαπλάσια τὰ Κ,                            For let equal multiples K and L have been taken of E
+Λ, τῶν δὲ Η, Θ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Μ,                      and F (respectively), and other random equal multiples
+Ν.                                                                           M and N of G and H (respectively).
+    [Καὶ] ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον τὸ μὲν Ε τοῦ Α, τὸ                       [And] since E and F are equal multiples of A and
+δὲ Ζ τοῦ Γ, καὶ εἴληπται τῶν Ε, Ζ ἴσάκις πολλαπλάσια τὰ Κ,                   C (respectively), and the equal multiples K and L have
+Λ, ἴσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ Κ τοῦ Α καὶ τὸ Λ τοῦ                      been taken of E and F (respectively), K and L are thus
+Γ. διὰ τὰ αὐτὰ δὴ ἰσάκις ἐστὶ πολλαπλάσιον τὸ Μ τοῦ Β καὶ                    equal multiples of A and C (respectively) [Prop. 5.3]. So,
+τὸ Ν τοῦ Δ. καὶ ἐπεί ἐστιν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ                     for the same (reasons), M and N are equal multiples of
+πρὸς τὸ Δ, καὶ εἴληπται τῶν μὲν Α, Γ ἰσάκις πολλαπλάσια                      B and D (respectively). And since as A is to B, so C (is)
+τὰ Κ, Λ, τῶν δὲ Β, Δ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια                      to D, and the equal multiples K and L have been taken
+τὰ Μ, Ν, εἰ ἄρα ὑπερέχει τὸ Κ τοῦ Μ, ὑπερέχει καὶ τὸ Λ                       of A and C (respectively), and the other random equal
+τοῦ Ν, καὶ εἰ ἴσον, ἴσον, καὶ εἰ ἔλαττον, ἔλαττον. καί ἐστι                  multiples M and N of B and D (respectively), then if K
+τὰ μὲν Κ, Λ τῶν Ε, Ζ ἰσάκις πολλαπλάσια, τὰ δὲ Μ, Ν τῶν                      exceeds M then L also exceeds N , and if (K is) equal (to
+Η, Θ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια· ἔστιν ἄρα ὡς τὸ                     M then L is also) equal (to N ), and if (K is) less (than M
+Ε πρὸς τὸ Η, οὕτως τὸ Ζ πρὸς τὸ Θ.                                           then L is also) less (than N ) [Def. 5.5]. And K and L are
+    ᾿Εὰν ἄρα πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἔχῃ λόγον                        equal multiples of E and F (respectively), and M and N
+καὶ τρίτον πρὸς τέταρτον, καὶ τὰ ἰσάκις πολλαπλάσια τοῦ τε                   other random equal multiples of G and H (respectively).
+πρώτου καὶ τρίτου πρὸς τὰ ἰσάκις πολλαπλάσια τοῦ δευτέρου                    Thus, as E (is) to G, so F (is) to H [Def. 5.5].
+καὶ τετάρτου τὸν αὐτὸν ἕξει λόγον καθ᾿ ὁποιονοῦν πολλα-                          Thus, if a first (magnitude) has the same ratio to a
+πλασιασμὸν ληφθέντα κατάλληλα· ὅπερ ἔδει δεῖξαι.                             second that a third (has) to a fourth then equal multi-
+                                                                             ples of the first (magnitude) and the third will also have
+                                                                             the same ratio to equal multiples of the second and the
+                                                                             fourth, being taken in corresponding order, according to
+                                                                             any kind of multiplication whatsoever. (Which is) the
+                                                                             very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ then m α : n β :: m γ : n δ, for all m and n.
+
+
+
+
+                                                                         135
+STOIQEIWN eþ.                                                                                            ELEMENTS BOOK 5
+
+                                eþ.                                                         Proposition 5†
+   ᾿Εὰν μέγεθος μεγέθους ἰσάκις ᾖ πολλαπλάσιον, ὅπερ        If a magnitude is the same multiple of a magnitude
+ἀφαιρεθὲν ἀφαιρεθέντος, καὶ τὸ λοιπὸν τοῦ λοιποῦ ἰσάκις that a (part) taken away (is) of a (part) taken away (re-
+ἔσται πολλαπλάσιον, ὁσαπλάσιόν ἐστι τὸ ὅλον τοῦ ὅλου.   spectively) then the remainder will also be the same mul-
+                                                        tiple of the remainder as that which the whole (is) of the
+                                                        whole (respectively).
+           Α                          Ε              Β                           A                      E             B
+
+           Η Γ           Ζ ∆                                                     G C          F D
+    Μέγεθος γὰρ τὸ ΑΒ μεγέθους τοῦ ΓΔ ἰσάκις ἔστω πολ-                      For let the magnitude AB be the same multiple of the
+λαπλάσιον, ὅπερ ἀφαιρεθὲν τὸ ΑΕ ἀφαιρεθέντος τοῦ ΓΖ·                    magnitude CD that the (part) taken away AE (is) of the
+λέγω, ὅτι καὶ λοιπὸν τὸ ΕΒ λοιποῦ τοῦ ΖΔ ἰσάκις ἔσται                   (part) taken away CF (respectively). I say that the re-
+πολλαπλάσιον, ὁσαπλάσιόν ἐστιν ὅλον τὸ ΑΒ ὅλου τοῦ ΓΔ.                  mainder EB will also be the same multiple of the remain-
+    ῾Οσαπλάσιον γάρ ἐστι τὸ ΑΕ τοῦ ΓΖ, τοσαυταπλάσιον                   der F D as that which the whole AB (is) of the whole CD
+γεγονέτω καὶ τὸ ΕΒ τοῦ ΓΗ.                                              (respectively).
+    Καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΑΕ τοῦ ΓΖ καὶ τὸ                   For as many times as AE is (divisible) by CF , so many
+ΕΒ τοῦ ΗΓ, ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ ΑΕ τοῦ ΓΖ                    times let EB also have been made (divisible) by CG.
+καὶ τὸ ΑΒ τοῦ ΗΖ. κεῖται δὲ ἰσάκις πολλαπλάσιον τὸ ΑΕ                       And since AE and EB are equal multiples of CF and
+τοῦ ΓΖ καὶ τὸ ΑΒ τοῦ ΓΔ. ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ                GC (respectively), AE and AB are thus equal multiples
+ΑΒ ἑκατέρου τῶν ΗΖ, ΓΔ· ἴσον ἄρα τὸ ΗΖ τῷ ΓΔ. κοινὸν                    of CF and GF (respectively) [Prop. 5.1]. And AE and
+ἀφῃρήσθω τὸ ΓΖ· λοιπὸν ἄρα τὸ ΗΓ λοιπῷ τῷ ΖΔ ἴσον                       AB are assumed (to be) equal multiples of CF and CD
+ἐστίν. καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΑΕ τοῦ ΓΖ                   (respectively). Thus, AB is an equal multiple of each
+καὶ τὸ ΕΒ τοῦ ΗΓ, ἴσον δὲ τὸ ΗΓ τῷ ΔΖ, ἰσάκις ἄρα ἐστὶ                  of GF and CD. Thus, GF (is) equal to CD. Let CF
+πολλαπλάσιον τὸ ΑΕ τοῦ ΓΖ καὶ τὸ ΕΒ τοῦ ΖΔ. ἰσάκις δὲ                   have been subtracted from both. Thus, the remainder
+ὑπόκειται πολλαπλάσιον τὸ ΑΕ τοῦ ΓΖ καὶ τὸ ΑΒ τοῦ ΓΔ·                   GC is equal to the remainder F D. And since AE and
+ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ ΕΒ τοῦ ΖΔ καὶ τὸ ΑΒ                     EB are equal multiples of CF and GC (respectively),
+τοῦ ΓΔ. καὶ λοιπὸν ἄρα τὸ ΕΒ λοιποῦ τοῦ ΖΔ ἰσάκις ἔσται                 and GC (is) equal to DF , AE and EB are thus equal
+πολλαπλάσιον, ὁσαπλάσιόν ἐστιν ὅλον τὸ ΑΒ ὅλου τοῦ ΓΔ.                  multiples of CF and F D (respectively). And AE and
+    ᾿Εὰν ἄρα μέγεθος μεγέθους ἰσάκις ᾖ πολλαπλάσιον,                    AB are assumed (to be) equal multiples of CF and CD
+ὅπερ ἀφαιρεθὲν ἀφαιρεθέντος, καὶ τὸ λοιπὸν τοῦ λοιποῦ                   (respectively). Thus, EB and AB are equal multiples of
+ἰσάκις ἔσται πολλαπλάσιον, ὁσαπλάσιόν ἐστι καὶ τὸ ὅλον                  F D and CD (respectively). Thus, the remainder EB will
+τοῦ ὅλου· ὅπερ ἔδει δεῖξαι.                                             also be the same multiple of the remainder F D as that
+                                                                        which the whole AB (is) of the whole CD (respectively).
+                                                                            Thus, if a magnitude is the same multiple of a magni-
+                                                                        tude that a (part) taken away (is) of a (part) taken away
+                                                                        (respectively) then the remainder will also be the same
+                                                                        multiple of the remainder as that which the whole (is) of
+                                                                        the whole (respectively). (Which is) the very thing it was
+                                                                        required to show.
+† In modern notation, this proposition reads m α − m β = m (α − β).
+
+
+
+                                þ.                                                         Proposition 6†
+    ᾿Εὰν δύο μεγέθη δύο μεγεθῶν ἰσάκις ᾖ πολλαπλάσια,                       If two magnitudes are equal multiples of two (other)
+καὶ ἀφαιρεθέντα τινὰ τῶν αὐτῶν ἰσάκις ᾖ πολλαπλάσια, καὶ                magnitudes, and some (parts) taken away (from the for-
+τὰ λοιπὰ τοῖς αὐτοῖς ἤτοι ἴσα ἐστὶν ἢ ἰσάκις αὐτῶν πολ-                 mer magnitudes) are equal multiples of the latter (mag-
+λαπλάσια.                                                               nitudes, respectively), then the remainders are also either
+    Δύο γὰρ μεγέθη τὰ ΑΒ, ΓΔ δύο μεγεθῶν τῶν Ε, Ζ                       equal to the latter (magnitudes), or (are) equal multiples
+
+
+                                                                      136
+STOIQEIWN eþ.                                                                                              ELEMENTS BOOK 5
+
+ἰσάκις ἔστω πολλαπλάσια, καὶ ἀφαιρεθέντα τὰ ΑΗ, ΓΘ τῶν of them (respectively).
+αὐτῶν τῶν Ε, Ζ ἰσάκις ἔστω πολλαπλάσια· λέγω, ὅτι καὶ       For let two magnitudes AB and CD be equal multi-
+λοιπὰ τὰ ΗΒ, ΘΔ τοῖς Ε, Ζ ἤτοι ἴσα ἐστὶν ἢ ἰσάκις αὐτῶν ples of two magnitudes E and F (respectively). And let
+πολλαπλάσια.                                            the (parts) taken away (from the former) AG and CH be
+                                                        equal multiples of E and F (respectively). I say that the
+                                                        remainders GB and HD are also either equal to E and F
+                                                        (respectively), or (are) equal multiples of them.
+              Α                            Η         Β                              A                         G        B
+
+           Ε                                                                      E
+            Κ Γ                        Θ ∆                                         K      C                H D
+
+           Ζ                                                                      F
+    ῎Εστω γὰρ πρότερον τὸ ΗΒ τῷ Ε ἴσον· λέγω, ὅτι καὶ                       For let GB be, first of all, equal to E. I say that HD is
+τὸ ΘΔ τῷ Ζ ἴσον ἐστίν.                                                  also equal to F .
+    Κείσθω γὰρ τῷ Ζ ἴσον τὸ ΓΚ. ἐπεὶ ἰσάκις ἐστὶ πολ-                       For let CK be made equal to F . Since AG and CH
+λαπλάσιον τὸ ΑΗ τοῦ Ε καὶ τὸ ΓΘ τοῦ Ζ, ἴσον δὲ τὸ μὲν ΗΒ                are equal multiples of E and F (respectively), and GB
+τῷ Ε, τὸ δὲ ΚΓ τῷ Ζ, ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ ΑΒ                 (is) equal to E, and KC to F , AB and KH are thus equal
+τοῦ Ε καὶ τὸ ΚΘ τοῦ Ζ. ἰσάκις δὲ ὑπόκειται πολλαπλάσιον                 multiples of E and F (respectively) [Prop. 5.2]. And AB
+τὸ ΑΒ τοῦ Ε καὶ τὸ ΓΔ τοῦ Ζ· ἴσάκις ἄρα ἐστὶ πολλαπλάσιον               and CD are assumed (to be) equal multiples of E and F
+τὸ ΚΘ τοῦ Ζ καὶ τὸ ΓΔ τοῦ Ζ. ἐπεὶ οὖν ἑκάτερον τῶν ΚΘ,                  (respectively). Thus, KH and CD are equal multiples of
+ΓΔ τοῦ Ζ ἰσάκις ἐστὶ πολλαπλάσιον, ἴσον ἄρα ἐστὶ τὸ ΚΘ                  F and F (respectively). Therefore, KH and CD are each
+τῷ ΓΔ. κοινὸν ἀφῃρήσθω τὸ ΓΘ· λοιπὸν ἄρα τὸ ΚΓ λοιπῷ                    equal multiples of F . Thus, KH is equal to CD. Let CH
+τῷ ΘΔ ἴσον ἐστίν. ἀλλὰ τὸ Ζ τῷ ΚΓ ἐστιν ἴσον· καὶ τὸ                    have be taken away from both. Thus, the remainder KC
+ΘΔ ἄρα τῷ Ζ ἴσον ἐστίν. ὥστε εἰ τὸ ΗΒ τῷ Ε ἴσον ἐστίν,                  is equal to the remainder HD. But, F is equal to KC.
+καὶ τὸ ΘΔ ἴσον ἔσται τῷ Ζ.                                              Thus, HD is also equal to F . Hence, if GB is equal to E
+    ῾Ομοίως δὴ δείξομεν, ὅτι, κᾂν πολλαπλάσιον ᾖ τὸ ΗΒ                  then HD will also be equal to F .
+τοῦ Ε, τοσαυταπλάσιον ἔσται καὶ τὸ ΘΔ τοῦ Ζ.                                So, similarly, we can show that even if GB is a multi-
+    ᾿Εὰν ἄρα δύο μεγέθη δύο μεγεθῶν ἰσάκις ᾖ πολ-                       ple of E then HD will also be the same multiple of F .
+λαπλάσια, καὶ ἀφαιρεθέντα τινὰ τῶν αὐτῶν ἰσάκις ᾖ πολ-                      Thus, if two magnitudes are equal multiples of two
+λαπλάσια, καὶ τὰ λοιπὰ τοῖς αὐτοῖς ἤτοι ἴσα ἐστὶν ἢ ἰσάκις              (other) magnitudes, and some (parts) taken away (from
+αὐτῶν πολλαπλάσια· ὅπερ ἔδει δεῖξαι.                                    the former magnitudes) are equal multiples of the latter
+                                                                        (magnitudes, respectively), then the remainders are also
+                                                                        either equal to the latter (magnitudes), or (are) equal
+                                                                        multiples of them (respectively). (Which is) the very
+                                                                        thing it was required to show.
+† In modern notation, this proposition reads m α − n α = (m − n) α.
+
+
+
+                                zþ.                                                           Proposition 7
+   Τὰ ἴσα πρὸς τὸ αὐτὸ τὸν αὐτὸν ἔχει λόγον καὶ τὸ αὐτὸ    Equal (magnitudes) have the same ratio to the same
+πρὸς τὰ ἴσα.                                            (magnitude), and the latter (magnitude has the same ra-
+   ῎Εστω ἴσα μεγέθη τὰ Α, Β, ἄλλο δέ τι, ὃ ἔτυχεν, tio) to the equal (magnitudes).
+μέγεθος τὸ Γ· λέγω, ὅτι ἑκάτερον τῶν Α, Β πρὸς τὸ Γ        Let A and B be equal magnitudes, and C some other
+τὸν αὐτὸν ἔχει λόγον, καὶ τὸ Γ πρὸς ἑκάτερον τῶν Α, Β.  random magnitude. I say that A and B each have the
+
+
+
+                                                                      137
+STOIQEIWN eþ.                                                                                                     ELEMENTS BOOK 5
+
+                                                                               same ratio to C, and (that) C (has the same ratio) to
+                                                                               each of A and B.
+      Α                   ∆                                                          A             D
+      Β                   Ε                                                          B             E
+      Γ                   Ζ                                                          C             F
+    Εἰλήφθω γὰρ τῶν μὲν Α, Β ἰσάκις πολλαπλάσια τὰ Δ,                              For let the equal multiples D and E have been taken
+Ε, τοῦ δὲ Γ ἄλλο, ὃ ἔτυχεν, πολλαπλάσιον τὸ Ζ.                                 of A and B (respectively), and the other random multiple
+    ᾿Επεὶ οὖν ἰσάκις ἐστὶ πολλαπλάσιον τὸ Δ τοῦ Α καὶ τὸ                       F of C.
+Ε τοῦ Β, ἴσον δὲ τὸ Α τῷ Β, ἴσον ἄρα καὶ τὸ Δ τῷ Ε. ἄλλο                           Therefore, since D and E are equal multiples of A
+δέ, ὅ ἔτυχεν, τὸ Ζ. Εἰ ἄρα ὑπερέχει τὸ Δ τοῦ Ζ, ὑπερέχει                       and B (respectively), and A (is) equal to B, D (is) thus
+καὶ τὸ Ε τοῦ Ζ, καὶ εἰ ἴσον, ἴσον, καὶ εἰ ἔλαττον, ἔλαττον.                    also equal to E. And F (is) different, at random. Thus, if
+καί ἐστι τὰ μὲν Δ, Ε τῶν Α, Β ἰσάκις πολλαπλάσια, τὸ δὲ                        D exceeds F then E also exceeds F , and if (D is) equal
+Ζ τοῦ Γ ἄλλο, ὃ ἔτυχεν, πολλαπλάσιον· ἔστιν ἄρα ὡς τὸ Α                        (to F then E is also) equal (to F ), and if (D is) less
+πρὸς τὸ Γ, οὕτως τὸ Β πρὸς τὸ Γ.                                               (than F then E is also) less (than F ). And D and E are
+    Λέγω [δή], ὅτι καὶ τὸ Γ πρὸς ἑκάτερον τῶν Α, Β τὸν                         equal multiples of A and B (respectively), and F another
+αὐτὸν ἔχει λόγον.                                                              random multiple of C. Thus, as A (is) to C, so B (is) to
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ὁμοίως δείξομεν,                            C [Def. 5.5].
+ὅτι ἴσον ἐστὶ τὸ Δ τῷ Ε· ἄλλο δέ τι τὸ Ζ· εἰ ἄρα ὑπερέχει                          [So] I say that C † also has the same ratio to each of A
+τὸ Ζ τοῦ Δ, ὑπερέχει καὶ τοῦ Ε, καὶ εἰ ἴσον, ἴσον, καὶ εἰ                      and B.
+ἔλαττον, ἔλαττον. καί ἐστι τὸ μὲν Ζ τοῦ Γ πολλαπλάσιον,                            For, similarly, we can show, by the same construction,
+τὰ δὲ Δ, Ε τῶν Α, Β ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια·                        that D is equal to E. And F (has) some other (value).
+ἔστιν ἄρα ὡς τὸ Γ πρὸς τὸ Α, οὕτως τὸ Γ πρὸς τὸ Β.                             Thus, if F exceeds D then it also exceeds E, and if (F is)
+    Τὰ ἴσα ἄρα πρὸς τὸ αὐτὸ τὸν αὐτὸν ἔχει λόγον καὶ τὸ                        equal (to D then it is also) equal (to E), and if (F is) less
+αὐτὸ πρὸς τὰ ἴσα.                                                              (than D then it is also) less (than E). And F is a multiple
+                                                                               of C, and D and E other random equal multiples of A
+                                                                               and B. Thus, as C (is) to A, so C (is) to B [Def. 5.5].
+                                                                                   Thus, equal (magnitudes) have the same ratio to the
+                                                                               same (magnitude), and the latter (magnitude has the
+                                                                               same ratio) to the equal (magnitudes).
+
+                               Pìrisma.                                                                Corollary‡
+    ᾿Εκ δὴ τούτου φανερόν, ὅτι ἐὰν μεγέθη τινὰ ἀνάλογον    So (it is) clear, from this, that if some magnitudes are
+ᾖ, καὶ ἀνάπαλιν ἀνάλογον ἔσται. ὅπερ ἔδει δεῖξαι.       proportional then they will also be proportional inversely.
+                                                        (Which is) the very thing it was required to show.
+† The Greek text has “E”, which is obviously a mistake.
+
+‡ In modern notation, this corollary reads that if α : β :: γ : δ then β : α :: δ : γ.
+
+
+
+                                    hþ.                                                             Proposition 8
+    Τῶν ἀνίσων μεγεθῶν τὸ μεῖζον πρὸς τὸ αὐτὸ μείζονα                              For unequal magnitudes, the greater (magnitude) has
+λόγον ἔχει ἤπερ τὸ ἔλαττον. καὶ τὸ αὐτὸ πρὸς τὸ ἔλαττον                        a greater ratio than the lesser to the same (magnitude).
+μείζονα λόγον ἔχει ἤπερ πρὸς τὸ μεῖζον.                                        And the latter (magnitude) has a greater ratio to the
+    ῎Εστω ἄνισα μεγέθη τὰ ΑΒ, Γ, καὶ ἔστω μεῖζον τὸ ΑΒ,                        lesser (magnitude) than to the greater.
+ἄλλο δέ, ὃ ἔτυχεν, τὸ Δ· λέγω, ὅτι τὸ ΑΒ πρὸς τὸ Δ                                 Let AB and C be unequal magnitudes, and let AB be
+μείζονα λόγον ἔχει ἤπερ τὸ Γ πρὸς τὸ Δ, καὶ τὸ Δ πρὸς                          the greater (of the two), and D another random magni-
+τὸ Γ μείζονα λόγον ἔχει ἤπερ πρὸς τὸ ΑΒ.                                       tude. I say that AB has a greater ratio to D than C (has)
+                                                                               to D, and (that) D has a greater ratio to C than (it has)
+                                                                               to AB.
+
+
+                                                                           138
+STOIQEIWN eþ.                                                                                 ELEMENTS BOOK 5
+
+    A E       B                     A    E B                     A E       B                     A    E B
+
+G                               G                            C                               C
+    Z     H            J            Z           H      J         F     G            H            F           G      H
+
+K                               K                            K                               K
+D                               D                            D                               D
+L                               L                            L                               L
+M                               M                            M                               M
+N                               N                            N                               N
+    ᾿Επεὶ γὰρ μεῖζόν ἐστι τὸ ΑΒ τοῦ Γ, κείσθω τῷ Γ ἴσον          For since AB is greater than C, let BE be made equal
+τὸ ΒΕ· τὸ δὴ ἔλασσον τῶν ΑΕ, ΕΒ πολλαπλασιαζόμενον           to C. So, the lesser of AE and EB, being multiplied, will
+ἔσται ποτὲ τοῦ Δ μεῖζον. ἔστω πρότερον τὸ ΑΕ ἔλαττον         sometimes be greater than D [Def. 5.4]. First of all, let
+τοῦ ΕΒ, καὶ πεπολλαπλασιάσθω τὸ ΑΕ, καὶ ἔστω αὐτοῦ           AE be less than EB, and let AE have been multiplied,
+πολλαπλάσιον τὸ ΖΗ μεῖζον ὂν τοῦ Δ, καὶ ὁσαπλάσιόν ἐστι      and let F G be a multiple of it which (is) greater than
+τὸ ΖΗ τοῦ ΑΕ, τοσαυταπλάσιον γεγονέτω καὶ τὸ μὲν ΗΘ          D. And as many times as F G is (divisible) by AE, so
+τοῦ ΕΒ τὸ δὲ Κ τοῦ Γ· καὶ εἰλήφθω τοῦ Δ διπλάσιον μὲν        many times let GH also have become (divisible) by EB,
+τὸ Λ, τριπλάσιον δὲ τὸ Μ, καὶ ἑξῆς ἑνὶ πλεῖον, ἕως ἂν τὸ     and K by C. And let the double multiple L of D have
+λαμβανόμενον πολλαπλάσιον μὲν γένηται τοῦ Δ, πρώτως δὲ       been taken, and the triple multiple M , and several more,
+μεῖζον τοῦ Κ. εἰλήφθω, καὶ ἔστω τὸ Ν τετραπλάσιον μὲν        (each increasing) in order by one, until the (multiple)
+τοῦ Δ, πρώτως δὲ μεῖζον τοῦ Κ.                               taken becomes the first multiple of D (which is) greater
+    ᾿Επεὶ οὖν τὸ Κ τοῦ Ν πρώτως ἐστὶν ἔλαττον, τὸ Κ ἄρα      than K. Let it have been taken, and let it also be the
+τοῦ Μ οὔκ ἐστιν ἔλαττον. καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον   quadruple multiple N of D—the first (multiple) greater
+τὸ ΖΗ τοῦ ΑΕ καὶ τὸ ΗΘ τοῦ ΕΒ, ἰσάκις ἄρα ἐστὶ πολ-          than K.
+λαπλάσιον τὸ ΖΗ τοῦ ΑΕ καὶ τὸ ΖΘ τοῦ ΑΒ. ἰσάκις δέ               Therefore, since K is less than N first, K is thus not
+ἐστι πολλαπλάσιον τὸ ΖΗ τοῦ ΑΕ καὶ τὸ Κ τοῦ Γ· ἰσάκις        less than M . And since F G and GH are equal multi-
+ἄρα ἐστὶ πολλαπλάσιον τὸ ΖΘ τοῦ ΑΒ καὶ τὸ Κ τοῦ Γ. τὰ        ples of AE and EB (respectively), F G and F H are thus
+ΖΘ, Κ ἄρα τῶν ΑΒ, Γ ἰσάκις ἐστὶ πολλαπλάσια. πάλιν, ἐπεὶ     equal multiples of AE and AB (respectively) [Prop. 5.1].
+ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΗΘ τοῦ ΕΒ καὶ τὸ Κ τοῦ Γ,        And F G and K are equal multiples of AE and C (re-
+ἴσον δὲ τὸ ΕΒ τῷ Γ, ἴσον ἄρα καὶ τὸ ΗΘ τῷ Κ. τὸ δὲ Κ         spectively). Thus, F H and K are equal multiples of AB
+τοῦ Μ οὔκ ἐστιν ἔλαττον· οὐδ᾿ ἄρα τὸ ΗΘ τοῦ Μ ἔλαττόν        and C (respectively). Thus, F H, K are equal multiples
+ἐστιν. μεῖζον δὲ τὸ ΖΗ τοῦ Δ· ὅλον ἄρα τὸ ΖΘ συναμ-          of AB, C. Again, since GH and K are equal multiples
+φοτέρων τῶν Δ, Μ μεῖζόν ἐστιν. ἀλλὰ συναμφότερα τὰ Δ,        of EB and C, and EB (is) equal to C, GH (is) thus also
+Μ τῷ Ν ἐστιν ἴσα, ἐπειδήπερ τὸ Μ τοῦ Δ τριπλάσιόν ἐστιν,     equal to K. And K is not less than M . Thus, GH not less
+συναμφότερα δὲ τὰ Μ, Δ τοῦ Δ ἐστι τετραπλάσια, ἔστι δὲ       than M either. And F G (is) greater than D. Thus, the
+καὶ τὸ Ν τοῦ Δ τετραπλάσιον· συναμφότερα ἄρα τὰ Μ, Δ         whole of F H is greater than D and M (added) together.
+τῷ Ν ἴσα ἐστίν. ἀλλὰ τὸ ΖΘ τῶν Μ, Δ μεῖζόν ἐστιν· τὸ         But, D and M (added) together is equal to N , inasmuch
+ΖΘ ἄρα τοῦ Ν ὑπερέχει· τὸ δὲ Κ τοῦ Ν οὐχ ὑπερέχει. καί       as M is three times D, and M and D (added) together is
+ἐστι τὰ μὲν ΖΘ, Κ τῶν ΑΒ, Γ ἰσάκις πολλαπλάσια, τὸ δὲ Ν      four times D, and N is also four times D. Thus, M and D
+τοῦ Δ ἄλλο, ὃ ἔτυχεν, πολλαπλάσιον· τὸ ΑΒ ἄρα πρὸς τὸ        (added) together is equal to N . But, F H is greater than
+Δ μείζονα λόγον ἔχει ἤπερ τὸ Γ πρὸς τὸ Δ.                    M and D. Thus, F H exceeds N . And K does not exceed
+    Λέγω δή, ὅτι καὶ τὸ Δ πρὸς τὸ Γ μείζονα λόγον ἔχει       N . And F H, K are equal multiples of AB, C, and N
+ἤπερ τὸ Δ πρὸς τὸ ΑΒ.                                        another random multiple of D. Thus, AB has a greater
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ὁμοίως δείξομεν,          ratio to D than C (has) to D [Def. 5.7].
+ὅτι τὸ μὲν Ν τοῦ Κ ὑπερέχει, τὸ δὲ Ν τοῦ ΖΘ οὐχ ὑπερέχει.        So, I say that D also has a greater ratio to C than D
+καί ἐστι τὸ μὲν Ν τοῦ Δ πολλαπλάσιον, τὰ δὲ ΖΘ, Κ τῶν        (has) to AB.
+ΑΒ, Γ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια· τὸ Δ ἄρα πρὸς          For, similarly, by the same construction, we can show
+τὸ Γ μείζονα λόγον ἔχει ἤπερ τὸ Δ πρὸς τὸ ΑΒ.                that N exceeds K, and N does not exceed F H. And
+    ᾿Αλλὰ δὴ τὸ ΑΕ τοῦ ΕΒ μεῖζον ἔστω. τὸ δὴ ἔλαττον         N is a multiple of D, and F H, K other random equal
+τὸ ΕΒ πολλαπλασιαζόμενον ἔσται ποτὲ τοῦ Δ μεῖζον. πε-        multiples of AB, C (respectively). Thus, D has a greater
+
+
+                                                         139
+STOIQEIWN eþ.                                                                                ELEMENTS BOOK 5
+
+πολλαπλασιάσθω, καὶ ἔστω τὸ ΗΘ πολλαπλάσιον μὲν τοῦ         ratio to C than D (has) to AB [Def. 5.5].
+ΕΒ, μεῖζον δὲ τοῦ Δ· καὶ ὁσαπλάσιόν ἐστι τὸ ΗΘ τοῦ ΕΒ,          And so let AE be greater than EB. So, the lesser,
+τοσαυταπλάσιον γεγονέτω καὶ τὸ μὲν ΖΗ τοῦ ΑΕ, τὸ δὲ Κ       EB, being multiplied, will sometimes be greater than D.
+τοῦ Γ. ὁμοίως δὴ δείξομεν, ὅτι τὰ ΖΘ, Κ τῶν ΑΒ, Γ ἰσάκις    Let it have been multiplied, and let GH be a multiple of
+ἐστὶ πολλαπλάσια· καὶ εἰλήφθω ὁμοίως τὸ Ν πολλαπλάσιον      EB (which is) greater than D. And as many times as
+μὲν τοῦ Δ, πρώτως δὲ μεῖζον τοῦ ΖΗ· ὥστε πάλιν τὸ ΖΗ        GH is (divisible) by EB, so many times let F G also have
+τοῦ Μ οὔκ ἐστιν ἔλασσον. μεῖζον δὲ τὸ ΗΘ τοῦ Δ· ὅλον        become (divisible) by AE, and K by C. So, similarly
+ἄρα τὸ ΖΘ τῶν Δ, Μ, τουτέστι τοῦ Ν, ὑπερέχει. τὸ δὲ Κ       (to the above), we can show that F H and K are equal
+τοῦ Ν οὐχ ὑπερέχει, ἐπειδήπερ καὶ τὸ ΖΗ μεῖζον ὂν τοῦ       multiples of AB and C (respectively). And, similarly (to
+ΗΘ, τουτέστι τοῦ Κ, τοῦ Ν οὐχ ὑπερέχει. καὶ ὡσαύτως         the above), let the multiple N of D, (which is) the first
+κατακολουθοῦντες τοῖς ἐπάνω περαίνομεν τὴν ἀπόδειξιν.       (multiple) greater than F G, have been taken. So, F G
+    Τῶν ἄρα ἀνίσων μεγεθῶν τὸ μεῖζον πρὸς τὸ αὐτὸ           is again not less than M . And GH (is) greater than D.
+μείζονα λόγον ἔχει ἤπερ τὸ ἔλαττον· καὶ τὸ αὐτὸ πρὸς τὸ     Thus, the whole of F H exceeds D and M , that is to say
+ἔλαττον μείζονα λόγον ἔχει ἤπερ πρὸς τὸ μεῖζον· ὅπερ ἔδει   N . And K does not exceed N , inasmuch as F G, which
+δεῖξαι.                                                     (is) greater than GH—that is to say, K—also does not
+                                                            exceed N . And, following the above (arguments), we
+                                                            (can) complete the proof in the same manner.
+                                                                Thus, for unequal magnitudes, the greater (magni-
+                                                            tude) has a greater ratio than the lesser to the same (mag-
+                                                            nitude). And the latter (magnitude) has a greater ratio to
+                                                            the lesser (magnitude) than to the greater. (Which is) the
+                                                            very thing it was required to show.
+
+                           jþ.                                                    Proposition 9
+   Τὰ πρὸς τὸ αὐτὸ τὸν αὐτὸν ἔχοντα λὸγον ἴσα ἀλλήλοις         (Magnitudes) having the same ratio to the same
+ἐστίν· καὶ πρὸς ἃ τὸ αὐτὸ τὸν αὐτὸν ἕχει λόγον, ἐκεῖνα ἴσα (magnitude) are equal to one another. And those (mag-
+ἐστίν.                                                     nitudes) to which the same (magnitude) has the same
+                                                           ratio are equal.
+     Α                           Β                               A                           B
+                 Γ                                                            C
+    ᾿Εχέτω γὰρ ἑκάτερον τῶν Α, Β πρὸς τὸ Γ τὸν αὐτὸν            For let A and B each have the same ratio to C. I say
+λόγον· λέγω, ὅτι ἴσον ἐστὶ τὸ Α τῷ Β.                       that A is equal to B.
+    Εἰ γὰρ μή, οὐκ ἂν ἑκάτερον τῶν Α, Β πρὸς τὸ Γ τὸν           For if not, A and B would not each have the same
+αὐτὸν εἶχε λόγον· ἔχει δέ· ἴσον ἄρα ἐστὶ τὸ Α τῷ Β.         ratio to C [Prop. 5.8]. But they do. Thus, A is equal to
+    ᾿Εχέτω δὴ πάλιν τὸ Γ πρὸς ἑκάτερον τῶν Α, Β τὸν αὐτὸν   B.
+λόγον· λέγω, ὅτι ἴσον ἐστὶ τὸ Α τῷ Β.                           So, again, let C have the same ratio to each of A and
+    Εἰ γὰρ μή, οὐκ ἂν τὸ Γ πρὸς ἑκάτερον τῶν Α, Β τὸν       B. I say that A is equal to B.
+αὐτὸν εἶχε λόγον· ἔχει δέ· ἴσον ἄρα ἐστὶ τὸ Α τῷ Β.             For if not, C would not have the same ratio to each of
+    Τὰ ἄρα πρὸς τὸ αὐτὸ τὸν αὐτὸν ἔχοντα λόγον ἴσα          A and B [Prop. 5.8]. But it does. Thus, A is equal to B.
+ἀλλήλοις ἐστίν· καὶ πρὸς ἃ τὸ αὐτὸ τὸν αὐτὸν ἔχει λόγον,        Thus, (magnitudes) having the same ratio to the same
+ἐκεῖνα ἴσα ἐστίν· ὅπερ ἔδει δεῖξαι.                         (magnitude) are equal to one another. And those (magni-
+                                                            tudes) to which the same (magnitude) has the same ratio
+                                                            are equal. (Which is) the very thing it was required to
+                                                            show.
+
+                           iþ.                                                  Proposition 10
+   Τῶν πρὸς τὸ αὐτὸ λόγον ἐχόντων τὸ μείζονα λόγον            For (magnitudes) having a ratio to the same (mag-
+ἔχον ἐκεῖνο μεῖζόν ἐστιν· πρὸς ὃ δὲ τὸ αὐτὸ μείζονα λόγον nitude), that (magnitude which) has the greater ratio is
+
+
+                                                        140
+STOIQEIWN eþ.                                                                                        ELEMENTS BOOK 5
+
+ἔχει, ἐκεῖνο ἔλαττόν ἐστιν.                                      (the) greater. And that (magnitude) to which the latter
+                                                                 (magnitude) has a greater ratio is (the) lesser.
+   Α                                 Β                             A                                   B
+                   Γ                                                                 C
+    ᾿Εχέτω γὰρ τὸ Α πρὸς τὸ Γ μείζονα λόγον ἤπερ τὸ Β                For let A have a greater ratio to C than B (has) to C.
+πρὸς τὸ Γ· λέγω, ὅτι μεῖζόν ἐστι τὸ Α τοῦ Β.                     I say that A is greater than B.
+    Εἰ γὰρ μή, ἤτοι ἴσον ἐστὶ τὸ Α τῷ Β ἢ ἔλασσον. ἴσον              For if not, A is surely either equal to or less than B.
+μὲν οὖν οὔκ ἐστὶ τὸ Α τῷ Β· ἑκάτερον γὰρ ἂν τῶν Α, Β             In fact, A is not equal to B. For (then) A and B would
+πρὸς τὸ Γ τὸν αὐτὸν εἶχε λόγον. οὐκ ἔχει δέ· οὐκ ἄρα ἴσον        each have the same ratio to C [Prop. 5.7]. But they do
+ἐστὶ τὸ Α τῷ Β. οὐδὲ μὴν ἔλασσόν ἐστι τὸ Α τοῦ Β· τὸ Α           not. Thus, A is not equal to B. Neither, indeed, is A less
+γὰρ ἂν πρὸς τὸ Γ ἐλάσσονα λόγον εἶχεν ἤπερ τὸ Β πρὸς τὸ          than B. For (then) A would have a lesser ratio to C than
+Γ. οὐκ ἔχει δέ· οὐκ ἄρα ἔλασσόν ἐστι τὸ Α τοῦ Β. ἐδείχθη         B (has) to C [Prop. 5.8]. But it does not. Thus, A is not
+δὲ οὐδὲ ἴσον· μεῖζον ἄρα ἐστὶ τὸ Α τοῦ Β.                        less than B. And it was shown not (to be) equal either.
+    ᾿Εχέτω δὴ πάλιν τὸ Γ πρὸς τὸ Β μείζονα λόγον ἤπερ τὸ         Thus, A is greater than B.
+Γ πρὸς τὸ Α· λέγω, ὅτι ἔλασσόν ἐστι τὸ Β τοῦ Α.                      So, again, let C have a greater ratio to B than C (has)
+    Εἰ γὰρ μή, ἤτοι ἴσον ἐστὶν ἢ μεῖζον. ἴσον μὲν οὖν οὔκ        to A. I say that B is less than A.
+ἐστι τὸ Β τῷ Α· τὸ Γ γὰρ ἂν πρὸς ἑκάτερον τῶν Α, Β τὸν               For if not, (it is) surely either equal or greater. In fact,
+αὐτὸν εἶχε λόγον. οὐκ ἔχει δέ· οὐκ ἄρα ἴσον ἐστὶ τὸ Α            B is not equal to A. For (then) C would have the same
+τῷ Β. οὐδὲ μὴν μεῖζόν ἐστι τὸ Β τοῦ Α· τὸ Γ γὰρ ἂν πρὸς          ratio to each of A and B [Prop. 5.7]. But it does not.
+τὸ Β ἐλάσσονα λόγον εἶχεν ἤπερ πρὸς τὸ Α. οὐκ ἔχει δέ·           Thus, A is not equal to B. Neither, indeed, is B greater
+οὐκ ἄρα μεῖζόν ἐστι τὸ Β τοῦ Α. ἐδείχθη δέ, ὅτι οὐδὲ ἴσον·       than A. For (then) C would have a lesser ratio to B than
+ἔλαττον ἄρα ἐστὶ τὸ Β τοῦ Α.                                     (it has) to A [Prop. 5.8]. But it does not. Thus, B is not
+    Τῶν ἄρα πρὸς τὸ αὐτὸ λόγον ἐχόντων τὸ μείζονα λόγον          greater than A. And it was shown that (it is) not equal
+ἔχον μεῖζόν ἐστιν· καὶ πρὸς ὃ τὸ αὐτὸ μείζονα λόγον ἔχει,        (to A) either. Thus, B is less than A.
+ἐκεῖνο ἔλαττόν ἐστιν· ὅπερ ἔδει δεῖξαι.                              Thus, for (magnitudes) having a ratio to the same
+                                                                 (magnitude), that (magnitude which) has the greater
+                                                                 ratio is (the) greater. And that (magnitude) to which
+                                                                 the latter (magnitude) has a greater ratio is (the) lesser.
+                                                                 (Which is) the very thing it was required to show.
+
+                              iaþ.                                                    Proposition 11†
+   Οἱ τῷ αὐτῷ λόγῳ οἱ αὐτοὶ καὶ ἀλλήλοις εἰσὶν οἱ αὐτοί.             (Ratios which are) the same with the same ratio are
+                                                                 also the same with one another.
+   Α               Γ                   Ε                           A                 C                   E
+   Β               ∆                   Ζ                           B                 D                   F
+   Η               Θ                   Κ                           G                 H                   K
+   Λ               Μ                   Ν                           L                 M                   N
+    ῎Εστωσαν γὰρ ὡς μὲν τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς              For let it be that as A (is) to B, so C (is) to D, and as
+τὸ Δ, ὡς δὲ τὸ Γ πρὸς τὸ Δ, οὕτως τὸ Ε πρὸς τὸ Ζ· λέγω,          C (is) to D, so E (is) to F . I say that as A is to B, so E
+ὅτι ἐστὶν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Ε πρὸς τὸ Ζ.               (is) to F .
+    Εἰλήφθω γὰρ τῶν Α, Γ, Ε ἰσάκις πολλαπλάσια τὰ Η, Θ,              For let the equal multiples G, H, K have been taken
+Κ, τῶν δὲ Β, Δ, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ          of A, C, E (respectively), and the other random equal
+Λ, Μ, Ν.                                                         multiples L, M , N of B, D, F (respectively).
+    Καὶ ἐπεί ἐστιν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς τὸ             And since as A is to B, so C (is) to D, and the equal
+Δ, καὶ εἴληπται τῶν μὲν Α, Γ ἰσάκις πολλαπλάσια τὰ Η, Θ,         multiples G and H have been taken of A and C (respec-
+τῶν δὲ Β, Δ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Λ, Μ,          tively), and the other random equal multiples L and M
+εἰ ἄρα ὑπερέχει τὸ Η τοῦ Λ, ὑπερέχει καὶ τὸ Θ τοῦ Μ, καὶ εἰ      of B and D (respectively), thus if G exceeds L then H
+ἴσον ἐστίν, ἴσον, καὶ εἰ ἐλλείπει, ἐλλείπει. πάλιν, ἐπεί ἐστιν   also exceeds M , and if (G is) equal (to L then H is also)
+
+
+                                                             141
+STOIQEIWN eþ.                                                                                                       ELEMENTS BOOK 5
+
+ὡς τὸ Γ πρὸς τὸ Δ, οὕτως τὸ Ε πρὸς τὸ Ζ, καὶ εἴληπται                           equal (to M ), and if (G is) less (than L then H is also)
+τῶν Γ, Ε ἰσάκις πολλαπλάσια τὰ Θ, Κ, τῶν δὲ Δ, Ζ ἄλλα,                          less (than M ) [Def. 5.5]. Again, since as C is to D, so
+ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Μ, Ν, εἰ ἄρα ὑπερέχει τὸ                        E (is) to F , and the equal multiples H and K have been
+Θ τοῦ Μ, ὑπερέχει καὶ τὸ Κ τοῦ Ν, καὶ εἰ ἴσον, ἴσον, καὶ εἰ                     taken of C and E (respectively), and the other random
+ἔλλατον, ἔλαττον. ἀλλὰ εἰ ὑπερεῖχε τὸ Θ τοῦ Μ, ὑπερεῖχε                         equal multiples M and N of D and F (respectively), thus
+καὶ τὸ Η τοῦ Λ, καὶ εἰ ἴσον, ἴσον, καὶ εἰ ἔλαττον, ἔλαττον·                     if H exceeds M then K also exceeds N , and if (H is)
+ὥστε καὶ εἰ ὑπερέχει τὸ Η τοῦ Λ, ὑπερέχει καὶ τὸ Κ τοῦ                          equal (to M then K is also) equal (to N ), and if (H is)
+Ν, καὶ εἰ ἴσον, ἴσον, καὶ εἰ ἔλαττον, ἔλαττον. καί ἐστι τὰ                      less (than M then K is also) less (than N ) [Def. 5.5]. But
+μὲν Η, Κ τῶν Α, Ε ἰσάκις πολλαπλάσια, τὰ δὲ Λ, Ν τῶν Β,                         (we saw that) if H was exceeding M then G was also ex-
+Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια· ἔστιν ἄρα ὡς τὸ Α                         ceeding L, and if (H was) equal (to M then G was also)
+πρὸς τὸ Β, οὕτως τὸ Ε πρὸς τὸ Ζ.                                                equal (to L), and if (H was) less (than M then G was
+    Οἱ ἄρα τῷ αὐτῷ λόγῳ οἱ αὐτοὶ καὶ ἀλλήλοις εἰσὶν οἱ                          also) less (than L). And, hence, if G exceeds L then K
+αὐτοί· ὅπερ ἔδει δεῖξαι.                                                        also exceeds N , and if (G is) equal (to L then K is also)
+                                                                                equal (to N ), and if (G is) less (than L then K is also)
+                                                                                less (than N ). And G and K are equal multiples of A
+                                                                                and E (respectively), and L and N other random equal
+                                                                                multiples of B and F (respectively). Thus, as A is to B,
+                                                                                so E (is) to F [Def. 5.5].
+                                                                                    Thus, (ratios which are) the same with the same ratio
+                                                                                are also the same with one another. (Which is) the very
+                                                                                thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ and γ : δ :: ǫ : ζ then α : β :: ǫ : ζ.
+
+
+
+                                    ibþ.                                                                 Proposition 12†
+   ᾿Εὰν ᾖ ὁποσαοῦν μεγέθη ἀνάλογον, ἔσται ὡς ἓν τῶν                                 If there are any number of magnitudes whatsoever
+ἡγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως ἅπαντα τὰ                                 (which are) proportional then as one of the leading (mag-
+ἡγούμενα πρὸς ἅπαντα τὰ ἑπόμενα.                                                nitudes is) to one of the following, so will all of the lead-
+                                                                                ing (magnitudes) be to all of the following.
+   Α                   Γ                      Ε                                    A                   C               E
+   Β                   ∆                      Ζ                                    B                   D               F
+
+   Η                                       Λ                                       G                               L
+   Θ                                       Μ                                       H                               M
+   Κ                                       Ν                                       K                               N
+    ῎Εστωσαν ὁποσαοῦν μεγέθη ἀνάλογον τὰ Α, Β, Γ, Δ,                                Let there be any number of magnitudes whatsoever,
+Ε, Ζ, ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς τὸ Δ, καὶ τὸ Ε                         A, B, C, D, E, F , (which are) proportional, (so that) as
+πρὸς το Ζ· λέγω, ὅτι ἐστὶν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὰ                          A (is) to B, so C (is) to D, and E to F . I say that as A is
+Α, Γ, Ε πρὸς τὰ Β, Δ, Ζ.                                                        to B, so A, C, E (are) to B, D, F .
+    Εἰλήφθω γὰρ τῶν μὲν Α, Γ, Ε ἰσάκις πολλαπλάσια τὰ Η,                            For let the equal multiples G, H, K have been taken
+Θ, Κ, τῶν δὲ Β, Δ, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια                         of A, C, E (respectively), and the other random equal
+τὰ Λ, Μ, Ν.                                                                     multiples L, M , N of B, D, F (respectively).
+    Καὶ ἐπεί ἐστιν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς τὸ                            And since as A is to B, so C (is) to D, and E to F , and
+Δ, καὶ τὸ Ε πρὸς τὸ Ζ, καὶ εἴληπται τῶν μὲν Α, Γ, Ε ἰσάκις                      the equal multiples G, H, K have been taken of A, C, E
+πολλαπλάσια τὰ Η, Θ, Κ τῶν δὲ Β, Δ, Ζ ἄλλα, ἃ ἔτυχεν,                           (respectively), and the other random equal multiples L,
+ἰσάκις πολλαπλάσια τὰ Λ, Μ, Ν, εἰ ἄρα ὑπερέχει τὸ Η τοῦ Λ,                      M , N of B, D, F (respectively), thus if G exceeds L then
+ὑπερέχει καὶ τὸ Θ τοῦ Μ, καὶ τὸ Κ τοῦ Ν, καὶ εἰ ἴσον, ἴσον,                     H also exceeds M , and K (exceeds) N , and if (G is)
+καὶ εἰ ἔλαττον, ἔλαττον. ὥστε καὶ εἰ ὑπερέχει τὸ Η τοῦ Λ,                       equal (to L then H is also) equal (to M , and K to N ),
+
+
+
+                                                                            142
+STOIQEIWN eþ.                                                                                                                   ELEMENTS BOOK 5
+
+ὑπερέχει καὶ τὰ Η, Θ, Κ τῶν Λ, Μ, Ν, καὶ εἰ ἴσον, ἴσα, καὶ                         and if (G is) less (than L then H is also) less (than M ,
+εἰ ἔλαττον, ἔλαττονα. καί ἐστι τὸ μὲν Η καὶ τὰ Η, Θ, Κ                             and K than N ) [Def. 5.5]. And, hence, if G exceeds L
+τοῦ Α καὶ τῶν Α, Γ, Ε ἰσάκις πολλαπλάσια, ἐπειδήπερ ἐὰν                            then G, H, K also exceed L, M , N , and if (G is) equal
+ᾖ ὁποσαοῦν μεγέθη ὁποσωνοῦν μεγεθῶν ἴσων τὸ πλῆθος                                 (to L then G, H, K are also) equal (to L, M , N ) and
+ἕκαστον ἑκάστου ἰσάκις πολλαπλάσιον, ὁσαπλάσιόν ἐστιν                              if (G is) less (than L then G, H, K are also) less (than
+ἓν τῶν μεγεθῶν ἑνός, τοσαυταπλάσια ἔσται καὶ τὰ πάντα                              L, M , N ). And G and G, H, K are equal multiples of
+τῶν πάντων. διὰ τὰ αὐτὰ δὴ καὶ τὸ Λ καὶ τὰ Λ, Μ, Ν τοῦ                             A and A, C, E (respectively), inasmuch as if there are
+Β καὶ τῶν Β, Δ, Ζ ἰσάκις ἐστὶ πολλαπλάσια· ἔστιν ἄρα ὡς                            any number of magnitudes whatsoever (which are) equal
+τὸ Α πρὸς τὸ Β, οὕτως τὰ Α, Γ, Ε πρὸς τὰ Β, Δ, Ζ.                                  multiples, respectively, of some (other) magnitudes, of
+    ᾿Εὰν ἄρα ᾖ ὁποσαοῦν μεγέθη ἀνάλογον, ἔσται ὡς ἓν                               equal number (to them), then as many times as one of the
+τῶν ἡγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως ἅπαντα τὰ                                (first) magnitudes is (divisible) by one (of the second),
+ἡγούμενα πρὸς ἅπαντα τὰ ἑπόμενα· ὅπερ ἔδει δεῖξαι.                                 so many times will all (of the first magnitudes) also (be
+                                                                                   divisible) by all (of the second) [Prop. 5.1]. So, for the
+                                                                                   same (reasons), L and L, M , N are also equal multiples
+                                                                                   of B and B, D, F (respectively). Thus, as A is to B, so
+                                                                                   A, C, E (are) to B, D, F (respectively).
+                                                                                       Thus, if there are any number of magnitudes whatso-
+                                                                                   ever (which are) proportional then as one of the leading
+                                                                                   (magnitudes is) to one of the following, so will all of the
+                                                                                   leading (magnitudes) be to all of the following. (Which
+                                                                                   is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : α′ :: β : β ′ :: γ : γ ′ etc. then α : α′ :: (α + β + γ + · · · ) : (α′ + β ′ + γ ′ + · · · ).
+
+
+
+                                     igþ.                                                                     Proposition 13†
+    ᾿Εὰν πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἒχῃ λόγον καὶ        If a first (magnitude) has the same ratio to a second
+τρίτον πρὸς τέταρτον, τρίτον δὲ πρὸς τέταρτον μείζονα that a third (has) to a fourth, and the third (magnitude)
+λόγον ἔχῃ ἢ πέμπτον πρὸς ἕκτον, καὶ πρῶτον πρὸς δεύτερον has a greater ratio to the fourth than a fifth (has) to a
+μείζονα λόγον ἕξει ἢ πέμπτον πρὸς ἕκτον.                 sixth, then the first (magnitude) will also have a greater
+                                                         ratio to the second than the fifth (has) to the sixth.
+  Α                    Γ                         Ε                                  A                     C                         E
+  Β                    ∆                         Ζ                                  B                     D                         F
+  Μ                    Η                         Θ                                  M                     G                         H
+  Ν                    Κ                         Λ                                  N                     K                         L
+    Πρῶτον γὰρ τὸ Α πρὸς δεύτερον τὸ Β τὸν αὐτὸν ἐχέτω                                 For let a first (magnitude) A have the same ratio to a
+λόγον καὶ τρίτον τὸ Γ πρὸς τέταρτον τὸ Δ, τρίτον δὲ τὸ Γ                           second B that a third C (has) to a fourth D, and let the
+πρὸς τέταρτον τὸ Δ μείζονα λόγον ἐχέτω ἢ πέμπτον τὸ Ε                              third (magnitude) C have a greater ratio to the fourth
+πρὸς ἕκτον τὸ Ζ. λέγω, ὅτι καὶ πρῶτον τὸ Α πρὸς δεύτερον                           D than a fifth E (has) to a sixth F . I say that the first
+τὸ Β μείζονα λόγον ἕξει ἤπερ πέμπτον τὸ Ε πρὸς ἕκτον τὸ                            (magnitude) A will also have a greater ratio to the second
+Ζ.                                                                                 B than the fifth E (has) to the sixth F .
+    ᾿Επεὶ γὰρ ἔστι τινὰ τῶν μὲν Γ, Ε ἰσάκις πολλαπλάσια,                               For since there are some equal multiples of C and
+τῶν δὲ Δ, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια, καὶ τὸ μὲν                         E, and other random equal multiples of D and F , (for
+τοῦ Γ πολλαπλάσιον τοῦ τοῦ Δ πολλαπλασίου ὑπερέχει,                                which) the multiple of C exceeds the (multiple) of D,
+τὸ δὲ τοῦ Ε πολλαπλάσιον τοῦ τοῦ Ζ πολλαπλασίου οὐχ                                and the multiple of E does not exceed the multiple of F
+ὑπερέχει, εἰλήφθω, καὶ ἔστω τῶν μὲν Γ, Ε ἰσάκις πολ-                               [Def. 5.7], let them have been taken. And let G and H be
+λαπλάσια τὰ Η, Θ, τῶν δὲ Δ, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις                               equal multiples of C and E (respectively), and K and L
+πολλαπλάσια τὰ Κ, Λ, ὥστε τὸ μὲν Η τοῦ Κ ὑπερέχειν, τὸ                             other random equal multiples of D and F (respectively),
+δὲ Θ τοῦ Λ μὴ ὑπερέχειν· καὶ ὁσαπλάσιον μέν ἐστι τὸ Η                              such that G exceeds K, but H does not exceed L. And as
+τοῦ Γ, τοσαυταπλάσιον ἔστω καὶ τὸ Μ τοῦ Α, ὁσαπλάσιον                              many times as G is (divisible) by C, so many times let M
+δὲ τὸ Κ τοῦ Δ, τοσαυταπλάσιον ἔστω καὶ τὸ Ν τοῦ Β.                                 be (divisible) by A. And as many times as K (is divisible)
+
+
+                                                                              143
+STOIQEIWN eþ.                                                                                                    ELEMENTS BOOK 5
+
+    Καὶ ἐπεί ἐστιν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς                        by D, so many times let N be (divisible) by B.
+τὸ Δ, καὶ εἴληπται τῶν μὲν Α, Γ ἰσάκις πολλαπλάσια τὰ                            And since as A is to B, so C (is) to D, and the equal
+Μ, Η, τῶν δὲ Β, Δ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ                      multiples M and G have been taken of A and C (respec-
+Ν, Κ, εἰ ἄρα ὑπερέχει τὸ Μ τοῦ Ν, ὑπερέχει καὶ τὸ Η τοῦ                      tively), and the other random equal multiples N and K
+Κ, καὶ εἰ ἴσον, ἴσον, καὶ εἰ ἔλαττον, ἔλλατον. ὑπερέχει δὲ                   of B and D (respectively), thus if M exceeds N then G
+τὸ Η τοῦ Κ· ὑπερέχει ἄρα καὶ τὸ Μ τοῦ Ν. τὸ δὲ Θ τοῦ                         exceeds K, and if (M is) equal (to N then G is also)
+Λ οὐχ ὑπερέχει· καί ἐστι τὰ μὲν Μ, Θ τῶν Α, Ε ἰσάκις                         equal (to K), and if (M is) less (than N then G is also)
+πολλαπλάσια, τὰ δὲ Ν, Λ τῶν Β, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις                      less (than K) [Def. 5.5]. And G exceeds K. Thus, M
+πολλαπλάσια· τὸ ἄρα Α πρὸς τὸ Β μείζονα λόγον ἔχει ἤπερ                      also exceeds N . And H does not exceeds L. And M and
+τὸ Ε πρὸς τὸ Ζ.                                                              H are equal multiples of A and E (respectively), and N
+    ᾿Εὰν ἄρα πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἒχῃ λόγον                        and L other random equal multiples of B and F (respec-
+καὶ τρίτον πρὸς τέταρτον, τρίτον δὲ πρὸς τέταρτον μείζονα                    tively). Thus, A has a greater ratio to B than E (has) to
+λόγον ἔχῃ ἢ πέμπτον πρὸς ἕκτον, καὶ πρῶτον πρὸς δεύτερον                     F [Def. 5.7].
+μείζονα λόγον ἕξει ἢ πέμπτον πρὸς ἕκτον· ὅπερ ἔδει δεῖξαι.                       Thus, if a first (magnitude) has the same ratio to a
+                                                                             second that a third (has) to a fourth, and a third (magni-
+                                                                             tude) has a greater ratio to a fourth than a fifth (has)
+                                                                             to a sixth, then the first (magnitude) will also have a
+                                                                             greater ratio to the second than the fifth (has) to the
+                                                                             sixth. (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ and γ : δ > ǫ : ζ then α : β > ǫ : ζ.
+
+
+
+                                   idþ.                                                               Proposition 14†
+    ᾿Εὰν πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἔχῃ λόγον καὶ          If a first (magnitude) has the same ratio to a second
+τρίτον πρὸς τέταρτον, τὸ δὲ πρῶτον τοῦ τρίτου μεῖζον ᾖ, that a third (has) to a fourth, and the first (magnitude)
+καὶ τὸ δεύτερον τοῦ τετάρτου μεῖζον ἔσται, κἂν ἴσον, ἴσον, is greater than the third, then the second will also be
+κἂν ἔλαττον, ἔλαττον.                                      greater than the fourth. And if (the first magnitude is)
+                                                           equal (to the third then the second will also be) equal (to
+                                                           the fourth). And if (the first magnitude is) less (than the
+                                                           third then the second will also be) less (than the fourth).
+             Α                            Γ                                                A                    C
+             Β                            ∆                                                B                    D
+    Πρῶτον γὰρ τὸ Α πρὸς δεύτερον τὸ Β αὐτὸν ἐχέτω                               For let a first (magnitude) A have the same ratio to a
+λόγον καὶ τρίτον τὸ Γ πρὸς τέταρτον τὸ Δ, μεῖζον δὲ ἔστω                     second B that a third C (has) to a fourth D. And let A be
+τὸ Α τοῦ Γ· λέγω, ὅτι καὶ τὸ Β τοῦ Δ μεῖζόν ἐστιν.                           greater than C. I say that B is also greater than D.
+    ᾿Επεὶ γὰρ τὸ Α τοῦ Γ μεῖζόν ἐστιν, ἄλλο δέ, ὃ ἔτυχεν,                        For since A is greater than C, and B (is) another ran-
+[μέγεθος] τὸ Β, τὸ Α ἄρα πρὸς τὸ Β μείζονα λόγον ἔχει                        dom [magnitude], A thus has a greater ratio to B than C
+ἤπερ τὸ Γ πρὸς τὸ Β. ὡς δὲ τὸ Α πρὸς τὸ Β, οὕτως τὸ                          (has) to B [Prop. 5.8]. And as A (is) to B, so C (is) to
+Γ πρὸς τὸ Δ· καὶ τὸ Γ ἄρα πρὸς τὸ Δ μείζονα λόγον ἔχει                       D. Thus, C also has a greater ratio to D than C (has) to
+ἤπερ τὸ Γ πρὸς τὸ Β. πρὸς ὃ δὲ τὸ αὐτὸ μείζονα λόγον                         B. And that (magnitude) to which the same (magnitude)
+ἔχει, ἐκεῖνο ἔλασσόν ἐστιν· ἔλασσον ἄρα τὸ Δ τοῦ Β· ὥστε                     has a greater ratio is the lesser [Prop. 5.10]. Thus, D (is)
+μεῖζόν ἐστι τὸ Β τοῦ Δ.                                                      less than B. Hence, B is greater than D.
+    ῾Ομοίως δὴ δεῖξομεν, ὅτι κἂν ἴσον ᾖ τὸ Α τῷ Γ, ἴσον                          So, similarly, we can show that even if A is equal to C
+ἔσται καὶ τὸ Β τῷ Δ, κἄν ἔλασσον ᾖ τὸ Α τοῦ Γ, ἔλασσον                       then B will also be equal to D, and even if A is less than
+ἔσται καὶ τὸ Β τοῦ Δ.                                                        C then B will also be less than D.
+    ᾿Εὰν ἄρα πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἔχῃ λόγον                            Thus, if a first (magnitude) has the same ratio to a
+καὶ τρίτον πρὸς τέταρτον, τὸ δὲ πρῶτον τοῦ τρίτου μεῖζον ᾖ,                  second that a third (has) to a fourth, and the first (mag-
+καὶ τὸ δεύτερον τοῦ τετάρτου μεῖζον ἔσται, κἂν ἴσον, ἴσον,                   nitude) is greater than the third, then the second will also
+κἂν ἔλαττον, ἔλαττον· ὅπερ ἔδει δεῖξαι.                                      be greater than the fourth. And if (the first magnitude is)
+
+
+                                                                         144
+STOIQEIWN eþ.                                                                                                ELEMENTS BOOK 5
+
+                                                                           equal (to the third then the second will also be) equal (to
+                                                                           the fourth). And if (the first magnitude is) less (than the
+                                                                           third then the second will also be) less (than the fourth).
+                                                                           (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ then α T γ as β T δ.
+
+
+
+                                  ieþ.                                                         Proposition 15†
+   Τὰ μέρη τοῖς ὡσαύτως πολλαπλασίοις τὸν αὐτὸν ἔχει     Parts have the same ratio as similar multiples, taken
+λόγον ληφθέντα κατάλληλα.                            in corresponding order.
+          Α         Η         Θ          Β                                            A    G         H       B
+                                               Γ                                                                  C
+          ∆       Κ Λ              Ε                                                  D    K     L       E
+                                               Ζ                                                                  F
+    ῎Εστω γὰρ ἰσάκις πολλαπλάσιον τὸ ΑΒ τοῦ Γ καὶ το ΔΕ                        For let AB and DE be equal multiples of C and F
+τοῦ Ζ· λέγω, ὅτι ἐστὶν ὡς τὸ Γ πρὸς τὸ Ζ, οὕτως τὸ ΑΒ                      (respectively). I say that as C is to F , so AB (is) to DE.
+πρὸς τὸ ΔΕ.                                                                    For since AB and DE are equal multiples of C and
+    ᾿Επεὶ γὰρ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΑΒ τοῦ Γ καὶ                     F (respectively), thus as many magnitudes as there are
+τὸ ΔΕ τοῦ Ζ, ὅσα ἄρα ἐστὶν ἐν τῷ ΑΒ μεγέθη ἴσα τῷ                          in AB equal to C, so many (are there) also in DE equal
+Γ, τοσαῦτα καὶ ἐν τῷ ΔΕ ἴσα τῷ Ζ. διῃρήσθω τὸ μὲν ΑΒ                       to F . Let AB have been divided into (magnitudes) AG,
+εἰς τὰ τῷ Γ ἴσα τὰ ΑΗ, ΗΘ, ΘΒ, τὸ δὲ ΔΕ εἰς τὰ τῷ Ζ                        GH, HB, equal to C, and DE into (magnitudes) DK,
+ἴσα τὰ ΔΚ, ΚΛ, ΛΕ· ἔσται δὴ ἴσον τὸ πλῆθος τῶν ΑΗ,                         KL, LE, equal to F . So, the number of (magnitudes)
+ΗΘ, ΘΒ τῷ πλήθει τῶν ΔΚ, ΚΛ, ΛΕ. καὶ ἐπεὶ ἴσα ἐστὶ τὰ                      AG, GH, HB will equal the number of (magnitudes)
+ΑΗ, ΗΘ, ΘΒ ἀλλήλοις, ἔστι δὲ καὶ τὰ ΔΚ, ΚΛ, ΛΕ ἴσα                         DK, KL, LE. And since AG, GH, HB are equal to one
+ἀλλήλοις, ἔστιν ἄρα ὡς τὸ ΑΗ πρὸς τὸ ΔΚ, οὕτως τὸ ΗΘ                       another, and DK, KL, LE are also equal to one another,
+πρὸς τὸ ΚΛ, καὶ τὸ ΘΒ πρὸς τὸ ΛΕ. ἔσται ἄρα καὶ ὡς ἓν                      thus as AG is to DK, so GH (is) to KL, and HB to LE
+τῶν ἡγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως ἅπαντα τὰ                        [Prop. 5.7]. And, thus (for proportional magnitudes), as
+ἡγουμένα πρὸς ἅπαντα τὰ ἑπόμενα· ἔστιν ἄρα ὡς τὸ ΑΗ                        one of the leading (magnitudes) will be to one of the fol-
+πρὸς τὸ ΔΚ, οὕτως τὸ ΑΒ πρὸς τὸ ΔΕ. ἴσον δὲ τὸ μὲν ΑΗ                      lowing, so all of the leading (magnitudes will be) to all of
+τῷ Γ, τὸ δὲ ΔΚ τῷ Ζ· ἔστιν ἄρα ὡς τὸ Γ πρὸς τὸ Ζ οὕτως                     the following [Prop. 5.12]. Thus, as AG is to DK, so AB
+τὸ ΑΒ πρὸς τὸ ΔΕ.                                                          (is) to DE. And AG is equal to C, and DK to F . Thus,
+    Τὰ ἄρα μέρη τοῖς ὡσαύτως πολλαπλασίοις τὸν αὐτὸν                       as C is to F , so AB (is) to DE.
+ἔχει λόγον ληφθέντα κατάλληλα· ὅπερ ἔδει δεῖξαι.                               Thus, parts have the same ratio as similar multiples,
+                                                                           taken in corresponding order. (Which is) the very thing
+                                                                           it was required to show.
+† In modern notation, this proposition reads that α : β :: m α : m β.
+
+
+
+                                  iþ.                                                         Proposition 16†
+    ᾿Εὰν τέσσαρα μεγέθη ἀνάλογον ᾖ, καὶ ἐναλλὰξ ἀνάλογον                       If four magnitudes are proportional then they will also
+ἔσται.                                                                     be proportional alternately.
+    ῎Εστω τέσσαρα μεγέθη ἀνάλογον τὰ Α, Β, Γ, Δ, ὡς τὸ                         Let A, B, C and D be four proportional magnitudes,
+Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς τὸ Δ· λέγω, ὅτι καὶ ἐναλλὰξ                   (such that) as A (is) to B, so C (is) to D. I say that they
+[ἀνάλογον] ἔσται, ὡς τὸ Α πρὸς τὸ Γ, οὕτως τὸ Β πρὸς τὸ                    will also be [proportional] alternately, (so that) as A (is)
+Δ.                                                                         to C, so B (is) to D.
+    Εἰλήφθω γὰρ τῶν μὲν Α, Β ἰσάκις πολλαπλάσια τὰ Ε,                          For let the equal multiples E and F have been taken
+Ζ, τῶν δὲ Γ, Δ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Η,                    of A and B (respectively), and the other random equal
+Θ.                                                                         multiples G and H of C and D (respectively).
+
+
+
+                                                                        145
+STOIQEIWN eþ.                                                                                                   ELEMENTS BOOK 5
+
+        Α                                     Γ                                        A                          C
+        Β                                     ∆                                        B                          D
+        Ε                                     Η                                        E                          G
+        Ζ                                     Θ                                        F                          H
+    Καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον τὸ Ε τοῦ Α καὶ τὸ Ζ                         And since E and F are equal multiples of A and B
+τοῦ Β, τὰ δὲ μέρη τοῖς ὡσαύτως πολλαπλασίοις τὸν αὐτὸν                        (respectively), and parts have the same ratio as similar
+ἔχει λόγον, ἔστιν ἄρα ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Ε πρὸς                      multiples [Prop. 5.15], thus as A is to B, so E (is) to F .
+τὸ Ζ. ὡς δὲ τὸ Α πρὸς τὸ Β, οὕτως τὸ Γ πρὸς τὸ Δ· καὶ ὡς                      But as A (is) to B, so C (is) to D. And, thus, as C (is)
+ἄρα τὸ Γ πρὸς τὸ Δ, οὕτως τὸ Ε πρὸς τὸ Ζ. πάλιν, ἐπεὶ τὰ                      to D, so E (is) to F [Prop. 5.11]. Again, since G and H
+Η, Θ τῶν Γ, Δ ἰσάκις ἐστὶ πολλαπλάσια, ἔστιν ἄρα ὡς τὸ Γ                      are equal multiples of C and D (respectively), thus as C
+πρὸς τὸ Δ, οὕτως τὸ Η πρὸς τὸ Θ. ὡς δὲ τὸ Γ πρὸς τὸ Δ,                        is to D, so G (is) to H [Prop. 5.15]. But as C (is) to D,
+[οὕτως] τὸ Ε πρὸς τὸ Ζ· καὶ ὡς ἄρα τὸ Ε πρὸς τὸ Ζ, οὕτως                      [so] E (is) to F . And, thus, as E (is) to F , so G (is) to
+τὸ Η πρὸς τὸ Θ. ἐὰν δὲ τέσσαρα μεγέθη ἀνάλογον ᾖ, τὸ δὲ                       H [Prop. 5.11]. And if four magnitudes are proportional,
+πρῶτον τοῦ τρίτου μεῖζον ᾖ, καὶ τὸ δεύτερον τοῦ τετάρτου                      and the first is greater than the third then the second will
+μεῖζον ἔσται, κἂν ἴσον, ἴσον, κἄν ἔλαττον, ἔλαττον. εἰ ἄρα                    also be greater than the fourth, and if (the first is) equal
+ὑπερέχει τὸ Ε τοῦ Η, ὑπερέχει καὶ τὸ Ζ τοῦ Θ, καὶ εἰ ἴσον,                    (to the third then the second will also be) equal (to the
+ἴσον, καὶ εἰ ἔλαττον, ἔλαττον. καί ἐστι τὰ μὲν Ε, Ζ τῶν                       fourth), and if (the first is) less (than the third then the
+Α, Β ἰσάκις πολλαπλάσια, τὰ δὲ Η, Θ τῶν Γ, Δ ἄλλα, ἃ                          second will also be) less (than the fourth) [Prop. 5.14].
+ἔτυχεν, ἰσάκις πολλαπλάσια· ἔστιν ἄρα ὡς τὸ Α πρὸς τὸ Γ,                      Thus, if E exceeds G then F also exceeds H, and if (E is)
+οὕτως τὸ Β πρὸς τὸ Δ.                                                         equal (to G then F is also) equal (to H), and if (E is) less
+    ᾿Εὰν ἄρα τέσσαρα μεγέθη ἀνάλογον ᾖ, καὶ ἐναλλὰξ                           (than G then F is also) less (than H). And E and F are
+ἀνάλογον ἔσται· ὅπερ ἔδει δεῖξαι.                                             equal multiples of A and B (respectively), and G and H
+                                                                              other random equal multiples of C and D (respectively).
+                                                                              Thus, as A is to C, so B (is) to D [Def. 5.5].
+                                                                                  Thus, if four magnitudes are proportional then they
+                                                                              will also be proportional alternately. (Which is) the very
+                                                                              thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ then α : γ :: β : δ.
+
+
+
+                                    izþ.                                                          Proposition 17†
+   ᾿Εὰν συγκείμενα μεγέθη ἀνάλογον ᾖ, καὶ διαιρεθέντα     If composed magnitudes are proportional then they
+ἀνάλογον ἔσται.                                       will also be proportional (when) separarted.
+            Α           Ε       Β            Γ        Ζ ∆                                  A     E     B          C       F D
+
+       Η                         Θ           Κ                   Ξ                    G                 H         K              O
+
+       Λ                Μ         Ν            Π                                      L          M       N            P
+   ῎Εστω συγκείμενα μεγέθη ἀνάλογον τὰ ΑΒ, ΒΕ, ΓΔ,                               Let AB, BE, CD, and DF be composed magnitudes
+ΔΖ, ὡς τὸ ΑΒ πρὸς τὸ ΒΕ, οὕτως τὸ ΓΔ πρὸς τὸ ΔΖ·                              (which are) proportional, (so that) as AB (is) to BE, so
+λέγω, ὅτι καὶ διαιρεθέντα ἀνάλογον ἔσται, ὡς τὸ ΑΕ πρὸς                       CD (is) to DF . I say that they will also be proportional
+τὸ ΕΒ, οὕτως τὸ ΓΖ πρὸς τὸ ΔΖ.                                                (when) separated, (so that) as AE (is) to EB, so CF (is)
+   Εἰλήφθω γὰρ τῶν μὲν ΑΕ, ΕΒ, ΓΖ, ΖΔ ἰσάκις πολ-                             to DF .
+λαπλάσια τὰ ΗΘ, ΘΚ, ΛΜ, ΜΝ, τῶν δὲ ΕΒ, ΖΔ ἄλλα, ἃ                                For let the equal multiples GH, HK, LM , and M N
+ἔτυχεν, ἰσάκις πολλαπλάσια τὰ ΚΞ, ΝΠ.                                         have been taken of AE, EB, CF , and F D (respectively),
+   Καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσιον τὸ ΗΘ τοῦ ΑΕ καὶ                         and the other random equal multiples KO and N P of
+τὸ ΘΚ τοῦ ΕΒ, ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ ΗΘ τοῦ                          EB and F D (respectively).
+
+
+                                                                          146
+STOIQEIWN eþ.                                                                                                 ELEMENTS BOOK 5
+
+ΑΕ καὶ τὸ ΗΚ τοῦ ΑΒ. ἰσάκις δέ ἐστι πολλαπλάσιον τὸ ΗΘ                           And since GH and HK are equal multiples of AE and
+τοῦ ΑΕ καὶ τὸ ΛΜ τοῦ ΓΖ· ἰσάκις ἄρα ἐστὶ πολλαπλάσιον                        EB (respectively), GH and GK are thus equal multiples
+τὸ ΗΚ τοῦ ΑΒ καὶ τὸ ΛΜ τοῦ ΓΖ. πάλιν, ἐπεὶ ἰσάκις ἐστὶ                       of AE and AB (respectively) [Prop. 5.1]. But GH and
+πολλαπλάσιον τὸ ΛΜ τοῦ ΓΖ καὶ τὸ ΜΝ τοῦ ΖΔ, ἰσάκις ἄρα                       LM are equal multiples of AE and CF (respectively).
+ἐστὶ πολλαπλάσιον τὸ ΛΜ τοῦ ΓΖ καὶ τὸ ΛΝ τοῦ ΓΔ. ἰσάκις                      Thus, GK and LM are equal multiples of AB and CF
+δὲ ἦν πολλαπλάσιον τὸ ΛΜ τοῦ ΓΖ καὶ τὸ ΗΚ τοῦ ΑΒ·                            (respectively). Again, since LM and M N are equal mul-
+ἰσάκις ἄρα ἐστὶ πολλαπλάσιον τὸ ΗΚ τοῦ ΑΒ καὶ τὸ ΛΝ τοῦ                      tiples of CF and F D (respectively), LM and LN are thus
+ΓΔ. τὰ ΗΚ, ΛΝ ἄρα τῶν ΑΒ, ΓΔ ἰσάκις ἐστὶ πολλαπλάσια.                        equal multiples of CF and CD (respectively) [Prop. 5.1].
+πάλιν, ἐπεὶ ἰσάκις ἐστὶ πολλαπλασίον τὸ ΘΚ τοῦ ΕΒ καὶ τὸ                     And LM and GK were equal multiples of CF and AB
+ΜΝ τοῦ ΖΔ, ἔστι δὲ καὶ τὸ ΚΞ τοῦ ΕΒ ἰσάκις πολλαπλάσιον                      (respectively). Thus, GK and LN are equal multiples
+καὶ τὸ ΝΠ τοῦ ΖΔ, καὶ συντεθὲν τὸ ΘΞ τοῦ ΕΒ ἰσάκις ἐστὶ                      of AB and CD (respectively). Thus, GK, LN are equal
+πολλαπλάσιον καὶ τὸ ΜΠ τοῦ ΖΔ. καὶ ἐπεί ἐστιν ὡς τὸ ΑΒ                       multiples of AB, CD. Again, since HK and M N are
+πρὸς τὸ ΒΕ, οὕτως τὸ ΓΔ πρὸς τὸ ΔΖ, καὶ εἴληπται τῶν                         equal multiples of EB and F D (respectively), and KO
+μὲν ΑΒ, ΓΔ ἰσάκις πολλαπλάσια τὰ ΗΚ, ΛΝ, τῶν δὲ ΕΒ,                          and N P are also equal multiples of EB and F D (respec-
+ΖΔ ἰσάκις πολλαπλάσια τὰ ΘΞ, ΜΠ, εἰ ἄρα ὑπερέχει τὸ                          tively), then, added together, HO and M P are also equal
+ΗΚ τοῦ ΘΞ, ὑπερέχει καὶ τὸ ΛΝ τοῦ ΜΠ, καὶ εἰ ἴσον, ἴσον,                     multiples of EB and F D (respectively) [Prop. 5.2]. And
+καὶ εἰ ἔλαττον, ἔλαττον. ὑπερεχέτω δὴ τὸ ΗΚ τοῦ ΘΞ,                          since as AB (is) to BE, so CD (is) to DF , and the equal
+καὶ κοινοῦ ἀφαιρεθέντος τοῦ ΘΚ ὑπερέχει ἄρα καὶ τὸ ΗΘ                        multiples GK, LN have been taken of AB, CD, and the
+τοῦ ΚΞ. ἀλλα εἰ ὑπερεῖχε τὸ ΗΚ τοῦ ΘΞ ὑπερεῖχε καὶ τὸ                        equal multiples HO, M P of EB, F D, thus if GK exceeds
+ΛΝ τοῦ ΜΠ· ὑπερέχει ἄρα καὶ τὸ ΛΝ τοῦ ΜΠ, καὶ κοινοῦ                         HO then LN also exceeds M P , and if (GK is) equal (to
+ἀφαιρεθέντος τοῦ ΜΝ ὑπερέχει καὶ τὸ ΛΜ τοῦ ΝΠ· ὥστε                          HO then LN is also) equal (to M P ), and if (GK is) less
+εἰ ὑπερέχει τὸ ΗΘ τοῦ ΚΞ, ὑπερέχει καὶ τὸ ΛΜ τοῦ ΝΠ.                         (than HO then LN is also) less (than M P ) [Def. 5.5].
+ὁμοίως δὴ δεῖξομεν, ὅτι κἂν ἴσον ᾖ τὸ ΗΘ τῷ ΚΞ, ἴσον                         So let GK exceed HO, and thus, HK being taken away
+ἔσται καὶ τὸ ΛΜ τῷ ΝΠ, κἂν ἔλαττον, ἔλαττον. καί ἐστι τὰ                     from both, GH exceeds KO. But (we saw that) if GK
+μὲν ΗΘ, ΛΜ τῶν ΑΕ, ΓΖ ἰσάκις πολλαπλάσια, τὰ δὲ ΚΞ,                          was exceeding HO then LN was also exceeding M P .
+ΝΠ τῶν ΕΒ, ΖΔ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια· ἔστιν                      Thus, LN also exceeds M P , and, M N being taken away
+ἄρα ὡς τὸ ΑΕ πρὸς τὸ ΕΒ, οὕτως τὸ ΓΖ πρὸς τὸ ΖΔ.                             from both, LM also exceeds N P . Hence, if GH exceeds
+    ᾿Εὰν ἄρα συγκείμενα μεγέθη ἀνάλογον ᾖ, καὶ διαι-                         KO then LM also exceeds N P . So, similarly, we can
+ρεθέντα ἀνάλογον ἔσται· ὅπερ ἔδει δεῖξαι.                                    show that even if GH is equal to KO then LM will also
+                                                                             be equal to N P , and even if (GH is) less (than KO then
+                                                                             LM will also be) less (than N P ). And GH, LM are equal
+                                                                             multiples of AE, CF , and KO, N P other random equal
+                                                                             multiples of EB, F D. Thus, as AE is to EB, so CF (is)
+                                                                             to F D [Def. 5.5].
+                                                                                 Thus, if composed magnitudes are proportional then
+                                                                             they will also be proportional (when) separarted. (Which
+                                                                             is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α + β : β :: γ + δ : δ then α : β :: γ : δ.
+
+
+
+                                   ihþ.                                                            Proposition 18†
+   ᾿Εὰν διῃρημένα μεγέθη ἀνάλογον ᾖ, καὶ συντεθέντα     If separated magnitudes are proportional then they
+ἀνάλογον ἔσται.                                     will also be proportional (when) composed.
+         Α                        Ε                 Β                                  A                E            B
+
+         Γ                                Ζ Η                 ∆                        C                    F G            D
+    ῎Εστω διῃρημένα μεγέθη ἀνάλογον τὰ ΑΕ, ΕΒ, ΓΖ, ΖΔ,    Let AE, EB, CF , and F D be separated magnitudes
+ὡς τὸ ΑΕ πρὸς τὸ ΕΒ, οὕτως τὸ ΓΖ πρὸς τὸ ΖΔ· λέγω, (which are) proportional, (so that) as AE (is) to EB, so
+ὅτι καὶ συντεθέντα ἀνάλογον ἔσται, ὡς τὸ ΑΒ πρὸς τὸ ΒΕ, CF (is) to F D. I say that they will also be proportional
+
+
+                                                                          147
+STOIQEIWN eþ.                                                                                                     ELEMENTS BOOK 5
+
+οὕτως τὸ ΓΔ πρὸς τὸ ΖΔ.                                                      (when) composed, (so that) as AB (is) to BE, so CD (is)
+   Εἰ γὰρ μή ἐστὶν ὡς τὸ ΑΒ πρὸς τὸ ΒΕ, οὕτως τὸ ΓΔ                          to F D.
+πρὸς τὸ ΔΖ, ἔσται ὡς τὸ ΑΒ πρὸς τὸ ΒΕ, οὕτως τὸ ΓΔ                               For if (it is) not (the case that) as AB is to BE, so
+ἤτοι πρὸς ἔλασσόν τι τοῦ ΔΖ ἢ πρὸς μεῖζον.                                   CD (is) to F D, then it will surely be (the case that) as
+   ῎Εστω πρότερον πρὸς ἔλασσον τὸ ΔΗ. καὶ ἐπεί ἐστιν ὡς                      AB (is) to BE, so CD is either to some (magnitude) less
+τὸ ΑΒ πρὸς τὸ ΒΕ, οὕτως τὸ ΓΔ πρὸς τὸ ΔΗ, συγκείμενα                         than DF , or (some magnitude) greater (than DF ).‡
+μεγέθη ἀνάλογόν ἐστιν· ὥστε καὶ διαιρεθέντα ἀνάλογον                             Let it, first of all, be to (some magnitude) less (than
+ἔσται. ἔστιν ἄρα ὡς τὸ ΑΕ πρὸς τὸ ΕΒ, οὕτως τὸ ΓΗ πρὸς                       DF ), (namely) DG. And since composed magnitudes
+τὸ ΗΔ. ὑπόκειται δὲ καὶ ὡς τὸ ΑΕ πρὸς τὸ ΕΒ, οὕτως τὸ                        are proportional, (so that) as AB is to BE, so CD (is) to
+ΓΖ πρὸς τὸ ΖΔ. καὶ ὡς ἄρα τὸ ΓΗ πρὸς τὸ ΗΔ, οὕτως τὸ                         DG, they will thus also be proportional (when) separated
+ΓΖ πρὸς τὸ ΖΔ. μεῖζον δὲ τὸ πρῶτον τὸ ΓΗ τοῦ τρίτου τοῦ                      [Prop. 5.17]. Thus, as AE is to EB, so CG (is) to GD.
+ΓΖ· μεῖζον ἄρα καὶ τὸ δεύτερον τὸ ΗΔ τοῦ τετάρτου τοῦ                        But it was also assumed that as AE (is) to EB, so CF
+ΖΔ. ἀλλὰ καὶ ἔλαττον· ὅπερ ἐστὶν ἀδύνατον· οὐκ ἄρα ἐστὶν                     (is) to F D. Thus, (it is) also (the case that) as CG (is)
+ὡς τὸ ΑΒ πρὸς τὸ ΒΕ, οὕτως τὸ ΓΔ πρὸς ἔλασσον τοῦ                            to GD, so CF (is) to F D [Prop. 5.11]. And the first
+ΖΔ. ὁμοίως δὴ δείξομεν, ὅτι οὐδὲ πρὸς μεῖζον· πρὸς αὐτὸ                      (magnitude) CG (is) greater than the third CF . Thus,
+ἄρα.                                                                         the second (magnitude) GD (is) also greater than the
+   ᾿Εὰν ἄρα διῃρημένα μεγέθη ἀνάλογον ᾖ, καὶ συντεθέντα                      fourth F D [Prop. 5.14]. But (it is) also less. The very
+ἀνάλογον ἔσται· ὅπερ ἔδει δεῖξαι.                                            thing is impossible. Thus, (it is) not (the case that) as AB
+                                                                             is to BE, so CD (is) to less than F D. Similarly, we can
+                                                                             show that neither (is it the case) to greater (than F D).
+                                                                             Thus, (it is the case) to the same (as F D).
+                                                                                 Thus, if separated magnitudes are proportional then
+                                                                             they will also be proportional (when) composed. (Which
+                                                                             is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ then α + β : β :: γ + δ : δ.
+
+‡ Here, Euclid assumes, without proof, that a fourth magnitude proportional to three given magnitudes can always be found.
+
+
+
+                                   ijþ.                                                                Proposition 19†
+   ᾿Εὰν ᾖ ὡς ὅλον πρὸς ὅλον, οὕτως ἀφαιρεθὲν πρὸς ἀφαι-    If as the whole is to the whole so the (part) taken
+ρεθέν, καὶ τὸ λοιπὸν πρὸς τὸ λοιπὸν ἔσται ὡς ὅλον πρὸς away is to the (part) taken away then the remainder to
+ὅλον.                                                   the remainder will also be as the whole (is) to the whole.
+         Α            Ε                          Β                                     A           E                     B
+
+         Γ                  Ζ                                 ∆                        C                F                      D
+   ῎Εστω γὰρ ὡς ὅλον τὸ ΑΒ πρὸς ὅλον τὸ ΓΔ, οὕτως                                For let the whole AB be to the whole CD as the (part)
+ἀφαιρεθὲν τὸ ΑΕ πρὸς ἀφειρεθὲν τὸ ΓΖ· λέγω, ὅτι καὶ                          taken away AE (is) to the (part) taken away CF . I say
+λοιπὸν τὸ ΕΒ πρὸς λοιπὸν τὸ ΖΔ ἔσται ὡς ὅλον τὸ ΑΒ                           that the remainder EB to the remainder F D will also be
+πρὸς ὅλον τὸ ΓΔ.                                                             as the whole AB (is) to the whole CD.
+   ᾿Επεὶ γάρ ἐστιν ὡς τὸ ΑΒ πρὸς τὸ ΓΔ, οὕτως τὸ ΑΕ                              For since as AB is to CD, so AE (is) to CF , (it is)
+πρὸς τὸ ΓΖ, καὶ ἐναλλὰξ ὡς τὸ ΒΑ πρὸς τὸ ΑΕ, οὕτως                           also (the case), alternately, (that) as BA (is) to AE, so
+τὸ ΔΓ πρὸς τὸ ΓΖ. καὶ ἐπεὶ συγκείμενα μεγέθη ἀνάλογόν                        DC (is) to CF [Prop. 5.16]. And since composed magni-
+ἐστιν, καὶ διαιρεθέντα ἀνάλογον ἔσται, ὡς τὸ ΒΕ πρὸς τὸ                      tudes are proportional then they will also be proportional
+ΕΑ, οὕτως τὸ ΔΖ πρὸς τὸ ΓΖ· καὶ ἐναλλάξ, ὡς τὸ ΒΕ πρὸς                       (when) separated, (so that) as BE (is) to EA, so DF (is)
+τὸ ΔΖ, οὕτως τὸ ΕΑ πρὸς τὸ ΖΓ. ὡς δὲ τὸ ΑΕ πρὸς τὸ ΓΖ,                       to CF [Prop. 5.17]. Also, alternately, as BE (is) to DF ,
+οὕτως ὑπόκειται ὅλον τὸ ΑΒ πρὸς ὅλον τὸ ΓΔ. καὶ λοιπὸν                       so EA (is) to F C [Prop. 5.16]. And it was assumed that
+ἄρα τὸ ΕΒ πρὸς λοιπὸν τὸ ΖΔ ἔσται ὡς ὅλον τὸ ΑΒ πρὸς                         as AE (is) to CF , so the whole AB (is) to the whole CD.
+ὅλον τὸ ΓΔ.                                                                  And, thus, as the remainder EB (is) to the remainder
+   ᾿Εὰν ἄρα ᾖ ὡς ὅλον πρὸς ὅλον, οὕτως ἀφαιρεθὲν πρὸς                        F D, so the whole AB will be to the whole CD.
+
+
+                                                                          148
+STOIQEIWN eþ.                                                                                                   ELEMENTS BOOK 5
+
+ἀφαιρεθέν, καὶ τὸ λοιπὸν πρὸς τὸ λοιπὸν ἔσται ὡς ὅλον                            Thus, if as the whole is to the whole so the (part)
+πρὸς ὅλον [ὅπερ ἔδει δεῖξαι].                                                 taken away is to the (part) taken away then the remain-
+    [Καὶ ἐπεὶ ἐδείχθη ὡς τὸ ΑΒ πρὸς τὸ ΓΔ, οὕτως τὸ ΕΒ                        der to the remainder will also be as the whole (is) to
+πρὸς τὸ ΖΔ, καὶ ἐναλλὰξ ὡς τὸ ΑΒ πρὸς τὸ ΒΕ οὕτως τὸ                          the whole. [(Which is) the very thing it was required to
+ΓΔ πρὸς τὸ ΖΔ, συγκείμενα ἄρα μεγέθη ἀνάλογόν ἐστιν·                          show.]
+ἐδείχθη δὲ ὡς τὸ ΒΑ πρὸς τὸ ΑΕ, οὕτως τὸ ΔΓ πρὸς τὸ                              [And since it was shown (that) as AB (is) to CD, so
+ΓΖ· καί ἐστιν ἀναστρέψαντι].                                                  EB (is) to F D, (it is) also (the case), alternately, (that)
+                                                                              as AB (is) to BE, so CD (is) to F D. Thus, composed
+                                                                              magnitudes are proportional. And it was shown (that)
+                                                                              as BA (is) to AE, so DC (is) to CF . And (the latter) is
+                                                                              converted (from the former).]
+
+                              Pìrisma.                                                               Corollary‡
+    ᾿Εκ δὴ τούτου φανερόν, ὅτι ἐὰν συγκείμενα μεγέθη      So (it is) clear, from this, that if composed magni-
+ἀνάλογον ᾖ, καὶ ἀναστρέψαντι ἀνάλογον ἔσται· ὅπερ ἔδει tudes are proportional then they will also be proportional
+δεῖξαι.                                                (when) converted. (Which is) the very thing it was re-
+                                                       quired to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ then α : β :: α − γ : β − δ.
+
+‡ In modern notation, this corollary reads that if α : β :: γ : δ then α : α − β :: γ : γ − δ.
+
+
+
+                                   kþ.                                                             Proposition 20†
+    ᾿Εὰν ᾖ τρία μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος,      If there are three magnitudes, and others of equal
+σύνδυο λαμβανόμενα καὶ ἐν τῷ αὐτῷ λόγω, δι᾿ ἴσου δὲ τὸ number to them, (being) also in the same ratio taken two
+πρῶτον τοῦ τρίτου μεῖζον ᾖ, καὶ τὸ τέταρτον τοῦ ἕκτου by two, and (if), via equality, the first is greater than the
+μεῖζον ἔσται, κἂν ἴσον, ἴσον, κἂν ἔλαττον, ἔλαττον.    third then the fourth will also be greater than the sixth.
+                                                       And if (the first is) equal (to the third then the fourth
+                                                       will also be) equal (to the sixth). And if (the first is) less
+                                                       (than the third then the fourth will also be) less (than the
+                                                       sixth).
+        Α                                ∆                                            A                        D
+        Β                                Ε                                            B                        E
+        Γ                                Ζ                                            C                        F
+    ῎Εστω τρία μεγέθη τὰ Α, Β, Γ, καὶ ἄλλα αὐτοῖς ἴσα τὸ                          Let A, B, and C be three magnitudes, and D, E, F
+πλῆθος τὰ Δ, Ε, Ζ, σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ λόγῳ,                        other (magnitudes) of equal number to them, (being) in
+ὡς μὲν τὸ Α πρὸς τὸ Β, οὕτως τὸ Δ πρὸς τὸ Ε, ὡς δὲ τὸ Β                       the same ratio taken two by two, (so that) as A (is) to B,
+πρὸς τὸ Γ, οὕτως τὸ Ε πρὸς τὸ Ζ, δι᾿ ἴσου δὲ μεῖζον ἔστω                      so D (is) to E, and as B (is) to C, so E (is) to F . And let
+τὸ Α τοῦ Γ· λέγω, ὅτι καὶ τὸ Δ τοῦ Ζ μεῖζον ἔσται, κἂν                        A be greater than C, via equality. I say that D will also
+ἴσον, ἴσον, κἂν ἔλαττον, ἔλαττον.                                             be greater than F . And if (A is) equal (to C then D will
+    ᾿Επεὶ γὰρ μεῖζόν ἐστι τὸ Α τοῦ Γ, ἄλλο δέ τι τὸ Β, τὸ δὲ                  also be) equal (to F ). And if (A is) less (than C then D
+μεῖζον πρὸς τὸ αὐτὸ μείζονα λόγον ἔχει ἤπερ τὸ ἔλαττον,                       will also be) less (than F ).
+τὸ Α ἄρα πρὸς τὸ Β μείζονα λόγον ἔχει ἤπερ τὸ Γ πρὸς τὸ                           For since A is greater than C, and B some other (mag-
+Β. ἀλλ᾿ ὡς μὲν τὸ Α πρὸς τὸ Β [οὕτως] τὸ Δ πρὸς τὸ Ε, ὡς                      nitude), and the greater (magnitude) has a greater ratio
+δὲ τὸ Γ πρὸς τὸ Β, ἀνάπαλιν οὕτως τὸ Ζ πρὸς τὸ Ε· καὶ τὸ                      than the lesser to the same (magnitude) [Prop. 5.8], A
+Δ ἄρα πρὸς τὸ Ε μείζονα λόγον ἔχει ἤπερ τὸ Ζ πρὸς τὸ Ε.                       thus has a greater ratio to B than C (has) to B. But as A
+τῶν δὲ πρὸς τὸ αὐτὸ λόγον ἐχόντων τὸ μείζονα λόγον ἔχον                       (is) to B, [so] D (is) to E. And, inversely, as C (is) to B,
+μεῖζόν ἐστιν. μεῖζον ἄρα τὸ Δ τοῦ Ζ. ὁμοίως δὴ δείξομεν,                      so F (is) to E [Prop. 5.7 corr.]. Thus, D also has a greater
+ὅτι κἂν ἴσον ᾖ τὸ Α τῷ Γ, ἴσον ἔσται καὶ τὸ Δ τῷ Ζ, κἂν                       ratio to E than F (has) to E [Prop. 5.13]. And for (mag-
+
+
+                                                                          149
+STOIQEIWN eþ.                                                                                                     ELEMENTS BOOK 5
+
+ἔλαττον, ἔλαττον.                                                            nitudes) having a ratio to the same (magnitude), that
+    ᾿Εὰν ἄρα ᾖ τρία μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος,                    having the greater ratio is greater [Prop. 5.10]. Thus,
+σύνδυο λαμβανόμενα καὶ ἐν τῷ αὐτῷ λόγω, δι᾿ ἴσου δὲ τὸ                       D (is) greater than F . Similarly, we can show that even if
+πρῶτον τοῦ τρίτου μεῖζον ᾖ, καὶ τὸ τέταρτον τοῦ ἕκτου                        A is equal to C then D will also be equal to F , and even
+μεῖζον ἔσται, κἂν ἴσον, ἴσον, κἂν ἔλαττον, ἔλαττον· ὅπερ                     if (A is) less (than C then D will also be) less (than F ).
+ἔδει δεῖξαι.                                                                     Thus, if there are three magnitudes, and others of
+                                                                             equal number to them, (being) also in the same ratio
+                                                                             taken two by two, and (if), via equality, the first is greater
+                                                                             than the third, then the fourth will also be greater than
+                                                                             the sixth. And if (the first is) equal (to the third then the
+                                                                             fourth will also be) equal (to the sixth). And (if the first
+                                                                             is) less (than the third then the fourth will also be) less
+                                                                             (than the sixth). (Which is) the very thing it was required
+                                                                             to show.
+† In modern notation, this proposition reads that if α : β :: δ : ǫ and β : γ :: ǫ : ζ then α T γ as δ T ζ.
+
+
+
+                                  kaþ.                                                                Proposition 21†
+    ᾿Εὰν ᾖ τρία μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος                             If there are three magnitudes, and others of equal
+σύνδυο λαμβανόμενα καὶ ἐν τῷ αὐτῷ λόγῳ, ᾖ δὲ τετα-                           number to them, (being) also in the same ratio taken two
+ραγμένη αὐτῶν ἡ ἀναλογία, δι᾿ ἴσου δὲ τὸ πρῶτον τοῦ                          by two, and (if) their proportion (is) perturbed, and (if),
+τρίτου μεῖζον ᾖ, καὶ τὸ τέταρτον τοῦ ἕκτου μεῖζον ἔσται,                     via equality, the first is greater than the third then the
+κἂν ἴσον, ἴσον, κἂν ἔλαττον, ἔλαττον.                                        fourth will also be greater than the sixth. And if (the first
+                                                                             is) equal (to the third then the fourth will also be) equal
+                                                                             (to the sixth). And if (the first is) less (than the third then
+                                                                             the fourth will also be) less (than the sixth).
+  Α                                   ∆                                        A                              D
+  Β                                   Ε                                        B                              E
+  Γ                                   Ζ                                        C                              F
+    ῎Εστω τρία μεγέθη τὰ Α, Β, Γ καὶ ἄλλα αὐτοῖς ἴσα τὸ                          Let A, B, and C be three magnitudes, and D, E, F
+πλῆθος τὰ Δ, Ε, Ζ, σύνδυο λαμβανόμενα καὶ ἐν τῷ αὐτῷ                         other (magnitudes) of equal number to them, (being) in
+λόγῳ, ἔστω δὲ τεταραγμένη αὐτῶν ἡ ἀναλογία, ὡς μὲν τὸ                        the same ratio taken two by two. And let their proportion
+Α πρὸς τὸ Β, οὕτως τὸ Ε πρὸς τὸ Ζ, ὡς δὲ τὸ Β πρὸς τὸ Γ,                     be perturbed, (so that) as A (is) to B, so E (is) to F , and
+οὕτως τὸ Δ πρὸς τὸ Ε, δι᾿ ἴσου δὲ τὸ Α τοῦ Γ μεῖζον ἔστω·                    as B (is) to C, so D (is) to E. And let A be greater than
+λέγω, ὅτι καὶ τὸ Δ τοῦ Ζ μεῖζον ἔσται, κἂν ἴσον, ἴσον, κἂν                   C, via equality. I say that D will also be greater than F .
+ἒλαττον, ἒλαττον.                                                            And if (A is) equal (to C then D will also be) equal (to
+    ᾿Επεὶ γὰρ μεῖζόν ἐστι τὸ Α τοῦ Γ, ἄλλο δέ τι τὸ Β, τὸ                    F ). And if (A is) less (than C then D will also be) less
+Α ἄρα πρὸς τὸ Β μείζονα λόγον ἔχει ἤπερ τὸ Γ πρὸς τὸ Β.                      (than F ).
+ἀλλ᾿ ὡς μὲν τὸ Α πρὸς τὸ Β, οὕτως τὸ Ε πρὸς τὸ Ζ, ὡς                             For since A is greater than C, and B some other (mag-
+δὲ τὸ Γ πρὸς τὸ Β, ἀνάπαλιν οὕτως τὸ Ε πρὸς τὸ Δ. καὶ                        nitude), A thus has a greater ratio to B than C (has) to
+τὸ Ε ἄρα πρὸς τὸ Ζ μείζονα λόγον ἔχει ἤπερ τὸ Ε πρὸς τὸ                      B [Prop. 5.8]. But as A (is) to B, so E (is) to F . And,
+Δ. πρὸς ὃ δὲ τὸ αὐτὸ μείζονα λόγον ἔχει, ἐκεῖνο ἔλασσόν                      inversely, as C (is) to B, so E (is) to D [Prop. 5.7 corr.].
+ἐστιν· ἔλασσον ἄρα ἐστὶ τὸ Ζ τοῦ Δ· μεῖζον ἄρα ἐστὶ τὸ Δ                     Thus, E also has a greater ratio to F than E (has) to D
+τοῦ Ζ. ὁμοίως δὴ δείξομεν, ὅτι κἂν ἴσον ᾖ τὸ Α τῷ Γ, ἴσον                    [Prop. 5.13]. And that (magnitude) to which the same
+ἔσται καὶ τὸ Δ τῷ Ζ, κἂν ἔλαττον, ἔλαττον.                                   (magnitude) has a greater ratio is (the) lesser (magni-
+    ᾿Εὰν ἄρα ᾖ τρία μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος,                    tude) [Prop. 5.10]. Thus, F is less than D. Thus, D is
+σύνδυο λαμβανόμενα καὶ ἐν τῷ αὐτῷ λόγῳ, ᾖ δὲ τετα-                           greater than F . Similarly, we can show that even if A is
+ραγμένη αὐτῶν ἡ ἀναλογία, δι᾿ ἴσου δὲ τὸ πρῶτον τοῦ τρίτου                   equal to C then D will also be equal to F , and even if (A
+μεῖζον ᾖ, καὶ τὸ τέταρτον τοῦ ἕκτου μεῖζον ἔσται, κἂν ἴσον,                  is) less (than C then D will also be) less (than F ).
+
+
+                                                                         150
+STOIQEIWN eþ.                                                                                                       ELEMENTS BOOK 5
+
+ἴσον, κἂν ἔλαττον, ἔλαττον· ὅπερ ἔδει δεῖξαι.                                    Thus, if there are three magnitudes, and others of
+                                                                             equal number to them, (being) also in the same ratio
+                                                                             taken two by two, and (if) their proportion (is) per-
+                                                                             turbed, and (if), via equality, the first is greater than the
+                                                                             third then the fourth will also be greater than the sixth.
+                                                                             And if (the first is) equal (to the third then the fourth
+                                                                             will also be) equal (to the sixth). And if (the first is) less
+                                                                             (than the third then the fourth will also be) less (than the
+                                                                             sixth). (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: ǫ : ζ and β : γ :: δ : ǫ then α T γ as δ T ζ.
+
+
+
+                                  kbþ.                                                                   Proposition 22†
+   ᾿Εὰν ᾖ ὁποσαοῦν μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος,    If there are any number of magnitudes whatsoever,
+σύνδυο λαμβανόμενα καὶ ἐν τῷ αὐτῷ λόγῳ, καὶ δι᾿ ἴσου ἐν and (some) other (magnitudes) of equal number to them,
+τῷ αὐτῷ λόγῳ ἔσται.                                      (which are) also in the same ratio taken two by two, then
+                                                         they will also be in the same ratio via equality.
+Α                      Β                         Γ                           A                       B                     C
+∆                      Ε                         Ζ                           D                       E                     F
+Η                      Κ                         Μ                           G                       K                     M
+Θ                      Λ                         Ν                           H                       L                     N
+     ῎Εστω ὁποσαοῦν μεγέθη τὰ Α, Β, Γ καὶ ἄλλα αὐτοῖς ἴσα                        Let there be any number of magnitudes whatsoever,
+τὸ πλῆθος τὰ Δ, Ε, Ζ, σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ                          A, B, C, and (some) other (magnitudes), D, E, F , of
+λόγῳ, ὡς μὲν τὸ Α πρὸς τὸ Β, οὕτως τὸ Δ πρὸς τὸ Ε, ὡς                        equal number to them, (which are) in the same ratio
+δὲ τὸ Β πρὸς τὸ Γ, οὕτως τὸ Ε πρὸς τὸ Ζ· λέγω, ὅτι καὶ                       taken two by two, (so that) as A (is) to B, so D (is) to
+δι᾿ ἴσου ἐν τῷ αὐτῳ λόγῳ ἔσται.                                              E, and as B (is) to C, so E (is) to F . I say that they will
+     Εἰλήφθω γὰρ τῶν μὲν Α, Δ ἰσάκις πολλαπλάσια τὰ Η,                       also be in the same ratio via equality. (That is, as A is to
+Θ, τῶν δὲ Β, Ε ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Κ,                      C, so D is to F .)
+Λ, καὶ ἔτι τῶν Γ, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ                        For let the equal multiples G and H have been taken
+Μ, Ν.                                                                        of A and D (respectively), and the other random equal
+     Καὶ ἐπεί ἐστιν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Δ πρὸς τὸ                    multiples K and L of B and E (respectively), and the
+Ε, καὶ εἴληπται τῶν μὲν Α, Δ ἰσάκις πολλαπλάσια τὰ Η, Θ,                     yet other random equal multiples M and N of C and F
+τῶν δὲ Β, Ε ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ Κ, Λ,                      (respectively).
+ἔστιν ἄρα ὡς τὸ Η πρὸς τὸ Κ, οὕτως τὸ Θ πρὸς τὸ Λ. δὶα                           And since as A is to B, so D (is) to E, and the equal
+τὰ αὐτὰ δὴ καὶ ὡς τὸ Κ πρὸς τὸ Μ, οὕτως τὸ Λ πρὸς τὸ                         multiples G and H have been taken of A and D (respec-
+Ν. ἐπεὶ οὖν τρία μεγέθη ἐστὶ τὰ Η, Κ, Μ, καὶ ἄλλα αὐτοῖς                     tively), and the other random equal multiples K and L
+ἴσα τὸ πλῆθος τὰ Θ, Λ, Ν, σύνδυο λαμβανόμενα καὶ ἐν τῷ                       of B and E (respectively), thus as G is to K, so H (is) to
+αὐτῷ λόγῳ, δι᾿ ἴσου ἄρα, εἰ ὑπερέχει τὸ Η τοῦ Μ, ὑπερέχει                    L [Prop. 5.4]. And, so, for the same (reasons), as K (is)
+καὶ τὸ Θ τοῦ Ν, καὶ εἰ ἴσον, ἴσον, καὶ εἰ ἔλαττον, ἔλαττον.                  to M , so L (is) to N . Therefore, since G, K, and M are
+καί ἐστι τὰ μὲν Η, Θ τῶν Α, Δ ἰσάκις πολλαπλάσια, τὰ δὲ                      three magnitudes, and H, L, and N other (magnitudes)
+Μ, Ν τῶν Γ, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια. ἔστιν                      of equal number to them, (which are) also in the same
+ἄρα ὡς τὸ Α πρὸς τὸ Γ, οὕτως τὸ Δ πρὸς τὸ Ζ.                                 ratio taken two by two, thus, via equality, if G exceeds M
+     ᾿Εὰν ἄρα ᾖ ὁποσαοῦν μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ                       then H also exceeds N , and if (G is) equal (to M then H
+πλῆθος, σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ λόγῳ, καὶ δι᾿ ἴσου                     is also) equal (to N ), and if (G is) less (than M then H is
+ἐν τῷ αὐτῷ λόγῳ ἔσται· ὅπερ ἔδει δεῖξαι.                                     also) less (than N ) [Prop. 5.20]. And G and H are equal
+                                                                             multiples of A and D (respectively), and M and N other
+                                                                             random equal multiples of C and F (respectively). Thus,
+                                                                             as A is to C, so D (is) to F [Def. 5.5].
+                                                                                 Thus, if there are any number of magnitudes what-
+                                                                             soever, and (some) other (magnitudes) of equal number
+                                                                             to them, (which are) also in the same ratio taken two by
+
+
+                                                                         151
+STOIQEIWN eþ.                                                                                                                ELEMENTS BOOK 5
+
+                                                                                two, then they will also be in the same ratio via equality.
+                                                                                (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: ǫ : ζ and β : γ :: ζ : η and γ : δ :: η : θ then α : δ :: ǫ : θ.
+
+
+
+                                   kgþ.                                                                   Proposition 23†
+   ᾿Εὰν ᾖ τρία μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος       If there are three magnitudes, and others of equal
+σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ λόγῳ, ᾖ δὲ τεταραγμένη number to them, (being) in the same ratio taken two by
+αὐτῶν ἡ ἀναλογία, καὶ δι᾿ ἴσου ἐν τῷ αὐτῷ λόγῳ ἔσται. two, and (if) their proportion is perturbed, then they will
+                                                      also be in the same ratio via equality.
+  Α                    Β                 Γ               A                    B                 C
+   ∆                     Ε                 Ζ                                        D                           E                 F
+   Η                     Θ                 Λ                                        G                           H                 L
+   Κ                     Μ                 Ν                                        K                           M                 N
+    ῎Εστω τρία μεγέθη τὰ Α, Β, Γ καὶ ἄλλα αὐτοῖς ἴσα τὸ                             Let A, B, and C be three magnitudes, and D, E and F
+πλῆθος σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ λόγῳ τὰ Δ, Ε, Ζ,                           other (magnitudes) of equal number to them, (being) in
+ἔστω δὲ τεταραγμένη αὐτῶν ἡ ἀναλογία, ὡς μὲν τὸ Α πρὸς                          the same ratio taken two by two. And let their proportion
+τὸ Β, οὕτως τὸ Ε πρὸς τὸ Ζ, ὡς δὲ τὸ Β πρὸς τὸ Γ, οὕτως                         be perturbed, (so that) as A (is) to B, so E (is) to F , and
+τὸ Δ πρὸς τὸ Ε· λέγω, ὅτι ἐστὶν ὡς τὸ Α πρὸς τὸ Γ, οὕτως                        as B (is) to C, so D (is) to E. I say that as A is to C, so
+τὸ Δ πρὸς τὸ Ζ.                                                                 D (is) to F .
+    Εἰλήφθω τῶν μὲν Α, Β, Δ ἰσάκις πολλαπλάσια τὰ Η, Θ,                             Let the equal multiples G, H, and K have been taken
+Κ, τῶν δὲ Γ, Ε, Ζ ἄλλα, ἃ ἔτυχεν, ἰσάκις πολλαπλάσια τὰ                         of A, B, and D (respectively), and the other random
+Λ, Μ, Ν.                                                                        equal multiples L, M , and N of C, E, and F (respec-
+    Καὶ ἐπεὶ ἰσάκις ἐστὶ πολλαπλάσια τὰ Η, Θ τῶν Α, Β, τὰ                       tively).
+δὲ μέρη τοὶς ὡσαύτως πολλαπλασίοις τὸν αὐτὸν ἔχει λόγον,                            And since G and H are equal multiples of A and B
+ἔστιν ἄρα ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Η πρὸς τὸ Θ. διὰ                          (respectively), and parts have the same ratio as similar
+τὰ αὐτὰ δὴ καὶ ὡς τὸ Ε πρὸς τὸ Ζ, οὕτως τὸ Μ πρὸς τὸ Ν·                         multiples [Prop. 5.15], thus as A (is) to B, so G (is) to
+καί ἐστιν ὡς τὸ Α πρὸς τὸ Β, οὕτως τὸ Ε πρὸς τὸ Ζ· καὶ ὡς                       H. And, so, for the same (reasons), as E (is) to F , so M
+ἄρα τὸ Η πρὸς τὸ Θ, οὕτως τὸ Μ πρὸς τὸ Ν. καὶ ἐπεί ἐστιν                        (is) to N . And as A is to B, so E (is) to F . And, thus, as
+ὡς τὸ Β πρὸς τὸ Γ, οὕτως τὸ Δ πρὸς τὸ Ε, καὶ ἐναλλὰξ                            G (is) to H, so M (is) to N [Prop. 5.11]. And since as B
+ὡς τὸ Β πρὸς τὸ Δ, οὕτως τὸ Γ πρὸς τὸ Ε. καὶ ἐπεὶ τὰ                            is to C, so D (is) to E, also, alternately, as B (is) to D, so
+Θ, Κ τῶν Β, Δ ἰσάκις ἐστὶ πολλαπλάσια, τὰ δὲ μέρη τοῖς                          C (is) to E [Prop. 5.16]. And since H and K are equal
+ἰσάκις πολλαπλασίοις τὸν αὐτὸν ἔχει λόγον, ἔστιν ἄρα ὡς                         multiples of B and D (respectively), and parts have the
+τὸ Β πρὸς τὸ Δ, οὕτως τὸ Θ πρὸς τὸ Κ. ἀλλ᾿ ὡς τὸ Β πρὸς                         same ratio as similar multiples [Prop. 5.15], thus as B is
+τὸ Δ, οὕτως τὸ Γ πρὸς τὸ Ε· καὶ ὡς ἄρα τὸ Θ πρὸς τὸ Κ,                          to D, so H (is) to K. But, as B (is) to D, so C (is) to
+οὕτως τὸ Γ πρὸς τὸ Ε. πάλιν, ἐπεὶ τὰ Λ, Μ τῶν Γ, Ε ἰσάκις                       E. And, thus, as H (is) to K, so C (is) to E [Prop. 5.11].
+ἐστι πολλαπλάσια, ἔστιν ἄρα ὡς τὸ Γ πρὸς τὸ Ε, οὕτως τὸ                         Again, since L and M are equal multiples of C and E (re-
+Λ πρὸς τὸ Μ. ἀλλ᾿ ὡς τὸ Γ πρὸς τὸ Ε, οὕτως τὸ Θ πρὸς                            spectively), thus as C is to E, so L (is) to M [Prop. 5.15].
+τὸ Κ· καὶ ὡς ἄρα τὸ Θ πρὸς τὸ Κ, οὕτως τὸ Λ πρὸς τὸ Μ,                          But, as C (is) to E, so H (is) to K. And, thus, as H (is)
+καὶ ἐναλλὰξ ὡς τὸ Θ πρὸς τὸ Λ, τὸ Κ πρὸς τὸ Μ. ἐδείχθη                          to K, so L (is) to M [Prop. 5.11]. Also, alternately, as H
+δὲ καὶ ὡς τὸ Η πρὸς τὸ Θ, οὕτως τὸ Μ πρὸς τὸ Ν. ἐπεὶ                            (is) to L, so K (is) to M [Prop. 5.16]. And it was also
+οὖν τρία μεγέθη ἐστὶ τὰ Η, Θ, Λ, καὶ ἄλλα αὐτοις ἴσα τὸ                         shown (that) as G (is) to H, so M (is) to N . Therefore,
+πλῆθος τὰ Κ, Μ, Ν σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ λόγῳ,                           since G, H, and L are three magnitudes, and K, M , and
+καί ἐστιν αὐτῶν τεταραγμένη ἡ ἀναλογία, δι᾿ ἴσου ἄρα, εἰ                        N other (magnitudes) of equal number to them, (being)
+ὑπερέχει τὸ Η τοῦ Λ, ὑπερέχει καὶ τὸ Κ τοῦ Ν, καὶ εἰ ἴσον,                      in the same ratio taken two by two, and their proportion
+ἴσον, καὶ εἰ ἔλαττον, ἔλαττον. καί ἐστι τὰ μὲν Η, Κ τῶν Α,                      is perturbed, thus, via equality, if G exceeds L then K
+Δ ἰσάκις πολλαπλάσια, τὰ δὲ Λ, Ν τῶν Γ, Ζ. ἔστιν ἄρα ὡς                         also exceeds N , and if (G is) equal (to L then K is also)
+τὸ Α πρὸς τὸ Γ, οὕτως τὸ Δ πρὸς τὸ Ζ.                                           equal (to N ), and if (G is) less (than L then K is also)
+    ᾿Εὰν ἄρα ᾖ τρία μεγέθη καὶ ἄλλα αὐτοῖς ἴσα τὸ πλῆθος                        less (than N ) [Prop. 5.21]. And G and K are equal mul-
+σύνδυο λαμβανόμενα ἐν τῷ αὐτῷ λόγῳ, ᾖ δὲ τεταραγμένη                            tiples of A and D (respectively), and L and N of C and
+
+
+                                                                            152
+STOIQEIWN eþ.                                                                                                       ELEMENTS BOOK 5
+
+αὐτῶν ἡ ἀναλογία, καὶ δι᾿ ἴσου ἐν τῷ αὐτῷ λόγῳ ἔσται· ὅπερ F (respectively). Thus, as A (is) to C, so D (is) to F
+ἔδει δεῖξαι.                                               [Def. 5.5].
+                                                              Thus, if there are three magnitudes, and others of
+                                                           equal number to them, (being) in the same ratio taken
+                                                           two by two, and (if) their proportion is perturbed, then
+                                                           they will also be in the same ratio via equality. (Which is)
+                                                           the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: ǫ : ζ and β : γ :: δ : ǫ then α : γ :: δ : ζ.
+
+
+
+                                   kdþ.                                                                  Proposition 24†
+    ᾿Εὰν πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἔχῃ λόγον καὶ                               If a first (magnitude) has to a second the same ratio
+τρίτον πρὸς τέταρτον, ἔχῃ δὲ καὶ πέμπτον πρὸς δεύτερον                          that third (has) to a fourth, and a fifth (magnitude) also
+τὸν αὐτὸν λόγον καὶ ἕκτον πρὸς τέταρτον, καὶ συντεθὲν                           has to the second the same ratio that a sixth (has) to the
+πρῶτον καὶ πέμπτον πρὸς δεύτερον τὸν αὐτὸν ἕξει λόγον                           fourth, then the first (magnitude) and the fifth, added
+καὶ τρίτον καὶ ἕκτον πρὸς τέταρτον.                                             together, will also have the same ratio to the second that
+                                                                                the third (magnitude) and sixth (added together, have)
+                                                                                to the fourth.
+                                            Β                                                                       B
+       Α                                                        Η                       A                                         G
+       Γ                                                                                C
+                                    Ε                                                                          E
+       ∆                                            Θ                                   D                                  H
+       Ζ                                                                                F
+    Πρῶτον γὰρ τὸ ΑΒ πρὸς δεύρερον τὸ Γ τὸν αὐτὸν ἐχέτω                             For let a first (magnitude) AB have the same ratio to
+λόγον καὶ τρίτον τὸ ΔΕ πρὸς τέταρτον τὸ Ζ, ἐχέτω δὲ καὶ                         a second C that a third DE (has) to a fourth F . And let
+πέμπτον τὸ ΒΗ πρὸς δεύτερον τὸ Γ τὸν αὐτὸν λόγον καὶ                            a fifth (magnitude) BG also have the same ratio to the
+ἕκτον τὸ ΕΘ πρὸς τέταρτον τὸ Ζ· λέγω, ὅτι καὶ συντεθὲν                          second C that a sixth EH (has) to the fourth F . I say
+πρῶτον καὶ πέμπτον τὸ ΑΗ πρὸς δεύτερον τὸ Γ τὸν αὐτὸν                           that the first (magnitude) and the fifth, added together,
+ἕξει λόγον, καὶ τρίτον καὶ ἕκτον τὸ ΔΘ πρὸς τέταρτον τὸ                         AG, will also have the same ratio to the second C that the
+Ζ.                                                                              third (magnitude) and the sixth, (added together), DH,
+    ᾿Επεὶ γάρ ἐστιν ὡς τὸ ΒΗ πρὸς τὸ Γ, οὕτως τὸ ΕΘ πρὸς                        (has) to the fourth F .
+τὸ Ζ, ἀνάπαλιν ἄρα ὡς τὸ Γ πρὸς τὸ ΒΗ, οὕτως τὸ Ζ πρὸς                              For since as BG is to C, so EH (is) to F , thus, in-
+τὸ ΕΘ. ἐπεὶ οὖν ἐστιν ὡς τὸ ΑΒ πρὸς τὸ Γ, οὕτως τὸ ΔΕ                           versely, as C (is) to BG, so F (is) to EH [Prop. 5.7 corr.].
+πρὸς τὸ Ζ, ὡς δὲ τὸ Γ πρὸς τὸ ΒΗ, οὕτως τὸ Ζ πρὸς τὸ                            Therefore, since as AB is to C, so DE (is) to F , and as C
+ΕΘ, δι᾿ ἴσου ἄρα ἐστὶν ὡς τὸ ΑΒ πρὸς τὸ ΒΗ, οὕτως τὸ ΔΕ                         (is) to BG, so F (is) to EH, thus, via equality, as AB is to
+πρὸς τὸ ΕΘ. καὶ ἐπεὶ διῃρημένα μεγέθη ἀνάλογόν ἐστιν, καὶ                       BG, so DE (is) to EH [Prop. 5.22]. And since separated
+συντεθέντα ἀνάλογον ἔσται· ἔστιν ἄρα ὡς τὸ ΑΗ πρὸς τὸ                           magnitudes are proportional then they will also be pro-
+ΗΒ, οὕτως τὸ ΔΘ πρὸς τὸ ΘΕ. ἔστι δὲ καὶ ὡς τὸ ΒΗ πρὸς                           portional (when) composed [Prop. 5.18]. Thus, as AG is
+τὸ Γ, οὕτως τὸ ΕΘ πρὸς τὸ Ζ· δι᾿ ἴσου ἄρα ἐστὶν ὡς τὸ ΑΗ                        to GB, so DH (is) to HE. And, also, as BG is to C, so
+πρὸς τὸ Γ, οὕτως τὸ ΔΘ πρὸς τὸ Ζ.                                               EH (is) to F . Thus, via equality, as AG is to C, so DH
+    ᾿Εὰν ἄρα πρῶτον πρὸς δεύτερον τὸν αὐτὸν ἔχῃ λόγον                           (is) to F [Prop. 5.22].
+καὶ τρίτον πρὸς τέταρτον, ἔχῃ δὲ καὶ πέμπτον πρὸς δεύτερον                          Thus, if a first (magnitude) has to a second the same
+τὸν αὐτὸν λόγον καὶ ἕκτον πρὸς τέταρτον, καὶ συντεθὲν                           ratio that a third (has) to a fourth, and a fifth (magni-
+πρῶτον καὶ πέμπτον πρὸς δεύτερον τὸν αὐτὸν ἕξει λόγον                           tude) also has to the second the same ratio that a sixth
+καὶ τρίτον καὶ ἕκτον πρὸς τέταρτον· ὅπερ ἔδει δεὶξαι.                           (has) to the fourth, then the first (magnitude) and the
+                                                                                fifth, added together, will also have the same ratio to the
+                                                                                second that the third (magnitude) and the sixth (added
+
+                                                                            153
+STOIQEIWN eþ.                                                                                                             ELEMENTS BOOK 5
+
+                                                                               together, have) to the fourth. (Which is) the very thing it
+                                                                               was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ and ǫ : β :: ζ : δ then α + ǫ : β :: γ + ζ : δ.
+
+
+
+                                   keþ.                                                                 Proposition 25†
+    ᾿Εὰν τέσσαρα μεγέθη ἀνάλογον ᾖ, τὸ μέγιστον [αὐτῶν]    If four magnitudes are proportional then the (sum of
+καὶ τὸ ἐλάχιστον δύο τῶν λοιπῶν μείζονά ἐστιν.          the) largest and the smallest [of them] is greater than the
+                                                        (sum of the) remaining two (magnitudes).
+                                           Η                                                                          G
+         Α                                                    Β                          A                                            B
+         Ε                                                                               E
+                                       Θ                                                                              H
+         Γ                                           ∆                                   C                                        D
+         Ζ                                                                               F
+    ῎Εστω τέσσαρα μεγέθη ἀνάλογον τὰ ΑΒ, ΓΔ, Ε, Ζ, ὡς                              Let AB, CD, E, and F be four proportional magni-
+τὸ ΑΒ πρὸς τὸ ΓΔ, οὕτως τὸ Ε πρὸς τὸ Ζ, ἔστω δὲ μέγιστον                       tudes, (such that) as AB (is) to CD, so E (is) to F . And
+μὲν αὐτῶν τὸ ΑΒ, ἐλάχιστον δὲ τὸ Ζ· λέγω, ὅτι τὰ ΑΒ, Ζ                         let AB be the greatest of them, and F the least. I say that
+τῶν ΓΔ, Ε μείζονά ἐστιν.                                                       AB and F is greater than CD and E.
+    Κείσθω γὰρ τῷ μὲν Ε ἴσον τὸ ΑΗ, τῷ δὲ Ζ ἴσον τὸ ΓΘ.                            For let AG be made equal to E, and CH equal to F .
+    ᾿Επεὶ [οὖν] ἐστιν ὡς τὸ ΑΒ πρὸς τὸ ΓΔ, οὕτως τὸ Ε                              [In fact,] since as AB is to CD, so E (is) to F , and
+πρὸς τὸ Ζ, ἴσον δὲ τὸ μὲν Ε τῷ ΑΗ, τὸ δὲ Ζ τῷ ΓΘ, ἔστιν                        E (is) equal to AG, and F to CH, thus as AB is to CD,
+ἄρα ὡς τὸ ΑΒ πρὸς τὸ ΓΔ, οὕτως τὸ ΑΗ πρὸς τὸ ΓΘ.                               so AG (is) to CH. And since the whole AB is to the
+καὶ ἐπεί ἐστιν ὡς ὅλον τὸ ΑΒ πρὸς ὅλον τὸ ΓΔ, οὕτως                            whole CD as the (part) taken away AG (is) to the (part)
+ἀφαιρεθὲν τὸ ΑΗ πρὸς ἀφαιρεθὲν τὸ ΓΘ, καὶ λοιπὸν ἄρα                           taken away CH, thus the remainder GB will also be to
+τὸ ΗΒ πρὸς λοιπὸν τὸ ΘΔ ἔσται ὡς ὅλον τὸ ΑΒ πρὸς ὅλον                          the remainder HD as the whole AB (is) to the whole CD
+τὸ ΓΔ. μεῖζον δὲ τὸ ΑΒ τοῦ ΓΔ· μεῖζον ἄρα καὶ τὸ ΗΒ τοῦ                        [Prop. 5.19]. And AB (is) greater than CD. Thus, GB
+ΘΔ. καὶ ἐπεὶ ἴσον ἐστὶ τὸ μὲν ΑΗ τῷ Ε, τὸ δὲ ΓΘ τῷ Ζ,                          (is) also greater than HD. And since AG is equal to E,
+τὰ ἄρα ΑΗ, Ζ ἴσα ἐστὶ τοῖς ΓΘ, Ε. καὶ [ἐπεὶ] ἐὰν [ἀνίσοις                      and CH to F , thus AG and F is equal to CH and E.
+ἴσα προστεθῇ, τὰ ὅλα ἄνισά ἐστιν, ἐὰν ἄρα] τῶν ΗΒ, ΘΔ                          And [since] if [equal (magnitudes) are added to unequal
+ἀνίσων ὄντων καὶ μείζονος τοῦ ΗΒ τῷ μὲν ΗΒ προστεθῇ                            (magnitudes) then the wholes are unequal, thus if] AG
+τὰ ΑΗ, Ζ, τῷ δὲ ΘΔ προστεθῇ τὰ ΓΘ, Ε, συνάγεται τὰ                             and F are added to GB, and CH and E to HD—GB
+ΑΒ, Ζ μείζονα τῶν ΓΔ, Ε.                                                       and HD being unequal, and GB greater—it is inferred
+    ᾿Εὰν ἄρα τέσσαρα μεγέθη ἀνάλογον ᾖ, τὸ μέγιστον                            that AB and F (is) greater than CD and E.
+αὐτῶν καὶ τὸ ἐλάχιστον δύο τῶν λοιπῶν μείζονά ἐστιν. ὅπερ                          Thus, if four magnitudes are proportional then the
+ἔδει δεῖξαι.                                                                   (sum of the) largest and the smallest of them is greater
+                                                                               than the (sum of the) remaining two (magnitudes).
+                                                                               (Which is) the very thing it was required to show.
+† In modern notation, this proposition reads that if α : β :: γ : δ, and α is the greatest and δ the least, then α + δ > β + γ.
+
+
+
+
+                                                                           154

@@ -1,0 +1,1958 @@
+ELEMENTS BOOK 6
+
+  Similar Figures
+
+
+
+
+        155
+STOIQEIWN þ.                                                                                    ELEMENTS BOOK 6
+
+
+                          VOroi.                                                      Definitions
+   αʹ. ῞Ομοια σχήματα εὐθύγραμμά ἐστιν, ὅσα τάς τε                 1. Similar rectilinear figures are those (which) have
+γωνίας ἴσας ἔχει κατὰ μίαν καὶ τὰς περὶ τὰς ἴσας γωνίας        (their) angles separately equal and the (corresponding)
+πλευρὰς ἀνάλογον.                                              sides about the equal angles proportional.
+   βʹ. ῎Ακρον καὶ μέσον λόγον εὐθεῖα τετμῆσθαι λέγεται,            2. A straight-line is said to have been cut in extreme
+ὅταν ᾖ ὡς ἡ ὅλη πρὸς τὸ μεῖζον τμῆμα, οὕτως τὸ μεῖζον          and mean ratio when as the whole is to the greater seg-
+πρὸς τὸ ἔλαττὸν.                                               ment so the greater (segment is) to the lesser.
+   γʹ. ῞Υψος ἐστὶ πάντος σχήματος ἡ ἀπὸ τῆς κορυφῆς ἐπὶ            3. The height of any figure is the (straight-line) drawn
+τὴν βάσιν κάθετος ἀγομένη.                                     from the vertex perpendicular to the base.
+
+                            aþ.                                                     Proposition 1†
+   Τὰ τρίγωνα καὶ τὰ παραλληλόγραμμα τὰ ὑπὸ τὸ αὐτὸ    Triangles and parallelograms which are of the same
+ὕψος ὄντα πρὸς ἄλληλά ἐστιν ὡς αἱ βάσεις.           height are to one another as their bases.
+                 Ε      Α          Ζ                                            E       A         F
+
+
+
+
+ Θ       Η       Β      Γ          ∆         Κ         Λ         H      G       B       C         D         K          L
+    ῎Εστω τρίγωνα μὲν τὰ ΑΒΓ, ΑΓΔ, παραλληλόγραμμα                 Let ABC and ACD be triangles, and EC and CF par-
+δὲ τὰ ΕΓ, ΓΖ ὑπὸ τὸ αὐτὸ ὕψος τὸ ΑΓ· λέγω, ὅτι ἐστὶν ὡς        allelograms, of the same height AC. I say that as base BC
+ἡ ΒΓ βάσις πρὸς τὴν ΓΔ βάσις, οὕτως τὸ ΑΒΓ τρίγωνον            is to base CD, so triangle ABC (is) to triangle ACD, and
+πρὸς τὸ ΑΓΔ τρίγωνον, καὶ τὸ ΕΓ παραλληλόγραμμον πρὸς          parallelogram EC to parallelogram CF .
+τὸ ΓΖ παραλληλόγραμμον.                                            For let the (straight-line) BD have been produced in
+    ᾿Εκβεβλήσθω γὰρ ἡ ΒΔ ἐφ᾿ ἑκάτερα τὰ μέρη ἐπὶ τὰ Θ, Λ       each direction to points H and L, and let [any number]
+σημεῖα, καὶ κείσθωσαν τῇ μὲν ΒΓ βάσει ἴσαι [ὁσαιδηποτοῦν]      (of straight-lines) BG and GH be made equal to base
+αἱ ΒΗ, ΗΘ, τῇ δὲ ΓΔ βάσει ἴσαι ὁσαιδηποτοῦν αἱ ΔΚ, ΚΛ,         BC, and any number (of straight-lines) DK and KL
+καὶ ἐπεζεύχθωσαν αἱ ΑΗ, ΑΘ, ΑΚ, ΑΛ.                            equal to base CD. And let AG, AH, AK, and AL have
+    Καὶ ἐπεὶ ἴσαι εἰσὶν αἱ ΓΒ, ΒΗ, ΗΘ ἀλλήλαις, ἴσα ἐστὶ καὶ   been joined.
+τὰ ΑΘΗ, ΑΗΒ, ΑΒΓ τρίγωνα ἀλλήλοις. ὁσαπλασίων ἄρα                  And since CB, BG, and GH are equal to one another,
+ἐστὶν ἡ ΘΓ βάσις τῆς ΒΓ βάσεως, τοσαυταπλάσιόν ἐστι            triangles AHG, AGB, and ABC are also equal to one
+καὶ τὸ ΑΘΓ τρίγωνον τοῦ ΑΒΓ τριγώνου. διὰ τὰ αὐτὰ              another [Prop. 1.38]. Thus, as many times as base HC
+δὴ ὁσαπλασίων ἐστὶν ἡ ΛΓ βάσις τῆς ΓΔ βάσεως, τοσαυ-           is (divisible by) base BC, so many times is triangle AHC
+ταπλάσιόν ἐστι καὶ τὸ ΑΛΓ τρίγωνον τοῦ ΑΓΔ τριγώνου·           also (divisible) by triangle ABC. So, for the same (rea-
+καὶ εἰ ἴση ἐστὶν ἡ ΘΓ βάσις τῇ ΓΛ βάσει, ἴσον ἐστὶ καὶ τὸ      sons), as many times as base LC is (divisible) by base
+ΑΘΓ τρίγωνον τῳ ΑΓΛ τριγώνῳ, καὶ εἰ ὑπερέχει ἡ ΘΓ βάσις        CD, so many times is triangle ALC also (divisible) by
+τῆς ΓΛ βάσεως, ὑπερέχει καὶ τὸ ΑΘΓ τρίγωνον τοῦ ΑΓΛ            triangle ACD. And if base HC is equal to base CL then
+τριγώνου, καὶ εἰ ἐλάσσων, ἔλασσον. τεσσάρων δὴ ὄντων           triangle AHC is also equal to triangle ACL [Prop. 1.38].
+μεγεθῶν δύο μὲν βάσεων τῶν ΒΓ, ΓΔ, δύο δὲ τριγώνων             And if base HC exceeds base CL then triangle AHC
+τῶν ΑΒΓ, ΑΓΔ εἴληπται ἰσάκις πολλαπλάσια τῆς μὲν ΒΓ            also exceeds triangle ACL.‡ And if (HC is) less (than
+βάσεως καὶ τοῦ ΑΒΓ τριγώνου ἥ τε ΘΓ βάσις καὶ τὸ ΑΘΓ           CL then AHC is also) less (than ACL). So, their being
+τρίγωνον, τῆς δὲ ΓΔ βάσεως καὶ τοῦ ΑΔΓ τριγώνου ἄλλα,          four magnitudes, two bases, BC and CD, and two trian-
+
+
+                                                           156
+STOIQEIWN þ.                                                                                                ELEMENTS BOOK 6
+
+ἃ ἔτυχεν, ἰσάκις πολλαπλάσια ἥ τε ΛΓ βάσις καὶ τὸ ΑΛΓ                 gles, ABC and ACD, equal multiples have been taken of
+τρίγωνον· καὶ δέδεικται, ὅτι, εἰ ὑπερέχει ἡ ΘΓ βάσις τῆς ΓΛ           base BC and triangle ABC—(namely), base HC and tri-
+βάσεως, ὑπερέχει καὶ τὸ ΑΘΓ τρίγωνον τοῦ ΑΛΓ τριγώνου,                angle AHC—and other random equal multiples of base
+καί εἰ ἴση, ἴσον, καὶ εἰ ἔλασσων, ἔλασσον· ἔστιν ἄρα ὡς ἡ             CD and triangle ADC—(namely), base LC and triangle
+ΒΓ βάσις πρὸς τὴν ΓΔ βάσιν, οὕτως τὸ ΑΒΓ τρίγωνον πρὸς                ALC. And it has been shown that if base HC exceeds
+τὸ ΑΓΔ τρίγωνον.                                                      base CL then triangle AHC also exceeds triangle ALC,
+    Καὶ ἐπεὶ τοῦ μὲν ΑΒΓ τριγώνου διπλάσιόν ἐστι τὸ ΕΓ                and if (HC is) equal (to CL then AHC is also) equal (to
+παραλληλόγραμμον, τοῦ δὲ ΑΓΔ τριγώνου διπλάσιόν ἐστι                  ALC), and if (HC is) less (than CL then AHC is also)
+τὸ ΖΓ παραλληλόγραμμον, τὰ δὲ μέρη τοῖς ὡσαύτως πολ-                  less (than ALC). Thus, as base BC is to base CD, so
+λαπλασίοις τὸν αὐτὸν ἔχει λόγον, ἔστιν ἄρα ὡς τὸ ΑΒΓ                  triangle ABC (is) to triangle ACD [Def. 5.5]. And since
+τρίγωνον πρὸς τὸ ΑΓΔ τρίγωνον, οὕτως τὸ ΕΓ παραλ-                     parallelogram EC is double triangle ABC, and parallelo-
+ληλόγραμμον πρὸς τὸ ΖΓ παραλληλόγραμμον. ἐπεὶ οὖν                     gram F C is double triangle ACD [Prop. 1.34], and parts
+ἐδείχθη, ὡς μὲν ἡ ΒΓ βάσις πρὸς τὴν ΓΔ, οὕτως τὸ ΑΒΓ                  have the same ratio as similar multiples [Prop. 5.15], thus
+τρίγωνον πρὸς τὸ ΑΓΔ τρίγωνον, ὡς δὲ τὸ ΑΒΓ τρίγωνον                  as triangle ABC is to triangle ACD, so parallelogram EC
+πρὸς τὸ ΑΓΔ τρίγωνον, οὕτως τὸ ΕΓ παραλληλόγραμμον                    (is) to parallelogram F C. In fact, since it was shown that
+πρὸς τὸ ΓΖ παραλληλόγραμμον, καὶ ὡς ἄρα ἡ ΒΓ βάσις πρὸς               as base BC (is) to CD, so triangle ABC (is) to triangle
+τὴν ΓΔ βάσιν, οὕτως τὸ ΕΓ παραλληλόγραμμον πρὸς τὸ ΖΓ                 ACD, and as triangle ABC (is) to triangle ACD, so par-
+παραλληλόγραμμον.                                                     allelogram EC (is) to parallelogram CF , thus, also, as
+    Τὰ ἄρα τρίγωνα καὶ τὰ παραλληλόγραμμα τὰ ὑπὸ τὸ                   base BC (is) to base CD, so parallelogram EC (is) to
+αὐτὸ ὕψος ὄντα πρὸς ἄλληλά ἐστιν ὡς αἱ βάσεις· ὅπερ ἔδει              parallelogram F C [Prop. 5.11].
+δεῖξαι.                                                                   Thus, triangles and parallelograms which are of the
+                                                                      same height are to one another as their bases. (Which is)
+                                                                      the very thing it was required to show.
+† As is easily demonstrated, this proposition holds even when the triangles, or parallelograms, do not share a common side, and/or are not
+
+right-angled.
+‡ This is a straight-forward generalization of Prop. 1.38.
+
+
+
+                                   bþ.                                                        Proposition 2
+    ᾿Εὰν τριγώνου παρὰ μίαν τῶν πλευρῶν ἀχθῇ τις εὐθεῖα,                  If some straight-line is drawn parallel to one of the
+ἀνάλογον τεμεῖ τὰς τοῦ τριγώνου πλευράς· καὶ ἐὰν αἱ τοῦ               sides of a triangle then it will cut the (other) sides of the
+τριγώνου πλευραὶ ἀνάλογον τμηθῶσιν, ἡ ἐπὶ τὰς τομὰς ἐπι-              triangle proportionally. And if (two of) the sides of a tri-
+ζευγνυμένη εὐθεῖα παρὰ τὴν λοιπὴν ἔσται τοῦ τριγώνου                  angle are cut proportionally then the straight-line joining
+πλευράν.                                                              the cutting (points) will be parallel to the remaining side
+                                                                      of the triangle.
+   Α                                                                     A
+
+
+
+
+                  ∆                            Ε                                       D                          E
+
+                          Β                                  Γ                                B                                    C
+   Τριγώνου γὰρ τοῦ ΑΒΓ παράλληλος μιᾷ τῶν πλευρῶν        For let DE have been drawn parallel to one of the
+τῇ ΒΓ ἤχθω ἡ ΔΕ· λέγω, ὅτι ἐστὶν ὡς ἡ ΒΔ πρὸς τὴν ΔΑ, sides BC of triangle ABC. I say that as BD is to DA, so
+οὕτως ἡ ΓΕ πρὸς τὴν ΕΑ.                               CE (is) to EA.
+
+
+                                                                  157
+STOIQEIWN þ.                                                                                   ELEMENTS BOOK 6
+
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΒΕ, ΓΔ.                                For let BE and CD have been joined.
+    ῎Ισον ἄρα ἐστὶ τὸ ΒΔΕ τρίγωνον τῷ ΓΔΕ τριγώνῳ·              Thus, triangle BDE is equal to triangle CDE. For
+ἐπὶ γὰρ τῆς αὐτῆς βάσεώς ἐστι τῆς ΔΕ καὶ ἐν ταῖς αὐταῖς     they are on the same base DE and between the same
+παραλλήλοις ταῖς ΔΕ, ΒΓ· ἄλλο δέ τι τὸ ΑΔΕ τρίγωνον. τὰ     parallels DE and BC [Prop. 1.38]. And ADE is some
+δὲ ἴσα πρὸς τὸ αὐτὸ τὸν αὐτὸν ἔχει λόγον· ἔστιν ἄρα ὡς τὸ   other triangle. And equal (magnitudes) have the same ra-
+ΒΔΕ τρίγωνον πρὸς τὸ ΑΔΕ [τρίγωνον], οὕτως τὸ ΓΔΕ           tio to the same (magnitude) [Prop. 5.7]. Thus, as triangle
+τρίγωνον πρὸς τὸ ΑΔΕ τρίγωνον. αλλ᾿ ὡς μὲν τὸ ΒΔΕ           BDE is to [triangle] ADE, so triangle CDE (is) to trian-
+τρίγωνον πρὸς τὸ ΑΔΕ, οὕτως ἡ ΒΔ πρὸς τὴν ΔΑ· ὑπὸ           gle ADE. But, as triangle BDE (is) to triangle ADE, so
+γὰρ τὸ αὐτὸ ὕψος ὄντα τὴν ἀπὸ τοῦ Ε ἐπὶ τὴν ΑΒ κάθετον      (is) BD to DA. For, having the same height—(namely),
+ἀγομένην πρὸς ἄλληλά εἰσιν ὡς αἱ βάσεις. διὰ τὰ αὐτὰ δὴ     the (straight-line) drawn from E perpendicular to AB—
+ὡς τὸ ΓΔΕ τρίγωνον πρὸς τὸ ΑΔΕ, οὕτως ἡ ΓΕ πρὸς τὴν         they are to one another as their bases [Prop. 6.1]. So, for
+ΕΑ· καὶ ὡς ἄρα ἡ ΒΔ πρὸς τὴν ΔΑ, οὕτως ἡ ΓΕ πρὸς τὴν        the same (reasons), as triangle CDE (is) to ADE, so CE
+ΕΑ.                                                         (is) to EA. And, thus, as BD (is) to DA, so CE (is) to
+    ᾿Αλλὰ δὴ αἱ τοῦ ΑΒΓ τριγώνου πλευραὶ αἱ ΑΒ, ΑΓ          EA [Prop. 5.11].
+ἀνάλογον τετμήσθωσαν, ὡς ἡ ΒΔ πρὸς τὴν ΔΑ, οὕτως                And so, let the sides AB and AC of triangle ABC
+ἡ ΓΕ πρὸς τὴν ΕΑ, καὶ ἐπεζεύχθω ἡ ΔΕ· λέγω, ὅτι             have been cut proportionally (such that) as BD (is) to
+παράλληλός ἐστιν ἡ ΔΕ τῇ ΒΓ.                                DA, so CE (is) to EA. And let DE have been joined. I
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων, ἐπεί ἐστιν ὡς ἡ         say that DE is parallel to BC.
+ΒΔ πρὸς τὴν ΔΑ, οὕτως ἡ ΓΕ πρὸς τὴν ΕΑ, ἀλλ᾿ ὡς                 For, by the same construction, since as BD is to DA,
+μὲν ἡ ΒΔ πρὸς τὴν ΔΑ, οὕτως τὸ ΒΔΕ τρίγωνον πρὸς            so CE (is) to EA, but as BD (is) to DA, so triangle BDE
+τὸ ΑΔΕ τρίγωνον, ὡς δὲ ἡ ΓΕ πρὸς τὴν ΕΑ, οὕτως τὸ           (is) to triangle ADE, and as CE (is) to EA, so triangle
+ΓΔΕ τρίγωνον πρὸς τὸ ΑΔΕ τρίγωνον, καὶ ὡς ἄρα τὸ            CDE (is) to triangle ADE [Prop. 6.1], thus, also, as tri-
+ΒΔΕ τρίγωνον πρὸς τὸ ΑΔΕ τρίγωνον, οὕτως τὸ ΓΔΕ             angle BDE (is) to triangle ADE, so triangle CDE (is)
+τρίγωνον πρὸς τὸ ΑΔΕ τρίγωνον. ἑκάτερον ἄρα τῶν ΒΔΕ,        to triangle ADE [Prop. 5.11]. Thus, triangles BDE and
+ΓΔΕ τριγώνων πρὸς τὸ ΑΔΕ τὸν αὐτὸν ἔχει λόγον. ἴσον         CDE each have the same ratio to ADE. Thus, triangle
+ἄρα ἐστὶ τὸ ΒΔΕ τρίγωνον τῷ ΓΔΕ τριγώνῳ· καί εἰσιν ἐπὶ      BDE is equal to triangle CDE [Prop. 5.9]. And they are
+τῆς αὐτῆς βάσεως τῆς ΔΕ. τὰ δὲ ἴσα τρίγωνα καὶ ἐπὶ τῆς      on the same base DE. And equal triangles, which are
+αὐτῆς βάσεως ὄντα καὶ ἐν ταῖς αὐταῖς παραλλήλοις ἐστίν.     also on the same base, are also between the same paral-
+παράλληλος ἄρα ἐστὶν ἡ ΔΕ τῇ ΒΓ.                            lels [Prop. 1.39]. Thus, DE is parallel to BC.
+    ᾿Εὰν ἄρα τριγώνου παρὰ μίαν τῶν πλευρῶν ἀχθῇ τις            Thus, if some straight-line is drawn parallel to one of
+εὐθεῖα, ἀνάλογον τεμεῖ τὰς τοῦ τριγώνου πλευράς· καὶ ἐὰν    the sides of a triangle, then it will cut the (other) sides
+αἱ τοῦ τριγώνου πλευραὶ ἀνάλογον τμηθῶσιν, ἡ ἐπὶ τὰς        of the triangle proportionally. And if (two of) the sides
+τομὰς ἐπιζευγνυμένη εὐθεῖα παρὰ τὴν λοιπὴν ἔσται τοῦ        of a triangle are cut proportionally, then the straight-line
+τριγώνου πλευράν· ὅπερ ἔδει δεῖξαι.                         joining the cutting (points) will be parallel to the remain-
+                                                            ing side of the triangle. (Which is) the very thing it was
+                                                            required to show.
+
+                           gþ.                                                    Proposition 3
+    ᾿Εὰν τριγώνου ἡ γωνία δίχα τμηθῇ, ἡ δὲ τέμνουσα τὴν         If an angle of a triangle is cut in half, and the straight-
+γωνίαν εὐθεῖα τέμνῃ καὶ τὴν βάσιν, τὰ τῆς βάσεως τμήματα    line cutting the angle also cuts the base, then the seg-
+τὸν αὐτὸν ἕξει λόγον ταῖς λοιπαῖς τοῦ τριγώνου πλευραῖς·    ments of the base will have the same ratio as the remain-
+καὶ ἐὰν τὰ τῆς βάσεως τμήματα τὸν αὐτὸν ἔχῃ λόγον ταῖς      ing sides of the triangle. And if the segments of the base
+λοιπαῖς τοῦ τριγώνου πλευραῖς, ἡ ἀπὸ τῆς κορυφῆς ἐπὶ τὴν    have the same ratio as the remaining sides of the trian-
+τομὴν ἐπιζευγνυμένη εὐθεῖα δίχα τεμεῖ τὴν τοῦ τριγώνου      gle, then the straight-line joining the vertex to the cutting
+γωνίαν.                                                     (point) will cut the angle of the triangle in half.
+    ῎Εστω τρίγωνον τὸ ΑΒΓ, καὶ τετμήσθω ἡ ὑπὸ ΒΑΓ               Let ABC be a triangle. And let the angle BAC have
+γωνία δίχα ὑπὸ τῆς ΑΔ εὐθείας· λέγω, ὅτι ἐστὶν ὡς ἡ ΒΔ      been cut in half by the straight-line AD. I say that as BD
+πρὸς τὴν ΓΔ, οὕτως ἡ ΒΑ πρὸς τὴν ΑΓ.                        is to CD, so BA (is) to AC.
+    ῎Ηχθω γὰρ διὰ τοῦ Γ τῇ ΔΑ παράλληλος ἡ ΓΕ, καὶ              For let CE have been drawn through (point) C par-
+διαχθεῖσα ἡ ΒΑ συμπιπτέτω αὐτῇ κατὰ τὸ Ε.                   allel to DA. And, BA being drawn through, let it meet
+
+
+
+                                                        158
+STOIQEIWN þ.                                                                                                    ELEMENTS BOOK 6
+
+                                                                         (CE) at (point) E.†
+                                                             Ε                                                                        E
+
+                                       Α                                                                         A
+
+
+
+
+     Β                          ∆               Γ                              B                          D              C
+    Καὶ ἐπεὶ εἰς παραλλήλους τὰς ΑΔ, ΕΓ εὐθεῖα ἐνέπεσεν                      And since the straight-line AC falls across the parallel
+ἡ ΑΓ, ἡ ἄρα ὑπὸ ΑΓΕ γωνία ἴση ἐστὶ τῇ ὑπὸ ΓΑΔ. ἀλλ᾿                      (straight-lines) AD and EC, angle ACE is thus equal to
+ἡ ὑπὸ ΓΑΔ τῇ ὑπὸ ΒΑΔ ὑπόκειται ἴση· καὶ ἡ ὑπὸ ΒΑΔ                        CAD [Prop. 1.29]. But, (angle) CAD is assumed (to
+ἄρα τῇ ὑπὸ ΑΓΕ ἐστιν ἴση. πάλιν, ἐπεὶ εἰς παραλλήλους                    be) equal to BAD. Thus, (angle) BAD is also equal to
+τὰς ΑΔ, ΕΓ εὐθεῖα ἐνέπεσεν ἡ ΒΑΕ, ἡ ἐκτὸς γωνία ἡ ὑπὸ                    ACE. Again, since the straight-line BAE falls across the
+ΒΑΔ ἴση ἐστὶ τῇ ἐντὸς τῇ ὑπὸ ΑΕΓ. ἐδείχθη δὲ καὶ ἡ ὑπὸ                   parallel (straight-lines) AD and EC, the external angle
+ΑΓΕ τῇ ὑπὸ ΒΑΔ ἴση· καὶ ἡ ὑπὸ ΑΓΕ ἄρα γωνία τῇ ὑπὸ                       BAD is equal to the internal (angle) AEC [Prop. 1.29].
+ΑΕΓ ἐστιν ἴση· ὥστε καὶ πλευρὰ ἡ ΑΕ πλευρᾷ τῇ ΑΓ ἐστιν                   And (angle) ACE was also shown (to be) equal to BAD.
+ἴση. καὶ ἐπεὶ τριγώνου τοῦ ΒΓΕ παρὰ μίαν τῶν πλευρῶν                     Thus, angle ACE is also equal to AEC. And, hence, side
+τὴν ΕΓ ἦκται ἡ ΑΔ, ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΒΔ πρὸς τὴν                   AE is equal to side AC [Prop. 1.6]. And since AD has
+ΔΓ, οὕτως ἡ ΒΑ πρὸς τὴν ΑΕ. ἴση δὲ ἡ ΑΕ τῇ ΑΓ· ὡς ἄρα                    been drawn parallel to one of the sides EC of triangle
+ἡ ΒΔ πρὸς τὴν ΔΓ, οὕτως ἡ ΒΑ πρὸς τὴν ΑΓ.                                BCE, thus, proportionally, as BD is to DC, so BA (is)
+    ᾿Αλλὰ δὴ ἔστω ὡς ἡ ΒΔ πρὸς τὴν ΔΓ, οὕτως ἡ ΒΑ πρὸς                   to AE [Prop. 6.2]. And AE (is) equal to AC. Thus, as
+τὴν ΑΓ, καὶ ἐπεζεύχθω ἡ ΑΔ· λέγω, ὅτι δίχα τέτμηται ἡ                    BD (is) to DC, so BA (is) to AC.
+ὑπὸ ΒΑΓ γωνία ὑπὸ τῆς ΑΔ εὐθείας.                                            And so, let BD be to DC, as BA (is) to AC. And let
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων, ἐπεί ἐστιν ὡς ἡ ΒΔ                   AD have been joined. I say that angle BAC has been cut
+πρὸς τὴν ΔΓ, οὕτως ἡ ΒΑ πρὸς τὴν ΑΓ, ἀλλὰ καὶ ὡς ἡ ΒΔ                    in half by the straight-line AD.
+πρὸς τὴν ΔΓ, οὕτως ἐστὶν ἡ ΒΑ πρὸς τὴν ΑΕ· τριγώνου                          For, by the same construction, since as BD is to DC,
+γὰρ τοῦ ΒΓΕ παρὰ μίαν τὴν ΕΓ ἦκται ἡ ΑΔ· καὶ ὡς ἄρα ἡ                    so BA (is) to AC, then also as BD (is) to DC, so BA is
+ΒΑ πρὸς τὴν ΑΓ, οὕτως ἡ ΒΑ πρὸς τὴν ΑΕ. ἴση ἄρα ἡ ΑΓ                     to AE. For AD has been drawn parallel to one (of the
+τῇ ΑΕ· ὥστε καὶ γωνία ἡ ὑπὸ ΑΕΓ τῇ ὑπὸ ΑΓΕ ἐστιν ἴση.                    sides) EC of triangle BCE [Prop. 6.2]. Thus, also, as
+ἀλλ᾿ ἡ μὲν ὑπὸ ΑΕΓ τῇ ἐκτὸς τῇ ὑπὸ ΒΑΔ [ἐστιν] ἴση, ἡ                    BA (is) to AC, so BA (is) to AE [Prop. 5.11]. Thus, AC
+δὲ ὑπὸ ΑΓΕ τῇ ἐναλλὰξ τῇ ὑπὸ ΓΑΔ ἐστιν ἴση· καὶ ἡ ὑπὸ                    (is) equal to AE [Prop. 5.9]. And, hence, angle AEC
+ΒΑΔ ἄρα τῇ ὑπὸ ΓΑΔ ἐστιν ἴση. ἡ ἄρα ὑπὸ ΒΑΓ γωνία                        is equal to ACE [Prop. 1.5]. But, AEC [is] equal to the
+δίχα τέτμηται ὑπὸ τῆς ΑΔ εὐθείας.                                        external (angle) BAD, and ACE is equal to the alternate
+    ᾿Εὰν ἄρα τριγώνου ἡ γωνία δίχα τμηθῇ, ἡ δὲ τέμνουσα                  (angle) CAD [Prop. 1.29]. Thus, (angle) BAD is also
+τὴν γωνίαν εὐθεῖα τέμνῃ καὶ τὴν βάσιν, τὰ τῆς βάσεως                     equal to CAD. Thus, angle BAC has been cut in half by
+τμήματα τὸν αὐτὸν ἕξει λόγον ταῖς λοιπαῖς τοῦ τριγώνου                   the straight-line AD.
+πλευραῖς· καὶ ἐὰν τὰ τῆς βάσεως τμήματα τὸν αὐτὸν ἔχῃ                        Thus, if an angle of a triangle is cut in half, and the
+λόγον ταῖς λοιπαῖς τοῦ τριγώνου πλευραῖς, ἡ ἀπὸ τῆς κο-                  straight-line cutting the angle also cuts the base, then the
+ρυφῆς ἐπὶ τὴν τομὴν ἐπιζευγνυμένη εὐθεῖα δίχα τέμνει τὴν                 segments of the base will have the same ratio as the re-
+τοῦ τριγώνου γωνίαν· ὅπερ ἔδει δεῖξαι.                                   maining sides of the triangle. And if the segments of the
+                                                                         base have the same ratio as the remaining sides of the
+                                                                         triangle, then the straight-line joining the vertex to the
+                                                                         cutting (point) will cut the angle of the triangle in half.
+                                                                         (Which is) the very thing it was required to show.
+† The fact that the two straight-lines meet follows because the sum of ACE and CAE is less than two right-angles, as can easily be demonstrated.
+
+
+
+
+                                                                     159
+STOIQEIWN þ.                                                                                  ELEMENTS BOOK 6
+
+See Post. 5.
+
+
+                            dþ.                                                   Proposition 4
+   Τῶν ἰσογωνίων τριγώνων ἀνάλογόν εἰσιν αἱ πλευραὶ αἱ       In equiangular triangles the sides about the equal an-
+περὶ τὰς ἴσας γωνίας καὶ ὁμόλογοι αἱ ὑπὸ τὰς ἴσας γωνίας gles are proportional, and those (sides) subtending equal
+ὑποτείνουσαι.                                            angles correspond.
+                                                      Ζ                                                             F
+
+                                      Α                                                            A
+
+
+
+                                            ∆                                                             D
+
+
+  Β                        Γ           Ε                        B                       C           E
+    ῎Εστω ἰσογώνια τρίγωνα τὰ ΑΒΓ, ΔΓΕ ἴσην ἔχοντα τὴν            Let ABC and DCE be equiangular triangles, having
+μὲν ὑπὸ ΑΒΓ γωνίαν τῇ ὑπὸ ΔΓΕ, τὴν δὲ ὑπὸ ΒΑΓ τῇ ὑπὸ          angle ABC equal to DCE, and (angle) BAC to CDE,
+ΓΔΕ καὶ ἔτι τὴν ὑπὸ ΑΓΒ τῇ ὑπὸ ΓΕΔ· λέγω, ὅτι τῶν ΑΒΓ,        and, further, (angle) ACB to CED. I say that in trian-
+ΔΓΕ τριγώνων ἀνάλογόν εἰσιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας       gles ABC and DCE the sides about the equal angles are
+γωνίας καὶ ὁμόλογοι αἱ ὑπὸ τὰς ἴσας γωνίας ὑποτείνουσαι.      proportional, and those (sides) subtending equal angles
+    Κείσθω γὰρ ἐπ᾿ εὐθείας ἡ ΒΓ τῇ ΓΕ. καὶ ἐπεὶ αἱ ὑπὸ        correspond.
+ΑΒΓ, ΑΓΒ γωνίαι δύο ὀρθῶν ἐλάττονές εἰσιν, ἴση δὲ                 Let BC be placed straight-on to CE. And since
+ἡ ὑπὸ ΑΓΒ τῇ ὑπὸ ΔΕΓ, αἱ ἄρα ὑπὸ ΑΒΓ, ΔΕΓ δύο                 angles ABC and ACB are less than two right-angles
+ὀρθῶν ἐλάττονές εἰσιν· αἱ ΒΑ, ΕΔ ἄρα ἐκβαλλόμεναι συμ-        [Prop 1.17], and ACB (is) equal to DEC, thus ABC
+πεσοῦνται. ἐκβεβλήσθωσαν καὶ συμπιπτέτωσαν κατὰ τὸ Ζ.         and DEC are less than two right-angles. Thus, BA and
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ὑπὸ ΔΓΕ γωνία τῇ ὑπὸ ΑΒΓ,            ED, being produced, will meet [C.N. 5]. Let them have
+παράλληλός ἐστιν ἡ ΒΖ τῇ ΓΔ. πάλιν, ἐπεὶ ἴση ἐστὶν ἡ ὑπὸ      been produced, and let them meet at (point) F .
+ΑΓΒ τῇ ὑπὸ ΔΕΓ, παράλληλός ἐστιν ἡ ΑΓ τῇ ΖΕ. παραλ-               And since angle DCE is equal to ABC, BF is parallel
+ληλόγραμμον ἄρα ἐστὶ τὸ ΖΑΓΔ· ἴση ἄρα ἡ μὲν ΖΑ τῇ ΔΓ,         to CD [Prop. 1.28]. Again, since (angle) ACB is equal to
+ἡ δὲ ΑΓ τῇ ΖΔ. καὶ ἐπεὶ τριγώνου τοῦ ΖΒΕ παρὰ μίαν τὴν        DEC, AC is parallel to F E [Prop. 1.28]. Thus, F ACD
+ΖΕ ἦκται ἡ ΑΓ, ἐστιν ἄρα ὡς ἡ ΒΑ πρὸς τὴν ΑΖ, οὕτως ἡ         is a parallelogram. Thus, F A is equal to DC, and AC to
+ΒΓ πρὸς τὴν ΓΕ. ἴση δὲ ἡ ΑΖ τῇ ΓΔ· ὡς ἄρα ἡ ΒΑ πρὸς τὴν       F D [Prop. 1.34]. And since AC has been drawn parallel
+ΓΔ, οὕτως ἡ ΒΓ πρὸς τὴν ΓΕ, καὶ ἐναλλὰξ ὡς ἡ ΑΒ πρὸς          to one (of the sides) F E of triangle F BE, thus as BA
+τὴν ΒΓ, οὕτως ἡ ΔΓ πρὸς τὴν ΓΕ. πάλιν, ἐπεὶ παράλληλός        is to AF , so BC (is) to CE [Prop. 6.2]. And AF (is)
+ἐστιν ἡ ΓΔ τῇ ΒΖ, ἔστιν ἄρα ὡς ἡ ΒΓ πρὸς τὴν ΓΕ, οὕτως        equal to CD. Thus, as BA (is) to CD, so BC (is) to CE,
+ἡ ΖΔ πρὸς τὴν ΔΕ. ἴση δὲ ἡ ΖΔ τῇ ΑΓ· ὡς ἄρα ἡ ΒΓ πρὸς         and, alternately, as AB (is) to BC, so DC (is) to CE
+τὴν ΓΕ, οὕτως ἡ ΑΓ πρὸς τὴν ΔΕ, καὶ ἐναλλὰξ ὡς ἡ ΒΓ           [Prop. 5.16]. Again, since CD is parallel to BF , thus as
+πρὸς τὴν ΓΑ, οὕτως ἡ ΓΕ πρὸς τὴν ΕΔ. ἐπεὶ οὖν ἐδείχθη         BC (is) to CE, so F D (is) to DE [Prop. 6.2]. And F D
+ὡς μὲν ἡ ΑΒ πρὸς τὴν ΒΓ, οὕτως ἡ ΔΓ πρὸς τὴν ΓΕ, ὡς           (is) equal to AC. Thus, as BC is to CE, so AC (is) to
+δὲ ἡ ΒΓ πρὸς τὴν ΓΑ, οὕτως ἡ ΓΕ πρὸς τὴν ΕΔ, δι᾿ ἴσου         DE, and, alternately, as BC (is) to CA, so CE (is) to
+ἄρα ὡς ἡ ΒΑ πρὸς τὴν ΑΓ, οὕτως ἡ ΓΔ πρὸς τὴν ΔΕ.              ED [Prop. 6.2]. Therefore, since it was shown that as
+    Τῶν ἄρα ἰσογωνίων τριγώνων ἀνάλογόν εἰσιν αἱ πλευραὶ      AB (is) to BC, so DC (is) to CE, and as BC (is) to CA,
+αἱ περὶ τὰς ἴσας γωνίας καὶ ὁμόλογοι αἱ ὑπὸ τὰς ἴσας γωνίας   so CE (is) to ED, thus, via equality, as BA (is) to AC, so
+ὑποτείνουσαι· ὅπερ ἔδει δεῖξαι.                               CD (is) to DE [Prop. 5.22].
+                                                                  Thus, in equiangular triangles the sides about the
+                                                              equal angles are proportional, and those (sides) subtend-
+
+                                                          160
+STOIQEIWN þ.                                                                                    ELEMENTS BOOK 6
+
+                                                               ing equal angles correspond. (Which is) the very thing it
+                                                               was required to show.
+
+                            eþ.                                                     Proposition 5
+   ᾿Εὰν δύο τρίγωνα τὰς πλευρὰς ἀνάλογον ἔχῃ, ἰσογώνια    If two triangles have proportional sides then the trian-
+ἔσται τὰ τρίγωνα καὶ ἴσας ἕξει τὰς γωνίας, ὑφ᾿ ἃς αἱ gles will be equiangular, and will have the angles which
+ὁμόλογοι πλευραὶ ὑποτείνουσιν.                         corresponding sides subtend equal.
+                            Α                   ∆                                            A                 D
+
+
+
+
+                                                Ζ                                                  E           F
+                                    Ε
+
+
+
+
+                          Γ                     Η                                        C                     G
+        Β                                                              B
+    ῎Εστω δύο τρίγωνα τὰ ΑΒΓ, ΔΕΖ τὰς πλευρὰς ἀνάλογον             Let ABC and DEF be two triangles having propor-
+ἔχοντα, ὡς μὲν τὴν ΑΒ πρὸς τὴν ΒΓ, οὕτως τὴν ΔΕ πρὸς           tional sides, (so that) as AB (is) to BC, so DE (is) to
+τὴν ΕΖ, ὡς δὲ τὴν ΒΓ πρὸς τὴν ΓΑ, οὕτως τὴν ΕΖ πρὸς            EF , and as BC (is) to CA, so EF (is) to F D, and, fur-
+τὴν ΖΔ, καὶ ἔτι ὡς τὴν ΒΑ πρὸς τὴν ΑΓ, οὕτως τὴν ΕΔ            ther, as BA (is) to AC, so ED (is) to DF . I say that
+πρὸς τὴν ΔΖ. λέγω, ὅτι ἰσογώνιόν ἐστι τὸ ΑΒΓ τρίγωνον          triangle ABC is equiangular to triangle DEF , and (that
+τῷ ΔΕΖ τριγώνῳ καὶ ἴσας ἕξουσι τὰς γωνίας, ὑφ᾿ ἃς αἱ           the triangles) will have the angles which corresponding
+ὁμόλογοι πλευραὶ ὑποτείνουσιν, τὴν μὲν ὑπὸ ΑΒΓ τῇ ὑπὸ          sides subtend equal. (That is), (angle) ABC (equal) to
+ΔΕΖ, τὴν δὲ ὑπὸ ΒΓΑ τῇ ὑπὸ ΕΖΔ καὶ ἔτι τὴν ὑπὸ ΒΑΓ             DEF , BCA to EF D, and, further, BAC to EDF .
+τῇ ὑπὸ ΕΔΖ.                                                        For let (angle) F EG, equal to angle ABC, and (an-
+    Συνεστάτω γὰρ πρὸς τῇ ΕΖ εὐθείᾳ καὶ τοῖς πρὸς αὐτῇ         gle) EF G, equal to ACB, have been constructed on the
+σημείοις τοῖς Ε, Ζ τῇ μὲν ὑπὸ ΑΒΓ γωνίᾳ ἴση ἡ ὑπὸ ΖΕΗ,         straight-line EF at the points E and F on it (respectively)
+τῇ δὲ ὑπὸ ΑΓΒ ἴση ἡ ὑπὸ ΕΖΗ· λοιπὴ ἄρα ἡ πρὸς τῷ Α             [Prop. 1.23]. Thus, the remaining (angle) at A is equal
+λοιπῇ τῇ πρὸς τῷ Η ἐστιν ἴση.                                  to the remaining (angle) at G [Prop. 1.32].
+    ῎Ισογώνιον ἄρα ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ ΕΗΖ [τριγών-            Thus, triangle ABC is equiangular to [triangle] EGF .
+ῳ]. τῶν ἄρα ΑΒΓ, ΕΗΖ τριγώνων ἀνάλογόν εἰσιν αἱ πλευραὶ        Thus, for triangles ABC and EGF , the sides about the
+αἱ περὶ τὰς ἴσας γωνίας καὶ ὁμόλογοι αἱ ὑπὸ τὰς ἴσας γωνίας    equal angles are proportional, and (those) sides subtend-
+ὑποτείνουσαι· ἔστιν ἄρα ὡς ἡ ΑΒ πρὸς τὴν ΒΓ, [οὕτως]           ing equal angles correspond [Prop. 6.4]. Thus, as AB
+ἡ ΗΕ πρὸς τὴν ΕΖ. ἀλλ᾿ ὡς ἡ ΑΒ πρὸς τὴν ΒΓ, οὕτως              is to BC, [so] GE (is) to EF . But, as AB (is) to BC,
+ὑπόκειται ἡ ΔΕ πρὸς τὴν ΕΖ· ὡς ἄρα ἡ ΔΕ πρὸς τὴν ΕΖ,           so, it was assumed, (is) DE to EF . Thus, as DE (is) to
+οὕτως ἡ ΗΕ πρὸς τὴν ΕΖ. ἑκατέρα ἄρα τῶν ΔΕ, ΗΕ πρὸς            EF , so GE (is) to EF [Prop. 5.11]. Thus, DE and GE
+τὴν ΕΖ τὸν αὐτὸν ἔχει λόγον· ἴση ἄρα ἐστὶν ἡ ΔΕ τῇ ΗΕ.         each have the same ratio to EF . Thus, DE is equal to
+διὰ τὰ αὐτὰ δὴ καὶ ἡ ΔΖ τῇ ΗΖ ἐστιν ἴση. ἐπεὶ οὖν ἴση ἐστὶν    GE [Prop. 5.9]. So, for the same (reasons), DF is also
+ἡ ΔΕ τῇ ΕΗ, κοινὴ δὲ ἡ ΕΖ, δύο δὴ αἱ ΔΕ, ΕΖ δυσὶ ταῖς ΗΕ,      equal to GF . Therefore, since DE is equal to EG, and
+ΕΖ ἴσαι εἰσίν· καὶ βάσις ἡ ΔΖ βάσει τῇ ΖΗ [ἐστιν] ἴση· γωνία   EF (is) common, the two (sides) DE, EF are equal to
+ἄρα ἡ ὑπὸ ΔΕΖ γωνίᾳ τῇ ὑπὸ ΗΕΖ ἐστιν ἴση, καὶ τὸ ΔΕΖ           the two (sides) GE, EF (respectively). And base DF
+τρίγωνον τῷ ΗΕΖ τριγώνῳ ἴσον, καὶ αἱ λοιπαὶ γωνίαι ταῖς        [is] equal to base F G. Thus, angle DEF is equal to
+λοιπαῖς γωνίαις ἴσαι, ὑφ᾿ ἃς αἱ ἴσαι πλευραὶ ὑποτείνουσιν.     angle GEF [Prop. 1.8], and triangle DEF (is) equal
+ἴση ἄρα ἐστὶ καὶ ἡ μὲν ὑπὸ ΔΖΕ γωνία τῇ ὑπὸ ΗΖΕ, ἡ δὲ          to triangle GEF , and the remaining angles (are) equal
+ὑπὸ ΕΔΖ τῇ ὑπὸ ΕΗΖ. καὶ ἐπεὶ ἡ μὲν ὑπὸ ΖΕΔ τῇ ὑπὸ              to the remaining angles which the equal sides subtend
+ΗΕΖ ἐστιν ἴση, ἀλλ᾿ ἡ ὑπὸ ΗΕΖ τῇ ὑπὸ ΑΒΓ, καὶ ἡ ὑπὸ            [Prop. 1.4]. Thus, angle DF E is also equal to GF E, and
+
+                                                          161
+STOIQEIWN þ.                                                                                  ELEMENTS BOOK 6
+
+ΑΒΓ ἄρα γωνία τῇ ὑπὸ ΔΕΖ ἐστιν ἴση. διὰ τὰ αὐτὰ δὴ καὶ        (angle) EDF to EGF . And since (angle) F ED is equal
+ἡ ὑπὸ ΑΓΒ τῇ ὑπὸ ΔΖΕ ἐστιν ἴση, καὶ ἔτι ἡ πρὸς τῷ Α τῇ        to GEF , and (angle) GEF to ABC, angle ABC is thus
+πρὸς τῷ Δ· ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ ΔΕΖ          also equal to DEF . So, for the same (reasons), (angle)
+τριγώνῳ.                                                      ACB is also equal to DF E, and, further, the (angle) at A
+    ᾿Εὰν ἄρα δύο τρίγωνα τὰς πλευρὰς ἀνάλογον ἔχῃ,            to the (angle) at D. Thus, triangle ABC is equiangular
+ἰσογώνια ἔσται τὰ τρίγωνα καὶ ἴσας ἕξει τὰς γωνίας, ὑφ᾿       to triangle DEF .
+ἃς αἱ ὁμόλογοι πλευραὶ ὑποτείνουσιν· ὅπερ ἔδει δεῖξαι.            Thus, if two triangles have proportional sides then the
+                                                              triangles will be equiangular, and will have the angles
+                                                              which corresponding sides subtend equal. (Which is) the
+                                                              very thing it was required to show.
+
+                            þ.                                                    Proposition 6
+    ᾿Εὰν δύο τρίγωνα μίαν γωνίαν μιᾷ γωνίᾳ ἴσην ἔχῃ, περὶ    If two triangles have one angle equal to one angle,
+δὲ τὰς ἴσας γωνίας τὰς πλευρὰς ἀνάλογον, ἰσογώνια ἔσται and the sides about the equal angles proportional, then
+τὰ τρίγωνα καὶ ἴσας ἕξει τὰς γωνίας, ὑφ᾿ ἃς αἱ ὁμόλογοι the triangles will be equiangular, and will have the angles
+πλευραὶ ὑποτείνουσιν.                                     which corresponding sides subtend equal.
+         Α                        ∆                                    A                        D
+
+                                                  Η                                                              G
+
+                                  Ε        Ζ                                                   E          F
+
+
+
+     Β                     Γ                                       B                      C
+    ῎Εστω δύο τρίγωνα τὰ ΑΒΓ, ΔΕΖ μίαν γωνίαν τὴν ὑπὸ             Let ABC and DEF be two triangles having one angle,
+ΒΑΓ μιᾷ γωνίᾳ τῇ ὑπὸ ΕΔΖ ἴσην ἔχοντα, περὶ δὲ τὰς ἴσας        BAC, equal to one angle, EDF (respectively), and the
+γωνίας τὰς πλευρὰς ἀνάλογον, ὡς τὴν ΒΑ πρὸς τὴν ΑΓ,           sides about the equal angles proportional, (so that) as BA
+οὕτως τὴν ΕΔ πρὸς τὴν ΔΖ· λέγω, ὅτι ἰσογώνιόν ἐστι τὸ         (is) to AC, so ED (is) to DF . I say that triangle ABC is
+ΑΒΓ τρίγωνον τῷ ΔΕΖ τριγώνῳ καὶ ἴσην ἕξει τὴν ὑπὸ ΑΒΓ         equiangular to triangle DEF , and will have angle ABC
+γωνίαν τῇ ὑπὸ ΔΕΖ, τὴν δὲ ὑπὸ ΑΓΒ τῇ ὑπὸ ΔΖΕ.                 equal to DEF , and (angle) ACB to DF E.
+    Συνεστάτω γὰρ πρὸς τῇ ΔΖ εὐθείᾳ καὶ τοῖς πρὸς αὐτῇ            For let (angle) F DG, equal to each of BAC and
+σημείοις τοῖς Δ, Ζ ὁποτέρᾳ μὲν τῶν ὑπὸ ΒΑΓ, ΕΔΖ ἴση           EDF , and (angle) DF G, equal to ACB, have been con-
+ἡ ὑπὸ ΖΔΗ, τῇ δὲ ὑπὸ ΑΓΒ ἴση ἡ ὑπὸ ΔΖΗ· λοιπὴ ἄρα ἡ           structed on the straight-line AF at the points D and F on
+πρὸς τῷ Β γωνία λοιπῇ τῇ πρὸς τῷ Η ἴση ἐστίν.                 it (respectively) [Prop. 1.23]. Thus, the remaining angle
+    ᾿Ισογώνιον ἄρα ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ ΔΗΖ                at B is equal to the remaining angle at G [Prop. 1.32].
+τριγώνῳ. ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΒΑ πρὸς τὴν ΑΓ, οὕτως            Thus, triangle ABC is equiangular to triangle DGF .
+ἡ ΗΔ πρὸς τὴν ΔΖ. ὑπόκειται δὲ καὶ ὡς ἡ ΒΑ πρὸς τὴν ΑΓ,       Thus, proportionally, as BA (is) to AC, so GD (is) to
+οὕτως ἡ ΕΔ πρὸς τὴν ΔΖ· καὶ ὡς ἄρα ἡ ΕΔ πρὸς τὴν ΔΖ,          DF [Prop. 6.4]. And it was also assumed that as BA
+οὕτως ἡ ΗΔ πρὸς τὴν ΔΖ. ἴση ἄρα ἡ ΕΔ τῇ ΔΗ· καὶ κοινὴ         is) to AC, so ED (is) to DF . And, thus, as ED (is)
+ἡ ΔΖ· δύο δὴ αἱ ΕΔ, ΔΖ δυσὶ ταῖς ΗΔ, ΔΖ ἴσας εἰσίν· καὶ       to DF , so GD (is) to DF [Prop. 5.11]. Thus, ED (is)
+γωνία ἡ ὑπὸ ΕΔΖ γωνίᾳ τῇ ὑπὸ ΗΔΖ [ἐστιν] ἴση· βάσις           equal to DG [Prop. 5.9]. And DF (is) common. So, the
+ἄρα ἡ ΕΖ βάσει τῇ ΗΖ ἐστιν ἴση, καὶ τὸ ΔΕΖ τρίγωνον τῷ        two (sides) ED, DF are equal to the two (sides) GD,
+ΗΔΖ τριγώνῳ ἴσον ἐστίν, καὶ αἱ λοιπαὶ γωνίαι ταῖς λοιπαῖς     DF (respectively). And angle EDF [is] equal to angle
+γωνίαις ἴσας ἔσονται, ὐφ᾿ ἃς ἴσας πλευραὶ ὑποτείνουσιν. ἴση   GDF . Thus, base EF is equal to base GF , and triangle
+ἄρα ἐστὶν ἡ μὲν ὑπὸ ΔΖΗ τῇ ὑπο ΔΖΕ, ἡ δὲ ὑπὸ ΔΗΖ              DEF is equal to triangle GDF , and the remaining angles
+
+                                                          162
+STOIQEIWN þ.                                                                                 ELEMENTS BOOK 6
+
+τῇ ὑπὸ ΔΕΖ. ἀλλ᾿ ἡ ὑπὸ ΔΖΗ τῇ ὑπὸ ΑΓΒ ἐστιν ἴση· καὶ       will be equal to the remaining angles which the equal
+ἡ ὑπὸ ΑΓΒ ἄρα τῇ ὑπὸ ΔΖΕ ἐστιν ἴση. ὑπόκειται δὲ καὶ       sides subtend [Prop. 1.4]. Thus, (angle) DF G is equal
+ἡ ὑπὸ ΒΑΓ τῇ ὑπὸ ΕΔΖ ἴση· καὶ λοιπὴ ἄρα ἡ πρὸς τῷ Β        to DF E, and (angle) DGF to DEF . But, (angle) DF G
+λοιπῇ τῇ πρὸς τῷ Ε ἴση ἐστίν· ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΓ    is equal to ACB. Thus, (angle) ACB is also equal to
+τρίγωνον τῷ ΔΕΖ τριγώνῳ.                                   DF E. And (angle) BAC was also assumed (to be) equal
+    ᾿Εὰν ἄρα δύο τρίγωνα μίαν γωνίαν μιᾷ γωνίᾳ ἴσην ἔχῃ,   to EDF . Thus, the remaining (angle) at B is equal to the
+περὶ δὲ τὰς ἴσας γωνίας τὰς πλευρὰς ἀνάλογον, ἰσογώνια     remaining (angle) at E [Prop. 1.32]. Thus, triangle ABC
+ἔσται τὰ τρίγωνα καὶ ἴσας ἕξει τὰς γωνίας, ὑφ᾿ ἃς αἱ       is equiangular to triangle DEF .
+ὁμόλογοι πλευραὶ ὑποτείνουσιν· ὅπερ ἔδει δεῖξαι.               Thus, if two triangles have one angle equal to one
+                                                           angle, and the sides about the equal angles proportional,
+                                                           then the triangles will be equiangular, and will have the
+                                                           angles which corresponding sides subtend equal. (Which
+                                                           is) the very thing it was required to show.
+
+                          zþ.                                                      Proposition 7
+   ᾿Εὰν δύο τρίγωνα μίαν γωνίαν μιᾷ γωνίᾳ ἴσην ἔχῃ,           If two triangles have one angle equal to one angle,
+περὶ δὲ ἄλλας γωνίας τὰς πλευρὰς ἀνάλογον, τῶν δὲ          and the sides about other angles proportional, and the
+λοιπῶν ἑκατέραν ἅμα ἤτοι ἐλάσσονα ἢ μὴ ἐλάσσονα ὀρθῆς,     remaining angles either both less than, or both not less
+ἰσογώνια ἔσται τὰ τρίγωνα καὶ ἴσας ἕξει τὰς γωνίας, περὶ   than, right-angles, then the triangles will be equiangular,
+ἃς ἀνάλογόν εἰσιν αἱ πλευραί.                              and will have the angles about which the sides are pro-
+                                                           portional equal.
+                  Α                                                            A
+
+                                          ∆                                                               D
+
+
+
+    Β                                                           B
+                                   Ε                                                              E
+
+
+                         Η                       Ζ                                     G                         F
+
+
+                           Γ                                                             C
+    ῎Εστω δύο τρίγωνα τὰ ΑΒΓ, ΔΕΖ μίαν γωνίαν μιᾷ              Let ABC and DEF be two triangles having one an-
+γωνίᾳ ἴσην ἔχοντα τὴν ὑπὸ ΒΑΓ τῇ ὑπὸ ΕΔΖ, περὶ δὲ          gle, BAC, equal to one angle, EDF (respectively), and
+ἄλλας γωνίας τὰς ὑπὸ ΑΒΓ, ΔΕΖ τὰς πλευρὰς ἀνάλογον,        the sides about (some) other angles, ABC and DEF (re-
+ὡς τὴν ΑΒ πρὸς τὴν ΒΓ, οὕτως τὴν ΔΕ πρὸς τὴν ΕΖ,           spectively), proportional, (so that) as AB (is) to BC, so
+τῶν δὲ λοιπῶν τῶν πρὸς τοῖς Γ, Ζ πρότερον ἑκατέραν         DE (is) to EF , and the remaining (angles) at C and F ,
+ἅμα ἐλάσσονα ὀρθῆς· λέγω, ὅτι ἰσογώνιόν ἐστι τὸ ΑΒΓ        first of all, both less than right-angles. I say that triangle
+τρίγωνον τῷ ΔΕΖ τριγώνῳ, καὶ ἴση ἔσται ἡ ὑπὸ ΑΒΓ γωνία     ABC is equiangular to triangle DEF , and (that) angle
+τῇ ὑπὸ ΔΕΖ, καὶ λοιπὴ δηλονότι ἡ πρὸς τῷ Γ λοιπῇ τῇ πρὸς   ABC will be equal to DEF , and (that) the remaining
+τῷ Ζ ἴση.                                                  (angle) at C (will be) manifestly equal to the remaining
+    Εἰ γὰρ ἄνισός ἐστιν ἡ ὑπὸ ΑΒΓ γωνία τῇ ὑπὸ ΔΕΖ,        (angle) at F .
+μία αὐτῶν μείζων ἐστίν. ἔστω μείζων ἡ ὑπὸ ΑΒΓ. καὶ συ-         For if angle ABC is not equal to (angle) DEF then
+νεστάτω πρὸς τῇ ΑΒ εὐθείᾳ καὶ τῷ πρὸς αὐτῇ σημείῳ τῷ       one of them is greater. Let ABC be greater. And let (an-
+Β τῇ ὑπὸ ΔΕΖ γωνίᾳ ἴση ἡ ὑπὸ ΑΒΗ.                          gle) ABG, equal to (angle) DEF , have been constructed
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ μὲν Α γωνία τῇ Δ, ἡ δὲ ὑπὸ ΑΒΗ    on the straight-line AB at the point B on it [Prop. 1.23].
+τῇ ὑπὸ ΔΕΖ, λοιπὴ ἄρα ἡ ὑπὸ ΑΗΒ λοιπῇ τῇ ὑπὸ ΔΖΕ               And since angle A is equal to (angle) D, and (angle)
+ἐστιν ἴση. ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΗ τρίγωνον τῷ ΔΕΖ       ABG to DEF , the remaining (angle) AGB is thus equal
+
+
+                                                       163
+STOIQEIWN þ.                                                                                    ELEMENTS BOOK 6
+
+τριγώνῳ. ἔστιν ἄρα ὡς ἡ ΑΒ πρὸς τὴν ΒΗ, οὕτως ἡ ΔΕ            to the remaining (angle) DF E [Prop. 1.32]. Thus, trian-
+πρὸς τὴν ΕΖ. ὡς δὲ ἡ ΔΕ πρὸς τὴν ΕΖ, [οὕτως] ὑπόκειται ἡ      gle ABG is equiangular to triangle DEF . Thus, as AB is
+ΑΒ πρὸς τὴν ΒΓ· ἡ ΑΒ ἄρα πρὸς ἑκατέραν τῶν ΒΓ, ΒΗ τὸν         to BG, so DE (is) to EF [Prop. 6.4]. And as DE (is) to
+αὐτὸν ἔχει λόγον· ἴση ἄρα ἡ ΒΓ τῇ ΒΗ. ὥστε καὶ γωνία ἡ        EF , [so] it was assumed (is) AB to BC. Thus, AB has
+πρὸς τῷ Γ γωνίᾳ τῇ ὑπὸ ΒΗΓ ἐστιν ἴση. ἐλάττων δὲ ὀρθῆς        the same ratio to each of BC and BG [Prop. 5.11]. Thus,
+ὑπόκειται ἡ πρὸς τῷ Γ· ἐλάττων ἄρα ἐστὶν ὀρθῆς καὶ ὑπὸ        BC (is) equal to BG [Prop. 5.9]. And, hence, the angle
+ΒΗΓ· ὥστε ἡ ἐφεξῆς αὐτῇ γωνία ἡ ὑπὸ ΑΗΒ μείζων ἐστὶν          at C is equal to angle BGC [Prop. 1.5]. And the angle
+ὀρθῆς. καὶ ἐδείχθη ἴση οὖσα τῇ πρὸς τῷ Ζ· καὶ ἡ πρὸς τῷ Ζ     at C was assumed (to be) less than a right-angle. Thus,
+ἄρα μείζων ἐστὶν ὀρθῆς. ὑπόκειται δὲ ἐλάσσων ὀρθῆς· ὅπερ      (angle) BGC is also less than a right-angle. Hence, the
+ἐστὶν ἄτοπον. οὐκ ἄρα ἄνισός ἐστιν ἡ ὑπὸ ΑΒΓ γωνία τῇ         adjacent angle to it, AGB, is greater than a right-angle
+ὑπὸ ΔΕΖ· ἴση ἄρα. ἔστι δὲ καὶ ἡ πρὸς τῷ Α ἴση τῇ πρὸς τῷ      [Prop. 1.13]. And (AGB) was shown to be equal to the
+Δ· καὶ λοιπὴ ἄρα ἡ πρὸς τῷ Γ λοιπῇ τῇ πρὸς τῷ Ζ ἴση ἐστίν.    (angle) at F . Thus, the (angle) at F is also greater than a
+ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ ΔΕΖ τριγώνῳ.            right-angle. But it was assumed (to be) less than a right-
+    ᾿Αλλὰ δὴ πάλιν ὑποκείσθω ἑκατέρα τῶν πρὸς τοῖς Γ, Ζ μὴ    angle. The very thing is absurd. Thus, angle ABC is not
+ἐλάσσων ὀρθῆς· λέγω πάλιν, ὅτι καὶ οὕτως ἐστὶν ἰσογώνιον      unequal to (angle) DEF . Thus, (it is) equal. And the
+τὸ ΑΒΓ τρίγωνον τῷ ΔΕΖ τριγώνῳ.                               (angle) at A is also equal to the (angle) at D. And thus
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ὁμοίως δείξομεν,           the remaining (angle) at C is equal to the remaining (an-
+ὅτι ἴση ἐστὶν ἡ ΒΓ τῇ ΒΗ· ὥστε καὶ γωνία ἡ πρὸς τῷ Γ τῇ       gle) at F [Prop. 1.32]. Thus, triangle ABC is equiangular
+ὑπὸ ΒΗΓ ἴση ἐστίν. οὐκ ἐλάττων δὲ ὀρθῆς ἡ πρὸς τῷ Γ·          to triangle DEF .
+οὐκ ἐλάττων ἄρα ὀρθῆς οὐδὲ ἡ ὑπὸ ΒΗΓ. τριγώνου δὴ τοῦ             But, again, let each of the (angles) at C and F be
+ΒΗΓ αἱ δύο γωνίαι δύο ὀρθῶν οὔκ εἰσιν ἐλάττονες· ὅπερ         assumed (to be) not less than a right-angle. I say, again,
+ἐστὶν ἀδύνατον. οὐκ ἄρα πάλιν ἄνισός ἐστιν ἡ ὑπὸ ΑΒΓ          that triangle ABC is equiangular to triangle DEF in this
+γωνία τῇ ὑπὸ ΔΕΖ· ἴση ἄρα. ἔστι δὲ καὶ ἡ πρὸς τῷ Α τῇ         case also.
+πρὸς τῷ Δ ἴση· λοιπὴ ἄρα ἡ πρὸς τῷ Γ λοιπῇ τῇ πρὸς τῷ Ζ           For, with the same construction, we can similarly
+ἴση ἐστίν. ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ ΔΕΖ          show that BC is equal to BG. Hence, also, the angle
+τριγώνῳ.                                                      at C is equal to (angle) BGC. And the (angle) at C (is)
+    ᾿Εὰν ἄρα δύο τρίγωνα μίαν γωνίαν μιᾷ γωνίᾳ ἴσην ἔχῃ,      not less than a right-angle. Thus, BGC (is) not less than
+περὶ δὲ ἄλλας γωνίας τὰς πλευρὰς ἀνάλογον, τῶν δὲ λοιπῶν      a right-angle either. So, in triangle BGC the (sum of)
+ἑκατέραν ἅμα ἐλάττονα ἢ μὴ ἐλάττονα ὀρθῆς, ἰσογώνια           two angles is not less than two right-angles. The very
+ἔσται τὰ τρίγωνα καὶ ἴσας ἕξει τὰς γωνίας, περὶ ἃς ἀνάλογόν   thing is impossible [Prop. 1.17]. Thus, again, angle ABC
+εἰσιν αἱ πλευραί· ὅπερ ἔδει δεῖξαι.                           is not unequal to DEF . Thus, (it is) equal. And the (an-
+                                                              gle) at A is also equal to the (angle) at D. Thus, the
+                                                              remaining (angle) at C is equal to the remaining (angle)
+                                                              at F [Prop. 1.32]. Thus, triangle ABC is equiangular to
+                                                              triangle DEF .
+                                                                  Thus, if two triangles have one angle equal to one
+                                                              angle, and the sides about other angles proportional, and
+                                                              the remaining angles both less than, or both not less than,
+                                                              right-angles, then the triangles will be equiangular, and
+                                                              will have the angles about which the sides (are) propor-
+                                                              tional equal. (Which is) the very thing it was required to
+                                                              show.
+
+                            hþ.                                                     Proposition 8
+   ᾿Εὰν ἐν ὀρθογωνίῳ τριγώνῳ ἀπό τῆς ὀρθῆς γωνίας ἐπὶ             If, in a right-angled triangle, a (straight-line) is drawn
+τὴν βάσιν κάθετος ἀχθῇ, τὰ πρὸς τῇ καθέτῳ τρίγωνα ὅμοιά       from the right-angle perpendicular to the base then the
+ἐστι τῷ τε ὅλῳ καὶ ἀλλήλοις.                                  triangles around the perpendicular are similar to the
+   ῎Εστω τρίγωνον ὀρθογώνιον τὸ ΑΒΓ ὀρθὴν ἔχον τὴν            whole (triangle), and to one another.
+ὑπὸ ΒΑΓ γωνίαν, καὶ ἤχθω ἀπὸ τοῦ Α ἐπὶ τὴν ΒΓ κάθετος             Let ABC be a right-angled triangle having the angle
+ἡ ΑΔ· λέγω, ὅτι ὅμοιόν ἐστιν ἑκάτερον τῶν ΑΒΔ, ΑΔΓ            BAC a right-angle, and let AD have been drawn from
+
+
+
+                                                          164
+STOIQEIWN þ.                                                                                ELEMENTS BOOK 6
+
+τριγώνων ὅλῳ τῷ ΑΒΓ καὶ ἔτι ἀλλήλοις.                      A, perpendicular to BC [Prop. 1.12]. I say that triangles
+                                                           ABD and ADC are each similar to the whole (triangle)
+                                                           ABC and, further, to one another.
+                             Α                                                           A
+
+
+
+
+ Β                           ∆                     Γ         B                           D                       C
+    ᾿Επεὶ γὰρ ἴση ἐστὶν ἡ ὑπὸ ΒΑΓ τῇ ὑπὸ ΑΔΒ· ὀρθὴ             For since (angle) BAC is equal to ADB—for each
+γὰρ ἑκατέρα· καὶ κοινὴ τῶν δύο τριγώνων τοῦ τε ΑΒΓ καὶ     (are) right-angles—and the (angle) at B (is) common
+τοῦ ΑΒΔ ἡ πρὸς τῷ Β, λοιπὴ ἄρα ἡ ὑπὸ ΑΓΒ λοιπῇ τῇ          to the two triangles ABC and ABD, the remaining (an-
+ὑπο ΒΑΔ ἐστιν ἴση· ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΓ τρίγωνον      gle) ACB is thus equal to the remaining (angle) BAD
+τῷ ΑΒΔ τριγώνῳ. ἔστιν ἄρα ὡς ἡ ΒΓ ὑποτείνουσα τὴν          [Prop. 1.32]. Thus, triangle ABC is equiangular to tri-
+ὀρθὴν τοῦ ΑΒΓ τριγώνου πρὸς τὴν ΒΑ ὑποτείνουσαν τὴν        angle ABD. Thus, as BC, subtending the right-angle in
+ὀρθὴν τοῦ ΑΒΔ τριγώνου, οὕτως αὐτὴ ἡ ΑΒ ὑποτείνουσα        triangle ABC, is to BA, subtending the right-angle in tri-
+τὴν πρὸς τῷ Γ γωνίαν τοῦ ΑΒΓ τριγώνου πρὸς τὴν ΒΔ          angle ABD, so the same AB, subtending the angle at C
+ὑποτείνουσαν τὴν ἴσην τὴν ὑπὸ ΒΑΔ τοῦ ΑΒΔ τριγώνου,        in triangle ABC, (is) to BD, subtending the equal (an-
+καὶ ἔτι ἡ ΑΓ πρὸς τὴν ΑΔ ὑποτείνουσαν τὴν πρὸς τῷ Β        gle) BAD in triangle ABD, and, further, (so is) AC to
+γωνίαν κοινὴν τῶν δύο τριγώνων. τὸ ΑΒΓ ἄρα τρίγωνον        AD, (both) subtending the angle at B common to the
+τῷ ΑΒΔ τριγώνῳ ἰσογώνιόν τέ ἐστι καὶ τὰς περὶ τὰς ἴσας     two triangles [Prop. 6.4]. Thus, triangle ABC is equian-
+γωνίας πλευρὰς ἀνάλογον ἔχει. ὅμοιον ἄμα [ἐστὶ] τὸ ΑΒΓ     gular to triangle ABD, and has the sides about the equal
+τρίγωνον τῷ ΑΒΔ τριγώνῳ. ὁμοίως δὴ δείξομεν, ὅτι καὶ       angles proportional. Thus, triangle ABC [is] similar to
+τῷ ΑΔΓ τριγώνῳ ὅμοιόν ἐστι τὸ ΑΒΓ τρίγωνον· ἑκάτερον       triangle ABD [Def. 6.1]. So, similarly, we can show that
+ἄρα τῶν ΑΒΔ, ΑΔΓ [τριγώνων] ὅμοιόν ἐστιν ὅλῳ τῷ ΑΒΓ.       triangle ABC is also similar to triangle ADC. Thus, [tri-
+    Λέγω δή, ὅτι καὶ ἀλλήλοις ἐστὶν ὅμοια τὰ ΑΒΔ, ΑΔΓ      angles] ABD and ADC are each similar to the whole
+τρίγωνα.                                                   (triangle) ABC.
+    ᾿Επεὶ γὰρ ὀρθὴ ἡ ὑπὸ ΒΔΑ ὀρθῇ τῇ ὑπὸ ΑΔΓ ἐστιν             So I say that triangles ABD and ADC are also similar
+ἴση, ἀλλὰ μὴν καὶ ἡ ὑπὸ ΒΑΔ τῇ πρὸς τῷ Γ ἐδείχθη ἴση,      to one another.
+καὶ λοιπὴ ἄρα ἡ πρὸς τῷ Β λοιπῇ τῇ ὑπὸ ΔΑΓ ἐστιν ἴση·          For since the right-angle BDA is equal to the right-
+ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΔ τρίγωνον τῷ ΑΔΓ τριγώνῳ.         angle ADC, and, indeed, (angle) BAD was also shown
+ἔστιν ἄρα ὡς ἡ ΒΔ τοῦ ΑΒΔ τριγώνου ὑποτείνουσα τὴν         (to be) equal to the (angle) at C, thus the remaining (an-
+ὑπὸ ΒΑΔ πρὸς τὴν ΔΑ τοῦ ΑΔΓ τριγώνου ὑποτείνουσαν          gle) at B is also equal to the remaining (angle) DAC
+τὴν πρὸς τῷ Γ ἴσην τῇ ὑπὸ ΒΑΔ, οὕτως αὐτὴ ἡ ΑΔ τοῦ         [Prop. 1.32]. Thus, triangle ABD is equiangular to trian-
+ΑΒΔ τριγώνου ὑποτείνουσα τὴν πρὸς τῷ Β γωνίαν πρὸς         gle ADC. Thus, as BD, subtending (angle) BAD in tri-
+τὴν ΔΓ ὑποτείνουσαν τὴν ὑπὸ ΔΑΓ τοῦ ΑΔΓ τριγώνου           angle ABD, is to DA, subtending the (angle) at C in tri-
+ἴσην τῇ πρὸς τῷ Β, καὶ ἔτι ἡ ΒΑ πρὸς τὴν ΑΓ ὑποτείνουσαι   angle ADC, (which is) equal to (angle) BAD, so (is) the
+τὰς ὀρθάς· ὅμοιον ἄρα ἐστὶ τὸ ΑΒΔ τρίγωνον τῷ ΑΔΓ          same AD, subtending the angle at B in triangle ABD, to
+τριγώνῳ.                                                   DC, subtending (angle) DAC in triangle ADC, (which
+    ᾿Εὰν ἄρα ἐν ὀρθογωνίῳ τριγώνῳ ἀπὸ τῆς ὀρθῆς γωνίας     is) equal to the (angle) at B, and, further, (so is) BA to
+ἐπὶ τὴν βάσιν κάθετος ἀχθῇ, τὰ πρὸς τῇ καθέτῳ τρίγωνα      AC, (each) subtending right-angles [Prop. 6.4]. Thus,
+ὅμοιά ἐστι τῷ τε ὅλῳ καὶ ἀλλήλοις [ὅπερ ἔδει δεῖξαι].      triangle ABD is similar to triangle ADC [Def. 6.1].
+                                                               Thus, if, in a right-angled triangle, a (straight-line)
+                                                           is drawn from the right-angle perpendicular to the base
+
+
+
+                                                       165
+STOIQEIWN þ.                                                                                               ELEMENTS BOOK 6
+
+                                                                           then the triangles around the perpendicular are similar
+                                                                           to the whole (triangle), and to one another. [(Which is)
+                                                                           the very thing it was required to show.]
+
+                             Pìrisma.                                                             Corollary
+   ᾿Εκ δὴ τούτου φανερόν, ὅτι ἐὰν ἐν ὀρθογωνίῳ τριγώνῳ     So (it is) clear, from this, that if, in a right-angled tri-
+ἀπὸ τῆς ὀρθῆς γωνάις ἐπὶ τὴν βάσις κάθετος ἀχθῇ, ἡ angle, a (straight-line) is drawn from the right-angle per-
+ἀχθεῖσα τῶν τῆς βάσεως τμημάτων μέση ἀνάλογόν ἐστιν· pendicular to the base then the (straight-line so) drawn
+ὅπερ ἔδει δεῖξαι.                                      is in mean proportion to the pieces of the base.† (Which
+                                                       is) the very thing it was required to show.
+† In other words, the perpendicular is the geometric mean of the pieces.
+
+
+
+                                 jþ.                                                            Proposition 9
+    Τῆς δοθείσης εὐθείας τὸ προσταχθὲν μέρος ἀφελεῖν.                         To cut off a prescribed part from a given straight-line.
+
+
+
+                                        Γ                                                                  C
+                             Ε                                                                     E
+                  ∆                                                                       D
+
+       Α               Ζ                          Β                              A            F                      B
+    ῎Εστω ἡ δοθεῖσα εὐθεῖα ἡ ΑΒ· δεῖ δὴ τῆς ΑΒ τὸ προ-                         Let AB be the given straight-line. So it is required to
+σταχθὲν μέρος ἀφελεῖν.                                                     cut off a prescribed part from AB.
+    ᾿Επιτετάχθω δὴ τὸ τρίτον. [καὶ] διήθχω τις ἀπὸ τοῦ Α                       So let a third (part) have been prescribed. [And] let
+εὐθεῖα ἡ ΑΓ γωνίαν περιέχουσα μετὰ τῆς ΑΒ τυχοῦσαν· καὶ                    some straight-line AC have been drawn from (point) A,
+εἰλήφθω τυχὸν σημεῖον ἐπὶ τῆς ΑΓ τὸ Δ, καὶ κείσθωσαν                       encompassing a random angle with AB. And let a ran-
+τῇ ΑΔ ἴσαι αἱ ΔΕ, ΕΓ. καὶ ἐπεζεύχθω ἡ ΒΓ, καὶ διὰ τοῦ Δ                    dom point D have been taken on AC. And let DE and
+παράλληλος αὐτῇ ἤχθω ἡ ΔΖ.                                                 EC be made equal to AD [Prop. 1.3]. And let BC have
+    ᾿Επεὶ οὖν τριγώνου τοῦ ΑΒΓ παρὰ μίαν τῶν πλευρῶν                       been joined. And let DF have been drawn through D
+τὴν ΒΓ ἦκται ἡ ΖΔ, ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΓΔ πρὸς τὴν                     parallel to it [Prop. 1.31].
+ΔΑ, οὕτως ἡ ΒΖ πρὸς τὴν ΖΑ. διπλῆ δὲ ἡ ΓΔ τῆς ΔΑ·                              Therefore, since F D has been drawn parallel to one
+διπλῆ ἄρα καὶ ἡ ΒΖ τῆς ΖΑ· τριπλῆ ἄρα ἡ ΒΑ τῆς ΑΖ.                         of the sides, BC, of triangle ABC, then, proportionally,
+    Τῆς ἄρα δοθείσης εὐθείας τῆς ΑΒ τὸ ἐπιταχθὲν τρίτον                    as CD is to DA, so BF (is) to F A [Prop. 6.2]. And CD
+μέρος ἀφῄρηται τὸ ΑΖ· ὅπερ ἔδει ποιῆσαι.                                   (is) double DA. Thus, BF (is) also double F A. Thus,
+                                                                           BA (is) triple AF .
+                                                                               Thus, the prescribed third part, AF , has been cut off
+                                                                           from the given straight-line, AB. (Which is) the very
+                                                                           thing it was required to do.
+
+                                  iþ.                                                          Proposition 10
+   Τὴν δοθεῖσαν εὐθεῖαν ἄτμητον τῇ δοθείσῃ τετμημένῃ     To cut a given uncut straight-line similarly to a given
+ὁμοίως τεμεῖν.                                       cut (straight-line).
+
+
+
+
+                                                                      166
+STOIQEIWN þ.                                                                                 ELEMENTS BOOK 6
+
+                                               Γ                                                               C
+
+
+                                 Ε                                                              E
+
+
+
+                   ∆             Θ         Κ                                       D            H          K
+
+
+
+
+      Α           Ζ         Η          Β                          A            F          G           B
+    ῎Εστω ἡ μὲν δοθεῖσα εὐθεῖα ἅτμητος ἡ ΑΒ, ἡ δὲ τε-          Let AB be the given uncut straight-line, and AC a
+τμημένη ἡ ΑΓ κατὰ τὰ Δ, Ε σημεῖα, καὶ κείσθωσαν ὥστε       (straight-line) cut at points D and E, and let (AC) be
+γωνίαν τυχοῦσαν περιέχειν, καὶ ἐπεζεύχθω ἡ ΓΒ, καὶ διὰ     laid down so as to encompass a random angle (with AB).
+τῶν Δ, Ε τῇ ΒΓ παράλληλοι ἤχθωσαν αἱ ΔΖ, ΕΗ, διὰ δὲ        And let CB have been joined. And let DF and EG have
+τοῦ Δ τῇ ΑΒ παράλληλος ἤχθω ἡ ΔΘΚ.                         been drawn through (points) D and E (respectively),
+    Παραλληλόγραμμον ἄρα ἐστὶν ἑκάτερον τῶν ΖΘ, ΘΒ·        parallel to BC, and let DHK have been drawn through
+ἴση ἄρα ἡ μὲν ΔΘ τῇ ΖΗ, ἡ δὲ ΘΚ τῇ ΗΒ. καὶ ἐπεὶ τριγώνου   (point) D, parallel to AB [Prop. 1.31].
+τοῦ ΔΚΓ παρὰ μίαν τῶν πλευρῶν τὴν ΚΓ εὐθεῖα ἦκται ἡ            Thus, F H and HB are each parallelograms. Thus,
+ΘΕ, ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΓΕ πρὸς τὴν ΕΔ, οὕτως ἡ        DH (is) equal to F G, and HK to GB [Prop. 1.34]. And
+ΚΘ πρὸς τὴν ΘΔ. ἴση δὲ ἡ μὲν ΚΘ τῇ ΒΗ, ἡ δὲ ΘΔ τῇ          since the straight-line HE has been drawn parallel to one
+ΗΖ. ἔστιν ἄρα ὡς ἡ ΓΕ πρὸς τὴν ΕΔ, οὕτως ἡ ΒΗ πρὸς τὴν     of the sides, KC, of triangle DKC, thus, proportionally,
+ΗΖ. πάλιν, ἐπεὶ τριγώνου τοῦ ΑΗΕ παρὰ μίαν τῶν πλευρῶν     as CE is to ED, so KH (is) to HD [Prop. 6.2]. And
+τὴν ΗΕ ἦκται ἡ ΖΔ, ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΕΔ πρὸς τὴν     KH (is) equal to BG, and HD to GF . Thus, as CE is
+ΔΑ, οὕτως ἡ ΗΖ πρὸς τὴν ΖΑ. ἐδείχθη δὲ καὶ ὡς ἡ ΓΕ         to ED, so BG (is) to GF . Again, since F D has been
+πρὸς τὴν ΕΔ, οὕτως ἡ ΒΗ πρὸς τὴν ΗΖ· ἔστιν ἄρα ὡς μὲν      drawn parallel to one of the sides, GE, of triangle AGE,
+ἡ ΓΕ πρὸς τὴν ΕΔ, οὕτως ἡ ΒΗ πρὸς τὴν ΗΖ, ὡς δὲ ἡ ΕΔ       thus, proportionally, as ED is to DA, so GF (is) to F A
+πρὸς τὴν ΔΑ, οὕτως ἡ ΗΖ πρὸς τὴν ΖΑ.                       [Prop. 6.2]. And it was also shown that as CE (is) to
+    ῾Η ἄρα δοθεῖσα εὐθεῖα ἄτμητος ἡ ΑΒ τῇ δοθείσῃ εὐθείᾳ   ED, so BG (is) to GF . Thus, as CE is to ED, so BG (is)
+τετμημένῃ τῇ ΑΓ ὁμοίως τέτμηται· ὅπερ ἔδει ποιῆσαι·        to GF , and as ED (is) to DA, so GF (is) to F A.
+                                                               Thus, the given uncut straight-line, AB, has been cut
+                                                           similarly to the given cut straight-line, AC. (Which is)
+                                                           the very thing it was required to do.
+
+                          iaþ.                                                  Proposition 11
+    Δύο δοθεισῶν εὐθειῶν τρίτην ἀνάλογον προσευρεῖν.           To find a third (straight-line) proportional to two
+    ῎Εστωσαν αἱ δοθεῖσαι [δύο εὐθεῖαι] αἱ ΒΑ, ΑΓ καὶ       given straight-lines.
+κείσθωσαν γωνίαν περιέχουσαι τυχοῦσαν. δεῖ δὴ τῶν ΒΑ,          Let BA and AC be the [two] given [straight-lines],
+ΑΓ τρίτην ἀνάλογον προσευρεῖν. ἐκβεβλήσθωσαν γὰρ ἐπὶ       and let them be laid down encompassing a random angle.
+τὰ Δ, Ε σημεῖα, καὶ κείσθω τῇ ΑΓ ἴση ἡ ΒΔ, καὶ ἐπεζεύχθω   So it is required to find a third (straight-line) proportional
+ἡ ΒΓ, καὶ διὰ τοῦ Δ παράλληλος αὐτῇ ἤχθω ἡ ΔΕ.             to BA and AC. For let (BA and AC) have been produced
+    ᾿Επεὶ οὖν τριγώνου τοῦ ΑΔΕ παρὰ μίαν τῶν πλευρῶν       to points D and E (respectively), and let BD be made
+τὴν ΔΕ ἦκται ἡ ΒΓ, ἀνάλογόν ἐστιν ὡς ἡ ΑΒ πρὸς τὴν         equal to AC [Prop. 1.3]. And let BC have been joined.
+ΒΔ, οὕτως ἡ ΑΓ πρὸς τὴν ΓΕ. ἴση δὲ ἡ ΒΔ τῇ ΑΓ. ἔστιν       And let DE have been drawn through (point) D parallel
+ἄρα ὡς ἡ ΑΒ πρὸς τὴν ΑΓ, οὕτως ἡ ΑΓ πρὸς τὴν ΓΕ.           to it [Prop. 1.31].
+                                                               Therefore, since BC has been drawn parallel to one
+                                                           of the sides DE of triangle ADE, proportionally, as AB is
+                                                           to BD, so AC (is) to CE [Prop. 6.2]. And BD (is) equal
+
+
+                                                       167
+STOIQEIWN þ.                                                                                   ELEMENTS BOOK 6
+
+                                                             to AC. Thus, as AB is to AC, so AC (is) to CE.
+                                  Α                                                           A
+
+
+
+                       Β                                                             B
+
+                                      Γ                                                            C
+
+               ∆                                                             D
+
+
+                                          Ε                                                            E
+   Δύο ἄρα δοθεισῶν εὐθειῶν τῶν ΑΒ, ΑΓ τρίτη ἀνάλογον     Thus, a third (straight-line), CE, has been found
+αὐταῖς προσεύρηται ἡ ΓΕ· ὅπερ ἔδει ποιῆσαι.           (which is) proportional to the two given straight-lines,
+                                                      AB and AC. (Which is) the very thing it was required to
+                                                      do.
+
+                           ibþ.                                                  Proposition 12
+   Τριῶν δοθεισῶν εὐθειῶν τετάρτην ἀνάλογον προ-    To find a fourth (straight-line) proportional to three
+σευρεῖν.                                         given straight-lines.
+        Α                                                             A
+        Β                                                             B
+        Γ                                 Ε                           C                                    E
+
+                            Η                                                               G
+
+
+
+
+          ∆                 Θ             Ζ                            D                  H            F
+    ῎Εστωσαν αἱ δοθεῖσαι τρεῖς εὐθεῖαι αἱ Α, Β, Γ· δεῖ δὴ         Let A, B, and C be the three given straight-lines. So
+τῶν Α, Β, Γ τετράτην ἀνάλογον προσευρεῖν.                    it is required to find a fourth (straight-line) proportional
+    ᾿Εκκείσθωσαν δύο εὐθεῖαι αἱ ΔΕ, ΔΖ γωνίαν περιέχους-     to A, B, and C.
+αι [τυχοῦσαν] τὴν ὑπὸ ΕΔΖ· καὶ κείσθω τῇ μὲν Α ἴση ἡ ΔΗ,          Let the two straight-lines DE and DF be set out en-
+τῇ δὲ Β ἴση ἡ ΗΕ, καὶ ἔτι τῇ Γ ἴση ἡ ΔΘ· καὶ ἐπιζευχθείσης   compassing the [random] angle EDF . And let DG be
+τῆς ΗΘ παράλληλος αὐτῇ ἤχθω διὰ τοῦ Ε ἡ ΕΖ.                  made equal to A, and GE to B, and, further, DH to C
+     ᾿Επεὶ οὖν τριγώνου τοῦ ΔΕΖ παρὰ μίαν τὴν ΕΖ ἦκται ἡ     [Prop. 1.3]. And GH being joined, let EF have been
+ΗΘ, ἔστιν ἄρα ὡς ἡ ΔΗ πρὸς τὴν ΗΕ, οὕτως ἡ ΔΘ πρὸς           drawn through (point) E parallel to it [Prop. 1.31].
+τὴν ΘΖ. ἴση δὲ ἡ μὲν ΔΗ τῇ Α, ἡ δὲ ΗΕ τῇ Β, ἡ δὲ ΔΘ τῇ            Therefore, since GH has been drawn parallel to one
+Γ· ἔστιν ἄρα ὡς ἡ Α πρὸς τὴν Β, οὕτως ἡ Γ πρὸς τὴν ΘΖ.       of the sides EF of triangle DEF , thus as DG is to GE,
+     Τριῶν ἄρα δοθεισῶν εὐθειῶν τῶν Α, Β, Γ τετάρτη          so DH (is) to HF [Prop. 6.2]. And DG (is) equal to A,
+ἀνάλογον προσεύρηται ἡ ΘΖ· ὅπερ ἔδει ποιῆσαι.                and GE to B, and DH to C. Thus, as A is to B, so C (is)
+
+
+                                                         168
+STOIQEIWN þ.                                                                                                ELEMENTS BOOK 6
+
+                                                                            to HF .
+                                                                                Thus, a fourth (straight-line), HF , has been found
+                                                                            (which is) proportional to the three given straight-lines,
+                                                                            A, B, and C. (Which is) the very thing it was required to
+                                                                            do.
+
+                                 igþ.                                                           Proposition 13
+    Δύο δοθεισῶν εὐθειῶν μέσην ἀνάλογον προσευρεῖν.                            To find the (straight-line) in mean proportion to two
+                                                                            given straight-lines.†
+                                             ∆                                                                  D
+
+
+
+
+          Α                                 Β             Γ                         A                           B          C
+    ῎Εστωσαν αἱ δοθεῖσαι δύο εὐθεῖαι αἱ ΑΒ, ΒΓ· δεῖ δὴ τῶν                      Let AB and BC be the two given straight-lines. So it
+ΑΒ, ΒΓ μέσην ἀνάλογον προσευρεῖν.                                           is required to find the (straight-line) in mean proportion
+    Κείσθωσαν ἐπ᾿ εὐθείας, καὶ γεγράφθω ἐπὶ τῆς ΑΓ                          to AB and BC.
+ἡμικύκλιον τὸ ΑΔΓ, καὶ ἤχθω ἀπὸ τοῦ Β σημείου τῇ ΑΓ                             Let (AB and BC) be laid down straight-on (with re-
+εὐθείᾳ πρὸς ὀρθὰς ἡ ΒΑ, καὶ ἐπεζεύχθωσαν αἱ ΑΔ, ΔΓ.                         spect to one another), and let the semi-circle ADC have
+    ᾿Επεὶ ἐν ἡμικυκλίῳ γωνία ἐστὶν ἡ ὑπὸ ΑΔΓ, ὀρθή ἐστιν.                   been drawn on AC [Prop. 1.10]. And let BD have been
+καὶ ἐπεὶ ἐν ὀρθογωνίῳ τριγώνῳ τῷ ΑΔΓ ἀπὸ τῆς ὀρθῆς                          drawn from (point) B, at right-angles to AC [Prop. 1.11].
+γωνίας ἐπὶ τὴν βάσιν κάθετος ἦκται ἡ ΔΒ, ἡ ΔΒ ἄρα τῶν                       And let AD and DC have been joined.
+τῆς βάσεως τμημάτων τῶν ΑΒ, ΒΓ μέση ἀνάλογόν ἐστιν.                             And since ADC is an angle in a semi-circle, it is a
+    Δύο ἄρα δοθεισῶν εὐθειῶν τῶν ΑΒ, ΒΓ μέση ἀνάλογον                       right-angle [Prop. 3.31]. And since, in the right-angled
+προσεύρηται ἡ ΔΒ· ὅπερ ἔδει ποιῆσαι.                                        triangle ADC, the (straight-line) DB has been drawn
+                                                                            from the right-angle perpendicular to the base, DB is
+                                                                            thus the mean proportional to the pieces of the base, AB
+                                                                            and BC [Prop. 6.8 corr.].
+                                                                                Thus, DB has been found (which is) in mean propor-
+                                                                            tion to the two given straight-lines, AB and BC. (Which
+                                                                            is) the very thing it was required to do.
+† In other words, to find the geometric mean of two given straight-lines.
+
+
+
+                                 idþ.                                                           Proposition 14
+   Τῶν ἴσων τε καὶ ἴσογωνίων παραλληλογράμμων ἀντι-                            In equal and equiangular parallelograms the sides
+πεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνίας· καὶ ὧν ἰσο-                  about the equal angles are reciprocally proportional.
+γωνίων παραλληλογράμμων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ                        And those equiangular parallelograms in which the sides
+περὶ τὰς ἴσας γωνίας, ἴσα ἐστὶν ἐκεῖνα.                                     about the equal angles are reciprocally proportional are
+   ῎Εστω ἴσα τε καὶ ἰσογώνια παραλληλόγραμμα τὰ ΑΒ,                         equal.
+ΒΓ ἴσας ἔχοντα τὰς πρὸς τῷ Β γωνίας, καὶ κείσθωσαν ἐπ᾿                         Let AB and BC be equal and equiangular parallelo-
+εὐθείας αἱ ΔΒ, ΒΕ· ἐπ᾿ εὐθείας ἄρα εἰσὶ καὶ αἱ ΖΒ, ΒΗ.                      grams having the angles at B equal. And let DB and BE
+λέγω, ὅτι τῶν ΑΒ, ΒΓ ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ                      be laid down straight-on (with respect to one another).
+τὰς ἴσας γωνίας, τουτέστιν, ὅτι ἐστὶν ὡς ἡ ΔΒ πρὸς τὴν                      Thus, F B and BG are also straight-on (with respect to
+ΒΕ, οὕτως ἡ ΗΒ πρὸς τὴν ΒΖ.                                                 one another) [Prop. 1.14]. I say that the sides of AB and
+
+
+
+                                                                       169
+STOIQEIWN þ.                                                                                     ELEMENTS BOOK 6
+
+                                                               BC about the equal angles are reciprocally proportional,
+                                                               that is to say, that as DB is to BE, so GB (is) to BF .
+                               Ε                   Γ                                          E                    C
+
+
+
+          Ζ                                     Η                        F                                     G
+                           Β                                                              B
+
+
+
+
+      Α             ∆                                                A             D
+    Συμπεπληρώσθω γὰρ τὸ ΖΕ παραλληλόγραμμον. ἐπεὶ                 For let the parallelogram F E have been completed.
+οὖν ἴσον ἐστὶ τὸ ΑΒ παραλληλόγραμμον τῷ ΒΓ παραλλη-            Therefore, since parallelogram AB is equal to parallelo-
+λογράμμῳ, ἄλλο δέ τι τὸ ΖΕ, ἔστιν ἄρα ὡς τὸ ΑΒ πρὸς τὸ         gram BC, and F E (is) some other (parallelogram), thus
+ΖΕ, οὕτως τὸ ΒΓ πρὸς τὸ ΖΕ. ἀλλ᾿ ὡς μὲν τὸ ΑΒ πρὸς             as (parallelogram) AB is to F E, so (parallelogram) BC
+τὸ ΖΕ, οὕτως ἡ ΔΒ πρὸς τὴν ΒΕ, ὡς δὲ τὸ ΒΓ πρὸς τὸ             (is) to F E [Prop. 5.7]. But, as (parallelogram) AB (is) to
+ΖΕ, οὕτως ἡ ΗΒ πρὸς τὴν ΒΖ· καὶ ὡς ἄρα ἡ ΔΒ πρὸς τὴν           F E, so DB (is) to BE, and as (parallelogram) BC (is) to
+ΒΕ, οὕτως ἡ ΗΒ πρὸς τὴν ΒΖ. τῶν ἄρα ΑΒ, ΒΓ παραλ-              F E, so GB (is) to BF [Prop. 6.1]. Thus, also, as DB (is)
+ληλογράμμων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας         to BE, so GB (is) to BF . Thus, in parallelograms AB
+γωνίας.                                                        and BC the sides about the equal angles are reciprocally
+    ᾿Αλλὰ δὴ ἔστω ὡς ἡ ΔΒ πρὸς τὴν ΒΕ, οὕτως ἡ ΗΒ πρὸς         proportional.
+τὴν ΒΖ· λέγω, ὅτι ἴσον ἐστὶ τὸ ΑΒ παραλληλόγραμμον τῷ              And so, let DB be to BE, as GB (is) to BF . I say that
+ΒΓ παραλληλογράμμῳ.                                            parallelogram AB is equal to parallelogram BC.
+    ᾿Επεὶ γάρ ἐστιν ὡς ἡ ΔΒ πρὸς τὴν ΒΕ, οὕτως ἡ ΗΒ                For since as DB is to BE, so GB (is) to BF , but as
+πρὸς τὴν ΒΖ, ἀλλ᾿ ὡς μὲν ἡ ΔΒ πρὸς τὴν ΒΕ, οὕτως τὸ            DB (is) to BE, so parallelogram AB (is) to parallelo-
+ΑΒ παραλληλόγραμμον πρὸς τὸ ΖΕ παραλληλόγραμμον, ὡς            gram F E, and as GB (is) to BF , so parallelogram BC
+δὲ ἡ ΗΒ πρὸς τὴν ΒΖ, οὕτως τὸ ΒΓ παραλληλόγραμμον              (is) to parallelogram F E [Prop. 6.1], thus, also, as (par-
+πρὸς τὸ ΖΕ παραλληλόγραμμον, καὶ ὡς ἄρα τὸ ΑΒ πρὸς             allelogram) AB (is) to F E, so (parallelogram) BC (is)
+τὸ ΖΕ, οὕτως τὸ ΒΓ πρὸς τὸ ΖΕ· ἴσον ἄρα ἐστὶ τὸ ΑΒ             to F E [Prop. 5.11]. Thus, parallelogram AB is equal to
+παραλληλόγραμμον τῷ ΒΓ παραλληλογράμμῳ.                        parallelogram BC [Prop. 5.9].
+    Τῶν ἄρα ἴσων τε καὶ ἰσογωνίων παραλληλογράμμων                 Thus, in equal and equiangular parallelograms the
+ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνίας· καὶ ὧν      sides about the equal angles are reciprocally propor-
+ἰσογωνίων παραλληλογράμμων ἀντιπεπόνθασιν αἱ πλευραὶ           tional. And those equiangular parallelograms in which
+αἱ περὶ τὰς ἴσας γωνίας, ἴσα ἐστὶν ἐκεῖνα· ὅπερ ἔδει δεῖξαι.   the sides about the equal angles are reciprocally propor-
+                                                               tional are equal. (Which is) the very thing it was required
+                                                               to show.
+
+                            ieþ.                                                   Proposition 15
+   Τῶν ἴσων καὶ μίαν μιᾷ ἴσην ἐχόντων γωνίαν τριγώνων              In equal triangles also having one angle equal to one
+ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνίας· καὶ ὧν      (angle) the sides about the equal angles are reciprocally
+μίαν μιᾷ ἴσην ἐχόντων γωνίαν τριγώνων ἀντιπεπόνθασιν αἱ        proportional. And those triangles having one angle equal
+πλευραὶ αἱ περὶ τὰς ἴσας γωνίας, ἴσα ἐστὶν ἐκεῖνα.             to one angle for which the sides about the equal angles
+   ῎Εστω ἴσα τρίγωνα τὰ ΑΒΓ, ΑΔΕ μίαν μιᾷ ἴσην ἔχοντα          (are) reciprocally proportional are equal.
+γωνίαν τὴν ὑπὸ ΒΑΓ τῇ ὑπὸ ΔΑΕ· λέγω, ὅτι τῶν ΑΒΓ,                  Let ABC and ADE be equal triangles having one an-
+ΑΔΕ τριγώνων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας        gle equal to one (angle), (namely) BAC (equal) to DAE.
+γωνίας, τουτέστιν, ὅτι ἐστὶν ὡς ἡ ΓΑ πρὸς τὴν ΑΔ, οὕτως        I say that, in triangles ABC and ADE, the sides about the
+
+                                                           170
+STOIQEIWN þ.                                                                                ELEMENTS BOOK 6
+
+ἡ ΕΑ πρὸς τὴν ΑΒ.                                           equal angles are reciprocally proportional, that is to say,
+                                                            that as CA is to AD, so EA (is) to AB.
+                           Β                   Γ                                        B                    C
+
+
+
+                                 Α                                                            A
+
+
+
+
+       ∆                             Ε                             D                              E
+    Κείσθω γὰρ ὥστε ἐπ᾿ εὐθείας εἶναι τὴν ΓΑ τῇ ΑΔ· ἐπ᾿         For let CA be laid down so as to be straight-on (with
+εὐθείας ἄρα ἐστὶ καὶ ἡ ΕΑ τῇ ΑΒ. καὶ ἐπεζεύχθω ἡ ΒΔ.        respect) to AD. Thus, EA is also straight-on (with re-
+    ᾿Επεὶ οὖν ἴσον ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ ΑΔΕ τριγώνῳ,     spect) to AB [Prop. 1.14]. And let BD have been joined.
+ἄλλο δέ τι τὸ ΒΑΔ, ἔστιν ἄρα ὡς τὸ ΓΑΒ τρίγωνον πρὸς            Therefore, since triangle ABC is equal to triangle
+τὸ ΒΑΔ τρίγωνον, οὕτως τὸ ΕΑΔ τρίγωνον πρὸς τὸ ΒΑΔ          ADE, and BAD (is) some other (triangle), thus as tri-
+τρίγωνον. ἀλλ᾿ ὡς μὲν τὸ ΓΑΒ πρὸς τὸ ΒΑΔ, οὕτως ἡ           angle CAB is to triangle BAD, so triangle EAD (is) to
+ΓΑ πρὸς τὴν ΑΔ, ὡς δὲ τὸ ΕΑΔ πρὸς τὸ ΒΑΔ, οὕτως ἡ           triangle BAD [Prop. 5.7]. But, as (triangle) CAB (is)
+ΕΑ πρὸς τὴν ΑΒ. καὶ ὡς ἄρα ἡ ΓΑ πρὸς τὴν ΑΔ, οὕτως          to BAD, so CA (is) to AD, and as (triangle) EAD (is)
+ἡ ΕΑ πρὸς τὴν ΑΒ. τῶν ΑΒΓ, ΑΔΕ ἄρα τριγώνων ἀντι-           to BAD, so EA (is) to AB [Prop. 6.1]. And thus, as CA
+πεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνίας.              (is) to AD, so EA (is) to AB. Thus, in triangles ABC and
+    ᾿Αλλὰ δὴ ἀντιπεπονθέτωσαν αἱ πλευραὶ τῶν ΑΒΓ, ΑΔΕ       ADE the sides about the equal angles (are) reciprocally
+τριγώνων, καὶ ἔστω ὡς ἡ ΓΑ πρὸς τὴν ΑΔ, οὕτως ἡ ΕΑ          proportional.
+πρὸς τὴν ΑΒ· λέγω, ὅτι ἴσον ἐστὶ τὸ ΑΒΓ τρίγωνον τῷ             And so, let the sides of triangles ABC and ADE be
+ΑΔΕ τριγώνῳ.                                                reciprocally proportional, and (thus) let CA be to AD,
+    ᾿Επιζευχθείσης γὰρ πάλιν τῆς ΒΔ, ἐπεί ἐστιν ὡς ἡ ΓΑ     as EA (is) to AB. I say that triangle ABC is equal to
+πρὸς τὴν ΑΔ, οὕτως ἡ ΕΑ πρὸς τὴν ΑΒ, ἀλλ᾿ ὡς μὲν            triangle ADE.
+ἡ ΓΑ πρὸς τὴν ΑΔ, οὕτως τὸ ΑΒΓ τρίγωνον πρὸς τὸ                 For, BD again being joined, since as CA is to AD, so
+ΒΑΔ τρίγωνον, ὡς δὲ ἡ ΕΑ πρὸς τὴν ΑΒ, οὕτως τὸ ΕΑΔ          EA (is) to AB, but as CA (is) to AD, so triangle ABC
+τρίγωνον πρὸς τὸ ΒΑΔ τρίγωνον, ὡς ἄρα τὸ ΑΒΓ τρίγωνον       (is) to triangle BAD, and as EA (is) to AB, so triangle
+πρὸς τὸ ΒΑΔ τρίγωνον, οὕτως τὸ ΕΑΔ τρίγωνον πρὸς            EAD (is) to triangle BAD [Prop. 6.1], thus as triangle
+τὸ ΒΑΔ τρίγωνον. ἑκάτερον ἄρα τῶν ΑΒΓ, ΕΑΔ πρὸς             ABC (is) to triangle BAD, so triangle EAD (is) to tri-
+τὸ ΒΑΔ τὸν αὐτὸν ἔχει λόγον. ἴσων ἄρα ἐστὶ τὸ ΑΒΓ           angle BAD. Thus, (triangles) ABC and EAD each have
+[τρίγωνον] τῷ ΕΑΔ τριγώνῳ.                                  the same ratio to BAD. Thus, [triangle] ABC is equal to
+    Τῶν ἄρα ἴσων καὶ μίαν μιᾷ ἴσην ἐχόντων γωνίαν           triangle EAD [Prop. 5.9].
+τριγώνων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας             Thus, in equal triangles also having one angle equal to
+γωνίας· καὶ ὧς μίαν μιᾷ ἴσην ἐχόντων γωνίαν τριγώνων        one (angle) the sides about the equal angles (are) recip-
+ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνίας, ἐκεῖνα   rocally proportional. And those triangles having one an-
+ἴσα ἐστὶν· ὅπερ ἔδει δεῖξαι.                                gle equal to one angle for which the sides about the equal
+                                                            angles (are) reciprocally proportional are equal. (Which
+                                                            is) the very thing it was required to show.
+
+                          iþ.                                                  Proposition 16
+   ᾿Εὰν τέσσαρες εὐθεῖαι ἀνάλογον ὦσιν, τὸ ὑπὸ τῶν    If four straight-lines are proportional then the rect-
+ἄκρων περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ὑπὸ τῶν angle contained by the (two) outermost is equal to the
+μέσων περιεχομένῳ ὀρθογωνίῳ· κἂν τὸ ὑπὸ τῶν ἄκρων rectangle contained by the middle (two). And if the rect-
+
+                                                        171
+STOIQEIWN þ.                                                                                      ELEMENTS BOOK 6
+
+περιεχόμενον ὀρθογώνιον ἴσον ᾖ τῷ ὑπὸ τῶν μέσων περιε- angle contained by the (two) outermost is equal to the
+χομένῳ ὀρθογωνίῳ, αἱ τέσσαρες εὐθεῖαι ἀνάλογον ἔσονται. rectangle contained by the middle (two) then the four
+                                                        straight-lines will be proportional.
+                                Θ                                                             H
+  Η                                                              G
+
+
+   Α                       Β    Γ                      ∆         A                        B   C                      D
+
+   Ε                            Ζ                                 E                            F
+    ῎Εστωσαν τέσσαρες εὐθεῖαι ἀνάλογον αἱ ΑΒ, ΓΔ, Ε, Ζ,            Let AB, CD, E, and F be four proportional straight-
+ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ Ε πρὸς τὴν Ζ· λέγω, ὅτι           lines, (such that) as AB (is) to CD, so E (is) to F . I say
+τὸ ὑπὸ τῶν ΑΒ, Ζ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ          that the rectangle contained by AB and F is equal to the
+ὑπὸ τῶν ΓΔ, Ε περιεχομένῳ ὀρθογωνίῳ.                           rectangle contained by CD and E.
+    ῎Ηχθωσαν [γὰρ] ἀπὸ τῶν Α, Γ σημείων ταῖς ΑΒ, ΓΔ                [For] let AG and CH have been drawn from points
+εὐθείαις πρὸς ὀρθὰς αἱ ΑΗ, ΓΘ, καὶ κείσθω τῇ μὲν Ζ ἴση         A and C at right-angles to the straight-lines AB and CD
+ἡ ΑΗ, τῇ δὲ Ε ἴση ἡ ΓΘ. καὶ συμπεπληρώσθω τὰ ΒΗ, ΔΘ            (respectively) [Prop. 1.11]. And let AG be made equal to
+παραλληλόγραμμα.                                               F , and CH to E [Prop. 1.3]. And let the parallelograms
+    Καὶ ἐπεί ἐστιν ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ Ε πρὸς         BG and DH have been completed.
+τὴν Ζ, ἴση δὲ ἡ μὲν Ε τῇ ΓΘ, ἡ δὲ Ζ τῇ ΑΗ, ἔστιν ἄρα ὡς            And since as AB is to CD, so E (is) to F , and E
+ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ ΓΘ πρὸς τὴν ΑΗ. τῶν ΒΗ,              (is) equal CH, and F to AG, thus as AB is to CD, so
+ΔΘ ἄρα παραλληλογράμμων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ           CH (is) to AG. Thus, in the parallelograms BG and DH
+περὶ τὰς ἴσας γωνίας. ὧν δὲ ἰσογωνίων παραλληλογράμμων         the sides about the equal angles are reciprocally propor-
+ἀντιπεπόνθασιν αἱ πλευραί αἱ περὶ τὰς ἴσας γωνάις, ἴσα ἐστὶν   tional. And those equiangular parallelograms in which
+ἐκεῖνα· ἴσον ἄρα ἐστὶ τὸ ΒΗ παραλληλόγραμμον τῷ ΔΘ             the sides about the equal angles are reciprocally propor-
+παραλληλογράμμῳ. καί ἐστι τὸ μὲν ΒΗ τὸ ὑπὸ τῶν ΑΒ, Ζ·          tional are equal [Prop. 6.14]. Thus, parallelogram BG
+ἴση γὰρ ἡ ΑΗ τῇ Ζ· τὸ δὲ ΔΘ τὸ ὑπὸ τῶν ΓΔ, Ε· ἴση γὰρ ἡ        is equal to parallelogram DH. And BG is the (rectangle
+Ε τῇ ΓΘ· τὸ ἄρα ὑπὸ τῶν ΑΒ, Ζ περιεχόμενον ὀρθογώνιον          contained) by AB and F . For AG (is) equal to F . And
+ἴσον ἐστὶ τῷ ὑπὸ τῶν ΓΔ, Ε περιεχομένῳ ὀρθογώνιῳ.              DH (is) the (rectangle contained) by CD and E. For E
+    ᾿Αλλὰ δὴ τὸ ὑπὸ τῶν ΑΒ, Ζ περιεχόμενον ὀρθογώνιον          (is) equal to CH. Thus, the rectangle contained by AB
+ἴσον ἔστω τῷ ὑπὸ τῶν ΓΔ, Ε περιεχομένῳ ὀρθογωνίῳ.              and F is equal to the rectangle contained by CD and E.
+λέγω, ὅτι αἱ τέσσαρες εὐθεῖαι ἀνάλογον ἔσονται, ὡς ἡ ΑΒ            And so, let the rectangle contained by AB and F be
+πρὸς τὴν ΓΔ, οὕτως ἡ Ε πρὸς τὴν Ζ.                             equal to the rectangle contained by CD and E. I say that
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων, ἐπεὶ τὸ ὑπὸ τῶν            the four straight-lines will be proportional, (so that) as
+ΑΒ, Ζ ἴσον ἐστὶ τῷ ὑπὸ τῶν ΓΔ, Ε, καί ἐστι τὸ μὲν ὑπὸ          AB (is) to CD, so E (is) to F .
+τῶν ΑΒ, Ζ τὸ ΒΗ· ἴση γάρ ἐστιν ἡ ΑΗ τῇ Ζ· τὸ δὲ ὑπὸ τῶν            For, with the same construction, since the (rectangle
+ΓΔ, Ε τὸ ΔΘ· ἴση γὰρ ἡ ΓΘ τῇ Ε· τὸ ἄρα ΒΗ ἴσον ἐστὶ            contained) by AB and F is equal to the (rectangle con-
+τῷ ΔΘ. καί ἐστιν ἰσογώνια. τῶν δὲ ἴσων καὶ ἰσογωνίων           tained) by CD and E. And BG is the (rectangle con-
+παραλληλογράμμων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς         tained) by AB and F . For AG is equal to F . And DH
+ἴσας γωνίας. ἔστιν ἄρα ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ ΓΘ         (is) the (rectangle contained) by CD and E. For CH
+πρὸς τὴν ΑΗ. ἴση δὲ ἡ μὲν ΓΘ τῇ Ε, ἡ δὲ ΑΗ τῇ Ζ· ἔστιν         (is) equal to E. BG is thus equal to DH. And they
+ἄρα ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ Ε πρὸς τὴν Ζ.                 are equiangular. And in equal and equiangular parallel-
+    ᾿Εὰν ἄρα τέσσαρες εὐθεῖαι ἀνάλογον ὦσιν, τὸ ὑπὸ τῶν        ograms the sides about the equal angles are reciprocally
+ἄκρων περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ὑπὸ τῶν             proportional [Prop. 6.14]. Thus, as AB is to CD, so CH
+μέσων περιεχομένῳ ὀρθογωνίῳ· κἂν τὸ ὑπὸ τῶν ἄκρων              (is) to AG. And CH (is) equal to E, and AG to F . Thus,
+περιεχόμενον ὀρθογώνιον ἴσον ᾖ τῷ ὑπὸ τῶν μέσων περιε-         as AB is to CD, so E (is) to F .
+χομένῳ ὀρθογωνίῳ, αἱ τέσσαρες εὐθεῖαι ἀνάλογον ἔσονται·            Thus, if four straight-lines are proportional then the
+ὅπερ ἔδει δεῖξαι.                                              rectangle contained by the (two) outermost is equal to
+                                                               the rectangle contained by the middle (two). And if the
+                                                               rectangle contained by the (two) outermost is equal to
+
+
+                                                           172
+STOIQEIWN þ.                                                                                 ELEMENTS BOOK 6
+
+                                                             the rectangle contained by the middle (two) then the four
+                                                             straight-lines will be proportional. (Which is) the very
+                                                             thing it was required to show.
+
+                           izþ.                                                  Proposition 17
+   ᾿Εὰν τρεῖς εὐθεῖαι ἀνάλογον ὦσιν, τὸ ὑπὸ τῶν ἄκρων            If three straight-lines are proportional then the rect-
+περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς μέσης τε-       angle contained by the (two) outermost is equal to the
+τραγώνῳ· κἂν τὸ ὑπὸ τῶν ἄκρων περιεχόμενον ὀρθογώνιον        square on the middle (one). And if the rectangle con-
+ἴσον ᾖ τῷ ἀπὸ τῆς μέσης τετραγώνῳ, αἱ τρεῖς εὐθεῖαι          tained by the (two) outermost is equal to the square on
+ἀνάλογον ἔσονται.                                            the middle (one) then the three straight-lines will be pro-
+                                                             portional.
+    Α                                                            A
+    Β                             ∆                              B                          D
+    Γ                                                            C
+    ῎Εστωσαν τρεῖς εὐθεῖαι ἀνάλογον αἱ Α, Β, Γ, ὡς ἡ Α           Let A, B and C be three proportional straight-lines,
+πρὸς τὴν Β, οὕτως ἡ Β πρὸς τὴν Γ· λέγω, ὅτι τὸ ὑπὸ τῶν       (such that) as A (is) to B, so B (is) to C. I say that the
+Α, Γ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς Β          rectangle contained by A and C is equal to the square on
+τετραγώνῳ.                                                   B.
+    Κείσθω τῇ Β ἴση ἡ Δ.                                         Let D be made equal to B [Prop. 1.3].
+    Καὶ ἐπεί ἐστιν ὡς ἡ Α πρὸς τὴν Β, οὕτως ἡ Β πρὸς τὴν         And since as A is to B, so B (is) to C, and B (is)
+Γ, ἴση δὲ ἡ Β τῇ Δ, ἔστιν ἄρα ὡς ἡ Α πρὸς τὴν Β, ἡ Δ πρὸς    equal to D, thus as A is to B, (so) D (is) to C. And if
+τὴν Γ. ἐὰν δὲ τέσσαρες εὐθεῖαι ἀνάλογον ὦσιν, τὸ ὑπὸ τῶν     four straight-lines are proportional then the [rectangle]
+ἄκρων περιεχόμενον [ὀρθογώνιον] ἴσον ἐστὶ τῷ ὑπὸ τῶν         contained by the (two) outermost is equal to the rectan-
+μέσων περιεχομένῳ ὀρθογωνίῳ. τὸ ἄρα ὑπὸ τῶν Α, Γ ἴσον        gle contained by the middle (two) [Prop. 6.16]. Thus,
+ἐστὶ τῷ ὑπὸ τῶν Β, Δ. ἀλλὰ τὸ ὑπὸ τῶν Β, Δ τὸ ἀπὸ τῆς Β      the (rectangle contained) by A and C is equal to the
+ἐστιν· ἴση γὰρ ἡ Β τῇ Δ· τὸ ἄρα ὑπὸ τῶν Α, Γ περιεχόμενον    (rectangle contained) by B and D. But, the (rectangle
+ὀρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς Β τετραγώνῳ.                 contained) by B and D is the (square) on B. For B (is)
+    ᾿Αλλὰ δὴ τὸ ὑπὸ τῶν Α, Γ ἴσον ἔστω τῷ ἀπὸ τῆς Β·         equal to D. Thus, the rectangle contained by A and C is
+λέγω, ὅτι ἐστὶν ὡς ἡ Α πρὸς τὴν Β, οὕτως ἡ Β πρὸς τὴν Γ.     equal to the square on B.
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων, ἐπεὶ τὸ ὑπὸ τῶν Α,           And so, let the (rectangle contained) by A and C be
+Γ ἴσον ἐστὶ τῷ ἀπὸ τῆς Β, ἀλλὰ τὸ ἀπὸ τῆς Β τὸ ὑπὸ τῶν       equal to the (square) on B. I say that as A is to B, so B
+Β, Δ ἐστιν· ἴση γὰρ ἡ Β τῇ Δ· τὸ ἄρα ὑπὸ τῶν Α, Γ ἴσον       (is) to C.
+ἐστὶ τῷ ὑπὸ τῶν Β, Δ. ἐὰν δὲ τὸ ὑπὸ τῶν ἄκρων ἴσον ᾖ τῷ          For, with the same construction, since the (rectangle
+ὑπὸ τῶν μέσων, αἱ τέσσαρες εὐθεῖαι ἀνάλογόν εἰσιν. ἔστιν     contained) by A and C is equal to the (square) on B.
+ἄρα ὡς ἡ Α πρὸς τὴν Β, οὕτως ἡ Δ πρὸς τὴν Γ. ἴση δὲ ἡ Β      But, the (square) on B is the (rectangle contained) by B
+τῇ Δ· ὡς ἄρα ἡ Α πρὸς τὴν Β, οὕτως ἡ Β πρὸς τὴν Γ.           and D. For B (is) equal to D. The (rectangle contained)
+    ᾿Εὰν ἄρα τρεῖς εὐθεῖαι ἀνάλογον ὦσιν, τὸ ὑπὸ τῶν ἄκρων   by A and C is thus equal to the (rectangle contained) by
+περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς μέσης τε-       B and D. And if the (rectangle contained) by the (two)
+τραγώνῳ· κἂν τὸ ὑπὸ τῶν ἄκρων περιεχόμενον ὀρθογώνιον        outermost is equal to the (rectangle contained) by the
+ἴσον ᾖ τῷ ἀπὸ τῆς μέσης τετραγώνῳ, αἱ τρεῖς εὐθεῖαι          middle (two) then the four straight-lines are proportional
+ἀνάλογον ἔσονται· ὅπερ ἔδει δεῖξαι.                          [Prop. 6.16]. Thus, as A is to B, so D (is) to C. And B
+                                                             (is) equal to D. Thus, as A (is) to B, so B (is) to C.
+                                                                 Thus, if three straight-lines are proportional then the
+                                                             rectangle contained by the (two) outermost is equal to
+                                                             the square on the middle (one). And if the rectangle con-
+                                                             tained by the (two) outermost is equal to the square on
+                                                             the middle (one) then the three straight-lines will be pro-
+                                                             portional. (Which is) the very thing it was required to
+
+
+                                                         173
+STOIQEIWN þ.                                                                                  ELEMENTS BOOK 6
+
+                                                           show.
+
+                           ihþ.                                                 Proposition 18
+   ᾿Απὸ τῆς δοθείσης εὐθείας τῷ δοθέντι εὐθυγράμμῳ       To describe a rectilinear figure similar, and simi-
+ὅμοιόν τε καὶ ὁμοίως κείμενον εὐθύγραμμον ἀναγράψαι. larly laid down, to a given rectilinear figure on a given
+                                                     straight-line.
+                           Ε                                                             E
+    Ζ                                                          F
+                                                      Θ                                                                H
+                                   Η                                                               G
+
+
+Γ                      ∆          Α               Β        C                         D           A                 B
+    ῎Εστω ἡ μὲν δοθεῖσα εὐθεῖα ἡ ΑΒ, τὸ δὲ δοθὲν               Let AB be the given straight-line, and CE the given
+εὐθύγραμμον τὸ ΓΕ· δεῖ δὴ ἀπὸ τῆς ΑΒ εὐθείας τῷ ΓΕ         rectilinear figure. So it is required to describe a rectilinear
+εὐθυγράμμῳ ὅμοιόν τε καὶ ὁμοίως κείμενον εὐθύγραμμον       figure similar, and similarly laid down, to the rectilinear
+ἀναγράψαι.                                                 figure CE on the straight-line AB.
+    ᾿Επεζεύχθω ἡ ΔΖ, καὶ συνεστάτω πρὸς τῇ ΑΒ εὐθείᾳ           Let DF have been joined, and let GAB, equal to the
+καὶ τοῖς πρὸς αὐτῇ σημείοις τοῖς Α, Β τῇ μὲν πρὸς τῷ Γ     angle at C, and ABG, equal to (angle) CDF , have been
+γωνίᾳ ἴση ἡ ὑπὸ ΗΑΒ, τῇ δὲ ὑπὸ ΓΔΖ ἴση ἡ ὑπὸ ΑΒΗ. λοιπὴ    constructed on the straight-line AB at the points A and
+ἄρα ἡ ὑπὸ ΓΖΔ τῇ ὑπὸ ΑΗΒ ἐστιν ἴση· ἰσογώνιον ἄρα ἐστὶ     B on it (respectively) [Prop. 1.23]. Thus, the remain-
+τὸ ΖΓΔ τρίγωνον τῷ ΗΑΒ τριγώνῳ. ἀνάλογον ἄρα ἐστὶν         ing (angle) CF D is equal to AGB [Prop. 1.32]. Thus,
+ὡς ἡ ΖΔ πρὸς τὴν ΗΒ, οὕτως ἡ ΖΓ πρὸς τὴν ΗΑ, καὶ ἡ         triangle F CD is equiangular to triangle GAB. Thus,
+ΓΔ πρὸς τὴν ΑΒ. πάλιν συνεστάτω πρὸς τῇ ΒΗ εὐθείᾳ καὶ      proportionally, as F D is to GB, so F C (is) to GA, and
+τοῖς πρὸς αὐτῇ σημείοις τοῖς Β, Η τῇ μὲν ὑπὸ ΔΖΕ γωνίᾳ     CD to AB [Prop. 6.4]. Again, let BGH, equal to an-
+ἴση ἡ ὑπὸ ΒΗΘ, τῇ δὲ ὑπὸ ΖΔΕ ἴση ἡ ὑπὸ ΗΒΘ. λοιπὴ ἄρα      gle DF E, and GBH equal to (angle) F DE, have been
+ἡ πρὸς τῷ Ε λοιπῇ τῇ πρὸς τῷ Θ ἐστιν ἴση· ἰσογώνιον ἄρα    constructed on the straight-line BG at the points G and
+ἐστὶ τὸ ΖΔΕ τρίγωνον τῷ ΗΘΒ τριγώνῳ· ἀνάλογον ἄρα          B on it (respectively) [Prop. 1.23]. Thus, the remain-
+ἐστὶν ὡς ἡ ΖΔ πρὸς τὴν ΗΒ, οὕτως ἡ ΖΕ πρὸς τὴν ΗΘ καὶ      ing (angle) at E is equal to the remaining (angle) at H
+ἡ ΕΔ πρὸς τὴν ΘΒ. ἐδείχθη δὲ καὶ ὡς ἡ ΖΔ πρὸς τὴν ΗΒ,      [Prop. 1.32]. Thus, triangle F DE is equiangular to tri-
+οὕτως ἡ ΖΓ πρὸς τὴν ΗΑ καὶ ἡ ΓΔ πρὸς τὴν ΑΒ· καὶ ὡς        angle GHB. Thus, proportionally, as F D is to GB, so
+ἄρα ἡ ΖΓ πρὸς τὴν ΑΗ, οὕτως ἥ τε ΓΔ πρὸς τὴν ΑΒ καὶ ἡ      F E (is) to GH, and ED to HB [Prop. 6.4]. And it was
+ΖΕ πρὸς τὴν ΗΘ καὶ ἔτι ἡ ΕΑ πρὸς τὴν ΘΒ. καὶ ἐπεὶ ἴση      also shown (that) as F D (is) to GB, so F C (is) to GA,
+ἐστὶν ἡ μὲν ὑπὸ ΓΖΔ γωνία τῇ ὑπὸ ΑΗΒ, ἡ δὲ ὑπὸ ΔΖΕ τῇ      and CD to AB. Thus, also, as F C (is) to AG, so CD (is)
+ὑπὸ ΒΗΘ, ὅλη ἄρα ἡ ὑπὸ ΓΖΕ ὅλῃ τῇ ὑπὸ ΑΗΘ ἐστιν ἴση.       to AB, and F E to GH, and, further, ED to HB. And
+διὰ τὰ αὐτὰ δὴ καὶ ἡ ὑπὸ ΓΔΕ τῇ ὑπὸ ΑΒΘ ἐστιν ἴση. ἔστι    since angle CF D is equal to AGB, and DF E to BGH,
+δὲ καὶ ἡ μὲν πρὸς τῷ Γ τῇ πρὸς τῷ Α ἴση, ἡ δὲ πρὸς τῷ Ε    thus the whole (angle) CF E is equal to the whole (an-
+τῇ πρὸς τῷ Θ. ἰσογώνιον ἄρα ἐστὶ τὸ ΑΘ τῷ ΓΕ· καὶ τὰς      gle) AGH. So, for the same (reasons), (angle) CDE is
+περὶ τὰς ἴσας γωνίας αὐτῶν πλευρὰς ἀνάλογον ἔχει· ὅμοιον   also equal to ABH. And the (angle) at C is also equal
+ἄρα ἐστὶ τὸ ΑΘ εὐθύγραμμον τῷ ΓΕ εὐθυγράμμῳ.               to the (angle) at A, and the (angle) at E to the (angle)
+    ᾿Απὸ τῆς δοθείσης ἄρα εὐθείας τῆς ΑΒ τῷ δοθέντι        at H. Thus, (figure) AH is equiangular to CE. And (the
+εὐθυγράμμῳ τῷ ΓΕ ὅμοιόν τε καὶ ὁμοίως κείμενον εὐθύγρα-    two figures) have the sides about their equal angles pro-
+μμον ἀναγέγραπται τὸ ΑΘ· ὅπερ ἔδει ποιῆσαι.                portional. Thus, the rectilinear figure AH is similar to the
+                                                           rectilinear figure CE [Def. 6.1].
+                                                               Thus, the rectilinear figure AH, similar, and similarly
+                                                           laid down, to the given rectilinear figure CE has been
+                                                           constructed on the given straight-line AB. (Which is) the
+
+
+
+                                                       174
+STOIQEIWN þ.                                                                                     ELEMENTS BOOK 6
+
+                                                              very thing it was required to do.
+
+                           ijþ.                                                   Proposition 19
+   Τὰ ὅμοια τρίγωνα πρὸς ἄλληλα ἐν διπλασίονι λόγῳ ἐστὶ           Similar triangles are to one another in the squared†
+τῶν ὁμολόγων πλευρῶν.                                         ratio of (their) corresponding sides.
+              Α                                                             A
+
+                                              ∆                                                            D
+
+
+
+ Β        Η                  Γ         Ε               Ζ         B      G                  C         E              F
+    ῎Εστω ὅμοια τρίγωνα τὰ ΑΒΓ, ΔΕΖ ἴσην ἔχοντα τὴν               Let ABC and DEF be similar triangles having the
+πρὸς τῷ Β γωνίαν τῇ πρὸς τῷ Ε, ὡς δὲ τὴν ΑΒ πρὸς τὴν ΒΓ,      angle at B equal to the (angle) at E, and AB to BC, as
+οὕτως τὴν ΔΕ πρὸς τὴν ΕΖ, ὥστε ὁμόλογον εἶναι τὴν ΒΓ          DE (is) to EF , such that BC corresponds to EF . I say
+τῇ ΕΖ· λέγω, ὅτι τὸ ΑΒΓ τρίγωνον πρὸς τὸ ΔΕΖ τρίγωνον         that triangle ABC has a squared ratio to triangle DEF
+διπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ.                  with respect to (that side) BC (has) to EF .
+    Εἰλήφθω γὰρ τῶν ΒΓ, ΕΖ τρίτη ἀνάλογον ἡ ΒΗ, ὥστε              For let a third (straight-line), BG, have been taken
+εἶναι ὡς τὴν ΒΓ πρὸς τὴν ΕΖ, οὕτως τὴν ΕΖ πρὸς τὴν ΒΗ·        (which is) proportional to BC and EF , so that as BC
+καὶ ἐπεζεύχθω ἡ ΑΗ.                                           (is) to EF , so EF (is) to BG [Prop. 6.11]. And let AG
+    ᾿Επεὶ οὖν ἐστιν ὡς ἡ ΑΒ πρὸς τὴν ΒΓ, οὕτως ἡ ΔΕ πρὸς      have been joined.
+τὴν ΕΖ, ἐναλλὰξ ἄρα ἐστὶν ὡς ἡ ΑΒ πρὸς τὴν ΔΕ, οὕτως ἡ            Therefore, since as AB is to BC, so DE (is) to EF ,
+ΒΓ πρὸς τὴν ΕΖ. ἀλλ᾿ ὡς ἡ ΒΓ πρὸς ΕΖ, οὕτως ἐστιν ἡ ΕΖ        thus, alternately, as AB is to DE, so BC (is) to EF
+πρὸς ΒΗ. καὶ ὡς ἄρα ἡ ΑΒ πρὸς ΔΕ, οὕτως ἡ ΕΖ πρὸς ΒΗ·         [Prop. 5.16]. But, as BC (is) to EF , so EF is to BG.
+τῶν ΑΒΗ, ΔΕΖ ἄρα τριγώνων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ        And, thus, as AB (is) to DE, so EF (is) to BG. Thus,
+περὶ τὰς ἴσας γωνάις. ὧν δὲ μίαν μιᾷ ἴσην ἐχόντων γωνίαν      for triangles ABG and DEF , the sides about the equal
+τριγώνων ἀντιπεπόνθασιν αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνάις,   angles are reciprocally proportional. And those triangles
+ἴσα ἐστὶν ἐκεῖνα. ἴσον ἄρα ἐστὶ τὸ ΑΒΗ τρίγωνον τῷ ΔΕΖ        having one (angle) equal to one (angle) for which the
+τριγώνῳ. καὶ ἐπεί ἐστιν ὡς ἡ ΒΓ πρὸς τὴν ΕΖ, οὕτως ἡ          sides about the equal angles are reciprocally proportional
+ΕΖ πρὸς τὴν ΒΗ, ἐὰν δὲ τρεῖς εὐθεῖαι ἀνάλογον ὦσιν, ἡ         are equal [Prop. 6.15]. Thus, triangle ABG is equal to
+πρώτη πρὸς τὴν τρίτην διπλασίονα λόγον ἔχει ἤπερ πρὸς         triangle DEF . And since as BC (is) to EF , so EF (is)
+τὴν δευτέραν, ἡ ΒΓ ἄρα πρὸς τὴν ΒΗ διπλασίονα λόγον           to BG, and if three straight-lines are proportional then
+ἔχει ἤπερ ἡ ΓΒ πρὸς τὴν ΕΖ. ὡς δὲ ἡ ΓΒ πρὸς τὴν ΒΗ,           the first has a squared ratio to the third with respect to
+οὕτως τὸ ΑΒΓ τρίγωνον πρὸς τὸ ΑΒΗ τρίγωνον· καὶ τὸ            the second [Def. 5.9], BC thus has a squared ratio to BG
+ΑΒΓ ἄρα τρίγωνον πρὸς τὸ ΑΒΗ διπλασίονα λόγον ἔχει            with respect to (that) CB (has) to EF . And as CB (is)
+ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ. ἴσον δὲ τὸ ΑΒΗ τρίγωνον τῷ             to BG, so triangle ABC (is) to triangle ABG [Prop. 6.1].
+ΔΕΖ τριγώνῳ. καὶ τὸ ΑΒΓ ἄρα τρίγωνον πρὸς τὸ ΔΕΖ              Thus, triangle ABC also has a squared ratio to (triangle)
+τρίγωνον διπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ.         ABG with respect to (that side) BC (has) to EF . And
+    Τὰ ἄρα ὅμοια τρίγωνα πρὸς ἄλληλα ἐν διπλασίονι λόγῳ       triangle ABG (is) equal to triangle DEF . Thus, trian-
+ἐστὶ τῶν ὁμολόγων πλευρῶν. [ὅπερ ἔδει δεῖξαι.]                gle ABC also has a squared ratio to triangle DEF with
+                                                              respect to (that side) BC (has) to EF .
+                                                                  Thus, similar triangles are to one another in the
+                                                              squared ratio of (their) corresponding sides. [(Which
+                                                              is) the very thing it was required to show].
+
+                        Pìrisma.                                                     Corollary
+   ᾿Εκ δὴ τούτου φανερόν, ὅτι, ἐὰν τρεῖς εὐθεῖαι ἀνάλογον So it is clear, from this, that if three straight-lines are
+ὦσιν, ἔστιν ὡς ἡ πρώτη πρὸς τὴν τρίτην, οὕτως τὸ ἀπὸ proportional, then as the first is to the third, so the figure
+
+
+                                                           175
+STOIQEIWN þ.                                                                               ELEMENTS BOOK 6
+
+τῆς πρώτης εἶδος πρὸς τὸ ἀπὸ τῆς δευτέρας τὸ ὅμοιον καὶ (described) on the first (is) to the similar, and similarly
+ὁμοίως ἀναγραφόμενον. ὅπερ ἔδει δεῖξαι.                 described, (figure) on the second. (Which is) the very
+                                                        thing it was required to show.
+† Literally, “double”.
+
+
+
+                             kþ.                                               Proposition 20
+     Τὰ ὅμοια πολύγωνα εἴς τε ὅμοια τρίγωνα διαιρεῖται καὶ     Similar polygons can be divided into equal numbers
+εἰς ἴσα τὸ πλῆθος καὶ ὁμόλογα τοῖς ὅλοις, καὶ τὸ πολύγωνον of similar triangles corresponding (in proportion) to the
+πρὸς τὸ πολύγωνον διπλασίονα λόγον ἔχει ἤπερ ἡ ὁμόλογος wholes, and one polygon has to the (other) polygon a
+πλευρὰ πρὸς τὴν ὁμόλογον πλευράν.                          squared ratio with respect to (that) a corresponding side
+                                                           (has) to a corresponding side.
+            Α                                                       A
+                                         Ζ                                                           F
+                             Ε                       Λ                                E                           L
+ Β            Μ                    Η      Ν                    B      M                        G         N
+
+
+                                         Θ       Κ                                                   H        K
+            Γ            ∆                                          C           D
+    ῎Εστω ὅμοια πολύγωνα τὰ ΑΒΓΔΕ, ΖΗΘΚΛ, ὁμόλογος             Let ABCDE and F GHKL be similar polygons, and
+δὲ ἔστω ἡ ΑΒ τῇ ΖΗ· λέγω, ὅτι τὰ ΑΒΓΔΕ, ΖΗΘΚΛ              let AB correspond to F G. I say that polygons ABCDE
+πολύγωνα εἴς τε ὅμοια τρίγωνα διαιρεῖται καὶ εἰς ἴσα τὸ    and F GHKL can be divided into equal numbers of simi-
+πλῆθος καὶ ὁμόλογα τοῖς ὅλοις, καὶ τὸ ΑΒΓΔΕ πολύγωνον      lar triangles corresponding (in proportion) to the wholes,
+πρὸς τὸ ΖΗΘΚΛ πολύγωνον διπλασίονα λόγον ἔχει ἤπερ ἡ       and (that) polygon ABCDE has a squared ratio to poly-
+ΑΒ πρὸς τὴν ΖΗ.                                            gon F GHKL with respect to that AB (has) to F G.
+    ᾿Επεζεύχθωσαν αἱ ΒΕ, ΕΓ, ΗΛ, ΛΘ.                           Let BE, EC, GL, and LH have been joined.
+    Καὶ ἐπεὶ ὅμοιόν ἐστι τὸ ΑΒΓΔΕ πολύγωνον τῷ                 And since polygon ABCDE is similar to polygon
+ΖΗΘΚΛ πολυγώνῳ, ἴση ἐστὶν ἡ ὑπὸ ΒΑΕ γωνία τῇ ὑπὸ           F GHKL, angle BAE is equal to angle GF L, and as BA
+ΗΖΛ. καί ἐστιν ὡς ἡ ΒΑ πρὸς ΑΕ, οὕτως ἡ ΗΖ πρὸς ΖΛ.        is to AE, so GF (is) to F L [Def. 6.1]. Therefore, since
+ἐπεὶ οὖν δύο τρίγωνά ἐστι τὰ ΑΒΕ, ΖΗΛ μίαν γωνίαν μιᾷ      ABE and F GL are two triangles having one angle equal
+γωνίᾳ ἴσην ἔχοντα, περὶ δὲ τὰς ἴσας γωνίας τὰς πλευρὰς     to one angle and the sides about the equal angles propor-
+ἀνάλογον, ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΕ τρίγωνον τῷ ΖΗΛ        tional, triangle ABE is thus equiangular to triangle F GL
+τριγώνῳ· ὥστε καὶ ὅμοιον· ἴση ἄρα ἐστὶν ἡ ὑπὸ ΑΒΕ γωνία    [Prop. 6.6]. Hence, (they are) also similar [Prop. 6.4,
+τῇ ὑπὸ ΖΗΛ. ἔστι δὲ καὶ ὅλη ἡ ὑπὸ ΑΒΓ ὅλῃ τῇ ὑπὸ           Def. 6.1]. Thus, angle ABE is equal to (angle) F GL.
+ΖΗΘ ἴση διὰ τὴν ὁμοιότητα τῶν πολυγώνων· λοιπὴ ἄρα ἡ       And the whole (angle) ABC is equal to the whole (angle)
+ὑπὸ ΕΒΓ γωνία τῇ ὑπὸ ΛΗΘ ἐστιν ἴση. καὶ ἐπεὶ διὰ τὴν       F GH, on account of the similarity of the polygons. Thus,
+ὁμοιότητα τῶν ΑΒΕ, ΖΗΛ τριγώνων ἐστὶν ὡς ἡ ΕΒ πρὸς         the remaining angle EBC is equal to LGH. And since,
+ΒΑ, οὕτως ἡ ΛΗ πρὸς ΗΖ, ἀλλὰ μὴν καὶ διὰ τὴν ὁμοιότητα     on account of the similarity of triangles ABE and F GL,
+τῶν πολυγώνων ἐστὶν ὡς ἡ ΑΒ πρὸς ΒΓ, οὕτως ἡ ΖΗ πρὸς       as EB is to BA, so LG (is) to GF , but also, on account of
+ΗΘ, δι᾿ ἴσου ἄρα ἐστὶν ὡς ἡ ΕΒ πρὸς ΒΓ, οὕτως ἡ ΛΗ πρὸς    the similarity of the polygons, as AB is to BC, so F G (is)
+ΗΘ, καὶ περὶ τὰς ἴσας γωνάις τὰς ὑπὸ ΕΒΓ, ΛΗΘ αἱ πλευραὶ   to GH, thus, via equality, as EB is to BC, so LG (is) to
+ἀνάλογόν εἰσιν· ἰσογώνιον ἄρα ἐστὶ τὸ ΕΒΓ τρίγωνον τῷ      GH [Prop. 5.22], and the sides about the equal angles,
+ΛΗΘ τριγώνῳ· ὥστε καὶ ὅμοιόν ἐστι τὸ ΕΒΓ τρίγωνον          EBC and LGH, are proportional. Thus, triangle EBC is
+τῷ ΛΗΘ τριγώνω. διὰ τὰ αὐτὰ δὴ καὶ τὸ ΕΓΔ τρίγωνον         equiangular to triangle LGH [Prop. 6.6]. Hence, triangle
+ὅμοιόν ἐστι τῷ ΛΘΚ τριγώνῳ. τὰ ἄρα ὅμοια πολύγωνα τὰ       EBC is also similar to triangle LGH [Prop. 6.4, Def. 6.1].
+ΑΒΓΔΕ, ΖΗΘΚΛ εἴς τε ὅμοια τρίγωνα διῄρηται καὶ εἰς ἴσα     So, for the same (reasons), triangle ECD is also similar
+
+
+                                                         176
+STOIQEIWN þ.                                                                                ELEMENTS BOOK 6
+
+τὸ πλῆθος.                                                  to triangle LHK. Thus, the similar polygons ABCDE
+    Λέγω, ὅτι καὶ ὁμόλογα τοῖς ὅλοις, τουτέστιν ὥστε        and F GHKL have been divided into equal numbers of
+ἀνάλογον εἶναι τὰ τρίγωνα, καὶ ἡγούμενα μὲν εἶναι τὰ ΑΒΕ,   similar triangles.
+ΕΒΓ, ΕΓΔ, ἑπόμενα δὲ αὐτῶν τὰ ΖΗΛ, ΛΗΘ, ΛΘΚ, καὶ                I also say that (the triangles) correspond (in propor-
+ὅτι τὸ ΑΒΓΔΕ πολύγωνον πρὸς τὸ ΖΗΘΚΛ πολύγωνον              tion) to the wholes. That is to say, the triangles are
+διπλασίονα λόγον ἔχει ἤπερ ἡ ὁμόλογος πλευρὰ πρὸς τὴν       proportional: ABE, EBC, and ECD are the leading
+ὁμόλογον πλευράν, τουτέστιν ἡ ΑΒ πρὸς τὴν ΖΗ.               (magnitudes), and their (associated) following (magni-
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΑΓ, ΖΘ. καὶ ἐπεὶ διὰ τὴν           tudes are) F GL, LGH, and LHK (respectively). (I) also
+ὁμοιότητα τῶν πολυγώνων ἴση ἐστὶν ἡ ὑπὸ ΑΒΓ γωνία τῇ        (say) that polygon ABCDE has a squared ratio to poly-
+ὑπὸ ΖΗΘ, καί ἐστιν ὡς ἡ ΑΒ πρὸς ΒΓ, οὕτως ἡ ΖΗ πρὸς         gon F GHKL with respect to (that) a corresponding side
+ΗΘ, ἰσογώνιόν ἐστι τὸ ΑΒΓ τρίγωνον τῷ ΖΗΘ τριγώνῳ·          (has) to a corresponding side—that is to say, (side) AB
+ἴση ἄρα ἐστὶν ἡ μὲν ὑπὸ ΒΑΓ γωνία τῇ ὑπὸ ΗΖΘ, ἡ δὲ ὑπὸ      to F G.
+ΒΓΑ τῇ ὑπὸ ΗΘΖ. καὶ ἐπεὶ ἴση ἐστὶν ἡ ὑπὸ ΒΑΜ γωνία              For let AC and F H have been joined. And since angle
+τῇ ὑπὸ ΗΖΝ, ἔστι δὲ καὶ ἡ ὑπὸ ΑΒΜ τῇ ὑπὸ ΖΗΝ ἴση,           ABC is equal to F GH, and as AB is to BC, so F G (is) to
+καὶ λοιπὴ ἄρα ἡ ὑπὸ ΑΜΒ λοιπῇ τῇ ὑπὸ ΖΝΗ ἴση ἐστίν·         GH, on account of the similarity of the polygons, triangle
+ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΜ τρίγωνον τῷ ΖΗΝ τριγώνῳ.          ABC is equiangular to triangle F GH [Prop. 6.6]. Thus,
+ὁμοίως δὴ δεῖξομεν, ὅτι καὶ τὸ ΒΜΓ τρίγωνον ἰσογώνιόν       angle BAC is equal to GF H, and (angle) BCA to GHF .
+ἐστι τῷ ΗΝΘ τριγώνῳ. ἀνάλογον ἄρα ἐστίν, ὡς μὲν ἡ ΑΜ        And since angle BAM is equal to GF N , and (angle)
+πρὸς ΜΒ, οὕτως ἡ ΖΝ πρὸς ΝΗ, ὡς δὲ ἡ ΒΜ πρὸς ΜΓ,            ABM is also equal to F GN (see earlier), the remaining
+οὕτως ἡ ΗΝ πρὸς ΝΘ· ὥστε καὶ δι᾿ ἴσου, ὡς ἡ ΑΜ πρὸς         (angle) AM B is thus also equal to the remaining (angle)
+ΜΓ, οὕτως ἡ ΖΝ πρὸς ΝΘ. ἀλλ᾿ ὡς ἡ ΑΜ πρὸς ΜΓ, οὕτως         F N G [Prop. 1.32]. Thus, triangle ABM is equiangular
+τὸ ΑΒΜ [τρίγωνον] πρὸς τὸ ΜΒΓ, καὶ τὸ ΑΜΕ πρὸς τὸ           to triangle F GN . So, similarly, we can show that triangle
+ΕΜΓ· πρὸς ἄλληλα γάρ εἰσιν ὡς αἱ βάσεις. καὶ ὡς ἄρα         BM C is also equiangular to triangle GN H. Thus, pro-
+ἓν τῶν ἡγουμένων πρὸς ἓν τῶν ἑπόμενων, οὕτως ἅπαντα         portionally, as AM is to M B, so F N (is) to N G, and as
+τὰ ἡγούμενα πρὸς ἅπαντα τὰ ἑπόμενα· ὡς ἄρα τὸ ΑΜΒ           BM (is) to M C, so GN (is) to N H [Prop. 6.4]. Hence,
+τρίγωνον πρὸς τὸ ΒΜΓ, οὕτως τὸ ΑΒΕ πρὸς τὸ ΓΒΕ. αλλ᾿        also, via equality, as AM (is) to M C, so F N (is) to N H
+ὡς τὸ ΑΜΒ πρὸς τὸ ΒΜΓ, οὕτως ἡ ΑΜ πρὸς ΜΓ· καὶ              [Prop. 5.22]. But, as AM (is) to M C, so [triangle] ABM
+ὡς ἄρα ἡ ΑΜ πρὸς ΜΓ, οὕτως τὸ ΑΒΕ τρίγωνον πρὸς τὸ          is to M BC, and AM E to EM C. For they are to one an-
+ΕΒΓ τρίγωνον. διὰ τὰ αὐτὰ δὴ καὶ ὡς ἡ ΖΝ πρὸς ΝΘ,           other as their bases [Prop. 6.1]. And as one of the leading
+οὕτως τὸ ΖΗΛ τρίγωνον πρὸς τὸ ΗΛΘ τρίγωνον. καί ἐστιν       (magnitudes) is to one of the following (magnitudes), so
+ὡς ἡ ΑΜ πρὸς ΜΓ, οὕτως ἡ ΖΝ πρὸς ΝΘ· καὶ ὡς ἄρα             (the sum of) all the leading (magnitudes) is to (the sum
+τὸ ΑΒΕ τρίγωνον πρὸς τὸ ΒΕΓ τρίγωνον, οὕτως τὸ ΖΗΛ          of) all the following (magnitudes) [Prop. 5.12]. Thus, as
+τρίγωνον πρὸς τὸ ΗΛΘ τρίγωνον, καὶ ἐναλλὰξ ὡς τὸ ΑΒΕ        triangle AM B (is) to BM C, so (triangle) ABE (is) to
+τρίγωνον πρὸς τὸ ΖΗΛ τρίγωνον, οὕτως τὸ ΒΕΓ τρίγωνον        CBE. But, as (triangle) AM B (is) to BM C, so AM (is)
+πρὸς τὸ ΗΛΘ τρίγωνον. ὁμοίως δὴ δείξομεν ἐπιζευχθεισῶν      to M C. Thus, also, as AM (is) to M C, so triangle ABE
+τῶν ΒΔ, ΗΚ, ὅτι καὶ ὡς τὸ ΒΕΓ τρίγωνον πρὸς τὸ ΛΗΘ          (is) to triangle EBC. And so, for the same (reasons), as
+τρίγωνον, οὕτως τὸ ΕΓΔ τρίγωνον πρὸς τὸ ΛΘΚ τρίγωνον.       F N (is) to N H, so triangle F GL (is) to triangle GLH.
+καὶ ἐπεί ἐστιν ὡς τὸ ΑΒΕ τρίγωνον πρὸς τὸ ΖΗΛ τρίγωνον,     And as AM is to M C, so F N (is) to N H. Thus, also, as
+οὕτως τὸ ΕΒΓ πρὸς τὸ ΛΗΘ, καὶ ἔτι τὸ ΕΓΔ πρὸς τὸ ΛΘΚ,       triangle ABE (is) to triangle BEC, so triangle F GL (is)
+καὶ ὡς ἄρα ἓν τῶν ἡγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως     to triangle GLH, and, alternately, as triangle ABE (is)
+ἅπαντα τὰ ἡγούμενα πρὸς ἅπαντα τὰ ἑπόμενα· ἔστιν ἄρα        to triangle F GL, so triangle BEC (is) to triangle GLH
+ὡς τὸ ΑΒΕ τρίγωνον πρὸς τὸ ΖΗΛ τρίγωνον, οὕτως τὸ           [Prop. 5.16]. So, similarly, we can also show, by joining
+ΑΒΓΔΕ πολύγωνον πρὸς τὸ ΖΗΘΚΛ πολύγωνον. ἀλλὰ τὸ            BD and GK, that as triangle BEC (is) to triangle LGH,
+ΑΒΕ τρίγωνον πρὸς τὸ ΖΗΛ τρίγωνον διπλασίονα λόγον          so triangle ECD (is) to triangle LHK. And since as tri-
+ἔχει ἤπερ ἡ ΑΒ ὁμόλογος πλευρὰ πρὸς τὴν ΖΗ ὁμόλογον         angle ABE is to triangle F GL, so (triangle) EBC (is)
+πλευράν· τὰ γὰρ ὅμοια τρίγωνα ἐν διπλασίονι λόγῳ ἐστὶ       to LGH, and, further, (triangle) ECD to LHK, and also
+τῶν ὁμολόγων πλευρῶν. καὶ τὸ ΑΒΓΔΕ ἄρα πολύγωνον            as one of the leading (magnitudes is) to one of the fol-
+πρὸς τὸ ΖΗΘΚΛ πολύγωνον διπλασίονα λόγον ἔχει ἤπερ ἡ        lowing, so (the sum of) all the leading (magnitudes is) to
+ΑΒ ὁμόλογος πλευρὰ πρὸς τὴν ΖΗ ὁμόλογον πλευράν.            (the sum of) all the following [Prop. 5.12], thus as trian-
+    Τὰ ἄρα ὅμοια πολύγωνα εἴς τε ὅμοια τρίγωνα διαιρεῖται   gle ABE is to triangle F GL, so polygon ABCDE (is) to
+καὶ εἰς ἴσα τὸ πλῆθος καὶ ὁμόλογα τοῖς ὅλοις, καὶ τὸ        polygon F GHKL. But, triangle ABE has a squared ratio
+
+
+                                                        177
+STOIQEIWN þ.                                                                                  ELEMENTS BOOK 6
+
+πολύγωνον πρὸς τὸ πολύγωνον διπλασίονα λόγον ἔχει ἤπερ to triangle F GL with respect to (that) the corresponding
+ἡ ὁμόλογος πλευρὰ πρὸς τὴν ὁμόλογον πλευράν [ὅπερ ἔδει side AB (has) to the corresponding side F G. For, similar
+δεῖξαι].                                               triangles are in the squared ratio of corresponding sides
+                                                       [Prop. 6.14]. Thus, polygon ABCDE also has a squared
+                                                       ratio to polygon F GHKL with respect to (that) the cor-
+                                                       responding side AB (has) to the corresponding side F G.
+                                                           Thus, similar polygons can be divided into equal num-
+                                                       bers of similar triangles corresponding (in proportion) to
+                                                       the wholes, and one polygon has to the (other) polygon a
+                                                       squared ratio with respect to (that) a corresponding side
+                                                       (has) to a corresponding side. [(Which is) the very thing
+                                                       it was required to show].
+
+                       Pìrisma.                                                     Corollary
+    ῾Ωσαύτως δὲ καὶ ἐπὶ τῶν [ὁμοίων] τετραπλεύρων δειχθή-       And, in the same manner, it can also be shown for
+σεται, ὅτι ἐν διπλασίονι λόγῳ εἰσὶ τῶν ὁμολόγων πλευρῶν.    [similar] quadrilaterals that they are in the squared ratio
+ἐδείχθη δὲ καὶ ἐπὶ τῶν τριγώνων· ὥστε καὶ καθόλου τὰ        of (their) corresponding sides. And it was also shown for
+ὅμοια εὐθύγραμμα σχήματα πρὸς ἄλληλα ἐν διπλασίονι          triangles. Hence, in general, similar rectilinear figures are
+λόγῳ εἰσὶ τῶν ὁμολόγων πλευρῶν. ὅπερ ἔδει δεῖξαι.           also to one another in the squared ratio of (their) corre-
+                                                            sponding sides. (Which is) the very thing it was required
+                                                            to show.
+
+                          kaþ.                                                    Proposition 21
+   Τὰ τῷ αὐτῷ εὐθυγράμμῳ ὅμοια καὶ ἀλλήλοις ἐστὶν    (Rectilinear figures) similar to the same rectilinear fig-
+ὅμοια.                                            ure are also similar to one another.
+
+
+
+                 Α                                                            A
+                                          Β                                                               B
+
+
+
+
+                                        Γ                                                               C
+
+   ῎Εστω γὰρ ἑκάτερον τῶν Α, Β εὐθυγράμμων τῷ Γ                 Let each of the rectilinear figures A and B be similar
+ὅμοιον· λέγω, ὅτι καὶ τὸ Α τῷ Β ἐστιν ὅμοιον.               to (the rectilinear figure) C. I say that A is also similar to
+   ᾿Επεὶ γὰρ ὅμοιόν ἐστι τὸ Α τῷ Γ, ἰσογώνιόν τέ ἐστιν      B.
+αὐτῷ καὶ τὰς περὶ τὰς ἴσας γωνίας πλευρὰς ἀνάλογον ἔχει.        For since A is similar to C, (A) is equiangular to (C),
+πάλιν, ἐπεὶ ὅμοιόν ἐστι τὸ Β τῷ Γ, ἰσογώνιόν τέ ἐστιν       and has the sides about the equal angles proportional
+αὐτῷ καὶ τὰς περὶ τὰς ἴσας γωνίας πλευρὰς ἀνάλογον ἔχει.    [Def. 6.1]. Again, since B is similar to C, (B) is equian-
+ἑκάτερον ἄρα τῶν Α, Β τῷ Γ ἰσογώνιόν τέ ἐστι καὶ τὰς        gular to (C), and has the sides about the equal angles
+περὶ τὰς ἴσας γωνίας πλευρὰς ἀνάλογον ἔχει [ὥστε καὶ τὸ     proportional [Def. 6.1]. Thus, A and B are each equian-
+Α τῷ Β ἰσογώνιόν τέ ἐστι καὶ τὰς περὶ τὰς ἴσας γωνίας       gular to C, and have the sides about the equal angles
+
+
+                                                        178
+STOIQEIWN þ.                                                                                 ELEMENTS BOOK 6
+
+πλευρὰς ἀνάλογον ἔχει]. ὅμοιον ἄρα ἐστὶ τὸ Α τῷ Β· ὅπερ proportional [hence, A is also equiangular to B, and has
+ἔδει δεῖξαι.                                            the sides about the equal angles proportional]. Thus, A
+                                                        is similar to B [Def. 6.1]. (Which is) the very thing it was
+                                                        required to show.
+
+                          kbþ.                                                  Proposition 22
+   ᾿Εὰν τέσσαρες εὐθεῖαι ἀνάλογον ὦσιν, καὶ τὰ ἀπ᾿ αὐτῶν       If four straight-lines are proportional then similar, and
+εὐθύγραμμα ὅμοιά τε καὶ ὁμοίως ἀναγεγραμμένα ἀνάλογον      similarly described, rectilinear figures (drawn) on them
+ἔσται· κἂν τὰ ἀπ᾿ αὐτῶν εὐθύγραμμα ὅμοιά τε καὶ ὁμοίως     will also be proportional. And if similar, and similarly
+ἀναγεγραμμένα ἀνάλογον ᾖ, καὶ αὐτὰι αἱ εὐθεῖαι ἀνάλογον    described, rectilinear figures (drawn) on them are pro-
+ἔσονται.                                                   portional then the straight-lines themselves will also be
+                                                           proportional.
+                 Κ                                                          K
+                                       Λ                                                            L
+
+
+
+         Α               Β       Γ             ∆                    A                 B       C             D
+             Μ                    Ν                                     M                      N
+
+
+                                 Η       Θ                                                     G        H
+             Ε       Ζ                                                  E        F
+                                     Σ                                                             S
+         Ξ             Ο                                            O                P
+                                   Π       Ρ                                                    Q       R
+    ῎Εστωσαν τέσσαρες εὐθεῖαι ἀνάλογον αἱ ΑΒ, ΓΔ, ΕΖ,           Let AB, CD, EF , and GH be four proportional
+ΗΘ, ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ ΕΖ πρὸς τὴν ΗΘ, καὶ       straight-lines, (such that) as AB (is) to CD, so EF (is)
+ἀναγεγράφθωσαν ἀπὸ μὲν τῶν ΑΒ, ΓΔ ὅμοιά τε καὶ ὁμοίως      to GH. And let the similar, and similarly laid out, rec-
+κείμενα εὐθύγραμμα τὰ ΚΑΒ, ΛΓΔ, ἀπὸ δὲ τῶν ΕΖ, ΗΘ          tilinear figures KAB and LCD have been described on
+ὅμοιά τε καὶ ὁμοίως κείμενα εὐθύγραμμα τὰ ΜΖ, ΝΘ· λέγω,    AB and CD (respectively), and the similar, and similarly
+ὅτι ἐστὶν ὡς τὸ ΚΑΒ πρὸς τὸ ΛΓΔ, οὕτως τὸ ΜΖ πρὸς τὸ       laid out, rectilinear figures M F and N H on EF and GH
+ΝΘ.                                                        (respectively). I say that as KAB is to LCD, so M F (is)
+    Εἰλήφθω γὰρ τῶν μὲν ΑΒ, ΓΔ τρίτη ἀνάλογον ἡ Ξ, τῶν     to N H.
+δὲ ΕΖ, ΗΘ τρίτη ἀνάλογον ἡ Ο. καὶ ἐπεί ἐστιν ὡς μὲν ἡ ΑΒ        For let a third (straight-line) O have been taken
+πρὸς τὴν ΓΔ, οὕτως ἡ ΕΖ πρὸς τὴν ΗΘ, ὡς δὲ ἡ ΓΔ πρὸς       (which is) proportional to AB and CD, and a third
+τὴν Ξ, οὕτως ἡ ΗΘ πρὸς τὴν Ο, δι᾿ ἴσου ἄρα ἐστὶν ὡς ἡ      (straight-line) P proportional to EF and GH [Prop. 6.11].
+ΑΒ πρὸς τὴν Ξ, οὕτως ἡ ΕΖ πρὸς τὴν Ο. ἀλλ᾿ ὡς μὲν ἡ        And since as AB is to CD, so EF (is) to GH, and as CD
+ΑΒ πρὸς τὴν Ξ, οὕτως [καὶ] τὸ ΚΑΒ πρὸς τὸ ΛΓΔ, ὡς δὲ       (is) to O, so GH (is) to P , thus, via equality, as AB is to
+ἡ ΕΖ πρὸς τὴν Ο, οὕτως τὸ ΜΖ πρὸς τὸ ΝΘ· καὶ ὡς ἄρα        O, so EF (is) to P [Prop. 5.22]. But, as AB (is) to O, so
+τὸ ΚΑΒ πρὸς τὸ ΛΓΔ, οὕτως τὸ ΜΖ πρὸς τὸ ΝΘ.                [also] KAB (is) to LCD, and as EF (is) to P , so M F
+    ᾿Αλλὰ δὴ ἔστω ὡς τὸ ΚΑΒ πρὸς τὸ ΛΓΔ, οὕτως τὸ ΜΖ       (is) to N H [Prop. 5.19 corr.]. And, thus, as KAB (is) to
+πρὸς τὸ ΝΘ· λέγω, ὅτι ἐστὶ καὶ ὡς ἡ ΑΒ πρὸς τὴν ΓΔ,        LCD, so M F (is) to N H.
+οὕτως ἡ ΕΖ πρὸς τὴν ΗΘ. εἰ γὰρ μή ἐστιν, ὡς ἡ ΑΒ πρὸς           And so let KAB be to LCD, as M F (is) to N H. I say
+τὴν ΓΔ, οὕτως ἡ ΕΖ πρὸς τὴν ΗΘ, ἔστω ὡς ἡ ΑΒ πρὸς τὴν      also that as AB is to CD, so EF (is) to GH. For if as AB
+ΓΔ, οὕτως ἡ ΕΖ πρὸς τὴν ΠΡ, καὶ ἀναγεγράφθω ἀπὸ τῆς        is to CD, so EF (is) not to GH, let AB be to CD, as EF
+
+
+                                                        179
+STOIQEIWN þ.                                                                                                        ELEMENTS BOOK 6
+
+ΠΡ ὁποτέρῳ τῶν ΜΖ, ΝΘ ὅμοιόν τε καὶ ὁμοίως κείμενον                        (is) to QR [Prop. 6.12]. And let the rectilinear figure SR,
+εὐθύγραμμον τὸ ΣΡ.                                                         similar, and similarly laid down, to either of M F or N H,
+    ᾿Επεὶ οὖν ἐστιν ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ ΕΖ πρὸς                   have been described on QR [Props. 6.18, 6.21].
+τὴν ΠΡ, καὶ ἀναγέγραπται ἀπὸ μὲν τῶν ΑΒ, ΓΔ ὅμοιά τε                            Therefore, since as AB is to CD, so EF (is) to QR,
+καὶ ὁμοίως κείμενα τὰ ΚΑΒ, ΛΓΔ, ἀπὸ δὲ τῶν ΕΖ, ΠΡ                          and the similar, and similarly laid out, (rectilinear fig-
+ὅμοιά τε καὶ ὁμοίως κείμενα τὰ ΜΖ, ΣΡ, ἔστιν ἄρα ὡς τὸ                     ures) KAB and LCD have been described on AB and
+ΚΑΒ πρὸς τὸ ΛΓΔ, οὕτως τὸ ΜΖ πρὸς τὸ ΣΡ. ὑπόκειται                         CD (respectively), and the similar, and similarly laid out,
+δὲ καὶ ὡς τὸ ΚΑΒ πρὸς τὸ ΛΓΔ, οὕτως τὸ ΜΖ πρὸς τὸ                          (rectilinear figures) M F and SR on EF and QR (re-
+ΝΘ· καὶ ὡς ἄρα τὸ ΜΖ πρὸς τὸ ΣΡ, οὕτως τὸ ΜΖ πρὸς                          sespectively), thus as KAB is to LCD, so M F (is) to
+τὸ ΝΘ. τὸ ΜΖ ἄρα πρὸς ἑκάτερον τῶν ΝΘ, ΣΡ τὸν αὐτὸν                        SR (see above). And it was also assumed that as KAB
+ἔχει λόγον· ἴσον ἄρα ἐστὶ τὸ ΝΘ τῷ ΣΡ. ἔστι δὲ αὐτῷ καὶ                    (is) to LCD, so M F (is) to N H. Thus, also, as M F (is)
+ὅμοιον καὶ ὁμοίως κείμενον· ἴση ἄρα ἡ ΗΘ τῇ ΠΡ. καὶ ἐπεί                   to SR, so M F (is) to N H [Prop. 5.11]. Thus, M F has
+ἐστιν ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ ΕΖ πρὸς τὴν ΠΡ, ἴση                     the same ratio to each of N H and SR. Thus, N H is equal
+δὲ ἡ ΠΡ τῇ ΗΘ, ἔστιν ἄρα ὡς ἡ ΑΒ πρὸς τὴν ΓΔ, οὕτως ἡ                      to SR [Prop. 5.9]. And it is also similar, and similarly laid
+ΕΖ πρὸς τὴν ΗΘ.                                                            out, to it. Thus, GH (is) equal to QR.† And since AB is
+    ᾿Εὰν ἄρα τέσσαρες εὐθεῖαι ἀνάλογον ὦσιν, καὶ τὰ ἀπ᾿                    to CD, as EF (is) to QR, and QR (is) equal to GH, thus
+αὐτῶν εὐθύγραμμα ὅμοιά τε καὶ ὁμοίως ἀναγεγραμμένα                         as AB is to CD, so EF (is) to GH.
+ἀνάλογον ἔσται· κἂν τὰ ἀπ᾿ αὐτῶν εὐθύγραμμα ὅμοιά τε                            Thus, if four straight-lines are proportional, then sim-
+καὶ ὁμοίως ἀναγεγραμμένα ἀνάλογον ᾖ, καὶ αὐτὰι αἱ εὐθεῖαι                  ilar, and similarly described, rectilinear figures (drawn)
+ἀνάλογον ἔσονται· ὅπερ ἔδει δεῖξαι.                                        on them will also be proportional. And if similar, and
+                                                                           similarly described, rectilinear figures (drawn) on them
+                                                                           are proportional then the straight-lines themselves will
+                                                                           also be proportional. (Which is) the very thing it was
+                                                                           required to show.
+† Here, Euclid assumes, without proof, that if two similar figures are equal then any pair of corresponding sides is also equal.
+
+
+
+                                 kgþ.                                                               Proposition 23
+    Τὰ ἰσογώνια παραλληλόγραμμα πρὸς ἄλληλα λόγον ἔχει                         Equiangular parallelograms have to one another the
+τὸν συγκείμενον ἐκ τῶν πλευρῶν.                                            ratio compounded† out of (the ratios of) their sides.
+    ῎Εστω ἰσογώνια παραλληλόγραμμα τὰ ΑΓ, ΓΖ ἴσην                              Let AC and CF be equiangular parallelograms having
+ἔχοντα τὴν ὑπὸ ΒΓΔ γωνίαν τῇ ὑπὸ ΕΓΗ· λέγω, ὅτι τὸ ΑΓ                      angle BCD equal to ECG. I say that parallelogram AC
+παραλληλόγραμμον πρὸς τὸ ΓΖ παραλληλόγραμμον λόγον                         has to parallelogram CF the ratio compounded out of
+ἔχει τὸν συγκείμενον ἐκ τῶν πλευρῶν.                                       (the ratios of) their sides.
+    Κείσθω γὰρ ὥστε ἐπ᾿ εὐθείας εἶναι τὴν ΒΓ τῇ ΓΗ· ἐπ᾿                        For let BC be laid down so as to be straight-on to
+εὐθείας ἄρα ἐστὶ καὶ ἡ ΔΓ τῇ ΓΕ. καὶ συμπεπληρώσθω τὸ                      CG. Thus, DC is also straight-on to CE [Prop. 1.14].
+ΔΗ παραλληλόγραμμον, καὶ ἐκκείσθω τις εὐθεῖα ἡ Κ, καὶ                      And let the parallelogram DG have been completed. And
+γεγονέτω ὡς μὲν ἡ ΒΓ πρὸς τὴν ΓΗ, οὕτως ἡ Κ πρὸς τὴν                       let some straight-line K have been laid down. And let it
+Λ, ὡς δὲ ἡ ΔΓ πρὸς τὴν ΓΕ, οὕτως ἡ Λ πρὸς τὴν Μ.                           be contrived that as BC (is) to CG, so K (is) to L, and
+    Οἱ ἄρα λόγοι τῆς τε Κ πρὸς τὴν Λ καὶ τῆς Λ πρὸς                        as DC (is) to CE, so L (is) to M [Prop. 6.12].
+τὴν Μ οἱ αὐτοί εἰσι τοῖς λόγοις τῶν πλευρῶν, τῆς τε ΒΓ                         Thus, the ratios of K to L and of L to M are the same
+πρὸς τὴν ΓΗ καὶ τῆς ΔΓ πρὸς τὴν ΓΕ. ἀλλ᾿ ὁ τῆς Κ πρὸς                      as the ratios of the sides, (namely), BC to CG and DC
+Μ λόγος σύγκειται ἔκ τε τοῦ τῆς Κ πρὸς Λ λόγου καὶ                         to CE (respectively). But, the ratio of K to M is com-
+τοῦ τῆς Λ πρὸς Μ· ὥστε καὶ ἡ Κ πρὸς τὴν Μ λόγον ἔχει                       pounded out of the ratio of K to L and (the ratio) of L
+τὸν συγκείμενον ἐκ τῶν πλευρῶν. καὶ ἐπεί ἐστιν ὡς ἡ ΒΓ                     to M . Hence, K also has to M the ratio compounded
+πρὸς τὴν ΓΗ, οὕτως τὸ ΑΓ παραλληλόγραμμον πρὸς τὸ                          out of (the ratios of) the sides (of the parallelograms).
+ΓΘ, ἀλλ᾿ ὡς ἡ ΒΓ πρὸς τὴν ΓΗ, οὕτως ἡ Κ πρὸς τὴν Λ,                        And since as BC is to CG, so parallelogram AC (is) to
+καὶ ὡς ἄρα ἡ Κ πρὸς τὴν Λ, οὕτως τὸ ΑΓ πρὸς τὸ ΓΘ.                         CH [Prop. 6.1], but as BC (is) to CG, so K (is) to L,
+πάλιν, ἐπεί ἐστιν ὡς ἡ ΔΓ πρὸς τὴν ΓΕ, οὕτως τὸ ΓΘ πα-                     thus, also, as K (is) to L, so (parallelogram) AC (is) to
+ραλληλόγραμμον πρὸς τὸ ΓΖ, ἀλλ᾿ ὡς ἡ ΔΓ πρὸς τὴν ΓΕ,                       CH. Again, since as DC (is) to CE, so parallelogram
+
+
+
+                                                                        180
+STOIQEIWN þ.                                                                                                  ELEMENTS BOOK 6
+
+οὕτως ἡ Λ πρὸς τὴν Μ, καὶ ὡς ἄρα ἡ Λ πρὸς τὴν Μ, οὕτως                  CH (is) to CF [Prop. 6.1], but as DC (is) to CE, so L
+τὸ ΓΘ παραλληλόγραμμον πρὸς τὸ ΓΖ παραλληλόγραμμον.                     (is) to M , thus, also, as L (is) to M , so parallelogram
+ἐπεὶ οὖν ἐδείχθη, ὡς μὲν ἡ Κ πρὸς τὴν Λ, οὕτως τὸ ΑΓ                    CH (is) to parallelogram CF . Therefore, since it was
+παραλληλόγραμμον πρὸς τὸ ΓΘ παραλληλόγραμμον, ὡς δὲ                     shown that as K (is) to L, so parallelogram AC (is) to
+ἡ Λ πρὸς τὴν Μ, οὕτως τὸ ΓΘ παραλληλόγραμμον πρὸς τὸ                    parallelogram CH, and as L (is) to M , so parallelogram
+ΓΖ παραλληλόγραμμον, δι᾿ ἴσου ἄρα ἐστὶν ὡς ἡ Κ πρὸς τὴν                 CH (is) to parallelogram CF , thus, via equality, as K is
+Μ, οὕτως τὸ ΑΓ πρὸς τὸ ΓΖ παραλληλόγραμμον. ἡ δὲ Κ                      to M , so (parallelogram) AC (is) to parallelogram CF
+πρὸς τὴν Μ λόγον ἔχει τὸν συγκείμενον ἐκ τῶν πλευρῶν·                   [Prop. 5.22]. And K has to M the ratio compounded out
+καὶ τὸ ΑΓ ἄρα πρὸς τὸ ΓΖ λόγον ἔχει τὸν συγκείμενον ἐκ                  of (the ratios of) the sides (of the parallelograms). Thus,
+τῶν πλευρῶν.                                                            (parallelogram) AC also has to (parallelogram) CF the
+                                                                        ratio compounded out of (the ratio of) their sides.
+
+                     Α                 ∆                      Θ                                  A             D            H
+
+
+
+                 Β                     Γ                     Η                               B                 C            G
+    Κ                                                                        K
+    Λ                                                                        L
+    Μ                                                                        M
+                                 Ε                      Ζ                                                  E            F
+   Τὰ ἄρα ἰσογώνια παραλληλόγραμμα πρὸς ἄλληλα λόγον      Thus, equiangular parallelograms have to one another
+ἔχει τὸν συγκείμενον ἐκ τῶν πλευρῶν· ὅπερ ἔδει δεῖξαι. the ratio compounded out of (the ratio of) their sides.
+                                                       (Which is) the very thing it was required to show.
+† In modern terminology, if two ratios are “compounded” then they are multiplied together.
+
+
+
+                                kdþ.                                                                 Proposition 24
+   Παντὸς παραλληλογράμμου τὰ περὶ τὴν διάμετρον πα-                        In any parallelogram the parallelograms about the di-
+ραλληλόγραμμα ὅμοιά ἐστι τῷ τε ὅλῳ καὶ ἀλλήλοις.                        agonal are similar to the whole, and to one another.
+   ῎Εστω παραλληλόγραμμον τὸ ΑΒΓΔ, διάμετρος δὲ                             Let ABCD be a parallelogram, and AC its diagonal.
+αὐτοῦ ἡ ΑΓ, περὶ δὲ τὴν ΑΓ παραλληλόγραμμα ἔστω τὰ ΕΗ,                  And let EG and HK be parallelograms about AC. I say
+ΘΚ· λέγω, ὅτι ἑκάτερον τῶν ΕΗ, ΘΚ παραλληλογράμμων                      that the parallelograms EG and HK are each similar to
+ὅμοιόν ἐστι ὅλῳ τῷ ΑΒΓΔ καὶ ἀλλήλοις.                                   the whole (parallelogram) ABCD, and to one another.
+   ᾿Επεὶ γὰρ τριγώνου τοῦ ΑΒΓ παρὰ μίαν τῶν πλευρῶν                         For since EF has been drawn parallel to one of the
+τὴν ΒΓ ἦκται ἡ ΕΖ, ἀνάλογόν ἐστιν ὡς ἡ ΒΕ πρὸς τὴν                      sides BC of triangle ABC, proportionally, as BE is to
+ΕΑ, οὕτως ἡ ΓΖ πρὸς τὴν ΖΑ. πάλιν, ἐπεὶ τριγώνου τοῦ                    EA, so CF (is) to F A [Prop. 6.2]. Again, since F G has
+ΑΓΔ παρὰ μίαν τὴν ΓΔ ἦκται ἡ ΖΗ, ἀνάλογόν ἐστιν ὡς ἡ                    been drawn parallel to one (of the sides) CD of trian-
+ΓΖ πρὸς τὴν ΖΑ, οὕτως ἡ ΔΗ πρὸς τὴν ΗΑ. ἀλλ᾿ ὡς ἡ                       gle ACD, proportionally, as CF is to F A, so DG (is) to
+ΓΖ πρὸς τὴν ΖΑ, οὕτως ἐδείχθη καὶ ἡ ΒΕ πρὸς τὴν ΕΑ·                     GA [Prop. 6.2]. But, as CF (is) to F A, so it was also
+καὶ ὡς ἄρα ἡ ΒΕ πρὸς τὴν ΕΑ, οὕτως ἡ ΔΗ πρὸς τὴν                        shown (is) BE to EA. And thus as BE (is) to EA, so
+ΗΑ, καὶ συνθέντι ἄρα ὡς ἡ ΒΑ πρὸς ΑΕ, οὕτως ἡ ΔΑ                        DG (is) to GA. And, thus, compounding, as BA (is) to
+πρὸς ΑΗ, καὶ ἐναλλὰξ ὡς ἡ ΒΑ πρὸς τὴν ΑΔ, οὕτως ἡ                       AE, so DA (is) to AG [Prop. 5.18]. And, alternately, as
+ΕΑ πρὸς τὴν ΑΗ. τῶν ἄρα ΑΒΓΔ, ΕΗ παραλληλογράμμων                       BA (is) to AD, so EA (is) to AG [Prop. 5.16]. Thus,
+ἀνάλογόν εἰσιν αἱ πλευραὶ αἱ περὶ τὴν κοινὴν γωνίαν τὴν ὑπὸ             in parallelograms ABCD and EG the sides about the
+ΒΑΔ. καὶ ἐπεὶ παράλληλός ἐστιν ἡ ΗΖ τῇ ΔΓ, ἴση ἐστὶν                    common angle BAD are proportional. And since GF is
+ἡ μὲν ὑπὸ ΑΖΗ γωνία τῇ ὑπὸ ΔΓΑ· καὶ κοινὴ τῶν δύο                       parallel to DC, angle AF G is equal to DCA [Prop. 1.29].
+
+
+                                                                     181
+STOIQEIWN þ.                                                                                 ELEMENTS BOOK 6
+
+τριγώνων τῶν ΑΔΓ, ΑΗΖ ἡ ὑπὸ ΔΑΓ γωνία· ἰσογώνιον           And angle DAC (is) common to the two triangles ADC
+ἄρα ἐστὶ τὸ ΑΔΓ τρίγωνον τῷ ΑΗΖ τριγώνῳ. διὰ τὰ αὐτὰ       and AGF . Thus, triangle ADC is equiangular to triangle
+δὴ καὶ τὸ ΑΓΒ τρίγωνον ἰσογώνιόν ἐστι τῷ ΑΖΕ τριγώνῳ,      AGF [Prop. 1.32]. So, for the same (reasons), triangle
+καὶ ὅλον τὸ ΑΒΓΔ παραλληλόγραμμον τῷ ΕΗ παραλλη-           ACB is equiangular to triangle AF E, and the whole par-
+λογράμμῳ ἰσογώνιόν ἐστιν. ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΑΔ       allelogram ABCD is equiangular to parallelogram EG.
+πρὸς τὴν ΔΓ, οὕτως ἡ ΑΗ πρὸς τὴν ΗΖ, ὡς δὲ ἡ ΔΓ πρὸς       Thus, proportionally, as AD (is) to DC, so AG (is) to
+τὴν ΓΑ, οὕτως ἡ ΗΖ πρὸς τὴν ΖΑ, ὡς δὲ ἡ ΑΓ πρὸς τὴν        GF , and as DC (is) to CA, so GF (is) to F A, and as AC
+ΓΒ, οὕτως ἡ ΑΖ πρὸς τὴν ΖΕ, καὶ ἔτι ὡς ἡ ΓΒ πρὸς τὴν       (is) to CB, so AF (is) to F E, and, further, as CB (is)
+ΒΑ, οὕτως ἡ ΖΕ πρὸς τὴν ΕΑ. καὶ ἐπεὶ ἐδείχθη ὡς μὲν        to BA, so F E (is) to EA [Prop. 6.4]. And since it was
+ἡ ΔΓ πρὸς τὴν ΓΑ, οὕτως ἡ ΗΖ πρὸς τὴν ΖΑ, ὡς δὲ ἡ          shown that as DC is to CA, so GF (is) to F A, and as
+ΑΓ πρὸς τὴν ΓΒ, οὕτως ἡ ΑΖ πρὸς τὴν ΖΕ, δι᾿ ἴσου ἄρα       AC (is) to CB, so AF (is) to F E, thus, via equality, as
+ἐστὶν ὡς ἡ ΔΓ πρὸς τὴν ΓΒ, οὕτως ἡ ΗΖ πρὸς τὴν ΖΕ.         DC is to CB, so GF (is) to F E [Prop. 5.22]. Thus, in
+τῶν ἄρα ΑΒΓΔ, ΕΗ παραλληλογράμμων ἀνάλογόν εἰσιν           parallelograms ABCD and EG the sides about the equal
+αἱ πλευραὶ αἱ περὶ τὰς ἴσας γωνίας· ὅμοιον ἄρα ἐστὶ τὸ     angles are proportional. Thus, parallelogram ABCD is
+ΑΒΓΔ παραλληλογράμμον τῷ ΕΗ παραλληλογράμμῳ. διὰ           similar to parallelogram EG [Def. 6.1]. So, for the same
+τὰ αὐτὰ δὴ τὸ ΑΒΓΔ παραλληλόγραμμον καὶ τῷ ΚΘ πα-          (reasons), parallelogram ABCD is also similar to par-
+ραλληλογράμμῳ ὅμοιόν ἐστιν· ἑκάτερον ἄρα τῶν ΕΗ, ΘΚ        allelogram KH. Thus, parallelograms EG and HK are
+παραλληλογράμμων τῷ ΑΒΓΔ [παραλληλογράμμῳ] ὅμοιόν          each similar to [parallelogram] ABCD. And (rectilin-
+ἐστιν. τὰ δὲ τῷ αὐτῷ εὐθυγράμμῳ ὅμοια καὶ ἀλλήλοις ἐστὶν   ear figures) similar to the same rectilinear figure are also
+ὅμοια· καὶ τὸ ΕΗ ἄρα παραλληλόγραμμον τῷ ΘΚ παραλλη-       similar to one another [Prop. 6.21]. Thus, parallelogram
+λογράμμῳ ὅμοιόν ἐστιν.                                     EG is also similar to parallelogram HK.
+
+   Α            Ε                        Β                    A             E                          B
+
+                    Ζ                                                           F
+   Η                                         Θ                 G                                             H
+
+
+
+
+            ∆           Κ                         Γ                     D             K                           C
+    Παντὸς ἄρα παραλληλογράμμου τὰ περὶ τὴν διάμετρον      Thus, in any parallelogram the parallelograms about
+παραλληλόγραμμα ὅμοιά ἐστι τῷ τε ὅλῳ καὶ ἀλλήλοις· ὅπερ the diagonal are similar to the whole, and to one another.
+ἔδει δεῖξαι.                                            (Which is) the very thing it was required to show.
+
+                          keþ.                                                  Proposition 25
+   Τῷ δοθέντι εὐθυγράμμῳ ὅμοιον καὶ ἄλλῳ τῷ δοθέντι             To construct a single (rectilinear figure) similar to a
+ἴσον τὸ αὐτὸ συστήσασθαι.                                  given rectilinear figure, and equal to a different given rec-
+                                                           tilinear figure.
+
+
+
+
+                                                       182
+STOIQEIWN þ.                                                                                 ELEMENTS BOOK 6
+
+                                     Κ                                                            K
+  Α                                                          A
+                      ∆                                                            D
+
+               Γ                 Ζ                            B             C               F
+  Β
+                                         Η         Θ                                                  G            H
+
+   Λ          Ε              Μ                                L           E                M
+    ῎Εστω τὸ μὲν δοθὲν εὐθύγραμμον, ᾧ δεῖ ὅμοιον               Let ABC be the given rectilinear figure to which it is
+συστήσασθαι, τὸ ΑΒΓ, ᾧ δὲ δεῖ ἴσον, τὸ Δ· δεῖ δὴ τῷ        required to construct a similar (rectilinear figure), and D
+μὲν ΑΒΓ ὅμοιον, τῷ δὲ Δ ἴσον τὸ αὐτὸ συστήσασθαι.          the (rectilinear figure) to which (the constructed figure)
+    Παραβεβλήσθω γὰρ παρὰ μὲν τὴν ΒΓ τῷ ΑΒΓ τριγώνῳ        is required (to be) equal. So it is required to construct
+ἴσον παραλληλόγραμμον τὸ ΒΕ, παρὰ δὲ τὴν ΓΕ τῷ Δ ἴσον      a single (rectilinear figure) similar to ABC, and equal to
+παραλληλόγραμμον τὸ ΓΜ ἐν γωνίᾳ τῇ ὑπὸ ΖΓΕ, ἥ ἐστιν        D.
+ἴση τῇ ὑπὸ ΓΒΛ. ἐπ᾿ εὐθείας ἄρα ἐστὶν ἡ μὲν ΒΓ τῇ ΓΖ, ἡ        For let the parallelogram BE, equal to triangle ABC,
+δὲ ΛΕ τῇ ΕΜ. καὶ εἰλήφθω τῶν ΒΓ, ΓΖ μέση ἀνάλογον ἡ        have been applied to (the straight-line) BC [Prop. 1.44],
+ΗΘ, καὶ ἀναγεγράφθω ἀπὸ τῆς ΗΘ τῷ ΑΒΓ ὅμοιόν τε καὶ        and the parallelogram CM , equal to D, (have been ap-
+ὁμοίως κείμενον τὸ ΚΗΘ.                                    plied) to (the straight-line) CE, in the angle F CE, which
+    Καὶ ἐπεί ἐστιν ὡς ἡ ΒΓ πρὸς τὴν ΗΘ, οὕτως ἡ ΗΘ         is equal to CBL [Prop. 1.45]. Thus, BC is straight-on to
+πρὸς τὴν ΓΖ, ἐὰν δὲ τρεῖς εὐθεῖαι ἀνάλογον ὦσιν, ἔστιν     CF , and LE to EM [Prop. 1.14]. And let the mean pro-
+ὡς ἡ πρώτη πρὸς τὴν τρίτην, οὕτως τὸ ἀπὸ τῆς πρώτης        portion GH have been taken of BC and CF [Prop. 6.13].
+εἶδος πρὸς τὸ ἀπὸ τῆς δευτέρας τὸ ὅμοιον καὶ ὁμοίως ἀνα-   And let KGH, similar, and similarly laid out, to ABC
+γραφόμενον, ἔστιν ἄρα ὡς ἡ ΒΓ πρὸς τὴν ΓΖ, οὕτως τὸ        have been described on GH [Prop. 6.18].
+ΑΒΓ τρίγωνον πρὸς τὸ ΚΗΘ τρίγωνον. ἀλλὰ καὶ ὡς ἡ ΒΓ            And since as BC is to GH, so GH (is) to CF , and if
+πρὸς τὴν ΓΖ, οὕτως τὸ ΒΕ παραλληλόγραμμον πρὸς τὸ ΕΖ       three straight-lines are proportional then as the first is to
+παραλληλόγραμμον. καὶ ὡς ἄρα τὸ ΑΒΓ τρίγωνον πρὸς τὸ       the third, so the figure (described) on the first (is) to the
+ΚΗΘ τρίγωνον, οὕτως τὸ ΒΕ παραλληλόγραμμον πρὸς τὸ         similar, and similarly described, (figure) on the second
+ΕΖ παραλληλόγραμμον· ἐναλλὰξ ἄρα ὡς τὸ ΑΒΓ τρίγωνον        [Prop. 6.19 corr.], thus as BC is to CF , so triangle ABC
+πρὸς τὸ ΒΕ παραλληλόγραμμον, οὕτως τὸ ΚΗΘ τρίγωνον         (is) to triangle KGH. But, also, as BC (is) to CF , so
+πρὸς τὸ ΕΖ παραλληλόγραμμον. ἴσον δὲ τὸ ΑΒΓ τρίγωνον       parallelogram BE (is) to parallelogram EF [Prop. 6.1].
+τῷ ΒΕ παραλληλογράμμῳ· ἴσον ἄρα καὶ τὸ ΚΗΘ τρίγωνον        And, thus, as triangle ABC (is) to triangle KGH, so par-
+τῷ ΕΖ παραλληλογράμμῳ. ἀλλὰ τὸ ΕΖ παραλληλόγραμμον         allelogram BE (is) to parallelogram EF . Thus, alter-
+τῷ Δ ἐστιν ἴσον· καὶ τὸ ΚΗΘ ἄρα τῷ Δ ἐστιν ἴσον. ἔστι      nately, as triangle ABC (is) to parallelogram BE, so tri-
+δὲ τὸ ΚΗΘ καὶ τῷ ΑΒΓ ὅμοιον.                               angle KGH (is) to parallelogram EF [Prop. 5.16]. And
+    Τῷ ἄρα δοθέντι εὐθυγράμμῳ τῷ ΑΒΓ ὅμοιον καὶ ἄλλῳ       triangle ABC (is) equal to parallelogram BE. Thus, tri-
+τῷ δοθέντι τῷ Δ ἴσον τὸ αὐτὸ συνέσταται τὸ ΚΗΘ· ὅπερ       angle KGH (is) also equal to parallelogram EF . But,
+ἔδει ποιῆσαι.                                              parallelogram EF is equal to D. Thus, KGH is also equal
+                                                           to D. And KGH is also similar to ABC.
+                                                               Thus, a single (rectilinear figure) KGH has been con-
+                                                           structed (which is) similar to the given rectilinear figure
+                                                           ABC, and equal to a different given (rectilinear figure)
+                                                           D. (Which is) the very thing it was required to do.
+
+                          kþ.                                                  Proposition 26
+    ᾿Εὰν ἀπὸ παραλληλογράμμου παραλληλόγραμμον ἀφαι-           If from a parallelogram a(nother) parallelogram is
+ρεθῇ ὅμοιόν τε τῷ ὅλῳ καὶ ὁμοίως κείμενον κοινὴν γωνίαν    subtracted (which is) similar, and similarly laid out, to
+ἔχον αὐτῷ, περὶ τὴν αὐτὴν διάμετρόν ἐστι τῷ ὅλῳ.           the whole, having a common angle with it, then (the sub-
+    ᾿Απὸ γὰρ παραλληλογράμμου τοῦ ΑΒΓΔ παραλληλόγρα-       tracted parallelogram) is about the same diagonal as the
+μμον ἀφῃρήσθω τὸ ΑΖ ὅμοιον τῷ ΑΒΓΔ καὶ ὁμοίως              whole.
+κείμενον κοινὴν γωνίαν ἔχον αὐτῷ τὴν ὑπὸ ΔΑΒ· λέγω,            For, from parallelogram ABCD, let (parallelogram)
+
+
+                                                       183
+STOIQEIWN þ.                                                                                ELEMENTS BOOK 6
+
+ὅτι περὶ τὴν αὐτὴν διάμετρόν ἐστι τὸ ΑΒΓΔ τῷ ΑΖ.           AF have been subtracted (which is) similar, and similarly
+                                                           laid out, to ABCD, having the common angle DAB with
+                                                           it. I say that ABCD is about the same diagonal as AF .
+            Α                    Η                   ∆                  A                   G                       D
+
+
+
+     Ε                     Ζ                                     E                      F
+
+ Κ                                                           K
+                      Θ                                                           H
+
+Β                                        Γ                 B                                          C
+    Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, ἔστω [αὐτῶν] διάμετρος ἡ          For (if) not, then, if possible, let AHC be [ABCD’s]
+ΑΘΓ, καὶ ἐκβληθεῖσα ἡ ΗΖ διήχθω ἐπὶ τὸ Θ, καὶ ἤχθω         diagonal. And producing GF , let it have been drawn
+διὰ τοῦ Θ ὁπορέρᾳ τῶν ΑΔ, ΒΓ παράλληλος ἡ ΘΚ.              through to (point) H. And let HK have been drawn
+    ᾿Επεὶ οὖν περὶ τὴν αὐτὴν διάμετρόν ἐστι τὸ ΑΒΓΔ τῷ     through (point) H, parallel to either of AD or BC
+ΚΗ, ἔστιν ἄρα ὡς ἡ ΔΑ πρὸς τὴν ΑΒ, οὕτως ἡ ΗΑ πρὸς         [Prop. 1.31].
+τὴν ΑΚ. ἔστι δὲ καὶ διὰ τὴν ὁμοιότητα τῶν ΑΒΓΔ, ΕΗ καὶ         Therefore, since ABCD is about the same diagonal as
+ὡς ἡ ΔΑ πρὸς τὴν ΑΒ, οὕτως ἡ ΗΑ πρὸς τὴν ΑΕ· καὶ ὡς        KG, thus as DA is to AB, so GA (is) to AK [Prop. 6.24].
+ἄρα ἡ ΗΑ πρὸς τὴν ΑΚ, οὕτως ἡ ΗΑ πρὸς τὴν ΑΕ. ἡ ΗΑ         And, on account of the similarity of ABCD and EG, also,
+ἄρα πρὸς ἑκατέραν τῶν ΑΚ, ΑΕ τὸν αὐτὸν ἔχει λόγον. ἴση     as DA (is) to AB, so GA (is) to AE. Thus, also, as GA
+ἄρα ἐστὶν ἡ ΑΕ τῇ ΑΚ ἡ ἐλάττων τῇ μείζονι· ὅπερ ἐστὶν      (is) to AK, so GA (is) to AE. Thus, GA has the same
+ἀδύνατον. οὐκ ἄρα οὔκ ἐστι περὶ τὴν αὐτὴν διάμετρον τὸ     ratio to each of AK and AE. Thus, AE is equal to AK
+ΑΒΓΔ τῷ ΑΖ· περὶ τὴν αὐτὴν ἄρα ἐστὶ διάμετρον τὸ ΑΒΓΔ      [Prop. 5.9], the lesser to the greater. The very thing is
+παραλληλόγραμμον τῷ ΑΖ παραλληλογράμμῳ.                    impossible. Thus, ABCD is not not about the same di-
+    ᾿Εὰν ἄρα ἀπὸ παραλληλογράμμου παραλληλόγραμμον         agonal as AF . Thus, parallelogram ABCD is about the
+ἀφαιρεθῇ ὅμοιόν τε τῷ ὅλῳ καὶ ὁμοίως κείμενον κοινὴν       same diagonal as parallelogram AF .
+γωνίαν ἔχον αὐτῷ, περὶ τὴν αὐτὴν διάμετρόν ἐστι τῷ ὅλῳ·        Thus, if from a parallelogram a(nother) parallelogram
+ὅπερ ἔδει δεῖξαι.                                          is subtracted (which is) similar, and similarly laid out,
+                                                           to the whole, having a common angle with it, then (the
+                                                           subtracted parallelogram) is about the same diagonal as
+                                                           the whole. (Which is) the very thing it was required to
+                                                           show.
+
+                          kzþ.                                                 Proposition 27
+    Πάντων τῶν παρὰ τὴν αὐτὴν εὐθεῖαν παραβαλλομένων           Of all the parallelograms applied to the same straight-
+παραλληλογράμμων καὶ ἐλλειπόντων εἴδεσι παραλληλογράμ-     line, and falling short by parallelogrammic figures similar,
+μοις ὁμοίοις τε καὶ ὁμοίως κειμένοις τῷ ἀπὸ τῆς ἡμισείας   and similarly laid out, to the (parallelogram) described
+ἀναγραφομένῳ μέγιστόν ἐστι τὸ ἀπὸ τῆς ἡμισείας παρα-       on half (the straight-line), the greatest is the [parallelo-
+βαλλόμενον [παραλληλόγραμμον] ὅμοιον ὂν τῷ ἐλλείμμαντι.    gram] applied to half (the straight-line) which (is) similar
+    ῎Εστω εὐθεῖα ἡ ΑΒ καὶ τετμήσθω δίχα κατὰ τὸ Γ,         to (that parallelogram) by which it falls short.
+καὶ παραβεβλήσθω παρὰ τὴν ΑΒ εὐθεῖαν τὸ ΑΔ παραλ-              Let AB be a straight-line, and let it have been cut in
+ληλόγραμμον ἐλλεῖπον εἴδει παραλληλογράμμῳ τῷ ΔΒ ἀνα-      half at (point) C [Prop. 1.10]. And let the parallelogram
+γραφέντι ἀπὸ τῆς ἡμισείας τῆς ΑΒ, τουτέστι τῆς ΓΒ· λέγω,   AD have been applied to the straight-line AB, falling
+ὅτι πάντων τῶν παρὰ τὴν ΑΒ παραβαλλομένων παραλλη-         short by the parallelogrammic figure DB (which is) ap-
+λογράμμων καὶ ἐλλειπόντων εἴδεσι [παραλληλογράμμοις]       plied to half of AB—that is to say, CB. I say that of all
+ὁμοίοις τε καὶ ὁμοίως κειμένοις τῷ ΔΒ μέγιστόν ἐστι τὸ     the parallelograms applied to AB, and falling short by
+
+
+                                                       184
+STOIQEIWN þ.                                                                                      ELEMENTS BOOK 6
+
+ΑΔ. παραβεβλήσθω γὰρ παρὰ τὴν ΑΒ εὐθεῖαν τὸ ΑΖ πα-              [parallelogrammic] figures similar, and similarly laid out,
+ραλληλόγραμμον ἐλλεῖπον εἴδει παραλληλογράμμῳ τῷ ΖΒ             to DB, the greatest is AD. For let the parallelogram AF
+ὁμοίῳ τε καὶ ὁμοίως κειμένῳ τῷ ΔΒ· λέγω, ὅτι μεῖζόν ἐστι        have been applied to the straight-line AB, falling short by
+τὸ ΑΔ τοῦ ΑΖ.                                                   the parallelogrammic figure F B (which is) similar, and
+                                                                similarly laid out, to DB. I say that AD is greater than
+                                                                AF .
+                        ∆                       Ε                                       D                       E
+                                   Ν                                                              N
+                                   Ζ Μ              Θ                                              F M              H
+ Η                             Λ                                   G                          L
+
+
+
+
+         Α                         Γ   Κ                 Β               A                        C    K                B
+   ᾿Επεὶ γὰρ ὅμοιόν ἐστι τὸ ΔΒ παραλληλόγραμμον τῷ ΖΒ               For since parallelogram DB is similar to parallelo-
+παραλληλογράμμῳ, περὶ τὴν αὐτήν εἰσι διάμετρον. ἤχθω            gram F B, they are about the same diagonal [Prop. 6.26].
+αὐτῶν διάμετρος ἡ ΔΒ, καὶ καταγεγράφθω τὸ σχῆμα.                Let their (common) diagonal DB have been drawn, and
+   ᾿Επεὶ οὖν ἴσον ἐστὶ τὸ ΓΖ τῷ ΖΕ, κοινὸν δὲ τὸ ΖΒ,            let the (rest of the) figure have been described.
+ὅλον ἄρα τὸ ΓΘ ὅλῳ τῷ ΚΕ ἐστιν ἴσον. ἀλλὰ τὸ ΓΘ τῷ                  Therefore, since (complement) CF is equal to (com-
+ΓΗ ἐστιν ἴσον, ἐπεὶ καὶ ἡ ΑΓ τῇ ΓΒ. καὶ τὸ ΗΓ ἄρα τῷ ΕΚ         plement) F E [Prop. 1.43], and (parallelogram) F B is
+ἐστιν ἴσον. κοινὸν προσκείσθω τὸ ΓΖ· ὅλον ἄρα τὸ ΑΖ τῷ          common, the whole (parallelogram) CH is thus equal
+ΛΜΝ γνώμονί ἐστιν ἴσον· ὥστε τὸ ΔΒ παραλληλόγραμμον,            to the whole (parallelogram) KE. But, (parallelogram)
+τουτέστι τὸ ΑΔ, τοῦ ΑΖ παραλληλογράμμου μεῖζόν ἐστιν.           CH is equal to CG, since AC (is) also (equal) to CB
+   Πάντων ἄρα τῶν παρὰ τὴν αὐτὴν εὐθεῖαν παραβαλ-               [Prop. 6.1]. Thus, (parallelogram) GC is also equal
+λομένων παραλληλογράμμων καὶ ἐλλειπόντων εἴδεσι παραλ-          to EK. Let (parallelogram) CF have been added to
+ληλογράμμοις ὁμοίοις τε καὶ ὁμοίως κειμένοις τῷ ἀπὸ τῆς         both. Thus, the whole (parallelogram) AF is equal to
+ἡμισείας ἀναγραφομένῳ μέγιστόν ἐστι τὸ ἀπὸ τῆς ἡμισείας         the gnomon LM N . Hence, parallelogram DB—that is to
+παραβληθέν· ὅπερ ἔδει δεῖξαι.                                   say, AD—is greater than parallelogram AF .
+                                                                    Thus, for all parallelograms applied to the same
+                                                                straight-line, and falling short by a parallelogrammic
+                                                                figure similar, and similarly laid out, to the (parallelo-
+                                                                gram) described on half (the straight-line), the greatest
+                                                                is the [parallelogram] applied to half (the straight-line).
+                                                                (Which is) the very thing it was required to show.
+
+                            khþ.                                                    Proposition 28†
+    Παρὰ τὴν δοθεῖσαν εὐθεῖαν τῷ δοθέντι εὐθυγράμμῳ                 To apply a parallelogram, equal to a given rectilin-
+ἴσον παραλληλόγραμμον παραβαλεῖν ἐλλεῖπον εἴδει πα-             ear figure, to a given straight-line, (the applied parallel-
+ραλληλογράμμῳ ὁμοίῳ τῷ δοθέντι· δεῖ δὲ τὸ διδόμενον             ogram) falling short by a parallelogrammic figure similar
+εὐθύγραμμον [ᾧ δεῖ ἴσον παραβαλεῖν] μὴ μεῖζον εἶναι τοῦ         to a given (parallelogram). It is necessary for the given
+ἀπὸ τῆς ἡμισείας ἀναγραφομένου ὁμοίου τῷ ἐλλείμματι [τοῦ        rectilinear figure [to which it is required to apply an equal
+τε ἀπὸ τῆς ἡμισείας καὶ ᾧ δεῖ ὅμοιον ἐλλείπειν].                (parallelogram)] not to be greater than the (parallelo-
+    ῎Εστω ἡ μὲν δοθεῖσα εὐθεῖα ἡ ΑΒ, τὸ δὲ δοθὲν                gram) described on half (of the straight-line) and similar
+εὐθύγραμμον, ᾧ δεῖ ἴσον παρὰ τὴν ΑΒ παραβαλεῖν, τὸ Γ μὴ         to the deficit.
+μεῖζον [ὂν] τοῦ ἀπὸ τῆς ἡμισείας τῆς ΑΒ ἀναγραφομένου               Let AB be the given straight-line, and C the given
+ὁμοίου τῷ ἐλλείμματι, ᾧ δὲ δεῖ ὅμοιον ἐλλείπειν, τὸ Δ· δεῖ δὴ   rectilinear figure to which the (parallelogram) applied to
+
+
+                                                             185
+STOIQEIWN þ.                                                                                   ELEMENTS BOOK 6
+
+παρὰ τὴν δοθεῖσαν εὐθεῖαν τὴν ΑΒ τῷ δοθέντι εὐθυγράμμῳ AB is required (to be) equal, [being] not greater than
+τῷ Γ ἴσον παραλληλόγραμμον παραβαλεῖν ἐλλεῖπον εἴδει πα- the (parallelogram) described on half of AB and similar
+ραλληλογράμμῳ ὁμοίῳ ὄντι τῷ Δ.                           to the deficit, and D the (parallelogram) to which the
+                                                         deficit is required (to be) similar. So it is required to apply
+                                                         a parallelogram, equal to the given rectilinear figure C, to
+                                                         the straight-line AB, falling short by a parallelogrammic
+                                                         figure which is similar to D.
+  J          H        O Z                                        H       G        P F
+
+                                    G                                                           C
+                                          L        M                                                     L         M
+                          U
+              X       F
+    T                         Q R
+                                                                                      U
+                          P                                               O       V
+                                                                 T                    Q   WR
+                                    D                                                            D
+        A         E           S B                                    A        E           S B
+                                              K        N                                                     K         N
+    Τετμήσθω ἡ ΑΒ δίχα κατὰ τὸ Ε σημεῖον, καὶ ἀνα-                Let AB have been cut in half at point E [Prop. 1.10],
+γεγράφθω ἀπὸ τῆς ΕΒ τῷ Δ ὅμοιον καὶ ὁμοίως κείμενον           and let (parallelogram) EBF G, (which is) similar, and
+τὸ ΕΒΖΗ, καὶ συμπεπληρώσθω τὸ ΑΗ παραλληλόγραμμον.            similarly laid out, to (parallelogram) D, have been de-
+    Εἰ μὲν οὖν ἴσον ἐστὶ τὸ ΑΗ τῷ Γ, γεγονὸς ἂν εἴη τὸ ἐπι-   scribed on EB [Prop. 6.18]. And let parallelogram AG
+ταχθέν· παραβέβληται γὰρ παρὰ τὴν δοθεῖσαν εὐθεῖαν τὴν        have been completed.
+ΑΒ τῷ δοθέντι εὐθυγράμμῳ τῷ Γ ἴσον παραλληλόγραμμον               Therefore, if AG is equal to C then the thing pre-
+τὸ ΑΗ ἐλλεῖπον εἴδει παραλληλογράμμῳ τῷ ΗΒ ὁμοίῳ ὄντι         scribed has happened. For a parallelogram AG, equal
+τῷ Δ. εἰ δὲ οὔ, μεῖζόν ἔστω τὸ ΘΕ τοῦ Γ. ἴσον δὲ τὸ ΘΕ        to the given rectilinear figure C, has been applied to the
+τῷ ΗΒ· μεῖζον ἄρα καὶ τὸ ΗΒ τοῦ Γ. ᾧ δὴ μεῖζόν ἐστι           given straight-line AB, falling short by a parallelogram-
+τὸ ΗΒ τοῦ Γ, ταύτῃ τῇ ὑπεροχῇ ἴσον, τῷ δὲ Δ ὅμοιον καὶ        mic figure GB which is similar to D. And if not, let HE
+ὁμοίως κείμενον τὸ αὐτὸ συνεστάτω τὸ ΚΛΜΝ. ἀλλὰ τὸ Δ          be greater than C. And HE (is) equal to GB [Prop. 6.1].
+τῷ ΗΒ [ἐστιν] ὅμοιον· καὶ τὸ ΚΜ ἄρα τῷ ΗΒ ἐστιν ὅμοιον.       Thus, GB (is) also greater than C. So, let (parallelo-
+ἔστω οὖν ὁμόλογος ἡ μὲν ΚΛ τῂ ΗΕ, ἡ δὲ ΛΜ τῇ ΗΖ.              gram) KLM N have been constructed (so as to be) both
+καὶ ἐπεὶ ἴσον ἐστὶ τὸ ΗΒ τοῖς Γ, ΚΜ, μεῖζον ἄρα ἐστὶ τὸ       similar, and similarly laid out, to D, and equal to the ex-
+ΗΒ τοῦ ΚΜ· μείζων ἄρα ἐστὶ καὶ ἡ μὲν ΗΕ τῆς ΚΛ, ἡ δὲ          cess by which GB is greater than C [Prop. 6.25]. But,
+ΗΖ τῆς ΛΜ. κείσθω τῇ μὲν ΚΛ ἴση ἡ ΗΞ, τῇ δὲ ΛΜ ἴση            GB [is] similar to D. Thus, KM is also similar to GB
+ἡ ΗΟ, καὶ συμπεπληρώσθω τὸ ΞΗΟΠ παραλληλόγραμμον·             [Prop. 6.21]. Therefore, let KL correspond to GE, and
+ἴσον ἄρα καὶ ὅμοιον ἐστι [τὸ ΗΠ] τῷ ΚΜ [ἀλλὰ τὸ ΚΜ τῷ         LM to GF . And since (parallelogram) GB is equal to
+ΗΒ ὅμοιόν ἐστιν]. καὶ τὸ ΗΠ ἄρα τῷ ΗΒ ὅμοιόν ἐστιν· περὶ      (figure) C and (parallelogram) KM , GB is thus greater
+τὴν αὐτὴν ἄρα διάμετρόν ἐστι τὸ ΗΠ τῷ ΗΒ. ἔστω αὐτῶν          than KM . Thus, GE is also greater than KL, and GF
+διάμετρος ἡ ΗΠΒ, καὶ καταγεγράφθω τὸ σχῆμα.                   than LM . Let GO be made equal to KL, and GP to LM
+    ᾿Επεὶ οὖν ἴσον ἐστὶ τὸ ΒΗ τοῖς Γ, ΚΜ, ὧν τὸ ΗΠ τῷ         [Prop. 1.3]. And let the parallelogram OGP Q have been
+ΚΜ ἐστιν ἴσον, λοιπὸς ἄρα ὁ ΥΧΦ γνόμων λοιπῷ τῷ Γ ἴσος        completed. Thus, [GQ] is equal and similar to KM [but,
+ἐστίν. καὶ ἐπεὶ ἴσον ἐστὶ τὸ ΟΡ τῷ ΞΣ, κοινὸν προσκείσθω      KM is similar to GB]. Thus, GQ is also similar to GB
+τὸ ΠΒ· ὅλον ἄρα τὸ ΟΒ ὅλῳ τῷ ΞΒ ἴσον ἐστίν. ἀλλὰ τὸ ΞΒ        [Prop. 6.21]. Thus, GQ and GB are about the same diag-
+τῷ ΤΕ ἐστιν ἴσον, ἐπεὶ καὶ πλευρὰ ἡ ΑΕ πλευρᾷ τῇ ΕΒ ἐστιν     onal [Prop. 6.26]. Let GQB be their (common) diagonal,
+ἴση· καὶ τὸ ΤΕ ἄρα τῷ ΟΒ ἐστιν ἴσον. κοινὸν προσκείσθω        and let the (remainder of the) figure have been described.
+τὸ ΞΣ· ὅλον ἄρα τὸ ΤΣ ὅλῳ τῷ ΦΧΥ γνώμονί ἐστιν ἴσον.              Therefore, since BG is equal to C and KM , of which
+ἀλλ᾿ ὁ ΦΧΥ γνώμων τῷ Γ ἐδείχθη ἴσος· καὶ τὸ ΤΣ ἄρα τῷ         GQ is equal to KM , the remaining gnomon U W V is thus
+Γ ἐστιν ἴσον.                                                 equal to the remainder C. And since (the complement)
+    Παρὰ τὴν δοθεῖσαν ἄρα εὐθεῖαν τὴν ΑΒ τῷ δοθέντι           P R is equal to (the complement) OS [Prop. 1.43], let
+εὐθυγράμμῳ τῷ Γ ἴσον παραλληλόγραμμον παραβέβληται            (parallelogram) QB have been added to both. Thus, the
+τὸ ΣΤ ἐλλεῖπον εἴδει παραλληλογράμμῳ τῷ ΠΒ ὁμοίῳ ὄντι         whole (parallelogram) P B is equal to the whole (par-
+
+
+                                                           186
+STOIQEIWN þ.                                                                                                              ELEMENTS BOOK 6
+
+τῷ Δ [ἐπειδήπερ τὸ ΠΒ τῷ ΗΠ ὅμοιόν ἐστιν]· ὅπερ ἔδει allelogram) OB. But, OB is equal to T E, since side
+ποιῆσαι.                                             AE is equal to side EB [Prop. 6.1]. Thus, T E is also
+                                                     equal to P B. Let (parallelogram) OS have been added
+                                                     to both. Thus, the whole (parallelogram) T S is equal to
+                                                     the gnomon V W U . But, gnomon V W U was shown (to
+                                                     be) equal to C. Therefore, (parallelogram) T S is also
+                                                     equal to (figure) C.
+                                                          Thus, the parallelogram ST , equal to the given rec-
+                                                     tilinear figure C, has been applied to the given straight-
+                                                     line AB, falling short by the parallelogrammic figure QB,
+                                                     which is similar to D [inasmuch as QB is similar to GQ
+                                                     [Prop. 6.24] ]. (Which is) the very thing it was required
+                                                     to do.
+† This proposition is a geometric solution of the quadratic equation x2 −α x+β = 0. Here, x is the ratio of a side of the deficit to the corresponding
+
+side of figure D, α is the ratio of the length of AB to the length of that side of figure D which corresponds to the side of the deficit running along
+AB, and β is the ratio of the areas of figures C and D. The constraint corresponds to the condition β < α2 /4 for the equation to have real roots.
+Only the smaller root of the equation is found. The larger root can be found by a similar method.
+
+
+                                  kjþ.                                                               Proposition 29†
+   Παρὰ τὴν δοθεῖσαν εὐθεῖαν τῷ δοθέντι εὐθυγράμμῳ        To apply a parallelogram, equal to a given rectilin-
+ἴσον παραλληλόγραμμον παραβαλεῖν ὑπερβάλλον εἴδει πα- ear figure, to a given straight-line, (the applied parallelo-
+ραλληλογράμμῳ ὁμοίῳ τῷ δοθέντι.                       gram) overshooting by a parallelogrammic figure similar
+                                                      to a given (parallelogram).
+                       Z               L M       K                  J                               F              L M        K                 H
+         G                                                                            C
+
+
+
+
+         D                                                                            D
+                                   F
+    A             E              Y B     O                                       A             E
+                                                                                                               V
+                                                                                                             X B
+                                                                                                                       P
+                                       Q                                                                           W
+
+
+                   N             P X         H                                               N           Q O      G
+    ῎Εστω ἡ μὲν δοθεῖσα εὐθεῖα ἡ ΑΒ, τὸ δὲ δοθὲν                                 Let AB be the given straight-line, and C the given
+εὐθύγραμμον, ᾧ δεῖ ἴσον παρὰ τὴν ΑΒ παραβαλεῖν, τὸ Γ,                       rectilinear figure to which the (parallelogram) applied to
+ᾧ δὲ δεῖ ὅμοιον ὑπερβάλλειν, τὸ Δ· δεῖ δὴ παρὰ τὴν ΑΒ                       AB is required (to be) equal, and D the (parallelogram)
+εὐθεῖαν τῷ Γ εὐθυγράμμῳ ἴσον παραλληλόγραμμον παρα-                         to which the excess is required (to be) similar. So it is
+βαλεῖν ὑπερβάλλον εἴδει παραλληλογράμμῳ ὁμοίῳ τῷ Δ.                         required to apply a parallelogram, equal to the given rec-
+    Τετμήσθω ἡ ΑΒ δίχα κατὰ τὸ Ε, καὶ ἀναγεγράθω                            tilinear figure C, to the given straight-line AB, overshoot-
+ἀπὸ τὴς ΕΒ τῷ Δ ὅμοιον καὶ ὁμοίως κείμενον παραλ-                           ing by a parallelogrammic figure similar to D.
+ληλόγραμμον τὸ ΒΖ, καὶ συναμφοτέροις μὲν τοῖς ΒΖ, Γ                              Let AB have been cut in half at (point) E [Prop. 1.10],
+ἴσον, τῷ δὲ Δ ὅμοιον καὶ ὁμοίως κείμενον τὸ αὐτὸ συ-                        and let the parallelogram BF , (which is) similar, and
+νεστάτω τὸ ΗΘ. ὁμόλογος δὲ ἔστω ἡ μὲν ΚΘ τῇ ΖΛ, ἡ δὲ                        similarly laid out, to D, have been described on EB
+ΚΗ τῇ ΖΕ. καὶ ἐπεὶ μεῖζόν ἐστι τὸ ΗΘ τοῦ ΖΒ, μείζων ἄρα                     [Prop. 6.18]. And let (parallelogram) GH have been con-
+ἐστὶ καὶ ἡ μὲν ΚΘ τῆς ΖΛ, ἡ δὲ ΚΗ τῇ ΖΕ. ἐκβεβλήσθωσαν                      structed (so as to be) both similar, and similarly laid out,
+αἱ ΖΛ, ΖΕ, καὶ τῇ μὲν ΚΘ ἴση ἔστω ἡ ΖΛΜ, τῇ δὲ ΚΗ ἴση                       to D, and equal to the sum of BF and C [Prop. 6.25].
+ἡ ΖΕΝ, καὶ συμπεπληρώσθω τὸ ΜΝ· τὸ ΜΝ ἄρα τῷ ΗΘ                             And let KH correspond to F L, and KG to F E. And since
+ἴσον τέ ἐστι καὶ ὅμοιον. ἀλλὰ τὸ ΗΘ τῷ ΕΛ ἐστιν ὅμοιον·                     (parallelogram) GH is greater than (parallelogram) F B,
+
+
+                                                                        187
+STOIQEIWN þ.                                                                                                         ELEMENTS BOOK 6
+
+καὶ τὸ ΜΝ ἄρα τῷ ΕΛ ὅμοιόν ἐστιν· περὶ τὴν αὐτὴν ἄρα                       KH is thus also greater than F L, and KG than F E.
+διάμετρόν ἐστι τὸ ΕΛ τῷ ΜΝ. ἤχθω αὐτῶν διάμετρος ἡ                         Let F L and F E have been produced, and let F LM be
+ΖΞ, καὶ καταγεγράφθω τὸ σχῆμα.                                             (made) equal to KH, and F EN to KG [Prop. 1.3]. And
+    ᾿Επεὶ ἴσον ἐστὶ τὸ ΗΘ τοῖς ΕΛ, Γ, ἀλλὰ τὸ ΗΘ τῷ ΜΝ                     let (parallelogram) M N have been completed. Thus,
+ἴσον ἐστίν, καὶ τὸ ΜΝ ἄρα τοῖς ΕΛ, Γ ἴσον ἐστίν. κοινὸν                    M N is equal and similar to GH. But, GH is similar to
+ἀφῃρήσθω τὸ ΕΛ· λοιπὸς ἄρα ὁ ΨΧΦ γνώμων τῷ Γ ἐστιν                         EL. Thus, M N is also similar to EL [Prop. 6.21]. EL is
+ἴσος. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΕ τῇ ΕΒ, ἴσον ἐστὶ καὶ τὸ ΑΝ τῷ                thus about the same diagonal as M N [Prop. 6.26]. Let
+ΝΒ, τουτέστι τῷ ΛΟ. κοινὸν προσκείσθω τὸ ΕΞ· ὅλον ἄρα                      their (common) diagonal F O have been drawn, and let
+τὸ ΑΞ ἴσον ἐστὶ τῷ ΦΧΨ γνώμονι. ἀλλὰ ὁ ΦΧΨ γνώμων                          the (remainder of the) figure have been described.
+τῷ Γ ἴσος ἐστίν· καὶ τὸ ΑΞ ἄρα τῷ Γ ἴσον ἐστίν.                                 And since (parallelogram) GH is equal to (parallel-
+    Παρὰ τὴν δοθεῖσαν ἄρα εὐθεῖαν τὴν ΑΒ τῷ δοθέντι                        ogram) EL and (figure) C, but GH is equal to (paral-
+εὐθυγράμμῳ τῷ Γ ἴσον παραλληλόγραμμον παραβέβληται                         lelogram) M N , M N is thus also equal to EL and C.
+τὸ ΑΞ ὑπερβάλλον εἴδει παραλληλογράμμῳ τῷ ΠΟ ὁμοίῳ                         Let EL have been subtracted from both. Thus, the re-
+ὄντι τῷ Δ, ἐπεὶ καὶ τῷ ΕΛ ἐστιν ὅμοιον τὸ ΟΠ· ὅπερ ἔδει                    maining gnomon XW V is equal to (figure) C. And since
+ποιῆσαι.                                                                   AE is equal to EB, (parallelogram) AN is also equal to
+                                                                           (parallelogram) N B [Prop. 6.1], that is to say, (parallel-
+                                                                           ogram) LP [Prop. 1.43]. Let (parallelogram) EO have
+                                                                           been added to both. Thus, the whole (parallelogram) AO
+                                                                           is equal to the gnomon V W X. But, the gnomon V W X
+                                                                           is equal to (figure) C. Thus, (parallelogram) AO is also
+                                                                           equal to (figure) C.
+                                                                                Thus, the parallelogram AO, equal to the given rec-
+                                                                           tilinear figure C, has been applied to the given straight-
+                                                                           line AB, overshooting by the parallelogrammic figure QP
+                                                                           which is similar to D, since P Q is also similar to EL
+                                                                           [Prop. 6.24]. (Which is) the very thing it was required
+                                                                           to do.
+† This proposition is a geometric solution of the quadratic equation x2 +α x−β = 0. Here, x is the ratio of a side of the excess to the corresponding
+
+side of figure D, α is the ratio of the length of AB to the length of that side of figure D which corresponds to the side of the excess running along
+AB, and β is the ratio of the areas of figures C and D. Only the positive root of the equation is found.
+
+
+                                  lþ.                                                               Proposition 30†
+   Τὴν δοθεῖσαν εὐθεῖαν πεπερασμένην ἄκρον καὶ μέσον     To cut a given finite straight-line in extreme and mean
+λόγον τεμεῖν.                                        ratio.
+                      Γ               Ζ        Θ                                                  C               F        H
+
+
+
+
+                    Α                            Β                                              A                   E        B
+                                        Ε
+
+
+                                        ∆                                                                           D
+  ῎Εστω ἡ δοθεῖσα εὐθεῖα πεπερασμένη ἡ ΑΒ· δεῖ δὴ τὴν    Let AB be the given finite straight-line. So it is re-
+ΑΒ εὐθεῖαν ἄκρον καὶ μέσον λόγον τεμεῖν.              quired to cut the straight-line AB in extreme and mean
+
+
+                                                                        188
+STOIQEIWN þ.                                                                                                 ELEMENTS BOOK 6
+
+    ᾿Αναγεγράφθω ἀπὸ τῆς ΑΒ τετράγωνον τὸ ΒΓ, καὶ πα-                    ratio.
+ραβεβλήσθω παρὰ τὴν ΑΓ τῷ ΒΓ ἴσον παραλληλόγραμμον                            Let the square BC have been described on AB [Prop.
+τὸ ΓΔ ὑπερβάλλον εἴδει τῷ ΑΔ ὁμοίῳ τῷ ΒΓ.                                1.46], and let the parallelogram CD, equal to BC, have
+    Τετράγωνον δέ ἐστι τὸ ΒΓ· τετράγωνον ἄρα ἐστι καὶ                    been applied to AC, overshooting by the figure AD
+τὸ ΑΔ. καὶ ἐπεὶ ἴσον ἐστὶ τὸ ΒΓ τῷ ΓΔ, κοινὸν ἀφῃρήσθω                   (which is) similar to BC [Prop. 6.29].
+τὸ ΓΕ· λοιπὸν ἄρα τὸ ΒΖ λοιπῷ τῷ ΑΔ ἐστιν ἴσον. ἔστι                          And BC is a square. Thus, AD is also a square.
+δὲ αὐτῷ καὶ ἰσογώνιον· τῶν ΒΖ, ΑΔ ἄρα ἀντιπεπόνθασιν αἱ                  And since BC is equal to CD, let (rectangle) CE have
+πλευραὶ αἱ περὶ τὰς ἴσας γωνίας· ἔστιν ἄρα ὡς ἡ ΖΕ πρὸς                  been subtracted from both. Thus, the remaining (rect-
+τὴν ΕΔ, οὕτως ἡ ΑΕ πρὸς τὴν ΕΒ. ἴση δὲ ἡ μὲν ΖΕ τῇ ΑΒ,                   angle) BF is equal to the remaining (square) AD. And
+ἡ δὲ ΕΔ τῇ ΑΕ. ἔστιν ἄρα ὡς ἡ ΒΑ πρὸς τὴν ΑΕ, οὕτως ἡ                    it is also equiangular to it. Thus, the sides of BF and
+ΑΕ πρὸς τὴν ΕΒ. μείζων δὲ ἡ ΑΒ τῆς ΑΕ· μείζων ἄρα καὶ                    AD about the equal angles are reciprocally proportional
+ἡ ΑΕ τῆς ΕΒ.                                                             [Prop. 6.14]. Thus, as F E is to ED, so AE (is) to EB.
+    ῾Η ἄρα ΑΒ εὐθεῖα ἄκρον καὶ μέσον λόγον τέτμηται κατὰ                 And F E (is) equal to AB, and ED to AE. Thus, as BA is
+τὸ Ε, καὶ τὸ μεῖζον αὐτῆς τμῆμά ἐστι τὸ ΑΕ· ὅπερ ἔδει                    to AE, so AE (is) to EB. And AB (is) greater than AE.
+ποιῆσαι.                                                                 Thus, AE (is) also greater than EB [Prop. 5.14].
+                                                                              Thus, the straight-line AB has been cut in extreme
+                                                                         and mean ratio at E, and AE is its greater piece. (Which
+                                                                         is) the very thing it was required to do.
+† This method of cutting a straight-line is sometimes called the “Golden Section”—see Prop. 2.11.
+
+
+
+                                laþ.                                                                Proposition 31
+    ᾿Εν τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀρθὴν      In right-angled triangles, the figure (drawn) on the
+γωνίαν ὑποτεινούσης πλευρᾶς εἶδος ἴσον ἐστὶ τοῖς ἀπὸ τῶν side subtending the right-angle is equal to the (sum of
+τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν εἴδεσι τοῖς ὁμοίοις the) similar, and similarly described, figures on the sides
+τε καὶ ὁμοίως ἀναγραφομένοις.                            surrounding the right-angle.
+
+                        Α                                                                           A
+
+
+
+
+    Β                   ∆                                      Γ              B                     D                        C
+
+    ῎Εστω τρίγωνον ὀρθογώνιον τὸ ΑΒΓ ὀρθὴν ἔχον τὴν                          Let ABC be a right-angled triangle having the angle
+ὑπὸ ΒΑΓ γωνίαν· λέγω, ὅτι τὸ ἀπὸ τῆς ΒΓ εἶδος ἴσον ἐστὶ                  BAC a right-angle. I say that the figure (drawn) on BC is
+τοῖς ἀπὸ τῶν ΒΑ, ΑΓ εἴδεσι τοῖς ὁμοίοις τε καὶ ὁμοίως                    equal to the (sum of the) similar, and similarly described,
+ἀναγραφομένοις.                                                          figures on BA and AC.
+    ῎Ηχθω κάθετος ἡ ΑΔ.                                                      Let the perpendicular AD have been drawn [Prop.
+    ᾿Επεὶ οὖν ἐν ὀρθογωνίῳ τριγώνῳ τῷ ΑΒΓ ἀπὸ τῆς πρὸς                   1.12].
+τῷ Α ὀρθῆς γωνίας ἐπὶ τὴν ΒΓ βάσιν κάθετος ἦκται ἡ ΑΔ,                       Therefore, since, in the right-angled triangle ABC,
+τὰ ΑΒΔ, ΑΔΓ πρὸς τῇ καθέτῳ τρίγωνα ὅμοιά ἐστι τῷ τε                      the (straight-line) AD has been drawn from the right-
+ὅλῳ τῷ ΑΒΓ καὶ ἀλλήλοις. καὶ ἐπεὶ ὅμοιόν ἐστι τὸ ΑΒΓ τῷ                  angle at A perpendicular to the base BC, the trian-
+ΑΒΔ, ἔστιν ἄρα ὡς ἡ ΓΒ πρὸς τὴν ΒΑ, οὕτως ἡ ΑΒ πρὸς                      gles ABD and ADC about the perpendicular are sim-
+τὴν ΒΔ. καὶ ἐπεὶ τρεῖς εὐθεῖαι ἀνάλογόν εἰσιν, ἔστιν ὡς ἡ                ilar to the whole (triangle) ABC, and to one another
+πρώτη πρὸς τὴν τρίτην, οὕτως τὸ ἀπὸ τῆς πρώτης εἶδος πρὸς                [Prop. 6.8]. And since ABC is similar to ABD, thus
+
+
+                                                                     189
+STOIQEIWN þ.                                                                                ELEMENTS BOOK 6
+
+τὸ ἀπὸ τῆς δευτέρας τὸ ὅμοιον καὶ ὁμοίως ἀναγραφόμενον.    as CB is to BA, so AB (is) to BD [Def. 6.1]. And
+ὡς ἄρα ἡ ΓΒ πρὸς τὴν ΒΔ, οὕτως τὸ ἀπὸ τῆς ΓΒ εἶδος         since three straight-lines are proportional, as the first is
+πρὸς τὸ ἀπὸ τῆς ΒΑ τὸ ὅμοιον καὶ ὁμοίως ἀναγραφόμενον.     to the third, so the figure (drawn) on the first is to the
+διὰ τὰ αὐτὰ δὴ καὶ ὡς ἡ ΒΓ πρὸς τὴν ΓΔ, οὕτως τὸ ἀπὸ τῆς   similar, and similarly described, (figure) on the second
+ΒΓ εἶδος πρὸς τὸ ἀπὸ τῆς ΓΑ. ὥστε καὶ ὡς ἡ ΒΓ πρὸς τὰς     [Prop. 6.19 corr.]. Thus, as CB (is) to BD, so the fig-
+ΒΔ, ΔΓ, οὕτως τὸ ἀπὸ τῆς ΒΓ εἶδος πρὸς τὰ ἀπὸ τῶν ΒΑ,      ure (drawn) on CB (is) to the similar, and similarly de-
+ΑΓ τὰ ὅμοια καὶ ὁμοίως ἀναγραφόμενα. ἴση δὲ ἡ ΒΓ ταῖς      scribed, (figure) on BA. And so, for the same (reasons),
+ΒΔ, ΔΓ· ἴσον ἄρα καὶ τὸ ἄπὸ τῆς ΒΓ εἶδος τοῖς ἀπὸ τῶν      as BC (is) to CD, so the figure (drawn) on BC (is) to
+ΒΑ, ΑΓ εἴδεσι τοῖς ὁμοίοις τε καὶ ὁμοίως ἀναγραφομένοις.   the (figure) on CA. Hence, also, as BC (is) to BD and
+    ᾿Εν ἄρα τοῖς ὀρθογωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν      DC, so the figure (drawn) on BC (is) to the (sum of the)
+ὀρθὴν γωνίαν ὑποτεινούσης πλευρᾶς εἶδος ἴσον ἐστὶ τοῖς     similar, and similarly described, (figures) on BA and AC
+ἀπὸ τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν πλευρῶν εἴδεσι τοῖς   [Prop. 5.24]. And BC is equal to BD and DC. Thus, the
+ὁμοίοις τε καὶ ὁμοίως ἀναγραφομένοις· ὅπερ ἔδει δεῖξαι.    figure (drawn) on BC (is) also equal to the (sum of the)
+                                                           similar, and similarly described, figures on BA and AC
+                                                           [Prop. 5.9].
+                                                               Thus, in right-angled triangles, the figure (drawn) on
+                                                           the side subtending the right-angle is equal to the (sum of
+                                                           the) similar, and similarly described, figures on the sides
+                                                           surrounding the right-angle. (Which is) the very thing it
+                                                           was required to show.
+
+                          lbþ.                                                 Proposition 32
+   ᾿Εὰν δύο τρίγωνα συντεθῇ κατὰ μίαν γωνίαν τὰς δύο         If two triangles, having two sides proportional to two
+πλευρὰς ταῖς δυσὶ πλευραῖς ἀνάλογον ἔχοντα ὥστε τὰς sides, are placed together at a single angle such that the
+ὁμολόγους αὐτῶν πλευρὰς καὶ παραλλήλους εἶναι, αἱ λοιπαὶ corresponding sides are also parallel, then the remaining
+τῶν τριγώνων πλευραὶ ἐπ᾿ εὐθείας ἔσονται.                sides of the triangles will be straight-on (with respect to
+                                                         one another).
+                                              ∆                                                             D
+
+
+                     Α                                                            A
+
+
+
+
+       Β            Γ                       Ε                      B             C                        E
+    ῎Εστω δύο τρίγωνα τὰ ΑΒΓ, ΔΓΕ τὰς δύο πλευρὰς τὰς          Let ABC and DCE be two triangles having the two
+ΒΑ, ΑΓ ταῖς δυσὶ πλευραῖς ταῖς ΔΓ, ΔΕ ἀνάλογον ἔχοντα,     sides BA and AC proportional to the two sides DC and
+ὡς μὲν τὴν ΑΒ πρὸς τὴν ΑΓ, οὕτως τὴν ΔΓ πρὸς τὴν ΔΕ,       DE—so that as AB (is) to AC, so DC (is) to DE—and
+παράλληλον δὲ τὴν μὲν ΑΒ τῇ ΔΓ, τὴν δὲ ΑΓ τῇ ΔΕ· λέγω,     (having side) AB parallel to DC, and AC to DE. I say
+ὅτι ἐπ᾿ εὐθείας ἐστὶν ἡ ΒΓ τῇ ΓΕ.                          that (side) BC is straight-on to CE.
+    ᾿Επεὶ γὰρ παράλληλός ἐστιν ἡ ΑΒ τῇ ΔΓ, καὶ εἰς αὐτὰς       For since AB is parallel to DC, and the straight-line
+ἐμπέπτωκεν εὐθεῖα ἡ ΑΓ, αἱ ἐναλλὰξ γωνίαι αἱ ὑπὸ ΒΑΓ,      AC has fallen across them, the alternate angles BAC and
+ΑΓΔ ἴσαι ἀλλήλαις εἰσίν. διὰ τὰ αὐτὰ δὴ καὶ ἡ ὑπὸ ΓΔΕ τῇ   ACD are equal to one another [Prop. 1.29]. So, for the
+ὑπὸ ΑΓΔ ἴση ἐστίν. ὥστε καὶ ἡ ὑπὸ ΒΑΓ τῇ ὑπὸ ΓΔΕ ἐστιν     same (reasons), CDE is also equal to ACD. And, hence,
+ἴση. καὶ ἐπεὶ δύο τρίγωνά ἐστι τὰ ΑΒΓ, ΔΓΕ μίαν γωνίαν     BAC is equal to CDE. And since ABC and DCE are
+τὴν πρὸς τῷ Α μιᾷ γωνίᾳ τῇ πρὸς τῷ Δ ἴσην ἔχοντα, περὶ     two triangles having the one angle at A equal to the one
+
+
+                                                        190
+STOIQEIWN þ.                                                                                     ELEMENTS BOOK 6
+
+δὲ τὰς ἴσας γωνίας τὰς πλευρὰς ἀνάλογον, ὡς τὴν ΒΑ πρὸς        angle at D, and the sides about the equal angles pro-
+τὴν ΑΓ, οὕτως τὴν ΓΔ πρὸς τὴν ΔΕ, ἰσογώνιον ἄρα ἐστὶ           portional, (so that) as BA (is) to AC, so CD (is) to
+τὸ ΑΒΓ τρίγωνον τῷ ΔΓΕ τριγώνῳ· ἴση ἄρα ἡ ὑπὸ ΑΒΓ              DE, triangle ABC is thus equiangular to triangle DCE
+γωνία τῇ ὑπὸ ΔΓΕ. ἐδείχθη δὲ καὶ ἡ ὑπὸ ΑΓΔ τῇ ὑπὸ ΒΑΓ          [Prop. 6.6]. Thus, angle ABC is equal to DCE. And (an-
+ἴση· ὅλη ἄρα ἡ ὑπὸ ΑΓΕ δυσὶ ταῖς ὑπὸ ΑΒΓ, ΒΑΓ ἴση ἐστίν.       gle) ACD was also shown (to be) equal to BAC. Thus,
+κοινὴ προσκείσθω ἡ ὑπὸ ΑΓΒ· αἱ ἄρα ὑπὸ ΑΓΕ, ΑΓΒ ταῖς           the whole (angle) ACE is equal to the two (angles) ABC
+ὑπὸ ΒΑΓ, ΑΓΒ, ΓΒΑ ἴσαι εἰσίν. ἀλλ᾿ αἱ ὑπὸ ΒΑΓ, ΑΒΓ,            and BAC. Let ACB have been added to both. Thus,
+ΑΓΒ δυσὶν ὀρθαῖς ἴσαι εἰσίν· καὶ αἱ ὑπὸ ΑΓΕ, ΑΓΒ ἄρα           ACE and ACB are equal to BAC, ACB, and CBA.
+δυσὶν ὀρθαῖς ἴσαι εἰσίν. πρὸς δή τινι εὐθείᾳ τῇ ΑΓ καὶ τῷ      But, BAC, ABC, and ACB are equal to two right-angles
+πρὸς αὐτῇ σημείῳ τῷ Γ δύο εὐθεῖαι αἱ ΒΓ, ΓΕ μὴ ἐπὶ τὰ          [Prop. 1.32]. Thus, ACE and ACB are also equal to two
+αὐτὰ μέρη κείμεναι τὰς ἐφεξῆς γωνάις τὰς ὑπὸ ΑΓΕ, ΑΓΒ          right-angles. Thus, the two straight-lines BC and CE,
+δυσὶν ὀρθαῖς ἴσας ποιοῦσιν· ἐπ᾿ εὐθείας ἄρα ἐστὶν ἡ ΒΓ τῇ      not lying on the same side, make adjacent angles ACE
+ΓΕ.                                                            and ACB (whose sum is) equal to two right-angles with
+    ᾿Εὰν ἄρα δύο τρίγωνα συντεθῇ κατὰ μίαν γωνίαν τὰς          some straight-line AC, at the point C on it. Thus, BC is
+δύο πλευρὰς ταῖς δυσὶ πλευραῖς ἀνάλογον ἔχοντα ὥστε τὰς        straight-on to CE [Prop. 1.14].
+ὁμολόγους αὐτῶν πλευρὰς καὶ παραλλήλους εἶναι, αἱ λοιπαὶ           Thus, if two triangles, having two sides proportional
+τῶν τριγώνων πλευραὶ ἐπ᾿ εὐθείας ἔσονται· ὅπερ ἔδει δεῖξαι.    to two sides, are placed together at a single angle such
+                                                               that the corresponding sides are also parallel, then the
+                                                               remaining sides of the triangles will be straight-on (with
+                                                               respect to one another). (Which is) the very thing it was
+                                                               required to show.
+
+                           lgþ.                                                      Proposition 33
+    ᾿Εν τοῖς ἴσοις κύκλοις αἱ γωνίαι τὸν αὐτὸν ἔχουσι          In equal circles, angles have the same ratio as the (ra-
+λόγον ταῖς περιφερείαις, ἐφ᾿ ὧν βεβήκασιν, ἐάν τε πρὸς tio of the) circumferences on which they stand, whether
+τοῖς κέντροις ἐάν τε πρὸς ταῖς περιφερείαις ὦσι βεβηκυῖαι. they are standing at the centers (of the circles) or at the
+                                                           circumferences.
+                                                        D                                                            D
+                          A                                                              A
+
+  B            H                             J                    B
+                                                                             G                            H
+
+                           L      E                                                      L    E
+      G                               Z             N                 C
+                   K                         M                                   K                  F     M
+                                                                                                                 N
+    ῎Εστωσαν ἴσοι κύκλοι οἱ ΑΒΓ, ΔΕΖ, καὶ πρὸς μὲν τοῖς            Let ABC and DEF be equal circles, and let BGC and
+κέντροις αὐτῶν τοῖς Η, Θ γωνίαι ἔστωσαν αἱ ὑπὸ ΒΗΓ,            EHF be angles at their centers, G and H (respectively),
+ΕΘΖ, πρὸς δὲ ταῖς περιφερείαις αἱ ὑπὸ ΒΑΓ, ΕΔΖ· λέγω,          and BAC and EDF (angles) at their circumferences. I
+ὅτι ἐστὶν ὡς ἡ ΒΓ περιφέρεια πρὸς τὴν ΕΖ περιφέρειαν,          say that as circumference BC is to circumference EF , so
+οὕτως ἥ τε ὑπὸ ΒΗΓ γωνία πρὸς τὴν ὑπὸ ΕΘΖ καὶ ἡ ὑπὸ            angle BGC (is) to EHF , and (angle) BAC to EDF .
+ΒΑΓ πρὸς τὴν ὑπὸ ΕΔΖ.                                              For let any number whatsoever of consecutive (cir-
+    Κείσθωσαν γὰρ τῇ μὲν ΒΓ περιφερείᾳ ἴσαι κατὰ τὸ ἑξῆς       cumferences), CK and KL, be made equal to circumfer-
+ὁσαιδηποτοῦν αἱ ΓΚ, ΚΛ, τῇ δὲ ΕΖ περιφερείᾳ ἴσαι ὁσαι-         ence BC, and any number whatsoever, F M and M N , to
+δηποτοῦν αἱ ΖΜ, ΜΝ, καὶ ἐπεζεύχθωσαν αἱ ΗΚ, ΗΛ, ΘΜ,            circumference EF . And let GK, GL, HM , and HN have
+ΘΝ.                                                            been joined.
+    ᾿Επεὶ οὖν ἴσαι εἰσὶν αἱ ΒΓ, ΓΚ, ΚΛ περιφέρειαι ἀλλήλαις,       Therefore, since circumferences BC, CK, and KL are
+ἴσαι εἰσὶ καὶ αἱ ὑπὸ ΒΗΓ, ΓΗΚ, ΚΗΛ γωνίαι ἀλλήλαις·            equal to one another, angles BGC, CGK, and KGL are
+ὁσαπλασίων ἄρα ἐστὶν ἡ ΒΛ περιφέρεια τῆς ΒΓ, τοσαυτα-          also equal to one another [Prop. 3.27]. Thus, as many
+πλασίων ἐστὶ καὶ ἡ ὑπὸ ΒΗΛ γωνία τῆς ὑπὸ ΒΗΓ. διὰ τὰ           times as circumference BL is (divisible) by BC, so many
+
+
+                                                            191
+STOIQEIWN þ.                                                                                  ELEMENTS BOOK 6
+
+αὐτὰ δὴ καὶ ὁσαπλασίων ἐστὶν ἡ ΝΕ περιφέρεια τῆς ΕΖ, το-      times is angle BGL also (divisible) by BGC. And so, for
+σαυταπλασίων ἐστὶ καὶ ἡ ὑπὸ ΝΘΕ γωνία τῆς ὑπὸ ΕΘΖ. εἰ         the same (reasons), as many times as circumference N E
+ἄρα ἴση ἐστὶν ἡ ΒΛ περιφέρεια τῇ ΕΝ περιφερείᾳ, ἴση ἐστὶ      is (divisible) by EF , so many times is angle N HE also
+καὶ γωνία ἡ ὑπὸ ΒΗΛ τῇ ὑπὸ ΕΘΝ, καὶ εἰ μείζων ἐστὶν ἡ ΒΛ      (divisible) by EHF . Thus, if circumference BL is equal
+περιφέρεια τῆς ΕΝ περιφερείας, μείζων ἐστὶ καὶ ἡ ὑπὸ ΒΗΛ      to circumference EN then angle BGL is also equal to
+γωνία τῆς ὑπὸ ΕΘΝ, καὶ εἰ ἐλάσσων, ἐλάσσων. τεσσάρων          EHN [Prop. 3.27], and if circumference BL is greater
+δὴ ὄντων μεγεθῶν, δύο μὲν περιφερειῶν τῶν ΒΓ, ΕΖ, δύο         than circumference EN then angle BGL is also greater
+δὲ γωνιῶν τῶν ὑπὸ ΒΗΓ, ΕΘΖ, εἴληπται τῆς μὲν ΒΓ περι-         than EHN ,† and if (BL is) less (than EN then BGL is
+φερείας καὶ τῆς ὑπὸ ΒΗΓ γωνίας ἰσάκις πολλαπλασίων ἥ τε       also) less (than EHN ). So there are four magnitudes,
+ΒΛ περιφέρεια καὶ ἡ ὑπὸ ΒΗΛ γωνία, τῆς δὲ ΕΖ περιφερείας      two circumferences BC and EF , and two angles BGC
+καὶ τῆς ὑπὸ ΕΘΖ γωνίας ἥ τε ΕΝ περιφέρια καὶ ἡ ὑπὸ ΕΘΝ        and EHF . And equal multiples have been taken of cir-
+γωνία. καὶ δέδεικται, ὅτι εἰ ὑπερέχει ἡ ΒΛ περιφέρεια τῆς     cumference BC and angle BGC, (namely) circumference
+ΕΝ περιφερείας, ὑπερέχει καὶ ἡ ὑπὸ ΒΗΛ γωνία τῆς ὑπο          BL and angle BGL, and of circumference EF and an-
+ΕΘΝ γωνίας, καὶ εἰ ἴση, ἴση, καὶ εἰ ἐλάσσων, ἐλάσσων.         gle EHF , (namely) circumference EN and angle EHN .
+ἔστιν ἄρα, ὡς ἡ ΒΓ περιφέρεια πρὸς τὴν ΕΖ, οὕτως ἡ ὑπὸ        And it has been shown that if circumference BL exceeds
+ΒΗΓ γωνία πρὸς τὴν ὑπὸ ΕΘΖ. ἀλλ᾿ ὡς ἡ ὑπὸ ΒΗΓ γωνία           circumference EN then angle BGL also exceeds angle
+πρὸς τὴν ὑπὸ ΕΘΖ, οὕτως ἡ ὑπὸ ΒΑΓ πρὸς τὴν ὑπὸ ΕΔΖ.           EHN , and if (BL is) equal (to EN then BGL is also)
+διπλασία γὰρ ἑκατέρα ἑκατέρας. καὶ ὡς ἄρα ἡ ΒΓ περιφέρεια     equal (to EHN ), and if (BL is) less (than EN then BGL
+πρὸς τὴν ΕΖ περιφέρειαν, οὕτως ἥ τε ὑπὸ ΒΗΓ γωνία πρὸς        is also) less (than EHN ). Thus, as circumference BC
+τὴν ὑπὸ ΕΘΖ καὶ ἡ ὑπὸ ΒΑΓ πρὸς τὴν ὑπὸ ΕΔΖ.                   (is) to EF , so angle BGC (is) to EHF [Def. 5.5]. But as
+    ᾿Εν ἄρα τοῖς ἴσοις κύκλοις αἱ γωνίαι τὸν αὐτὸν ἔχουσι     angle BGC (is) to EHF , so (angle) BAC (is) to EDF
+λόγον ταῖς περιφερείαις, ἐφ᾿ ὧν βεβήκασιν, ἐάν τε πρὸς τοῖς   [Prop. 5.15]. For the former (are) double the latter (re-
+κέντροις ἐάν τε πρὸς ταῖς περιφερείαις ὦσι βεβηκυῖαι· ὅπερ    spectively) [Prop. 3.20]. Thus, also, as circumference BC
+ἔδει δεῖξαι.                                                  (is) to circumference EF , so angle BGC (is) to EHF ,
+                                                              and BAC to EDF .
+                                                                  Thus, in equal circles, angles have the same ratio as
+                                                              the (ratio of the) circumferences on which they stand,
+                                                              whether they are standing at the centers (of the circles)
+                                                              or at the circumferences. (Which is) the very thing it was
+                                                              required to show.
+† This is a straight-forward generalization of Prop. 3.27
+
+
+
+
+                                                            192

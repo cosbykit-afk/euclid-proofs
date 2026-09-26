@@ -1,0 +1,1848 @@
+ELEMENTS BOOK 12
+
+                                        Proportional Stereometry†
+
+
+
+
+   † The novel feature of this book is the use of the so-called method of exhaustion (see Prop. 10.1), a precursor to integration which is generally
+
+attributed to Eudoxus of Cnidus.
+
+
+                                                                       471
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+
+                             aþ.                                                  Proposition 1
+   Τὰ ἐν τοῖς κύκλοις ὅμοια πολύγωνα πρὸς ἄλληλά ἐστιν    Similar polygons (inscribed) in circles are to one an-
+ὡς τὰ ἀπὸ τῶν διαμέτρων τετράγωνα.                     other as the squares on the diameters (of the circles).
+               A                                                       A
+                                           Z                                                              F
+  B                                                            B
+                          E        H                 L                                  E      G                    L
+
+                         M                           N                                 M                            N
+      G                                J         K                 C
+                   D                                                              D
+                                                                                                     H           K
+    ῎Εστωσαν κύκλοι οἱ ΑΒΓ, ΖΗΘ, καὶ ἐν αὐτοῖς ὅμοια             Let ABC and F GH be circles, and let ABCDE and
+πολύγωνα ἔστω τὰ ΑΒΓΔΕ, ΖΗΘΚΛ, διάμετροι δὲ τῶν              F GHKL be similar polygons (inscribed) in them (re-
+κύκλων ἔστωσαν ΒΜ, ΗΝ· λέγω, ὅτι ἐστὶν ὡς τὸ ἀπὸ τῆς         spectively), and let BM and GN be the diameters of the
+ΒΜ τετράγωνον πρὸς τὸ ἀπὸ τῆς ΗΝ τετράγωνον, οὕτως           circles (respectively). I say that as the square on BM is to
+τὸ ΑΒΓΔΕ πολύγωνον πρὸς τὸ ΖΗΘΚΛ πολύγωνον.                  the square on GN , so polygon ABCDE (is) to polygon
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΒΕ, ΑΜ, ΗΛ, ΖΝ. καὶ ἐπεὶ            F GHKL.
+ὅμοιον τὸ ΑΒΓΔΕ πολύγωνον τῷ ΖΗΘΚΛ πολυγώνῳ, ἴση                 For let BE, AM , GL, and F N have been joined. And
+ἐστὶ καὶ ἡ ὑπὸ ΒΑΕ γωνία τῇ ὑπὸ ΗΖΛ, καί ἐστιν ὡς ἡ ΒΑ       since polygon ABCDE (is) similar to polygon F GHKL,
+πρὸς τὴν ΑΕ, οὕτως ἡ ΗΖ πρὸς τὴν ΖΛ. δύο δὴ τρίγωνά          angle BAE is also equal to (angle) GF L, and as BA
+ἐστι τὰ ΒΑΕ, ΗΖΛ μίαν γωνίαν μιᾷ γωνίᾳ ἴσην ἔχοντα τὴν       is to AE, so GF (is) to F L [Def. 6.1]. So, BAE and
+ὑπὸ ΒΑΕ τῇ ὑπὸ ΗΖΛ, περὶ δὲ τὰς ἴσας γωνίας τὰς πλευρὰς      GF L are two triangles having one angle equal to one
+ἀνάλογον· ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΕ τρίγωνον τῷ ΖΗΛ          angle, (namely), BAE (equal) to GF L, and the sides
+τριγώνῳ. ἴση ἄρα ἐστὶν ἡ ὑπὸ ΑΕΒ γωνία τῇ ὑπὸ ΖΛΗ. ἀλλ᾿      around the equal angles proportional. Triangle ABE is
+ἡ μὲν ὑπὸ ΑΕΒ τῇ ὑπὸ ΑΜΒ ἐστιν ἴση· ἐπὶ γὰρ τῆς αὐτῆς        thus equiangular with triangle F GL [Prop. 6.6]. Thus,
+περιφερείας βεβήκασιν· ἡ δὲ ὑπὸ ΖΛΗ τῇ ὑπὸ ΖΝΗ· καὶ ἡ        angle AEB is equal to (angle) F LG. But, AEB is equal
+ὑπὸ ΑΜΒ ἄρα τῇ ὑπὸ ΖΝΗ ἐστιν ἴση. ἔστι δὲ καὶ ὀρθὴ           to AM B, and F LG to F N G, for they stand on the same
+ἡ ὑπὸ ΒΑΜ ὀρθῇ τῇ ὑπὸ ΗΖΝ ἴση· καὶ ἡ λοιπὴ ἄρα τῇ            circumference [Prop. 3.27]. Thus, AM B is also equal
+λοιπῇ ἐστιν ἴση. ἰσογώνιον ἄρα ἐστὶ τὸ ΑΒΜ τρίγωνον τῷ       to F N G. And the right-angle BAM is also equal to the
+ΖΗΝ τρίγωνῳ. ἀνάλογον ἄρα ἐστὶν ὡς ἡ ΒΜ πρὸς τὴν             right-angle GF N [Prop. 3.31]. Thus, the remaining (an-
+ΗΝ, οὕτως ἡ ΒΑ πρὸς τὴν ΗΖ. ἀλλὰ τοῦ μὲν τῆς ΒΜ              gle) is also equal to the remaining (angle) [Prop. 1.32].
+πρὸς τὴν ΗΝ λόγον διπλασίων ἐστὶν ὁ τοῦ ἀπὸ τῆς ΒΜ           Thus, triangle ABM is equiangular with triangle F GN .
+τετραγώνου πρὸς τὸ ἀπὸ τῆς ΗΝ τετράγωνον, τοῦ δὲ τῆς         Thus, proportionally, as BM is to GN , so BA (is) to GF
+ΒΑ πρὸς τὴν ΗΖ διπλασίων ἐστὶν ὁ τοῦ ΑΒΓΔΕ πολυγώνου         [Prop. 6.4]. But, the (ratio) of the square on BM to the
+πρὸς τὸ ΖΗΘΚΛ πολύγωνον· καὶ ὡς ἄρα τὸ ἁπὸ τῆς ΒΜ            square on GN is the square of the ratio of BM to GN ,
+τετράγωνον πρὸς τὸ ἀπὸ τῆς ΗΝ τετράγωνον, οὕτως τὸ           and the (ratio) of polygon ABCDE to polygon F GHKL
+ΑΒΓΔΕ πολύγωνον πρὸς τὸ ΖΗΘΚΛ πολύγωνον.                     is the square of the (ratio) of BA to GF [Prop. 6.20].
+    Τὰ ἄρα ἐν τοῖς κύκλοις ὅμοια πολύγωνα πρὸς ἄλληλά        And, thus, as the square on BM (is) to the square on
+ἐστιν ὡς τὰ ἀπὸ τῶν διαμέτρων τετράγωνα· ὅπερ ἔδει δεῖξαι.   GN , so polygon ABCDE (is) to polygon F GHKL.
+                                                                 Thus, similar polygons (inscribed) in circles are to one
+                                                             another as the squares on the diameters (of the circles).
+                                                             (Which is) the very thing it was required to show.
+
+                             bþ.                                                  Proposition 2
+   Οἱ κύκλοι πρὸς ἀλλήλους εἰσὶν ὡς τὰ ἀπὸ τῶν διαμέτρων    Circles are to one another as the squares on (their)
+τετράγωνα.                                               diameters.
+   ῎Εστωσαν κύκλοι οἱ ΑΒΓΔ, ΕΖΗΘ, διάμετροι δὲ αὐτῶν        Let ABCD and EF GH be circles, and [let] BD and
+
+
+                                                         472
+STOIQEIWN ibþ.                                                                                 ELEMENTS BOOK 12
+
+[ἔστωσαν] αἱ ΒΔ, ΖΘ· λέγω, ὅτι ἐστὶν ὡς ὁ ΑΒΓΔ κύκλος F H [be] their diameters. I say that as circle ABCD is to
+πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως τὸ ἀπὸ τῆς ΒΔ τετράγωνον circle EF GH, so the square on BD (is) to the square on
+πρὸς τὸ ἀπὸ τῆς ΖΘ τετράγωνον.                        F H.
+               A                            E                                A
+                                                                                                            E
+       X                R         K               N                 O                  R          K                N
+
+
+   B                        D Z                       J         B                           D F                        H
+
+
+                        P         L               M                                               L                M
+       O                                    H                       P                   Q
+                                                                                                            G
+                 G                                                              C
+
+
+
+             S                          T                                   S                           T
+
+
+
+
+    Εἰ γὰρ μή ἐστιν ὡς ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ,              For if the circle ABCD is not to the (circle) EF GH,
+οὕτως τὸ ἀπὸ τῆς ΒΔ τετράγωνον πρὸς τὸ ἀπὸ τῆς ΖΘ,           as the square on BD (is) to the (square) on F H, then as
+ἔσται ὡς τὸ ἀπὸ τῆς ΒΔ πρὸς τὸ ἀπὸ τῆς ΖΘ, οὕτως ὁ           the (square) on BD (is) to the (square) on F H, so circle
+ΑΒΓΔ κύκλος ἤτοι πρὸς ἔλασσόν τι τοῦ ΕΖΗΘ κύκλου             ABCD will be to some area either less than, or greater
+χωρίον ἢ πρὸς μεῖζον. ἔστω πρότερον πρὸς ἔλασσον τὸ          than, circle EF GH. Let it, first of all, be (in that ratio) to
+Σ. και ἐγγεγράφθω εἰς τὸν ΕΖΗΘ κύκλον τετράγωνον τὸ          (some) lesser (area), S. And let the square EF GH have
+ΕΖΗΘ. τὸ δὴ ἐγγεγραμμένον τετράγωνον μεῖζόν ἐστιν ἢ τὸ       been inscribed in circle EF GH [Prop. 4.6]. So the in-
+ἥμισυ τοῦ ΕΖΗΘ κύκλου, ἐπειδήπερ ἐὰν διὰ τῶν Ε, Ζ, Η, Θ      scribed square is greater than half of circle EF GH, inas-
+σημείων ἐφαπτομένας [εὐθείας] τοῦ κύκλου ἀγάγωμεν, τοῦ       much as if we draw tangents to the circle through the
+περιγραφομένου περὶ τὸν κύκλον τετραγώνου ἥμισύ ἐστι         points E, F , G, and H, then square EF GH is half of the
+τὸ ΕΖΗΘ τετράγωνον, τοῦ δὲ περιγραφέντος τετραγώνου          square circumscribed about the circle [Prop. 1.47], and
+ἐλάττων ἐστὶν ὁ κύκλος· ὥστε τὸ ΕΖΗΘ ἐγγεγραμμένον           the circle is less than the circumscribed square. Hence,
+τετράγωνον μεῖζόν ἐστι τοῦ ἡμίσεως τοῦ ΕΖΗΘ κύκλου.          the inscribed square EF GH is greater than half of cir-
+τετμήσθωσαν δίχα αἱ ΕΖ, ΖΗ, ΗΘ, ΘΕ περιφέρειαι κατὰ          cle EF GH. Let the circumferences EF , F G, GH, and
+τὰ Κ, Λ, Μ, Ν σημεῖα, καὶ ἐπεζεύχθωσαν αἱ ΕΚ, ΚΖ,            HE have been cut in half at points K, L, M , and N
+ΖΛ, ΛΗ, ΗΜ, ΜΘ, ΘΝ, ΝΕ· καὶ ἕκαστον ἄρα τῶν ΕΚΖ,             (respectively), and let EK, KF , F L, LG, GM , M H,
+ΖΛΗ, ΗΜΘ, ΘΝΕ τριγώνων μεῖζόν ἐστιν ἢ τὸ ἥμισυ τοῦ           HN , and N E have been joined. And, thus, each of
+καθ᾿ ἑαυτὸ τμήματος τοῦ κύκλου, ἐπειδήπερ ἐὰν διὰ τῶν        the triangles EKF , F LG, GM H, and HN E is greater
+Κ, Λ, Μ, Ν σημείων ἐφαπτομένας τοῦ κύκλου ἀγάγωμεν           than half of the segment of the circle about it, inasmuch
+καὶ ἀναπληρώσωμεν τὰ ἐπὶ τῶν ΕΖ, ΖΗ, ΗΘ, ΘΕ εὐθειῶν          as if we draw tangents to the circle through points K,
+παραλληλόγραμμα, ἕκαστον τῶν ΕΚΖ, ΖΛΗ, ΗΜΘ, ΘΝΕ              L, M , and N , and complete the parallelograms on the
+τριγώνων ἥμισυ ἔσται τοῦ καθ᾿ ἑαυτὸ παραλληλογράμμου,        straight-lines EF , F G, GH, and HE, then each of the
+ἀλλὰ τὸ καθ᾿ ἑαυτὸ τμῆμα ἔλαττόν ἐστι τοῦ παραλλη-           triangles EKF , F LG, GM H, and HN E will be half
+λογράμμου· ὥστε ἕκαστον τῶν ΕΚΖ, ΖΛΗ, ΗΜΘ, ΘΝΕ               of the parallelogram about it, but the segment about it
+τριγώνων μεῖζόν ἐστι τοῦ ἡμίσεως τοῦ καθ᾿ ἑαυτὸ τμήματος     is less than the parallelogram. Hence, each of the tri-
+τοῦ κύκλου. τέμνοντες δὴ τὰς ὑπολειπομένας περιφερείας       angles EKF , F LG, GM H, and HN E is greater than
+δίχα καὶ ἐπιζευγνύντες εὐθείας καὶ τοῦτο ἀεὶ ποιοῦντες κα-   half of the segment of the circle about it. So, by cutting
+ταλείψομέν τινα ἀποτμήματα τοῦ κύκλου, ἃ ἔσται ἐλάσσονα      the circumferences remaining behind in half, and joining
+τῆς ὑπεροχῆς, ᾗ ὑπερέχει ὁ ΕΖΗΘ κύκλος τοῦ Σ χωρίου.         straight-lines, and doing this continually, we will (even-
+
+
+
+                                                          473
+STOIQEIWN ibþ.                                                                                ELEMENTS BOOK 12
+
+ἐδείχθη γὰρ ἐν τῷ πρώτῳ θεωρήματι τοῦ δεκάτου βιβλίου,        tually) leave behind some segments of the circle whose
+ὅτι δύο μεγεθῶν ἀνίσων ἐκκειμένων, ἐὰν ἀπὸ τοῦ μείζονος       (sum) will be less than the excess by which circle EF GH
+ἀφαιρεθῇ μεῖζον ἢ τὸ ἥμισυ καὶ τοῦ καταλειπομένου μεῖζον      exceeds the area S. For we showed in the first theo-
+ἢ τὸ ἥμισυ, καὶ τοῦτο ἀεὶ γίγνηται, λειφθήσεταί τι μέγεθος,   rem of the tenth book that if two unequal magnitudes
+ὃ ἔσται ἔλασσον τοῦ ἐκκειμένου ἐλάσσονος μεγέθους.            are laid out, and if (a part) greater than a half is sub-
+λελείφθω οὖν, καὶ ἔστω τὰ ἐπὶ τῶν ΕΚ, ΚΖ, ΖΛ, ΛΗ,             tracted from the greater, and (if from) the remainder (a
+ΗΜ, ΜΘ, ΘΝ, ΝΕ τμήματα τοῦ ΕΖΗΘ κύκλου ἐλάττονα               part) greater than a half (is subtracted), and this hap-
+τῆς ὑπεροχῆς, ᾗ ὑπερέχει ὁ ΕΖΗΘ κύκλος τοῦ Σ χωρίου.          pens continually, then some magnitude will (eventually)
+λοιπὸν ἄρα τὸ ΕΚΖΛΗΜΘΝ πολύγωνον μεῖζόν ἐστι τοῦ Σ            be left which will be less than the lesser laid out mag-
+χωρίου. ἐγγεγράφθω καὶ εἰς τὸν ΑΒΓΔ κύκλον τῷ ΕΚΖ-            nitude [Prop. 10.1]. Therefore, let the (segments) have
+ΛΗΜΘΝ πολυγώνῳ ὅμοιον πολύγωνον τὸ ΑΞΒΟΓΠΔΡ·                  been left, and let the (sum of the) segments of the circle
+ἔστιν ἄρα ὡς τὸ ἀπὸ τῆς ΒΔ τετράγωνον πρὸς τὸ ἀπὸ τῆς         EF GH on EK, KF , F L, LG, GM , M H, HN , and N E
+ΖΘ τετράγωνον, οὕτως τὸ ΑΞΒΟΓΠΔΡ πολύγωνον πρὸς               be less than the excess by which circle EF GH exceeds
+τὸ ΕΚΖΛΗΜΘΝ πολύγωνον. ἀλλὰ καὶ ὡς τὸ ἀπὸ τῆς ΒΔ              area S. Thus, the remaining polygon EKF LGM HN is
+τετράγωνον πρὸς τὸ ἀπὸ τῆς ΖΘ, οὕτως ὁ ΑΒΓΔ κύκλος            greater than area S. And let the polygon AOBP CQDR,
+πρὸς τὸ Σ χωρίον· καὶ ὡς ἄρα ὁ ΑΒΓΔ κύκλος πρὸς τὸ Σ          similar to the polygon EKF LGM HN , have been in-
+χωρίον, οὕτως τὸ ΑΞΒΟΓΠΔΡ πολύγωνον πρὸς τὸ ΕΚΖ-              scribed in circle ABCD. Thus, as the square on BD is
+ΛΗΜΘΝ πολύγωνον· ἐναλλὰξ ἄρα ὡς ὁ ΑΒΓΔ κύκλος                 to the square on F H, so polygon AOBP CQDR (is) to
+πρὸς τὸ ἐν αὐτῷ πολύγωνον, οὕτως τὸ Σ χωρίον πρὸς             polygon EKF LGM HN [Prop. 12.1]. But, also, as the
+τὸ ΕΚΖΛΗΜΘΝ πολύγωνον. μείζων δὲ ὁ ΑΒΓΔ κύκλος                square on BD (is) to the square on F H, so circle ABCD
+τοῦ ἐν αὐτῷ πολυγώνου· μεῖζον ἄρα καὶ τὸ Σ χωρίον τοῦ         (is) to area S. And, thus, as circle ABCD (is) to area S,
+ΕΚΖΛΗΜΘΝ πολυγώνου. ἀλλὰ καὶ ἔλαττον· ὅπερ ἐστὶν              so polygon AOBP GQDR (is) to polygon EKF LGM HN
+ἀδύνατον. οὐκ ἄρα ἐστὶν ὡς τὸ ἀπὸ τῆς ΒΔ τετράγωνον           [Prop. 5.11]. Thus, alternately, as circle ABCD (is) to
+πρὸς τὸ ἀπὸ τῆς ΖΘ, οὕτως ὁ ΑΒΓΔ κύκλος πρὸς ἔλασσόν          the polygon (inscribed) within it, so area S (is) to poly-
+τι τοῦ ΕΖΗΘ κύκλου χωρίον. ὁμοίως δὴ δείξομεν, ὅτι οὐδὲ       gon EKF LGM HN [Prop. 5.16]. And circle ABCD (is)
+ὡς τὸ ἀπὸ ΖΘ πρὸς τὸ ἀπὸ ΒΔ, οὕτως ὁ ΕΖΗΘ κύκλος              greater than the polygon (inscribed) within it. Thus, area
+πρὸς ἔλασσόν τι τοῦ ΑΒΓΔ κύκλου χωρίον.                       S is also greater than polygon EKF LGM HN . But, (it is)
+    Λέγω δή, ὅτι οὐδὲ ὡς τὸ ἀπὸ τῆς ΒΔ πρὸς τὸ ἀπὸ            also less. The very thing is impossible. Thus, the square
+τῆς ΖΘ, οὕτως ὁ ΑΒΓΔ κύκλος πρὸς μεῖζόν τι τοῦ ΕΖΗΘ           on BD is not to the (square) on F H, as circle ABCD (is)
+κύκλου χωρίον.                                                to some area less than circle EF GH. So, similarly, we can
+    Εἰ γὰρ δυνατόν, ἔστω πρὸς μεῖζον τὸ Σ. ἀνάπαλιν ἄρα       show that the (square) on F H (is) not to the (square) on
+[ἐστὶν] ὡς τὸ ἀπὸ τῆς ΖΘ τετράγωνον πρὸς τὸ ἀπὸ τῆς ΔΒ,       BD as circle EF GH (is) to some area less than circle
+οὕτως τὸ Σ χωρίον πρὸς τὸν ΑΒΓΔ κύκλον. ἀλλ᾿ ὡς τὸ            ABCD either.
+Σ χωρίον πρὸς τὸν ΑΒΓΔ κύκλον, οὕτως ὁ ΕΖΗΘ κύκλος                So, I say that neither (is) the (square) on BD to
+πρὸς ἔλαττόν τι τοῦ ΑΒΓΔ κύκλου χωρίον· καὶ ὡς ἄρα τὸ         the (square) on F H, as circle ABCD (is) to some area
+ἀπὸ τῆς ΖΘ πρὸς τὸ ἀπὸ τῆς ΒΔ, οὕτως ὁ ΕΖΗΘ κύκλος            greater than circle EF GH.
+πρὸς ἔλασσόν τι τοῦ ΑΒΓΔ κύκλου χωρίον· ὅπερ ἀδύνατον             For, if possible, let it be (in that ratio) to (some)
+ἐδείχθη. οὐκ ἄρα ἐστὶν ὡς τὸ ἀπὸ τῆς ΒΔ τετράγωνον πρὸς       greater (area), S. Thus, inversely, as the square on F H
+τὸ ἀπὸ τῆς ΖΘ, οὕτως ὁ ΑΒΓΔ κύκλος πρὸς μεῖζόν τι τοῦ         [is] to the (square) on DB, so area S (is) to circle ABCD
+ΕΖΗΘ κύκλου χωρίον. ἐδείχθη δέ, ὅτι οὐδὲ πρὸς ἔλασσον·        [Prop. 5.7 corr.]. But, as area S (is) to circle ABCD, so
+ἔστιν ἄρα ὡς τὸ ἀπὸ τῆς ΒΔ τετράγωνον πρὸς τὸ ἀπὸ τῆς         circle EF GH (is) to some area less than circle ABCD
+ΖΘ, οὕτως ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ κύκλον.                 (see lemma). And, thus, as the (square) on F H (is) to
+    Οἱ ἄρα κύκλοι πρὸς ἀλλήλους εἰσὶν ὡς τὰ ἀπὸ τῶν           the (square) on BD, so circle EF GH (is) to some area
+διαμέτρων τετράγωνα· ὅπερ ἔδει δεῖξαι.                        less than circle ABCD [Prop. 5.11]. The very thing was
+                                                              shown (to be) impossible. Thus, as the square on BD is
+                                                              to the (square) on F H, so circle ABCD (is) not to some
+                                                              area greater than circle EF GH. And it was shown that
+                                                              neither (is it in that ratio) to (some) lesser (area). Thus,
+                                                              as the square on BD is to the (square) on F H, so circle
+                                                              ABCD (is) to circle EF GH.
+                                                                  Thus, circles are to one another as the squares on
+
+
+                                                          474
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+                                                            (their) diameters. (Which is) the very thing it was re-
+                                                            quired to show.
+
+                        L¨mma.                                                       Lemma
+   Λέγω δή, ὅτι τοῦ Σ χωρίου μείζονος ὄντος τοῦ ΕΖΗΘ            So, I say that, area S being greater than circle EF GH,
+κύκλου ἐστὶν ὡς τὸ Σ χωρίον πρὸς τὸν ΑΒΓΔ κύκλον,           as area S is to circle ABCD, so circle EF GH (is) to some
+οὕτως ὁ ΕΖΗΘ κύκλος πρὸς ἔλαττόν τι τοῦ ΑΒΓΔ κύκλου         area less than circle ABCD.
+χωρίον.                                                         For let it have been contrived that as area S (is) to
+   Γεγονέτω γὰρ ὡς τὸ Σ χωρίον πρὸς τὸν ΑΒΓΔ κύκλον,        circle ABCD, so circle EF GH (is) to area T . I say that
+οὕτως ὁ ΕΖΗΘ κύκλος πρὸς τὸ Τ χωρίον. λέγω, ὅτι             area T is less than circle ABCD. For since as area S is
+ἔλαττόν ἐστι τὸ Τ χωρίον τοῦ ΑΒΓΔ κύκλου. ἐπεὶ γάρ          to circle ABCD, so circle EF GH (is) to area T , alter-
+ἐστιν ὡς τὸ Σ χωρίον πρὸς τὸν ΑΒΓΔ κύκλον, οὕτως ὁ          nately, as area S is to circle EF GH, so circle ABCD (is)
+ΕΖΗΘ κύκλος πρὸς τὸ Τ χωρίον, ἐναλλάξ ἐστιν ὡς τὸ Σ         to area T [Prop. 5.16]. And area S (is) greater than circle
+χωρίον πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως ὁ ΑΒΓΔ κύκλος            EF GH. Thus, circle ABCD (is) also greater than area
+πρὸς τὸ Τ χωρίον. μεῖζον δὲ τὸ Σ χωρίον τοῦ ΕΖΗΘ            T [Prop. 5.14]. Hence, as area S is to circle ABCD, so
+κύκλου· μείζων ἄρα καὶ ὁ ΑΒΓΔ κύκλος τοῦ Τ χωρίου.          circle EF GH (is) to some area less than circle ABCD.
+ὥστε ἐστὶν ὡς τὸ Σ χωρίον πρὸς τὸν ΑΒΓΔ κύκλον,             (Which is) the very thing it was required to show.
+οὕτως ὁ ΕΖΗΘ κύκλος πρὸς ἔλαττόν τι τοῦ ΑΒΓΔ κύκλου
+χωρίον· ὅπερ ἔδει δεῖξαι.
+
+                           gþ.                                                     Proposition 3
+    Πᾶσα πυραμὶς τρίγωνον ἔχουσα βάσιν διαιρεῖται εἰς δύο     Any pyramid having a triangular base is divided into
+πυραμίδας ἴσας τε καὶ ὁμοίας ἀλλήλαις καὶ [ὁμοίας] τῇ ὅλῇ two pyramids having triangular bases (which are) equal,
+τριγώνους ἐχουσας βάσεις καὶ εἰς δύο πρίσματα ἴσα· καὶ τὰ similar to one another, and [similar] to the whole, and
+δύο πρίσματα μείζονά ἐστιν ἢ τὸ ἥμισυ τῆς ὅλης πυραμίδος. into two equal prisms. And the (sum of the) two prisms
+                                                          is greater than half of the whole pyramid.
+                                  D                                                            D
+
+
+                            L                                                            L
+                   J                      K                                     H                      K
+                              G                                                            C
+                  H                   Z                                        G                   F
+
+            A             E                   B                         A              E                   B
+    ῎Εστω πυραμίς, ἧς βάσις μέν ἐστι τὸ ΑΒΓ τρίγωνον, κο-       Let there be a pyramid whose base is triangle ABC,
+ρυφὴ δὲ τὸ Δ σημεῖον· λέγω, ὅτι ἡ ΑΒΓΔ πυραμὶς διαιρεῖται   and (whose) apex (is) point D. I say that pyramid
+εἰς δύο πυραμίδας ἴσας ἀλλήλαις τριγώνους βάσεις ἐχούσας    ABCD is divided into two pyramids having triangular
+καὶ ὁμοίας τῇ ὅλῇ καὶ εἰς δύο πρίσματα ἴσα· καὶ τὰ δύο      bases (which are) equal to one another, and similar to
+πρίσματα μείζονά ἐστιν ἢ τὸ ἥμισυ τῆς ὅλης πυραμίδος.       the whole, and into two equal prisms. And the (sum of
+    Τετμήσθωσαν γὰρ αἱ ΑΒ, ΒΓ, ΓΑ, ΑΔ, ΔΒ, ΔΓ δίχα          the) two prisms is greater than half of the whole pyramid.
+κατὰ τὰ Ε, Ζ, Η, Θ, Κ, Λ σημεῖα, καὶ ἐπεζεύχθωσαν αἱ            For let AB, BC, CA, AD, DB, and DC have been
+ΘΕ, ΕΗ, ΗΘ, ΘΚ, ΚΛ, ΛΘ, ΚΖ, ΖΗ. ἐπεὶ ἴση ἐστὶν ἡ μὲν        cut in half at points E, F , G, H, K, and L (respectively).
+ΑΕ τῇ ΕΒ, ἡ δὲ ΑΘ τῇ ΔΘ, παράλληλος ἄρα ἐστὶν ἡ ΕΘ          And let HE, EG, GH, HK, KL, LH, KF , and F G have
+τῇ ΔΒ. διὰ τὰ αὐτὰ δὴ καὶ ἡ ΘΚ τῇ ΑΒ παράλληλός ἐστιν.      been joined. Since AE is equal to EB, and AH to DH,
+
+
+
+                                                        475
+STOIQEIWN ibþ.                                                                                ELEMENTS BOOK 12
+
+παραλληλόγραμμον ἄρα ἐστὶ τὸ ΘΕΒΚ· ἴση ἄρα ἐστὶν ἡ ΘΚ          EH is thus parallel to DB [Prop. 6.2]. So, for the same
+τῇ ΕΒ. ἀλλὰ ἡ ΕΒ τῇ ΕΑ ἐστιν ἴση· καὶ ἡ ΑΕ ἄρα τῇ ΘΚ           (reasons), HK is also parallel to AB. Thus, HEBK is
+ἐστιν ἴση. ἔστι δὲ καὶ ἡ ΑΘ τῇ ΘΔ ἴση· δύο δὴ αἱ ΕΑ, ΑΘ        a parallelogram. Thus, HK is equal to EB [Prop. 1.34].
+δυσὶ ταῖς ΚΘ, ΘΔ ἴσαι εἰσὶν ἑκατέρα ἑκατέρᾳ· καὶ γωνία ἡ       But, EB is equal to EA. Thus, AE is also equal to HK.
+ὑπὸ ΕΑΘ γωνίᾳ τῇ ὑπὸ ΚΘΔ ἴση· βάσις ἄρα ἡ ΕΘ βάσει τῇ          And AH is also equal to HD. So the two (straight-lines)
+ΚΔ ἐστιν ἴση. ἴσον ἄρα καὶ ὅμοιόν ἐστι τὸ ΑΕΘ τρίγωνον         EA and AH are equal to the two (straight-lines) KH
+τῷ ΘΚΔ τριγώνῳ. διὰ τὰ αὐτὰ δὴ καὶ τὸ ΑΘΗ τρίγωνον             and HD, respectively. And angle EAH (is) equal to an-
+τῷ ΘΛΔ τριγώνῳ ἴσον τέ ἐστι καὶ ὅμοιον. καὶ ἐπεὶ δύο           gle KHD [Prop. 1.29]. Thus, base EH is equal to base
+εὐθεῖαι ἁπτόμεναι ἀλλήλων αἱ ΕΘ, ΘΗ παρὰ δύο εὐθείας           KD [Prop. 1.4]. Thus, triangle AEH is equal and simi-
+ἁπτομένας ἀλλήλων τὰς ΚΔ, ΔΛ εἰσιν οὐκ ἐν τῷ αὐτῷ              lar to triangle HKD [Prop. 1.4]. So, for the same (rea-
+ἐπιπέδῳ οὖσαι, ἴσας γωνίας περιέξουσιν. ἴση ἄρα ἐστὶν ἡ ὑπὸ    sons), triangle AHG is also equal and similar to trian-
+ΕΘΗ γωνία τῇ ὑπὸ ΚΔΛ γωνίᾳ. καὶ ἐπεὶ δύο εὐθεῖαι αἱ ΕΘ,        gle HLD. And since EH and HG are two straight-lines
+ΘΗ δυσὶ ταῖς ΚΔ, ΔΛ ἴσαι εἰσὶν ἑκατέρα εκατέρᾳ, καὶ γωνία      joining one another (which are respectively) parallel to
+ἡ ὑπὸ ΕΘΗ γωνίᾳ τῇ ὑπὸ ΚΔΛ ἐστιν ἴση, βάσις ἄρα ἡ ΕΗ           two straight-lines joining one another, KD and DL, not
+βάσει τῇ ΚΛ [ἐστιν] ἴση· ἴσον ἄρα καὶ ὅμοιόν ἐστι τὸ ΕΘΗ       being in the same plane, they will contain equal angles
+τρίγωνον τῷ ΚΔΛ τριγώνῳ. διὰ τὰ αὐτὰ δὴ καὶ τὸ ΑΕΗ             [Prop. 11.10]. Thus, angle EHG is equal to angle KDL.
+τρίγωνον τῷ ΘΚΛ τριγώνῳ ἴσον τε καὶ ὅμοιόν ἐστιν. ἡ ἄρα        And since the two straight-lines EH and HG are equal
+πυραμίς, ἧς βάσις μέν ἐστι τὸ ΑΕΗ τρίγωνον, κορυφὴ δὲ τὸ       to the two straight-lines KD and DL, respectively, and
+Θ σημεῖον, ἴση καὶ ὁμοία ἐστὶ πυραμίδι, ἧς βάσις μέν ἐστι τὸ   angle EHG is equal to angle KDL, base EG [is] thus
+ΘΚΛ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον. καὶ ἐπεὶ τριγώνου        equal to base KL [Prop. 1.4]. Thus, triangle EHG is
+τοῦ ΑΔΒ παρὰ μίαν τῶν πλευρῶν τὴν ΑΒ ἦκται ἡ ΘΚ,               equal and similar to triangle KDL. So, for the same (rea-
+ἰσογώνιόν ἐστι τὸ ΑΔΒ τρίγωνον τῷ ΔΘΚ τριγώνῳ, καὶ             sons), triangle AEG is also equal and similar to triangle
+τὰς πλευρὰς ἀνάλογον ἔχουσιν· ὅμοιον ἄρα ἐστὶ τὸ ΑΔΒ           HKL. Thus, the pyramid whose base is triangle AEG,
+τρίγωνον τῷ ΔΘΚ τριγώνῳ. διὰ τὰ αὐτὰ δὴ καὶ τὸ μὲν             and apex the point H, is equal and similar to the pyra-
+ΔΒΓ τρίγωνον τῷ ΔΚΛ τριγώνῳ ὅμοιόν ἐστιν, τὸ δὲ ΑΔΓ            mid whose base is triangle HKL, and apex the point D
+τῷ ΔΛΘ. καὶ ἐπεὶ δύο εὐθεῖαι ἁπτόμεναι ἀλλήλων αἱ ΒΑ,          [Def. 11.10]. And since HK has been drawn parallel to
+ΑΓ παρὰ δύο εὐθείας ἁπτομένας ἀλλήλων τὰς ΚΘ, ΘΛ εἰσιν         one of the sides, AB, of triangle ADB, triangle ADB
+οὐκ ἐν τῷ αὐτῷ ἐπιπέδῳ, ἴσας γωνίας περιέξουσιν. ἴση ἄρα       is equiangular to triangle DHK [Prop. 1.29], and they
+ἐστὶν ἡ ὑπὸ ΒΑΓ γωνία τῇ ὑπὸ ΚΘΛ. καί ἐστιν ὡς ἡ ΒΑ            have proportional sides. Thus, triangle ADB is similar to
+πρὸς τὴν ΑΓ, οὕτως ἡ ΚΘ πρὸς τὴν ΘΛ· ὅμοιον ἄρα ἐστὶ           triangle DHK [Def. 6.1]. So, for the same (reasons), tri-
+τὸ ΑΒΓ τρίγωνον τῷ ΘΚΛ τριγώνῳ. καὶ πυραμὶς ἄρα, ἧς            angle DBC is also similar to triangle DKL, and ADC to
+βάσις μέν ἐστι τὸ ΑΒΓ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον,        DLH. And since two straight-lines joining one another,
+ὁμοία ἐστὶ πυραμίδι, ἧς βάσις μέν ἐστι τὸ ΘΚΛ τρίγωνον,        BA and AC, are parallel to two straight-lines joining one
+κορυφὴ δὲ τὸ Δ σημεῖον. ἀλλὰ πυραμίς, ἧς βάσις μέν [ἐστι]      another, KH and HL, not in the same plane, they will
+τὸ ΘΚΛ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον, ὁμοία ἐδείχθη         contain equal angles [Prop. 11.10]. Thus, angle BAC is
+πυραμίδι, ἧς βάσις μέν ἐστι τὸ ΑΕΗ τρίγωνον, κορυφὴ δὲ         equal to (angle) KHL. And as BA is to AC, so KH (is)
+τὸ Θ σημεῖον. ἑκατέρα ἄρα τῶν ΑΕΗΘ, ΘΚΛΔ πυραμίδων             to HL. Thus, triangle ABC is similar to triangle HKL
+ὁμοία ἐστὶ τῇ ὅλῃ τῇ ΑΒΓΔ πυραμίδι.                            [Prop. 6.6]. And, thus, the pyramid whose base is trian-
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΒΖ τῇ ΖΓ, διπλάσιόν ἐστι τὸ           gle ABC, and apex the point D, is similar to the pyra-
+ΕΒΖΗ παραλληλόγραμμον τοῦ ΗΖΓ τριγώνου. καὶ ἐπεὶ,              mid whose base is triangle HKL, and apex the point D
+ἐὰν ᾖ δύο πρίσματα ἰσοϋψῆ, καὶ τὸ μὲν ἔχῃ βάσιν παραλ-         [Def. 11.9]. But, the pyramid whose base [is] triangle
+ληλόγραμμον, τὸ δὲ τρίγωνον, διπλάσιον δὲ ᾖ τὸ παραλ-          HKL, and apex the point D, was shown (to be) similar
+ληλόγραμμον τοῦ τριγώνου, ἴσα ἐστὶ τὰ πρίσματα, ἴσον           to the pyramid whose base is triangle AEG, and apex the
+ἄρα ἐστὶ τὸ πρίσμα τὸ περιεχόμενον ὑπὸ δύο μὲν τριγώνων        point H. Thus, each of the pyramids AEGH and HKLD
+τῶν ΒΚΖ, ΕΘΗ, τριῶν δὲ παραλληλογράμμων τῶν ΕΒΖΗ,              is similar to the whole pyramid ABCD.
+ΕΒΚΘ, ΘΚΖΗ τῷ πρισματι τῷ περιεχομένῳ ὑπὸ δύο μὲν                   And since BF is equal to F C, parallelogram EBF G
+τριγώνων τῶν ΗΖΓ, ΘΚΛ, τριῶν δὲ παραλληλογράμμων               is double triangle GF C [Prop. 1.41]. And since, if two
+τῶν ΚΖΓΛ, ΛΓΗΘ, ΘΚΖΗ. καὶ φανερόν, ὅτι ἑκάτρον τῶν             prisms (have) equal heights, and the former has a par-
+πρισμάτων, οὗ τε βάσις τὸ ΕΒΖΗ παραλληλόγραμμον, ἀπε-          allelogram as a base, and the latter a triangle, and the
+ναντίον δὲ ἡ ΘΚ εὐθεῖα, καὶ οὗ βάσις τὸ ΗΖΓ τρίγωνον,          parallelogram (is) double the triangle, then the prisms
+ἀπεναντίον δὲ τὸ ΘΚΛ τρίγωνον, μεῖζόν ἐστιν ἑκατέρας           are equal [Prop. 11.39], the prism contained by the two
+
+
+                                                           476
+STOIQEIWN ibþ.                                                                                  ELEMENTS BOOK 12
+
+τῶν πυραμίδων, ὧν βάσεις μὲν τὰ ΑΕΗ, ΘΚΛ τρίγωνα, κο-           triangles BKF and EHG, and the three parallelograms
+ρυφαὶ, δὲ τὰ Θ, Δ σημεῖα, ἐπειδήπερ [καί] ἐὰν ἐπιζεύξωμεν       EBF G, EBKH, and HKF G, is thus equal to the prism
+τὰς ΕΖ, ΕΚ εὐθείας, τὸ μὲν πρίσμα, οὗ βάσις τὸ ΕΒΖΗ πα-         contained by the two triangles GF C and HKL, and
+ραλληλόγραμμον, ἀπεναντίον δὲ ἡ ΘΚ εὐθεῖα, μεῖζόν ἐστι          the three parallelograms KF CL, LCGH, and HKF G.
+τῆς πυραμίδος, ἧς βάσις τὸ ΕΒΖ τρίγωνον, κορυφὴ δὲ τὸ           And (it is) clear that each of the prisms whose base (is)
+Κ σημεῖον. ἀλλ᾿ ἡ πυραμίς, ἧς βάσις τὸ ΕΒΖ τρίγωνον,            parallelogram EBF G, and opposite (side) straight-line
+κορυφὴ δὲ τὸ Κ σημεῖον, ἴση ἐστὶ πυραμίδι, ἧς βάσις τὸ          HK, and whose base (is) triangle GF C, and opposite
+ΑΕΗ τρίγωνον, κορυφὴ δὲ τὸ Θ σημεῖον· ὑπὸ γὰρ ἴσων              (plane) triangle HKL, is greater than each of the pyra-
+καὶ ὁμοίων ἐπιπέδων περιέχονται. ὥστε καὶ τὸ πρίσμα, οὗ         mids whose bases are triangles AEG and HKL, and
+βάσις μὲν τὸ ΕΒΖΗ παραλληλόγραμμον, ἀπεναντίον δὲ ἡ             apexes the points H and D (respectively), inasmuch as,
+ΘΚ εὐθεῖα, μεῖζόν ἐστι πυραμίδος, ἧς βάσις μὲν τὸ ΑΕΗ           if we [also] join the straight-lines EF and EK then the
+τρίγωνον, κορυφὴ δὲ τὸ Θ σημεῖον. ἴσον δὲ τὸ μὲν πρίσμα,        prism whose base (is) parallelogram EBF G, and oppo-
+οὗ βάσις τὸ ΕΒΖΗ παραλληλόγραμμον, ἀπεναντίον δὲ ἡ ΘΚ           site (side) straight-line HK, is greater than the pyramid
+εὐθεῖα, τῷ πρίσματι, οὗ βάσις μὲν τὸ ΗΖΓ τρίγωνον, ἀπε-         whose base (is) triangle EBF , and apex the point K. But
+ναντίον δὲ τὸ ΘΚΛ τρίγωνον· ἡ δὲ πυραμίς, ἧς βάσις τὸ           the pyramid whose base (is) triangle EBF , and apex the
+ΑΕΗ τρίγωνον, κορυφὴ δὲ τὸ Θ σημεῖον, ἴση ἐστὶ πυραμίδι,        point K, is equal to the pyramid whose base is triangle
+ἧς βάσις τὸ ΘΚΛ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον. τὰ            AEG, and apex point H. For they are contained by equal
+ἄρα εἰρημένα δύο πρίσματα μείζονά ἐστι τῶν εἰρημένων δύο        and similar planes. And, hence, the prism whose base
+πυραμίδων, ὧν βάσεις μὲν τὰ ΑΕΗ, ΘΚΛ τρίγωνα, κορυφαὶ           (is) parallelogram EBF G, and opposite (side) straight-
+δὲ τὰ Θ, Δ σημεῖα.                                              line HK, is greater than the pyramid whose base (is)
+    ῾Η ἄρα ὅλη πυραμίς, ἧς βάσις τὸ ΑΒΓ τρίγωνον, κο-           triangle AEG, and apex the point H. And the prism
+ρυφὴ δὲ τὸ Δ σημεῖον, διῄρηται εἴς τε δύο πυραμίδας ἴσας        whose base is parallelogram EBF G, and opposite (side)
+ἀλλήλαις [καὶ ὁμοίας τῇ ὅλῃ] καὶ εἰς δύο πρίσματα ἴσα, καὶ τὰ   straight-line HK, (is) equal to the prism whose base (is)
+δύο πρίσματα μείζονά ἐστιν ἢ τὸ ἥμισυ τῆς ὅλης πυραμίδος·       triangle GF C, and opposite (plane) triangle HKL. And
+ὅπερ ἔδει δεῖξαι.                                               the pyramid whose base (is) triangle AEG, and apex the
+                                                                point H, is equal to the pyramid whose base (is) trian-
+                                                                gle HKL, and apex the point D. Thus, the (sum of the)
+                                                                aforementioned two prisms is greater than the (sum of
+                                                                the) aforementioned two pyramids, whose bases (are) tri-
+                                                                angles AEG and HKL, and apexes the points H and D
+                                                                (respectively).
+                                                                    Thus, the whole pyramid, whose base (is) triangle
+                                                                ABC, and apex the point D, has been divided into two
+                                                                pyramids (which are) equal to one another [and similar
+                                                                to the whole], and into two equal prisms. And the (sum
+                                                                of the) two prisms is greater than half of the whole pyra-
+                                                                mid. (Which is) the very thing it was required to show.
+
+                             dþ.                                                     Proposition 4
+    ᾿Εὰν ὦσι δύο πυραμίδες ὑπὸ τὸ αὐτὸ ὕψος τριγώνους               If there are two pyramids with the same height, hav-
+ἔχουσαι βάσεις, διαιρεθῇ δὲ ἑκατέρα αὐτῶν εἴς τε δύο            ing trianglular bases, and each of them is divided into two
+πυραμίδας ἴσας ἀλλήλαις καὶ ὁμοίας τῇ ὅλῃ καὶ εἰς δύο           pyramids equal to one another, and similar to the whole,
+πρίσματα ἴσα, ἔσται ὡς ἡ τῆς μιᾶς πυραμίδος βάσις πρὸς τὴν      and into two equal prisms then as the base of one pyra-
+τῆς ἑτέρας πυραμίδος βάσιν, οὕτως τὰ ἐν τῇ μιᾷ πυραμίδι         mid (is) to the base of the other pyramid, so (the sum of)
+πρίσματα πάντα πρὸς τὰ ἐν τῇ ἑτάρᾳ πυραμίδι πρίσματα            all the prisms in one pyramid will be to (the sum of all)
+πάντα ἰσοπληθῇ.                                                 the equal number of prisms in the other pyramid.
+    ῎Εστωσαν δύο πυραμίδες ὑπὸ τὸ αὐτὸ ὕψος τριγώνους               Let there be two pyramids with the same height, hav-
+ἔχουσαι βάσεις τὰς ΑΒΓ, ΔΕΖ, κορυφὰς δὲ τὰ Η, Θ σημεῖα,         ing the triangular bases ABC and DEF , (with) apexes
+καὶ διῃρήσθω ἑκατέρα αὐτῶν εἴς τε δύο πυραμίδας ἴσας            the points G and H (respectively). And let each of them
+ἀλλήλαις καὶ ὁμοίας τῇ ὅλῃ καὶ εἰς δύο πρίσματα ἴσα· λέγω,      have been divided into two pyramids equal to one an-
+
+
+                                                            477
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+ὅτι ἐστὶν ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν, οὕτως τὰ        other, and similar to the whole, and into two equal prisms
+ἐν τῇ ΑΒΓΗ πυραμίδι πρίσματα πάντα πρὸς τὰ ἐν τῇ ΔΕΖΘ        [Prop. 12.3]. I say that as base ABC is to base DEF ,
+πυραμίδι πρίσματα ἰσοπληθῆ.                                  so (the sum of) all the prisms in pyramid ABCG (is) to
+                                                             (the sum of) all the equal number of prisms in pyramid
+                                                             DEF H.
+             H                            J                                  G                          H
+
+
+
+     O               N              S             U                  P               N
+                                                                                                   S             U
+             M                                T                              M                               T
+
+A                               D             R        Z                                       D                      F
+             L                                               A               L                               R
+ K                       G           P            F              K
+                                                                                         C
+                                                                                                   Q             V
+         B       X                        E                              B       O                       E
+    ᾿Επεὶ γὰρ ἴση ἐστὶν ἡ μὲν ΒΞ τῇ ΞΓ, ἡ δὲ ΑΛ τῇ ΛΓ,            For since BO is equal to OC, and AL to LC, LO is
+παράλληλος ἄρα ἐστὶν ἡ ΛΞ τῇ ΑΒ καὶ ὅμοιον τὸ ΑΒΓ            thus parallel to AB, and triangle ABC similar to triangle
+τρίγωνον τῷ ΛΞΓ τριγώνῳ. διὰ τὰ αὐτὰ δὴ καὶ τὸ ΔΕΖ           LOC [Prop. 12.3]. So, for the same (reasons), triangle
+τρίγωνον τῷ ΡΦΖ τριγώνῳ ὅμοιόν ἐστιν. καὶ ἐπεὶ δι-           DEF is also similar to triangle RV F . And since BC is
+πλασίων ἐστὶν ἡ μὲν ΒΓ τῆς ΓΞ, ἡ δὲ ΕΖ τῆς ΖΦ, ἔστιν         double CO, and EF (double) F V , thus as BC (is) to
+ἄρα ὡς ἡ ΒΓ πρὸς τὴν ΓΞ, οὕτως ἡ ΕΖ πρὸς τὴν ΖΦ. καὶ         CO, so EF (is) to F V . And the similar, and similarly
+ἀναγέγραπται ἀπὸ μὲν τῶν ΒΓ, ΓΞ ὅμοιά τε καὶ ὁμοίως          laid out, rectilinear (figures) ABC and LOC have been
+κείμενα εὐθύγραμμα τὰ ΑΒΓ, ΛΞΓ, ἀπὸ δὲ τῶν ΕΖ, ΖΦ            described on BC and CO (respectively), and the sim-
+ὅμοιά τε καὶ ὁμοίως κείμενα [εὐθύγραμμα] τὰ ΔΕΖ, ΡΦΖ·        ilar, and similarly laid out, [rectilinear] (figures) DEF
+ἔστιν ἄρα ὡς τὸ ΑΒΓ τρίγωνον πρὸς τὸ ΛΞΓ τρίγωνον,           and RV F on EF and F V (respectively). Thus, as tri-
+οὕτως τὸ ΔΕΖ τρίγωνον πρὸς τὸ ΡΦΖ τρίγωνον· ἐναλλὰξ          angle ABC is to triangle LOC, so triangle DEF (is) to
+ἄρα ἐστὶν ὡς τὸ ΑΒΓ τρίγωνον πρὸς τὸ ΔΕΖ [τρίγωνον],         triangle RV F [Prop. 6.22]. Thus, alternately, as trian-
+οὕτως τὸ ΛΞΓ [τρίγωνον] πρὸς τὸ ΡΦΖ τρίγωνον. ἀλλ᾿           gle ABC is to [triangle] DEF , so [triangle] LOC (is)
+ὡς τὸ ΛΞΓ τρίγωνον πρὸς τὸ ΡΦΖ τρίγωνον, οὕτως τὸ            to triangle RV F [Prop. 5.16]. But, as triangle LOC
+πρίσμα, οὗ βάσις μέν [ἐστι] τὸ ΛΞΓ τρίγωνον, ἀπεναντίον δὲ   (is) to triangle RV F , so the prism whose base [is] trian-
+τὸ ΟΜΝ, πρὸς τὸ πρίσμα, οὗ βάσις μὲν τὸ ΡΦΖ τρίγωνον,        gle LOC, and opposite (plane) P M N , (is) to the prism
+ἀπεναντίον δὲ τὸ ΣΤΥ· καὶ ὡς ἄρα τὸ ΑΒΓ τρίγωνον πρὸς        whose base (is) triangle RV F , and opposite (plane) ST U
+τὸ ΔΕΖ τρίγωνον, οὕτως τὸ πρίσμα, οὗ βάσις μὲν τὸ ΛΞΓ        (see lemma). And, thus, as triangle ABC (is) to trian-
+τρίγωνον, ἀπεναντίον δὲ τὸ ΟΜΝ, πρὸς τὸ πρίσμα, οὗ βάσις     gle DEF , so the prism whose base (is) triangle LOC,
+μὲν τὸ ΡΦΖ τρίγωνον, ἀπεναντίον δὲ τὸ ΣΤΥ. ὡς δὲ τὰ          and opposite (plane) P M N , (is) to the prism whose base
+εἰρημένα πρίσματα πρὸς ἄλληλα, οὕτως τὸ πρίσμα, οὗ βάσις     (is) triangle RV F , and opposite (plane) ST U . And as
+μὲν τὸ ΚΒΞΛ παραλληλόγραμμον, ἀπεναντίον δὲ ἡ ΟΜ             the aforementioned prisms (are) to one another, so the
+εὐθεῖα, πρὸς τὸ πρίσμα, οὗ βάσις μὲν τὸ ΠΕΦΡ παραλ-          prism whose base (is) parallelogram KBOL, and oppo-
+ληλόγραμμον, ἀπεναντίον δὲ ἡ ΣΤ εὐθεῖα. καὶ τὰ δύο ἄρα       site (side) straight-line P M , (is) to the prism whose base
+πρίσματα, οὗ τε βάσις μὲν τὸ ΚΒΞΛ παραλληλόγραμμον,          (is) parallelogram QEV R, and opposite (side) straight-
+ἀπεναντίον δὲ ἡ ΟΜ, καὶ οὗ βάσις μὲν τὸ ΛΞΓ, ἀπεναντίον      line ST [Props. 11.39, 12.3]. Thus, also, (is) the (sum
+δὲ τὸ ΟΜΝ, πρὸς τὰ πρίσματα, οὗ τε βάσις μὲν τὸ ΠΕΦΡ,        of the) two prisms—that whose base (is) parallelogram
+ἀπεναντίον δὲ ἡ ΣΤ εὐθεῖα, καὶ οὗ βάσις μὲν τὸ ΡΦΖ           KBOL, and opposite (side) P M , and that whose base
+τρίγωνον, ἀπεναντίον δὲ τὸ ΣΤΥ. καὶ ὡς ἄρα ἡ ΑΒΓ βάσις       (is) LOC, and opposite (plane) P M N —to (the sum of)
+πρὸς τὴν ΔΕΖ βάσιν, οὕτως τὰ εἰρημένα δύο πρίσματα πρὸς      the (two) prisms—that whose base (is) QEV R, and op-
+τὰ εἰρημένα δύο πρίσματα.                                    posite (side) straight-line ST , and that whose base (is)
+    Καὶ ὁμοίως, ἐὰν διαιρεθῶσιν αἱ ΟΜΝΗ, ΣΤΥΘ πυ-            triangle RV F , and opposite (plane) ST U [Prop. 5.12].
+ραμίδες εἴς τε δύο πρίσματα καὶ δύο πυραμίδας, ἔσται ὡς ἡ    And, thus, as base ABC (is) to base DEF , so the (sum
+
+
+
+                                                         478
+STOIQEIWN ibþ.                                                                             ELEMENTS BOOK 12
+
+ΟΜΝ βάσις πρὸς τὴν ΣΤΥ βάσιν, οὕτως τὰ ἐν τῇ ΟΜΝΗ          of the first) aforementioned two prisms (is) to the (sum
+πυραμίδι δύο πρίσματα πρὸς τὰ ἐν τῇ ΣΤΥΘ πυραμίδι δύο      of the second) aforementioned two prisms.
+πρίσματα. ἀλλ᾿ ὡς ἡ ΟΜΝ βάσις πρὸς τὴν ΣΤΥ βάσιν,              And, similarly, if pyramids P M N G and ST U H are di-
+οὕτως ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν· ἴσον γὰρ ἑκάτερον    vided into two prisms, and two pyramids, as base P M N
+τῶν ΟΜΝ, ΣΤΥ τριγώνων ἑκατέρῳ τῶν ΛΞΓ, ΡΦΖ. καὶ ὡς         (is) to base ST U , so (the sum of) the two prisms in pyra-
+ἄρα ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν, οὕτως τὰ τέσσαρα       mid P M N G will be to (the sum of) the two prisms in
+πρίσματα πρὸς τὰ τέσσαρα πρίσματα. ὁμοίως δὲ κἂν τὰς       pyramid ST U H. But, as base P M N (is) to base ST U , so
+ὑπολειπομένας πυραμίδας διέλωμεν εἴς τε δύο πυραμίδας      base ABC (is) to base DEF . For the triangles P M N
+καὶ εἰς δύο πρίσματα, ἔσται ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ    and ST U (are) equal to LOC and RV F , respectively.
+βάσιν, οὕτως τὰ ἐν τῇ ΑΒΓΗ πυραμίδι πρίσματα πάντα πρὸς    And, thus, as base ABC (is) to base DEF , so (the sum
+τὰ ἐν τῇ ΔΕΖΘ πυραμίδι πρίσματα πάντα ἰσοπληθῆ· ὅπερ       of) the four prisms (is) to (the sum of) the four prisms
+ἔδει δεῖξαι.                                               [Prop. 5.12]. So, similarly, even if we divide the pyra-
+                                                           mids left behind into two pyramids and into two prisms,
+                                                           as base ABC (is) to base DEF , so (the sum of) all the
+                                                           prisms in pyramid ABCG will be to (the sum of) all the
+                                                           equal number of prisms in pyramid DEF H. (Which is)
+                                                           the very thing it was required to show.
+
+                       L¨mma.                                                      Lemma
+    ῞Οτι δέ ἐστιν ὡς τὸ ΛΞΓ τρίγωνον πρὸς τὸ ΡΦΖ               And one may show, as follows, that as triangle LOC
+τρίγωνον, οὕτως τὸ πρίσμα, οὗ βάσις τὸ ΛΞΓ τρίγωνον,       is to triangle RV F , so the prism whose base (is) trian-
+ἀπεναντίον δὲ τὸ ΟΜΝ, πρὸς τὸ πρίσμα, οὗ βάσις μὲν τὸ      gle LOC, and opposite (plane) P M N , (is) to the prism
+ΡΦΖ [τρίγωνον], ἀπεναντίον δὲ τὸ ΣΤΥ, οὕτω δεικτέον.       whose base (is) [triangle] RV F , and opposite (plane)
+    ᾿Επὶ γὰρ τῆς αὐτῆς καταγραφῆς νενοήσθωσαν ἀπὸ τῶν      ST U .
+Η, Θ κάθετοι ἐπὶ τὰ ΑΒΓ, ΔΕΖ ἐπίπεδα, ἴσαι δηλαδὴ              For, in the same figure, let perpendiculars have been
+τυγχάνουσαι διὰ τὸ ἰσοϋψεῖς ὑποκεῖσθαι τὰς πυραμίδας.      conceived (drawn) from (points) G and H to the planes
+καὶ ἐπεὶ δύο εὐθεῖαι ἥ τε ΗΓ καὶ ἡ ἀπὸ τοῦ Η κάθετος       ABC and DEF (respectively). These clearly turn out to
+ὑπὸ παραλλήλων ἐπιπέδων τῶν ΑΒΓ, ΟΜΝ τέμνονται, εἰς        be equal, on account of the pyramids being assumed (to
+τοὺς αὐτοὺς λόγους τμηθήσονται. καὶ τέτμηται ἡ ΗΓ δίχα     be) of equal height. And since two straight-lines, GC
+ὑπὸ τοῦ ΟΜΝ ἐπιπέδου κατὰ τὸ Ν· καὶ ἡ ἀπὸ τοῦ Η ἄρα        and the perpendicular from G, are cut by the parallel
+κάθετος ἐπὶ τὸ ΑΒΓ ἐπίπεδον δίχα τμηθήσεται ὑπὸ τοῦ        planes ABC and P M N they will be cut in the same ra-
+ΟΜΝ ἐπιπέδου. διὰ τὰ αὐτὰ δὴ καὶ ἡ ἀπὸ τοῦ Θ κάθετος ἐπὶ   tios [Prop. 11.17]. And GC was cut in half by the plane
+τὸ ΔΕΖ ἐπίπεδον δίχα τμηθήσεται ὑπὸ τοῦ ΣΤΥ ἐπιπέδου.      P M N at N . Thus, the perpendicular from G to the plane
+καί εἰσιν ἴσαι αἱ ἀπὸ τῶν Η, Θ κάθετοι ἐπὶ τὰ ΑΒΓ, ΔΕΖ     ABC will also be cut in half by the plane P M N . So,
+ἐπίπεδα· ἴσαι ἄρα καὶ αἱ ἀπὸ τῶν ΟΜΝ, ΣΤΥ τριγώνων         for the same (reasons), the perpendicular from H to the
+ἐπὶ τὰ ΑΒΓ, ΔΕΖ κάθετοι. ἰσοϋψῆ ἄρα [ἐστὶ] τὰ πρίσματα,    plane DEF will also be cut in half by the plane ST U . And
+ὧν βάσεις μέν εἰσι τὰ ΛΞΓ, ΡΦΖ τρίγωνα, ἀπεναντίον δὲ      the perpendiculars from G and H to the planes ABC and
+τὰ ΟΜΝ, ΣΤΥ. ὥστε καὶ τὰ στερεὰ παραλληλεπίπεδα τὰ         DEF (respectively) are equal. Thus, the perpendiculars
+ἀπὸ τῶν εἰρημένων πρισμάτων ἀναγραφόμενα ἰσοϋψῆ καὶ        from the triangles P M N and ST U to ABC and DEF
+πρὸς ἄλληλά [εἰσιν] ὡς αἱ βάσεις· καὶ τὰ ἡμίση ἄρα ἐστὶν   (respectively, are) also equal. Thus, the prisms whose
+ὡς ἡ ΛΞΓ βάσις πρὸς τὴν ΡΦΖ βάσιν, οὕτως τὰ εἰρημένα       bases are triangles LOC and RV F , and opposite (sides)
+πρίσματα πρὸς ἄλληλα· ὅπερ ἔδει δεῖξαι.                    P M N and ST U (respectively), [are] of equal height.
+                                                           And, hence, the parallelepiped solids described on the
+                                                           aforementioned prisms [are] of equal height and (are) to
+                                                           one another as their bases [Prop. 11.32]. Likewise, the
+                                                           halves (of the solids) [Prop. 11.28]. Thus, as base LOC
+                                                           is to base RV F , so the aforementioned prisms (are) to
+                                                           one another. (Which is) the very thing it was required to
+                                                           show.
+
+
+
+
+                                                       479
+STOIQEIWN ibþ.                                                                                                  ELEMENTS BOOK 12
+
+                                  eþ.                                                             Proposition 5
+   Αἱ ὑπὸ τὸ αὐτὸ ὕψος οὖσαι πυραμίδες καὶ τριγώνους              Pyramids which are of the same height, and have tri-
+ἔχουσαι βάσεις πρὸς ἀλλήλας εἰσὶν ὡς αἱ βάσεις.                angular bases, are to one another as their bases.
+              H                         J                                         G                         H
+
+
+
+      O               N           S             U                         P               N
+                                                                                                        S           U
+              M                             T           Q                         M                             T           W
+
+ A                            D             R       Z                                               D                   F
+              L                                                   A               L                             R
+  K                       G       P             F                     K
+                                                                                              C
+                                                                                                        Q           V
+          B       X                     E                                     B       O                     E
+    ῎Εστωσαν ὑπὸ τὸ αὐτὸ ὕψος πυραμίδες, ὧν βάσεις μὲν             Let there be pyramids of the same height whose bases
+τὰ ΑΒΓ, ΔΕΖ τρίγωνα, κορυφαὶ δὲ τὰ Η, Θ σημεῖα· λέγω,          (are) the triangles ABC and DEF , and apexes the points
+ὅτι ἐστὶν ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν, οὕτως ἡ           G and H (respectively). I say that as base ABC is to base
+ΑΒΓΗ πυραμὶς πρὸς τὴν ΔΕΖΘ πυραμίδα.                           DEF , so pyramid ABCG (is) to pyramid DEF H.
+    Εἰ γὰρ μή ἐστιν ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν,             For if base ABC is not to base DEF , as pyramid
+οὕτως ἡ ΑΒΓΗ πυραμὶς πρὸς τὴν ΔΕΖΘ πυραμίδα, ἔσται ὡς          ABCG (is) to pyramid DEF H, then base ABC will be
+ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν, οὕτως ἡ ΑΒΓΗ πυραμὶς           to base DEF , as pyramid ABCG (is) to some solid ei-
+ἤτοι πρὸς ἔλασσόν τι τῆς ΔΕΖΘ πυραμίδος στερεὸν ἢ πρὸς         ther less than, or greater than, pyramid DEF H. Let it,
+μεῖζον. ἔστω πρότερον πρὸς ἔλασσον τὸ Χ, καὶ διῃρὴσθω          first of all, be (in this ratio) to (some) lesser (solid), W .
+ἡ ΔΕΖΘ πυραμὶς εἴς τε δύο πυραμίδας ἴσας ἀλλήλαις καὶ          And let pyramid DEF H have been divided into two pyra-
+ὁμοίας τῇ ὅλῃ καὶ εἰς δύο πρίσματα ἴσα· τὰ δὴ δύο πρίσαμτα     mids equal to one another, and similar to the whole, and
+μείζονά ἐστιν ἢ τὸ ἥμισυ τῆς ὅλης πυραμίδος. καὶ πάλιν αἱ ἐκ   into two equal prisms. So, the (sum of the) two prisms
+τῆς διαιρέσεως γινόμεναι πυραμίδες ὁμοίως διῃρήσθωσαν,         is greater than half of the whole pyramid [Prop. 12.3].
+καὶ τοῦτο ἀεὶ γινέσθω, ἕως οὗ λειφθῶσί τινες πυραμίδες ἀπὸ     And, again, let the pyramids generated by the division
+τῆς ΔΕΖΘ πυραμίδος, αἵ εἰσιν ἐλάττονες τῆς ὑπεροχῆς, ᾗ         have been similarly divided, and let this be done contin-
+ὑπερέχει ἡ ΔΕΖΘ πυραμὶς τοῦ Χ στερεοῦ. λελείφθωσαν καὶ         ually until some pyramids are left from pyramid DEF H
+ἔστωσαν λόγου ἕνεκεν αἱ ΔΠΡΣ, ΣΤΥΘ· λοιπὰ ἄρα τὰ ἐν            which (when added together) are less than the excess by
+τῇ ΔΕΖΘ πυραμίδι πρίσματα μείζονά ἐστι τοῦ Χ στερεοῦ.          which pyramid DEF H exceeds the solid W [Prop. 10.1].
+διῃρήσθω καὶ ἡ ΑΒΓΗ πυραμὶς ὁμοίως καὶ ἰσοπληθῶς τῇ            Let them have been left, and, for the sake of argument,
+ΔΕΖΘ πυραμίδι· ἔστιν ἄρα ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ           let them be DQRS and ST U H. Thus, the (sum of the)
+βάσιν, οὕτως τὰ ἐν τῇ ΑΒΓΗ πυραμίδι πρίσματα πρὸς τὰ ἐν        remaining prisms within pyramid DEF H is greater than
+τῇ ΔΕΖΘ πυραμίδι πρίσματα, ἀλλὰ καὶ ὡς ἡ ΑΒΓ βάσις πρὸς        solid W . Let pyramid ABCG also have been divided sim-
+τὴν ΔΕΖ βάσιν, οὕτως ἡ ΑΒΓΗ πυραμὶς πρὸς τὸ Χ στερεόν·         ilarly, and a similar number of times, as pyramid DEF H.
+καὶ ὡς ἄρα ἡ ΑΒΓΗ πυραμὶς πρὸς τὸ Χ στερεόν, οὕτως             Thus, as base ABC is to base DEF , so the (sum of the)
+τὰ ἐν τῇ ΑΒΓΗ πυραμίδι πρίσματα πρὸς τὰ ἐν τῇ ΔΕΖΘ             prisms within pyramid ABCG (is) to the (sum of the)
+πυραμίδι πρίσματα· ἐναλλὰξ ἄρα ὡς ἡ ΑΒΓΗ πυραμὶς πρὸς          prisms within pyramid DEF H [Prop. 12.4]. But, also,
+τὰ ἐν αὐτῇ πρίσματα, οὕτως τὸ Χ στερεὸν πρὸς τὰ ἐν τῇ          as base ABC (is) to base DEF , so pyramid ABCG (is)
+ΔΕΖΘ πυραμίδι πρίσματα. μείζων δὲ ἡ ΑΒΓΗ πυραμὶς τῶν           to solid W . And, thus, as pyramid ABCG (is) to solid
+ἐν αὐτῇ πρισμάτων· μεῖζον ἄρα καὶ τὸ Χ στερεὸν τῶν ἐν τῇ       W , so the (sum of the) prisms within pyramid ABCG
+ΔΕΖΘ πυραμίδι πρισμάτων. ἀλλὰ καὶ ἔλαττον· ὅπερ ἐστὶν          (is) to the (sum of the) prisms within pyramid DEF H
+ἀδύνατον. οὐκ ἄρα ἐστὶν ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ            [Prop. 5.11]. Thus, alternately, as pyramid ABCG (is) to
+βάσιν, οὕτως ἡ ΑΒΓΗ πυραμὶς πρὸς ἔλασσόν τι τῆς ΔΕΖΘ           the (sum of the) prisms within it, so solid W (is) to the
+πυραμίδος στερεόν. ὁμοίως δὴ δειχθήσεται, ὅτι οὐδὲ ὡς ἡ        (sum of the) prisms within pyramid DEF H [Prop. 5.16].
+ΔΕΖ βάσις πρὸς τὴν ΑΒΓ βάσιν, οὕτως ἡ ΔΕΖΘ πυραμὶς             And pyramid ABCG (is) greater than the (sum of the)
+πρὸς ἔλαττόν τι τῆς ΑΒΓΗ πυραμίδος στερεόν.                    prisms within it. Thus, solid W (is) also greater than the
+    Λέγω δή, ὅτι οὐκ ἔστιν οὐδὲ ὡς ἡ ΑΒΓ βάσις πρὸς τὴν        (sum of the) prisms within pyramid DEF H [Prop. 5.14].
+ΔΕΖ βάσιν, οὕτως ἡ ΑΒΓΗ πυραμὶς πρὸς μεῖζόν τι τῆς             But, (it is) also less. This very thing is impossible. Thus,
+ΔΕΖΘ πυραμίδος στερεόν.                                        as base ABC is to base DEF , so pyramid ABCG (is)
+
+
+
+                                                            480
+STOIQEIWN ibþ.                                                                                ELEMENTS BOOK 12
+
+    Εἰ γὰρ δυνατόν, ἔστω πρὸς μεῖζον τὸ Χ· ἀνάπαλιν ἄρα      not to some solid less than pyramid DEF H. So, simi-
+ἐστὶν ὡς ἡ ΔΕΖ βάσις πρὸς τὴν ΑΒΓ βάσιν, οὕτως τὸ Χ          larly, we can show that base DEF is not to base ABC,
+στερεὸν πρὸς τὴν ΑΒΓΗ πυραμίδα. ὡς δὲ τὸ Χ στερεὸν           as pyramid DEF H (is) to some solid less than pyramid
+πρὸς τὴν ΑΒΓΗ πυραμίδα, οὕτως ἡ ΔΕΖΘ πυραμὶς πρὸς            ABCG either.
+ἔλασσόν τι τῆς ΑΒΓΗ πυραμίδος, ὡς ἔμπροσθεν ἐδείχθη·             So, I say that neither is base ABC to base DEF , as
+καὶ ὡς ἄρα ἡ ΔΕΖ βάσις πρὸς τὴν ΑΒΓ βάσιν, οὕτως ἡ           pyramid ABCG (is) to some solid greater than pyramid
+ΔΕΖΘ πυραμὶς πρὸς ἔλασσόν τι τῆς ΑΒΓΗ πυραμίδος·             DEF H.
+ὅπερ ἄτοπον ἐδείχθη. οὐκ ἄρα ἐστὶν ὡς ἡ ΑΒΓ βάσις πρὸς           For, if possible, let it be (in this ratio) to some
+τὴν ΔΕΖ βάσιν, οὕτως ἡ ΑΒΓΗ πυραμὶς πρὸς μεῖζόν τι           greater (solid), W . Thus, inversely, as base DEF
+τῆς ΔΕΖΘ πυραμίδος στερεόν. ἐδείχθη δέ, ὅτι οὐδὲ πρὸς        (is) to base ABC, so solid W (is) to pyramid ABCG
+ἔλασσον. ἔστιν ἄρα ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν,        [Prop. 5.7. corr.]. And as solid W (is) to pyramid ABCG,
+οὕτως ἡ ΑΒΓΗ πυραμὶς πρὸς τὴν ΔΕΖΘ πυραμίδα· ὅπερ            so pyramid DEF H (is) to some (solid) less than pyramid
+ἔδει δεῖξαι.                                                 ABCG, as shown before [Prop. 12.2 lem.]. And, thus,
+                                                             as base DEF (is) to base ABC, so pyramid DEF H (is)
+                                                             to some (solid) less than pyramid ABCG [Prop. 5.11].
+                                                             The very thing was shown (to be) absurd. Thus, base
+                                                             ABC is not to base DEF , as pyramid ABCG (is) to
+                                                             some solid greater than pyramid DEF H. And, it was
+                                                             shown that neither (is it in this ratio) to a lesser (solid).
+                                                             Thus, as base ABC is to base DEF , so pyramid ABCG
+                                                             (is) to pyramid DEF H. (Which is) the very thing it was
+                                                             required to show.
+
+                           þ.                                                    Proposition 6
+   Αἱ ὐπὸ τὸ αὐτὸ ὕψος οὖσαι πυραμίδες καὶ πολυγώνους    Pyramids which are of the same height, and have
+ἔχουσαι βάσεις πρὸς ἀλλήλας εἰσὶν ὡς αἱ βάσεις.       polygonal bases, are to one another as their bases.
+
+                    M                N                                            M                 N
+
+
+
+
+           G                         K      J                            C                         K        H
+D                     B                                                             B
+                                 L                     H         D
+                                                                                              L                        G
+                     A                                                             A
+          E                                  Z                          E                                   F
+    ῎Εστωσαν ὑπὸ τὸ αὐτὸ ὕψος πυραμίδες, ὧν [αἱ] βάσεις          Let there be pyramids of the same height whose bases
+μὲν τὰ ΑΒΓΔΕ, ΖΗΘΚΛ πολύγωνα, κορυφαὶ δὲ τὰ Μ,               (are) the polygons ABCDE and F GHKL, and apexes
+Ν σημεῖα· λέγω, ὅτι ἐστὶν ὡς ἡ ΑΒΓΔΕ βάσις πρὸς τὴν          the points M and N (respectively). I say that as base
+ΖΗΘΚΛ βάσιν, οὕτως ἡ ΑΒΓΔΕΜ πυραμὶς πρὸς τὴν ΖΗΘ-            ABCDE is to base F GHKL, so pyramid ABCDEM (is)
+ΚΛΝ πυραμίδα.                                                to pyramid F GHKLN .
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΑΓ, ΑΔ, ΖΘ, ΖΚ. ἐπεὶ οὖν                For let AC, AD, F H, and F K have been joined.
+δύο πυραμίδες εἰσὶν αἱ ΑΒΓΜ, ΑΓΔΜ τριγώνους ἔχου-            Therefore, since ABCM and ACDM are two pyramids
+σαι βάσεις καὶ ὕψος ἴσον, πρὸς ἀλλήλας εἰσὶν ὡς αἱ βάσεις·   having triangular bases and equal height, they are to
+ἔστιν ἄρα ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΑΓΔ βάσιν, οὕτως ἡ         one another as their bases [Prop. 12.5]. Thus, as base
+ΑΒΓΜ πυραμὶς πρὸς τὴν ΑΓΔΜ πυραμίδα. καὶ συνθέντι            ABC is to base ACD, so pyramid ABCM (is) to pyra-
+ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν ΑΓΔ βάσιν, οὕτως ἡ ΑΒΓΔΜ            mid ACDM . And, via composition, as base ABCD
+
+
+                                                           481
+STOIQEIWN ibþ.                                                                            ELEMENTS BOOK 12
+
+πυραμὶς πρὸς τὴν ΑΓΔΜ πυραμίδα. ἀλλὰ καὶ ὡς ἡ ΑΓΔ          (is) to base ACD, so pyramid ABCDM (is) to pyra-
+βάσις πρὸς τὴν ΑΔΕ βάσιν, οὕτως ἡ ΑΓΔΜ πυραμὶς πρὸς        mid ACDM [Prop. 5.18]. But, as base ACD (is) to
+τὴν ΑΔΕΜ πυραμίδα. δι᾿ ἴσου ἄρα ὡς ἡ ΑΒΓΔ βάσις πρὸς       base ADE, so pyramid ACDM (is) also to pyramid
+τὴν ΑΔΕ βάσιν, οὕτως ἡ ΑΒΓΔΜ πυραμὶς πρὸς τὴν ΑΔΕΜ         ADEM [Prop. 12.5]. Thus, via equality, as base ABCD
+πυραμίδα. καὶ συνθέντι πάλιν, ὡς ἡ ΑΒΓΔΕ βάσις πρὸς τὴν    (is) to base ADE, so pyramid ABCDM (is) to pyramid
+ΑΔΕ βάσιν, οὕτως ἡ ΑΒΓΔΕΜ πυραμὶς πρὸς τὴν ΑΔΕΜ            ADEM [Prop. 5.22]. And, again, via composition, as
+πυραμίδα. ὁμοίως δὴ δειχθήσεται, ὅτι καὶ ὡς ἡ ΖΗΘΚΛ        base ABCDE (is) to base ADE, so pyramid ABCDEM
+βάσις πρὸς τὴν ΖΗΘ βάσιν, οὕτως καὶ ἡ ΖΗΘΚΛΝ πυραμὶς       (is) to pyramid ADEM [Prop. 5.18]. So, similarly, it can
+πρὸς τὴν ΖΗΘΝ πυραμίδα. καὶ ἐπεὶ δύο πυραμίδες εἱσὶν αἱ    also be shown that as base F GHKL (is) to base F GH,
+ΑΔΕΜ, ΖΗΘΝ τριγώνους ἔχουσαι βάσεις καὶ ὕψος ἴσον,         so pyramid F GHKLN (is) also to pyramid F GHN . And
+ἔστιν ἄρα ὡς ἡ ΑΔΕ βάσις πρὸς τὴν ΖΗΘ βάσιν, οὕτως         since ADEM and F GHN are two pyramids having tri-
+ἡ ΑΔΕΜ πυραμὶς πρὸς τὴν ΖΗΘΝ πυραμίδα. ἀλλ᾿ ὡς ἡ           angular bases and equal height, thus as base ADE (is) to
+ΑΔΕ βάσις πρὸς τὴν ΑΒΓΔΕ βάσιν, οὕτως ἦν ἡ ΑΔΕΜ            base F GH, so pyramid ADEM (is) to pyramid F GHN
+πυραμὶς πρὸς τὴν ΑΒΓΔΕΜ πυραμίδα. καὶ δι᾿ ἴσου ἄρα ὡς      [Prop. 12.5]. But, as base ADE (is) to base ABCDE, so
+ἡ ΑΒΓΔΕ βάσις πρὸς τὴν ΖΗΘ βάσιν, οὕτως ἡ ΑΒΓΔΕΜ           pyramid ADEM (was) to pyramid ABCDEM . Thus, via
+πυραμὶς πρὸς τὴν ΖΗΘΝ πυραμίδα. ἀλλὰ μὴν καὶ ὡς ἡ ΖΗΘ      equality, as base ABCDE (is) to base F GH, so pyramid
+βάσις πρὸς τὴν ΖΗΘΚΛ βάσιν, οὕτως ἦν καὶ ἡ ΖΗΘΝ πυ-        ABCDEM (is) also to pyramid F GHN [Prop. 5.22].
+ραμὶς πρὸς τὴν ΖΗΘΚΛΝ πυραμίδα, καὶ δι᾿ ἴσου ἄρα ὡς ἡ      But, furthermore, as base F GH (is) to base F GHKL,
+ΑΒΓΔΕ βάσις πρὸς τὴν ΖΗΘΚΛ βάσιν, οὕτως ἡ ΑΒΓΔΕΜ           so pyramid F GHN was also to pyramid F GHKLN .
+πυραμὶς πρὸς τὴν ΖΗΘΚΛΝ πυραμίδα· ὅπερ ἔδει δεῖξαι.        Thus, via equality, as base ABCDE (is) to base F GHKL,
+                                                           so pyramid ABCDEM (is) also to pyramid F GHKLN
+                                                           [Prop. 5.22]. (Which is) the very thing it was required to
+                                                           show.
+
+                          zþ.                                                  Proposition 7
+   Πᾶν πρίσμα τρίγωνον ἔχον βάσιν διαιρεῖται εἰς τρεῖς πυ-     Any prism having a triangular base is divided into
+ραμίδας ἴσας ἀλλήλαις τριγώνους βάσεις ἐχούσας.            three pyramids having triangular bases (which are) equal
+                                                           to one another.
+                                Z                                                         F
+
+       E                                D                          E                                D
+
+
+
+                                        G                                                           C
+
+                B                            A                             B                              A
+    ῎Εστω πρίσμα, οὗ βάσις μὲν τὸ ΑΒΓ τρίγωνον, ἀπε-           Let there be a prism whose base (is) triangle ABC,
+ναντίον δὲ τὸ ΔΕΖ· λέγω, ὅτι τὸ ΑΒΓΔΕΖ πρίσμα διαιρεῖται   and opposite (plane) DEF . I say that prism ABCDEF
+εἰς τρεῖς πυραμίδας ἴσας ἀλλήλαις τριγώνους ἐχούσας        is divided into three pyramids having triangular bases
+βάσεις.                                                    (which are) equal to one another.
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΒΔ, ΕΓ, ΓΔ. ἐπεὶ παραλ-               For let BD, EC, and CD have been joined. Since
+ληλόγραμμόν ἐστι τὸ ΑΒΕΔ, διάμετρος δὲ αὐτὸῦ ἐστιν         ABED is a parallelogram, and BD is its diagonal, tri-
+ἡ ΒΔ, ἴσον ἄρα ἐστι τὸ ΑΒΔ τρίγωνον τῷ ΕΒΔ τρίγωνῳ·        angle ABD is thus equal to triangle EBD [Prop. 1.34].
+
+
+                                                       482
+STOIQEIWN ibþ.                                                                              ELEMENTS BOOK 12
+
+καὶ ἡ πυραμὶς ἄρα, ἧς βάσις μὲν τὸ ΑΒΔ τρίγωνον, κο-         And, thus, the pyramid whose base (is) triangle ABD,
+ρυφὴ δὲ τὸ Γ σημεῖον, ἴση ἐστὶ πυραμίδι, ἧς βάσις μέν        and apex the point C, is equal to the pyramid whose base
+ἐστι τὸ ΔΕΒ τρίγωνον, κορυφὴ δὲ τὸ Γ σημεῖον. ἀλλὰ           is triangle DEB, and apex the point C [Prop. 12.5]. But,
+ἡ πυραμίς, ἧς βάσις μέν ἐστι τὸ ΔΕΒ τρίγωνον, κορυφὴ         the pyramid whose base is triangle DEB, and apex the
+δὲ τὸ Γ σημεῖον, ἡ αὐτή ἐστι πυραμίδι, ἧς βάσις μέν ἐστι     point C, is the same as the pyramid whose base is trian-
+τὸ ΕΒΓ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον· ὑπὸ γὰρ τῶν         gle EBC, and apex the point D. For they are contained
+αὐτῶν ἐπιπέδων περιέχεται. καὶ πυραμὶς ἄρα, ἧς βάσις μέν     by the same planes. And, thus, the pyramid whose base
+ἐστι τὸ ΑΒΔ τρίγωνον, κορυφὴ δὲ τὸ Γ σημεῖον, ἴση ἐστὶ       is ABD, and apex the point C, is equal to the pyramid
+πυραμίδι, ἧς βάσις μέν ἐστι τὸ ΕΒΓ τρίγωνον, κορυφὴ          whose base is EBC and apex the point D. Again, since
+δὲ τὸ Δ σημεῖον. πάλιν, ἐπεὶ παραλληλόγραμμόν ἐστι τὸ        F CBE is a parallelogram, and CE is its diagonal, trian-
+ΖΓΒΕ, διάμετρος δέ ἐστιν αὐτοῦ ἡ ΓΕ, ἴσον ἐστὶ τὸ ΓΕΖ        gle CEF is equal to triangle CBE [Prop. 1.34]. And,
+τρίγωνον τῷ ΓΒΕ τριγώνῳ. καὶ πυραμὶς ἄρα, ἧς βάσις           thus, the pyramid whose base is triangle BCE, and apex
+μέν ἐστι τὸ ΒΓΕ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον, ἴση        the point D, is equal to the pyramid whose base is trian-
+ἐστὶ πυραμίδι, ἧς βάσις μέν ἐστι τὸ ΕΓΖ τρίγωνον, κορυφὴ     gle ECF , and apex the point D [Prop. 12.5]. And the
+δὲ τὸ Δ σημεῖον. ἡ δὲ πυραμίς, ἧς βάσις μέν ἐστι τὸ ΒΓΕ      pyramid whose base is triangle BCE, and apex the point
+τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον, ἴση ἐδείχθη πυραμίδι, ἧς   D, was shown (to be) equal to the pyramid whose base is
+βάσις μέν ἐστι τὸ ΑΒΔ τρίγωνον, κορυφὴ δὲ τὸ Γ σημεῖον·      triangle ABD, and apex the point C. Thus, the pyramid
+καὶ πυραμὶς ἄρα, ἧς βάσις μέν ἐστι τὸ ΓΕΖ τρίγωνον, κο-      whose base is triangle CEF , and apex the point D, is
+ρυφὴ δὲ τὸ Δ σημεῖον, ἴση ἐστὶ πυραμίδι, ἧς βάσις μέν        also equal to the pyramid whose base [is] triangle ABD,
+[ἐστι] τὸ ΑΒΔ τρίγωνον, κορυφὴ δὲ τὸ Γ σημεῖον· διῄρηται     and apex the point C. Thus, the prism ABCDEF has
+ἄρα τὸ ΑΒΓΔΕΖ πρίσμα εἰς τρεῖς πυραμίδας ἴσας ἀλλήλαις       been divided into three pyramids having triangular bases
+τριγώνους ἐχούσας βάσεις.                                    (which are) equal to one another.
+    Καὶ ἐπεὶ πυραμίς, ἧς βάσις μέν ἐστι τὸ ΑΒΔ τρίγωνον,          And since the pyramid whose base is triangle ABD,
+κορυφὴ δὲ τὸ Γ σημεῖον, ἡ αὐτή ἐστι πυραμίδι, ἧς βάσις       and apex the point C, is the same as the pyramid whose
+τὸ ΓΑΒ τρίγωνον, κορυφὴ δὲ τὸ Δ σημεῖον· ὑπὸ γὰρ τῶν         base is triangle CAB, and apex the point D. For they are
+αὐτῶν ἐπιπέδων περιέχονται· ἡ δὲ πυραμίς, ἧς βάσις τὸ        contained by the same planes. And the pyramid whose
+ΑΒΔ τρίγωνον, κορυφὴ δὲ τὸ Γ σημεῖον, τρίτον ἐδείχθη         base (is) triangle ABD, and apex the point C, was shown
+τοῦ πρίσματος, οὗ βάσις τὸ ΑΒΓ τρίγωνον, ἀπεναντίον δὲ       (to be) a third of the prism whose base is triangle ABC,
+τὸ ΔΕΖ, καὶ ἡ πυραμὶς ἄρα, ἧς βάσις τὸ ΑΒΓ τρίγωνον,         and opposite (plane) DEF , thus the pyramid whose base
+κορυφὴ δὲ τὸ Δ σημεῖον, τρίτον ἐστὶ τοῦ πρίσματος τοῦ        is triangle ABC, and apex the point D, is also a third of
+ἔχοντος βάσις τὴν αὐτὴν τὸ ΑΒΓ τρίγωνον, ἀπεναντίον δὲ       the pyramid having the same base, triangle ABC, and
+τὸ ΔΕΖ.                                                      opposite (plane) DEF .
+
+                       Pìrisma.                                                     Corollary
+   ᾿Εκ δὴ τούτου φανερόν, ὅτι πᾶσα πυραμὶς τρίτον μέρος     And, from this, (it is) clear that any pyramid is the
+ἐστὶ τοῦ πρίσματος τοῦ τὴν αὐτὴν βάσιν ἔχοντος αὐτῇ καὶ third part of the prism having the same base as it, and an
+ὕψος ἴσον· ὅπερ ἔδει δεῖξαι.                            equal height. (Which is) the very thing it was required to
+                                                        show.
+
+                           hþ.                                                   Proposition 8
+    Αἱ ὅμοιαι πυραμίδες καὶ τριγώνους ἔχουσαι βάσεις ἐν          Similar pyramids which also have triangular bases are
+τριπλασίονι λόγῳ εἰσὶ τῶν ὁμολόγων πλευρῶν.                  in the cubed ratio of their corresponding sides.
+    ῎Εστωσαν ὅμοιαι καὶ ὁμοίως κείμεναι πυραμίδες, ὧν            Let there be similar, and similarly laid out, pyramids
+βάσεις μέν εἰσι τὰ ΑΒΓ, ΔΕΖ τρίγωνα, κορυφαὶ δὲ τὰ Η,        whose bases are triangles ABC and DEF , and apexes
+Θ σημεῖα· λέγω, ὅτι ἡ ΑΒΓΗ πυραμὶς πρὸς τὴν ΔΕΖΘ             the points G and H (respectively). I say that pyramid
+πυραμίδα τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ.       ABCG has to pyramid DEF H the cubed ratio of that
+                                                             BC (has) to EF .
+
+
+
+
+                                                         483
+STOIQEIWN ibþ.                                                                                 ELEMENTS BOOK 12
+
+                                       X                O                                                O               P
+         K            L                                                   K          L
+                              D                     P                                         D                      Q
+A                 M                                               A              M
+
+     H                N            J                    R             G              N               H                   R
+
+
+ B              G              E                Z                 B            C               E                 F
+    Συμπεπληρώσθω γὰρ τὰ ΒΗΜΛ, ΕΘΠΟ στερεὰ παραλ-                 For let the parallelepiped solids BGM L and EHQP
+ληλεπίπεδα. καὶ ἐπεὶ ὁμοία ἐστὶν ἡ ΑΒΓΗ πυραμὶς τῇ ΔΕΖΘ       have been completed. And since pyramid ABCG is simi-
+πυραμίδι, ἵση ἄρα ἐστὶν ἡ μὲν ὑπὸ ΑΒΓ γωνία τῇ ὑπὸ ΔΕΖ        lar to pyramid DEF H, angle ABC is thus equal to angle
+γωνίᾳ, ἡ δὲ ὑπὸ ΗΒΓ τῇ ὑπὸ ΘΕΖ, ἡ δὲ ὑπὸ ΑΒΗ τῇ ὑπὸ           DEF , and GBC to HEF , and ABG to DEH. And as AB
+ΔΕΘ, καί ἐστιν ὡς ἡ ΑΒ πρὸς τὴν ΔΕ, οὕτως ἡ ΒΓ πρὸς           is to DE, so BC (is) to EF , and BG to EH [Def. 11.9].
+τὴν ΕΖ, καὶ ἡ ΒΗ πρὸς τὴν ΕΘ. καὶ ἐπεί ἐστιν ὡς ἡ ΑΒ          And since as AB is to DE, so BC (is) to EF , and (so)
+πρὸς τὴν ΔΕ, οὕτως ἡ ΒΓ πρὸς τὴν ΕΖ, καὶ περὶ ἴσας γωνίας     the sides around equal angles are proportional, parallel-
+αἱ πλευραὶ ἀνάλογόν εἰσιν, ὅμοιον ἄρα ἐστὶ τὸ ΒΜ παραλ-       ogram BM is thus similar to paralleleogram EQ. So,
+ληλόγραμμον τῷ ΕΠ παραλληλογράμμῳ. διὰ τὰ αὐτὰ δὴ καὶ         for the same (reasons), BN is also similar to ER, and
+τὸ μὲν ΒΝ τῷ ΕΡ ὅμοιόν ἐστι, τὸ δὲ ΒΚ τῷ ΕΞ· τὰ τρία          BK to EO. Thus, the three (parallelograms) M B, BK,
+ἄρα τὰ ΜΒ, ΒΚ, ΒΝ τρισὶ τοῖς ΕΠ, ΕΞ, ΕΡ ὅμοιά ἐστιν.          and BN are similar to the three (parallelograms) EQ,
+ἀλλὰ τὰ μὲν τρία τὰ ΜΒ, ΒΚ, ΒΝ τρισὶ τοῖς ἀπεναντίον ἴσα      EO, ER (respectively). But, the three (parallelograms)
+τε καὶ ὅμοιά ἐστιν, τὰ δὲ τρία τὰ ΕΠ, ΕΞ, ΕΡ τρισὶ τοῖς       M B, BK, and BN are (both) equal and similar to the
+ἀπεναντίον ἴσα τε καὶ ὅμοιά ἐστιν. τὰ ΒΗΜΛ, ΕΘΠΟ ἄρα          three opposite (parallelograms), and the three (parallel-
+στερεὰ ὑπὸ ὁμοίων ἐπιπέδων ἴσων τὸ πλῆθος περιέχεται.         ograms) EQ, EO, and ER are (both) equal and simi-
+ὅμοιον ἄρα ἐστὶ τὸ ΒΗΜΛ στερεὸν τῷ ΕΘΠΟ στερεῷ. τὰ            lar to the three opposite (parallelograms) [Prop. 11.24].
+δὲ ὅμοια στερεὰ παραλληλεπίπεδα ἐν τριπλασίονι λόγῳ ἐστὶ      Thus, the solids BGM L and EHQP are contained by
+τῶν ὁμολόγων πλευρῶν. τὸ ΒΗΜΛ ἄρα στερεὸν πρὸς τὸ             equal numbers of similar (and similarly laid out) planes.
+ΕΘΠΟ στερεὸν τριπλασίονα λόγον ἔχει ἤπερ ἡ ὁμόλογος           Thus, solid BGM L is similar to solid EHQP [Def. 11.9].
+πλευρὰ ἡ ΒΓ πρὸς τὴν ὁμόλογον πλευρὰν τὴν ΕΖ. ὡς δὲ τὸ        And similar parallelepiped solids are in the cubed ratio of
+ΒΗΜΛ στερεὸν πρὸς τὸ ΕΘΠΟ στερεόν, οὕτως ἡ ΑΒΓΗ               corresponding sides [Prop. 11.33]. Thus, solid BGM L
+πυραμὶς πρὸς τὴν ΔΕΖΘ πυραμίδα, ἐπειδήπερ ἡ πυραμὶς           has to solid EHQP the cubed ratio that the correspond-
+ἕκτον μέρος ἐστὶ τοῦ στερεοῦ διὰ τὸ καὶ τὸ πρίσμα ἥμισυ       ing side BC (has) to the corresponding side EF . And as
+ὂν τοῦ στερεοῦ παραλληλεπιπέδου τριπλάσιον εἶναι τῆς πυ-      solid BGM L (is) to solid EHQP , so pyramid ABCG (is)
+ραμίδος. καὶ ἡ ΑΒΓΗ ἄρα πυραμὶς πρὸς τὴν ΔΕΖΘ πυ-             to pyramid DEF H, inasmuch as the pyramid is the sixth
+ραμίδα τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ·          part of the solid, on account of the prism, being half of the
+ὅπερ ἔδει δεῖξαι.                                             parallelepiped solid [Prop. 11.28], also being three times
+                                                              the pyramid [Prop. 12.7]. Thus, pyramid ABCG also has
+                                                              to pyramid DEF H the cubed ratio that BC (has) to EF .
+                                                              (Which is) the very thing it was required to show.
+
+                       Pìrisma.                                                          Corollary
+    ᾿Εκ δὴ τούτου φανερόν, ὅτι καὶ αἱ πολυγώνους ἔχου-           So, from this, (it is) also clear that similar pyra-
+σαι βάσεις ὅμοιαι πυραμίδες πρὸς ἀλλήλας ἐν τριπλασίονι       mids having polygonal bases (are) to one another as the
+λόγῳ εἰσὶ τῶν ὁμολόγων πλευρῶν. διαιρεθεισῶν γὰρ αὐτῶν        cubed ratio of their corresponding sides. For, dividing
+εἰς τὰς ἐν αὐταῖς πυραμίδας τριγώνους βάσεις ἐχούσας τῷ       them into the pyramids (contained) within them which
+καὶ τὰ ὅμοια πολύγωνα τῶν βάσεων εἰς ὅμοια τρίγωνα            have triangular bases, with the similar polygons of the
+διαιρεῖσθαι καὶ ἴσα τῷ πλήθει καὶ ὁμόλογα τοῖς ὅλοις ἔσται    bases also being divided into similar triangles (which are)
+
+
+                                                            484
+STOIQEIWN ibþ.                                                                             ELEMENTS BOOK 12
+
+ὡς [ἡ] ἐν τῇ ἑτέρᾳ μία πυραμὶς τρίγωνον ἔχουσα βάσιν        both equal in number, and corresponding, to the wholes
+πρὸς τὴν ἐν τῇ ἑτέρᾳ μίαν πυραμίδα τρίγωνον ἔχουσαν         [Prop. 6.20]. As one pyramid having a triangular base in
+βάσιν, οὕτως καὶ ἅπασαι αἱ ἐν τῇ ἑτέρᾳ πυραμίδι πυραμίδες   the former (pyramid having a polygonal base is) to one
+τριγώνους ἔχουσαι βάσεις πρὸς τὰς ἐν τῇ ἑτέρᾳ πυραμίδι      pyramid having a triangular base in the latter (pyramid
+πυραμίδας τριγώνους βάσεις ἐχούσας, τουτέστιν αὐτὴ ἡ        having a polygonal base), so (the sum of) all the pyra-
+πολύγωνον βάσιν ἔχουσα πυραμὶς πρὸς τὴν πολύγωνον           mids having triangular bases in the former pyramid will
+βάσιν ἔχουσαν πυραμίδα. ἡ δὲ τρίγωνον βάσιν ἔχουσα πυ-      also be to (the sum of) all the pyramids having triangu-
+ραμὶς πρὸς τὴν τρίγωνον βάσιν ἔχουσαν ἐν τριπλασίονι λόγῳ   lar bases in the latter pyramid [Prop. 5.12]—that is to
+ἐστὶ τῶν ὁμολόγον πλευρῶν· καὶ ἡ πολύγωνον ἄρα βάσιν        say, the (former) pyramid itself having a polygonal base
+ἔχουσα πρὸς τὴν ὁμοίαν βάσιν ἔχουσαν τριπλασίονα λόγον      to the (latter) pyramid having a polygonal base. And a
+ἔχει ἤπερ ἡ πλευρὰ πρὸς τὴν πλευράν.                        pyramid having a triangular base is to a (pyramid) hav-
+                                                            ing a triangular base in the cubed ratio of corresponding
+                                                            sides [Prop. 12.8]. Thus, a (pyramid) having a polygonal
+                                                            base also has to to a (pyramid) having a similar base the
+                                                            cubed ratio of a (corresponding) side to a (correspond-
+                                                            ing) side.
+
+                           jþ.                                                   Proposition 9
+    Τῶν ἴσων πυραμίδων καὶ τριγώνους βάσεις ἐχουσῶν       The bases of equal pyramids which also have trian-
+ἀντιπεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν· καὶ ὧν πυραμίδων gular bases are reciprocally proportional to their heights.
+τριγώνους βάσεις ἐχουσῶν ἀντιπεπόνθασιν αἱ βάσεις τοῖς And those pyramids which have triangular bases whose
+ὕψεσιν, ἴσαι εἰσὶν ἐκεῖναι.                            bases are reciprocally proportional to their heights are
+                                                       equal.
+
+     J          X                                                H
+                                                                             O
+                                                L                                                          L
+          R           O                                                R          P
+                             H                                                           G
+
+                                     A          M                                               A
+                                                                                                             M
+
+                                 B          G                                               B            C
+     E          D                                                E           D
+
+            Z       P                                                    F       Q
+   ῎Εστωσαν γὰρ ἴσαι πυραμίδες τριγώνους βάσεις ἔχουσαι        For let there be (two) equal pyramids having the tri-
+τὰς ΑΒΓ, ΔΕΖ, κορυφὰς δὲ τὰ Η, Θ σημεῖα· λέγω, ὅτι τῶν      angular bases ABC and DEF , and apexes the points G
+ΑΒΓΗ, ΔΕΖΘ πυραμίδων ἀντιπεπόνθασιν αἱ βάσεις τοῖς          and H (respectively). I say that the bases of the pyramids
+ὕψεσιν, καί ἐστιν ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν,        ABCG and DEF H are reciprocally proportional to their
+οὕτως τὸ τῆς ΔΕΖΘ πυραμίδος ὕψος πρὸς τὸ τῆς ΑΒΓΗ           heights, and (so) that as base ABC is to base DEF , so
+πυραμίδος ὕψος.                                             the height of pyramid DEF H (is) to the height of pyra-
+   Συμπεπληρώσθω γὰρ τὰ ΒΗΜΛ, ΕΘΠΟ στερεὰ παραλ-            mid ABCG.
+ληλεπίπεδα. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΒΓΗ πυραμὶς τῇ ΔΕΖΘ          For let the parallelepiped solids BGM L and EHQP
+πυραμίδι, καί ἐστι τῆς μὲν ΑΒΓΗ πυραμίδος ἑξαπλάσιον        have been completed. And since pyramid ABCG is
+τὸ ΒΗΜΛ στερεόν, τῆς δὲ ΔΕΖΘ πυραμίδος ἑξαπλάσιον           equal to pyramid DEF H, and solid BGM L is six times
+τὸ ΕΘΠΟ στερεόν, ἴσον ἄρα ἐστὶ τὸ ΒΗΜΛ στερεὸν τῷ           pyramid ABCG (see previous proposition), and solid
+ΕΘΠΟ στερεῷ. τῶν δὲ ἴσων στερεῶν παραλληλεπιπώδων           EHQP (is) six times pyramid DEF H, solid BGM L is
+
+
+                                                        485
+STOIQEIWN ibþ.                                                                            ELEMENTS BOOK 12
+
+ἀντιπεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν· ἔστιν ἄρα ὡς ἡ ΒΜ    thus equal to solid EHQP . And the bases of equal par-
+βάσις πρὸς τὴν ΕΠ βάσιν, οὕτως τὸ τοῦ ΕΘΠΟ στερεοῦ         allelepiped solids are reciprocally proportional to their
+ὕψος πρὸς τὸ τοῦ ΒΗΜΛ στερεοῦ ὕψος. ἀλλ᾿ ὡς ἡ ΒΜ           heights [Prop. 11.34]. Thus, as base BM is to base EQ,
+βάσις πρὸς τὴν ΕΠ, οὕτως τὸ ΑΒΓ τρίγωνον πρὸς τὸ ΔΕΖ       so the height of solid EHQP (is) to the height of solid
+τρίγωνον. καὶ ὡς ἄρα τὸ ΑΒΓ τρίγωνον πρὸς τὸ ΔΕΖ           BGM L. But, as base BM (is) to base EQ, so triangle
+τρίγωνον, οὕτως τὸ τοῦ ΕΘΠΟ στερεοῦ ὕψος πρὸς τὸ τοῦ       ABC (is) to triangle DEF [Prop. 1.34]. And, thus, as
+ΒΗΜΛ στερεοῦ ὕψος. ἀλλὰ τὸ μὲν τοῦ ΕΘΠΟ στερεοῦ            triangle ABC (is) to triangle DEF , so the height of solid
+ὕψος τὸ αὐτὸ ἐστι τῷ τῆς ΔΕΖΘ πυραμίδος ὕψει, τὸ δὲ        EHQP (is) to the height of solid BGM L [Prop. 5.11].
+τοῦ ΒΗΜΛ στερεοῦ ὕψος τὸ αὐτό ἐστι τῷ τῆς ΑΒΓΗ πυ-         But, the height of solid EHQP is the same as the height
+ραμίδος ὕψει· ἔστιν ἄρα ὡς ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ        of pyramid DEF H, and the height of solid BGM L is
+βάσιν, οὕτως τὸ τῆς ΔΕΖΘ πυραμίδος ὕψος πρὸς τὸ τῆς        the same as the height of pyramid ABCG. Thus, as base
+ΑΒΓΗ πυραμίδος ὕψος. τῶν ΑΒΓΗ, ΔΕΖΘ ἄρα πυραμίδων          ABC is to base DEF , so the height of pyramid DEF H
+ἀντιπεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν.                      (is) to the height of pyramid ABCG. Thus, the bases
+    ᾿Αλλὰ δὴ τῶν ΑΒΓΗ, ΔΕΖΘ πυραμίδων ἀντιπεπονθέτ-        of pyramids ABCG and DEF H are reciprocally propor-
+ωσαν αἱ βάσεις τοῖς ὕψεσιν, καὶ ἔστω ὡς ἡ ΑΒΓ βάσις πρὸς   tional to their heights.
+τὴν ΔΕΖ βάσιν, οὕτως τὸ τῆς ΔΕΖΘ πυραμίδος ὕψος πρὸς           And so, let the bases of pyramids ABCG and DEF H
+τὸ τῆς ΑΒΓΗ πυραμίδος ὕψος· λέγω, ὅτι ἴση ἐστὶν ἡ ΑΒΓΗ     be reciprocally proportional to their heights, and (thus)
+πυραμὶς τῇ ΔΕΖΘ πυραμίδι.                                  let base ABC be to base DEF , as the height of pyramid
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων, ἐπεί ἐστιν ὡς ἡ        DEF H (is) to the height of pyramid ABCG. I say that
+ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν, οὕτως τὸ τῆς ΔΕΖΘ πυ-        pyramid ABCG is equal to pyramid DEF H.
+ραμίδος ὕψος πρὸς τὸ τῆς ΑΒΓΗ πυραμίδος ὕψος, ἀλλ᾿ ὡς          For, with the same construction, since as base ABC
+ἡ ΑΒΓ βάσις πρὸς τὴν ΔΕΖ βάσιν, οὕτως τὸ ΒΜ παραλ-         is to base DEF , so the height of pyramid DEF H (is) to
+ληλόγραμμον πρὸς τὸ ΕΠ παραλληλόγραμμον, καὶ ὡς ἄρα        the height of pyramid ABCG, but as base ABC (is) to
+τὸ ΒΜ παραλληλόγραμμον πρὸς τὸ ΕΠ παραλληλόγραμμον,        base DEF , so parallelogram BM (is) to parallelogram
+οὕτως τὸ τῆς ΔΕΖΘ πυραμίδος ὕψος πρὸς τὸ τῆς ΑΒΓΗ          EQ [Prop. 1.34], thus as parallelogram BM (is) to paral-
+πυραμίδος ὕψος. ἀλλὰ τὸ [μὲν] τῆς ΔΕΖΘ πυραμίδος ὕψος      lelogram EQ, so the height of pyramid DEF H (is) also
+τὸ αὐτό ἐστι τῷ τοῦ ΕΘΠΟ παραλληλεπιπέδου ὕψει, τὸ δὲ      to the height of pyramid ABCG [Prop. 5.11]. But, the
+τῆς ΑΒΓΗ πυραμίδος ὕψος τὸ αὐτό ἐστι τῷ τοῦ ΒΗΜΛ           height of pyramid DEF H is the same as the height of
+παραλληλεπιπέδου ὕψει· ἔστιν ἄρα ὡς ἡ ΒΜ βάσις πρὸς        parallelepiped EHQP , and the height of pyramid ABCG
+τὴν ΕΠ βάσιν, οὕτως τὸ τοῦ ΕΘΠΟ παραλληλεπιπέδου           is the same as the height of parallelepiped BGM L. Thus,
+ὕψος πρὸς τὸ τοῦ ΒΗΜΛ παραλληλεπιπέδου ὕψος. ὧν            as base BM is to base EQ, so the height of parallelepiped
+δὲ στερεῶν παραλληλεπιπέδων ἀντιπεπόνθασιν αἱ βάσεις       EHQP (is) to the height of parallelepiped BGM L. And
+τοῖς ὕψεσιν, ἴσα ἐστὶν ἐκεῖνα· ἴσον ἄρα ἐστὶ τὸ ΒΗΜΛ       those parallelepiped solids whose bases are reciprocally
+στερεὸν παραλληλεπίπεδον τῷ ΕΘΠΟ στερεῷ παραλληλε-         proportional to their heights are equal [Prop. 11.34].
+πιπέδῳ. καί ἐστι τοῦ μὲν ΒΗΜΛ ἕκτον μέρος ἡ ΑΒΓΗ           Thus, the parallelepiped solid BGM L is equal to the par-
+πυραμίς, τοῦ δὲ ΕΘΠΟ παραλληλεπιπέδου ἕκτον μέρος ἡ        allelepiped solid EHQP . And pyramid ABCG is a sixth
+ΔΕΖΘ πυραμίς· ἴση ἄρα ἡ ΑΒΓΗ πυραμὶς τῇ ΔΕΖΘ πυ-           part of BGM L, and pyramid DEF H a sixth part of par-
+ραμίδι.                                                    allelepiped EHQP . Thus, pyramid ABCG is equal to
+    Τῶν ἄρα ἴσων πυραμίδων καὶ τριγώνους βάσεις ἐχουσῶν    pyramid DEF H.
+ἀντιπεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν· καὶ ὧν πυραμίδων         Thus, the bases of equal pyramids which also have
+τριγώνους βάσεις ἐχουσῶν ἀντιπεπόνθασιν αἱ βάσεις τοῖς     triangular bases are reciprocally proportional to their
+ὕψεσιν, ἴσαι εἰσὶν ἐκεῖναι· ὅπερ ἔδει δεῖξαι.              heights. And those pyramids having triangular bases
+                                                           whose bases are reciprocally proportional to their heights
+                                                           are equal. (Which is) the very thing it was required to
+                                                           show.
+
+                          iþ.                                                  Proposition 10
+   Πᾶς κῶνος κυλίνδρου τρίτον μέρος ἐστὶ τοῦ τὴν αὐτὴν    Every cone is the third part of the cylinder which has
+βάσιν ἔχοντος αὐτῷ καὶ ὕψος ἴσον.                      the same base as it, and an equal height.
+   ᾿Εχέτω γὰρ κῶνος κυλίνδρῷ βάσιν τε τὴν αὐτὴν τὸν       For let there be a cone (with) the same base as a cylin-
+
+
+                                                       486
+STOIQEIWN ibþ.                                                                              ELEMENTS BOOK 12
+
+ΑΒΓΔ κύκλον καὶ ὕψος ἴσον· λέγω, ὅτι ὁ κῶνος τοῦ der, (namely) the circle ABCD, and an equal height. I
+κυλίνδρου τρίτον ἐστὶ μέρος, τουτέστιν ὅτι ὁ κύλινδρος τοῦ say that the cone is the third part of the cylinder—that is
+κώνου τριπλασίων ἐστίν.                                    to say, that the cylinder is three times the cone.
+                           A                                                            A
+            E                            J                               E                             H
+
+
+       B                                      D                     B                                       D
+
+
+              Z                          H                                F                           G
+                          G                                                             C
+    Εἰ γὰρ μή ἐστιν ὁ κύλινδρος τοῦ κώνου τριπλασίων,           For if the cylinder is not three times the cone then the
+ἔσται ὁ κύλινδρος τοῦ κώνου ἤτοι μείζων ἢ τριπλασίων        cylinder will be either more than three times, or less than
+ἢ ἐλάσσων ἢ τριπλασίων. ἔστω πρότερον μείζων ἢ τρι-         three times, (the cone). Let it, first of all, be more than
+πλασίων, καὶ ἐγγεγράφθω εἰς τὸν ΑΒΓΔ κύκλον τετράγων-       three times (the cone). And let the square ABCD have
+ον τὸ ΑΒΓΔ· τὸ δὴ ΑΒΓΔ τετράγωνον μείζόν ἐστιν ἢ τὸ         been inscribed in circle ABCD [Prop. 4.6]. So, square
+ἥμισυ τοῦ ΑΒΓΔ κύκλου. καὶ ἀνεστάτω ἀπὸ τοῦ ΑΒΓΔ τε-        ABCD is more than half of circle ABCD [Prop. 12.2].
+τραγώνου πρίσμα ἰσοϋψὲς τῷ κυλίνδρῳ. τὸ δὴ ἀνιστάμενον      And let a prism of equal height to the cylinder have been
+πρίσμα μεῖζόν ἐστιν ἢ τὸ ἥμισυ τοῦ κυλίνδου, ἐπειδήπερ      set up on square ABCD. So, the prism set up is more
+κἂν περὶ τὸν ΑΒΓΔ κύκλον τετράγωνον περιγράψωμεν,           than half of the cylinder, inasmuch as if we also circum-
+τὸ ἐγγεγραμμένον εἰς τὸν ΑΒΓΔ κύκλον τετράγωνον             scribe a square around circle ABCD [Prop. 4.7] then the
+ἥμισύ ἐστι τοῦ περιγεγραμμένου· καί ἐστι τὰ ἀπ᾿ αὐτῶν       square inscribed in circle ABCD is half of the circum-
+ἀνιστάμενα στερεὰ παραλληλεπίπεδα πρίσματα ἰσοϋψῆ· τὰ       scribed (square). And the solids set up on them are par-
+δὲ ὑπὸ τὸ αὐτὸ ὕψος ὄντα στερεὰ παραλληλεπίπεδα πρὸς        allelepiped prisms of equal height. And parallelepiped
+ἄλληλά ἐστιν ὡς αἱ βάσεις· καὶ τὸ ἐπὶ τοῦ ΑΒΓΔ ἄρα τε-      solids having the same height are to one another as their
+τραγώνου ἀνασταθὲν πρίσμα ἥμισύ ἐστι τοῦ ἀνασταθέντος       bases [Prop. 11.32]. And, thus, the prism set up on
+πρίσματος ἀπὸ τοῦ περὶ τὸν ΑΒΓΔ κύκλον περιγραφέντος        square ABCD is half of the prism set up on the square
+τετραγώνου· καί ἐστιν ὁ κύλινδρος ἐλάττων τοῦ πρίσματος     circumscribed about circle ABCD. And the cylinder is
+τοῦ ἀνατραθέντος ἀπὸ τοῦ περὶ τὸν ΑΒΓΔ κύκλον περι-         less than the prism set up on the square circumscribed
+γραφέντος τετραγώνου· τὸ ἄρα πρίσμα τὸ ἀνασταθὲν ἀπὸ        about circle ABCD. Thus, the prism set up on square
+τοῦ ΑΒΓΔ τετραγώνου ἰσοϋψὲς τῷ κυλίνδρῳ μεῖζόν ἐστι         ABCD of the same height as the cylinder is more than
+τοῦ ἡμίσεως τοῦ κυλίνδρου. τετμήσθωσαν αἱ ΑΒ, ΒΓ,           half of the cylinder. Let the circumferences AB, BC,
+ΓΔ, ΔΑ περιφέρειαι δίχα κατὰ τὰ Ε, Ζ, Η, Θ σημεῖα, καὶ      CD, and DA have been cut in half at points E, F , G,
+ἐπεζεύχθωσαν αἱ ΑΕ, ΕΒ, ΒΖ, ΖΓ, ΓΗ, ΗΔ, ΔΘ, ΘΑ·             and H. And let AE, EB, BF , F C, CG, GD, DH, and
+καὶ ἕκαστον ἄρα τῶν ΑΕΒ, ΒΖΓ, ΓΗΔ, ΔΘΑ τριγώνων             HA have been joined. And thus each of the triangles
+μειζόν ἐστιν ἢ τὸ ἥμισυ τοῦ καθ᾿ ἑαυτὸ τηήματος τοῦ         AEB, BF C, CGD, and DHA is more than half of the
+ΑΒΓΔ κύκλου, ὡς ἔμπροσθεν ἐδείκνυμεν. ἀνεστάτω ἐφ᾿          segment of circle ABCD about it, as was shown pre-
+ἑκάστου τῶν ΑΕΒ, ΒΖΓ, ΓΗΔ, ΔΘΑ τριγώνων πρίσματα            viously [Prop. 12.2]. Let prisms of equal height to the
+ἰσοϋψῆ τῷ κυλίνδρῳ· καὶ ἕκαστον ἄρα τῶν ἀνασταθέντων        cylinder have been set up on each of the triangles AEB,
+πρισμάτων μεῖζόν ἐστιν ἢ τὸ ἥμισυ μέρος τοῦ καθ᾿ ἑαυτὸ      BF C, CGD, and DHA. And each of the prisms set up is
+τμήματος τοῦ κυλίνδρου, ἐπειδήπερ ἐὰν διὰ τῶν Ε, Ζ, Η,      greater than the half part of the segment of the cylinder
+Θ σημείων παραλλήλους ταῖς ΑΒ, ΒΓ, ΓΔ, ΔΑ ἀγάγωμεν,         about it—inasmuch as if we draw (straight-lines) parallel
+καὶ συμπληρώσωμεν τὰ ἐπὶ τῶν ΑΒ, ΒΓ, ΓΔ, ΔΑ παραλ-          to AB, BC, CD, and DA through points E, F , G, and H
+
+
+
+                                                         487
+STOIQEIWN ibþ.                                                                                ELEMENTS BOOK 12
+
+ληλόγραμμα, καὶ ἀπ᾿ αὐτῶν ἀναστήσωμεν στερεὰ παραλλη-       (respectively), and complete the parallelograms on AB,
+λεπίπεδα ἰσοϋψῆ τῷ κυλίνδρῳ, ἑκάσου τῶν ἀνασταθέντων        BC, CD, and DA, and set up parallelepiped solids of
+ἡμίση ἐστὶ τὰ πρίσματα τὰ ἐπὶ τῶν ΑΕΒ, ΒΖΓ, ΓΗΔ, ΔΘΑ        equal height to the cylinder on them, then the prisms on
+τριγώνων· καί ἐστι τὰ τοῦ κυλίνδρου τμήματα ἐλάττονα        triangles AEB, BF C, CGD, and DHA are each half of
+τῶν ἀνασταθέντων στερεῶν παραλληλεπιπέδων· ὥστε καὶ         the set up (parallelepipeds). And the segments of the
+τὰ ἐπὶ τῶν ΑΕΒ, ΒΖΓ, ΓΗΔ, ΔΘΑ τριγώνων πρίσματα             cylinder are less than the set up parallelepiped solids.
+μείζονά ἐστιν ἢ τὸ ἥμισυ τῶν καθ᾿ ἑαυτὰ τοῦ κυλίνδρου       Hence, the prisms on triangles AEB, BF C, CGD, and
+τμημάτων. τέμνοντες δὴ τὰς ὑπολειπομένας περιφερείας        DHA are also greater than half of the segments of the
+δίχα καὶ ἐπιζευγνύντες εὐθείας καὶ ἀνιστάντες ἐφ᾿ ἑκάσου    cylinder about them. So (if) the remaining circumfer-
+τῶν τριγώνων πρίσματα ἰσοϋψῆ τῷ κυλίνδρῳ καὶ τοῦτο ἀεὶ      ences are cut in half, and straight-lines are joined, and
+ποιοῦντες καταλείψομέν τινα ἀποτμήματα τοῦ κυλίνδρου,       prisms of equal height to the cylinder are set up on each
+ἃ ἔσται ἐλάττονα τῆς ὑπεροχῆς, ᾗ ὑπερέχει ὁ κυλίνδρος       of the triangles, and this is done continually, then we will
+τοῦ τριπλασίου τοῦ κώνου. λελείφθω, καὶ ἔστω τὰ ΑΕ,         (eventually) leave some segments of the cylinder whose
+ΕΒ, ΒΖ, ΖΓ, ΓΗ, ΗΔ, ΔΘ, ΘΑ· λοιπὸν ἄρα τὸ πρίσμα, οὗ        (sum) is less than the excess by which the cylinder ex-
+βάσις μὲν τὸ ΑΕΒΖΓΗΔΘ πολύγωνον, ὕψος δὲ τὸ αὐτὸ            ceeds three times the cone [Prop. 10.1]. Let them have
+τῷ κυλίνδρῷ, μεῖζόν ἐστὶν ἢ τριπλάσιον τοῦ κώνου. ἀλλὰ      been left, and let them be AE, EB, BF , F C, CG, GD,
+τὸ πρίσμα, οὗ βάσις μὲν ἐστὶ τὸ ΑΕΒΖΓΗΔΘ πολύγωνον,         DH, and HA. Thus, the remaining prism whose base
+ὕψος δὲ τὸ αὐτὸ τῷ κυλίνδρῳ, τριπλάσιόν ἐστι τῆς πυ-        (is) polygon AEBF CGDH, and height the same as the
+ραμίδος, ἧς βάσις μέν ἐστι τὸ ΑΕΒΖΓΗΔΘ πολύγωνον,           cylinder, is greater than three times the cone. But, the
+κορυφὴ δὲ ἡ αὐτὴ τῷ κώνῳ· καὶ ἡ πυραμὶς ἄρα, ἧς βάσις       prism whose base is polygon AEBF CGDH, and height
+μέν [ἐστι] τὸ ΑΕΒΖΓΗΔΘ πολύγωνον, κορυφὴ δὲ ἡ αὐτὴ          the same as the cylinder, is three times the pyramid whose
+τῷ κώνῳ, μείζων ἐστὶ τοῦ κώνου τοῦ βάσιν ἔχοντες τὸν        base is polygon AEBF CGDH, and apex the same as the
+ΑΒΓΔ κύκλον. ἀλλὰ καὶ ἐλάττων· ἐμπεριέχεται γὰρ ὑπ᾿         cone [Prop. 12.7 corr.]. And thus the pyramid whose
+αὐτοῦ· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα ἐστὶν ὁ κύλινδρος       base [is] polygon AEBF CGDH, and apex the same as
+τοῦ κώνου μεῖζων ἢ τριπλάσιος.                              the cone, is greater than the cone having (as) base circle
+    Λέγω δή, ὅτι οὐδὲ ἐλάττων ἐστὶν ἢ τριπλάσιος ὁ          ABCD. But (it is) also less. For it is encompassed by it.
+κύλινδρος τοῦ κώνου.                                        The very thing (is) impossible. Thus, the cylinder is not
+    Εἰ γὰρ δυνατόν, ἔστω ἐλάττων ἢ τριπλάσιος ὁ κύλινδρος   more than three times the cone.
+τοῦ κώνου· ἀνάπαλιν ἄρα ὁ κῶνος τοῦ κυλίνδρου μεῖζων            So, I say that neither (is) the cylinder less than three
+ἐστὶν ἢ τρίτον μέρος. ἐγγεγράφθω δὴ εἰς τὸν ΑΒΓΔ κύκλον     times the cone.
+τετράγωνον τὸ ΑΒΓΔ· τὸ ΑΒΓΔ ἄρα τετράγωνον μεῖζόν               For, if possible, let the cylinder be less than three times
+ἐστιν ἢ τὸ ἥμισυ τοῦ ΑΒΓΔ κύκλου. καὶ ἀνεστάτω ἀπὸ τοῦ      the cone. Thus, inversely, the cone is greater than the
+ΑΒΓΔ τετραγώνου πυραμὶς τὴν αὐτὴν κορυφὴν ἔχουσα τῷ         third part of the cylinder. So, let the square ABCD have
+κώνῳ· ἠ ἄρα ἀνασταθεῖσα πυραμὶς μείζων ἐστὶν ἢ τὸ ἥμισυ     been inscribed in circle ABCD [Prop. 4.6]. Thus, square
+μέρος τοῦ κώνου, ἐπειδήπερ, ὡς ἕμπροσθεν ἐδείκνυμεν,        ABCD is greater than half of circle ABCD. And let a
+ὅτι ἐὰν περὶ τὸν κύκλον τετράγωνον περιγράψωμεν, ἔσται      pyramid having the same apex as the cone have been set
+τὸ ΑΒΓΔ τετράγωνον ἥμισυ τοῦ περὶ τὸν κύκλον περι-          up on square ABCD. Thus, the pyramid set up is greater
+γεγραμμένου τετραγώνου· καὶ ἐὰν ἀπὸ τῶν τετραγώνων          than the half part of the cone, inasmuch as we showed
+στερεὰ παραλληλεπίπεδα ἀναστήσωμεν ἰσοϋψῆ τῷ κώνῳ, ἂ        previously that if we circumscribe a square about the cir-
+καὶ καλεῖται πρίσματα, ἔσται τὸ ἀνασταθὲν ἀπὸ τοῦ ΑΒΓΔ      cle [Prop. 4.7] then the square ABCD will be half of the
+τετραγώνου ἥμισυ τοῦ ἀνασταθέντος ἀπὸ τοῦ περὶ τὸν          square circumscribed about the circle [Prop. 12.2]. And
+κύκλον περιγραφέντος τετραγώνου· πρὸς ἄλληλα γάρ εἰσιν      if we set up on the squares parallelepiped solids—which
+ὡς αἱ βάσεις. ὥστε καὶ τὰ τρίτα· καὶ πυραμὶς ἄρα, ἧς        are also called prisms—of the same height as the cone,
+βάσις τὸ ΑΒΓΔ τετράγωνον, ἥμισύ ἐστι τῆς πυραμίδος τῆς      then the (prism) set up on square ABCD will be half
+ἀνασταθείσης ἀπὸ τοῦ περὶ τὸν κύκλον περιγραφέντος τε-      of the (prism) set up on the square circumscribed about
+τραγώνου. καί ἐστι μείζων ἡ πυραμὶς ἡ ἀνασταθεῖσα ἀπὸ       the circle. For they are to one another as their bases
+τοῦ περὶ τὸν κύκλον τετραγώνου τοῦ κώνου· ἐμπεριέχει        [Prop. 11.32]. Hence, (the same) also (goes for) the
+γὰρ αὐτόν. ἡ ἄρα πυραμὶς, ἧς βάσις τὸ ΑΒΓΔ τετράγωνον,      thirds. Thus, the pyramid whose base is square ABCD
+κορυφὴ δὲ ἡ αὐτὴ τῷ κώνῳ, μείζων ἐστὶν ἢ τὸ ἥμισυ τοῦ       is half of the pyramid set up on the square circumscribed
+κώνου. τετμήσθωσαν αἱ ΑΒ, ΒΓ, ΓΔ, ΔΑ περιφέρειαι            about the circle [Prop. 12.7 corr.]. And the pyramid set
+δίχα κατὰ τὰ Ε, Ζ, Η, Θ σημεῖα, καὶ ἐπεζεύχθωσαν αἱ         up on the square circumscribed about the circle is greater
+
+
+                                                        488
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+ΑΕ, ΕΒ, ΒΖ, ΖΓ, ΓΗ, ΗΔ, ΔΘ, ΘΑ· καὶ ἕκαστον ἄρα              than the cone. For it encompasses it. Thus, the pyramid
+τῶν ΑΕΒ, ΒΖΓ, ΓΗΔ, ΔΘΑ τριγώνων μεῖζόν ἐστιν ἢ τὸ            whose base is square ABCD, and apex the same as the
+ἥμισυ μέρος του καθ᾿ ἑαυτὸ τμήματος τοῦ ΑΒΓΔ κύκλου.         cone, is greater than half of the cone. Let the circum-
+καὶ ἀνεστάτωσαν ἐφ᾿ ἑκάστου τῶν ΑΕΒ, ΒΖΓ, ΓΗΔ, ΔΘΑ           ferences AB, BC, CD, and DA have been cut in half
+τριγώνων πυραμίδες τὴν αὐτὴν κορυφὴν ἔχουσαι τῷ κώνῳ·        at points E, F , G, and H (respectively). And let AE,
+καὶ ἑκάστη ἄρα τῶν ἀνασταθεισῶν πυραμίδων κατὰ τὸν           EB, BF , F C, CG, GD, DH, and HA have been joined.
+αὐτὸν τρόπον μείζων ἐστὶν ἢ τὸ ἥμισυ μέρος τοῦ καθ᾿          And, thus, each of the triangles AEB, BF C, CGD, and
+ἑαυτὴν τμήματος τοῦ κώνου. τέμνοντες δὴ τὰς ὑπολει-          DHA is greater than the half part of the segment of cir-
+πομένας περιφερείας δίχα καὶ ἐπιζευγνύντες εὐθείας καὶ       cle ABCD about it [Prop. 12.2]. And let pyramids having
+ἀνιστάντες ἐφ᾿ ἑκάστου τῶν τριγώνων πυραμίδα τὴν αὐτὴν       the same apex as the cone have been set up on each of the
+κορυφὴν ἔχουσαν τῷ κώνῳ καὶ τοῦτο ἀεὶ ποιοῦτες κα-           triangles AEB, BF C, CGD, and DHA. And, thus, in the
+ταλείψομέν τινα ἀποτμήματα τοῦ κώνου, ἃ ἔσται ἐλάττονα       same way, each of the pyramids set up is more than the
+τῆς ὑπεροχῆς, ᾗ ὑπερέχει ὁ κῶνος τοῦ τρίτου μέρους τοῦ       half part of the segment of the cone about it. So, (if) the
+κυλίνδρου. λελείφθω, καὶ ἔστω τὰ ἐπὶ τῶν ΑΕ, ΕΒ, ΒΖ, ΖΓ,     remaining circumferences are cut in half, and straight-
+ΓΗ, ΗΔ, ΔΘ, ΘΑ· λοιπὴ ἄρα ἡ πυραμίς, ἧς βάσις μέν ἐστι       lines are joined, and pyramids having the same apex as
+τὸ ΑΕΒΖΓΗΔΘ πολύγωνον, κορυφὴ δὲ ἡ αὐτὴ τῷ κώνῳ,             the cone are set up on each of the triangles, and this is
+μείζων ἐστὶν ἢ τρίτον μέρος τοῦ κυλίνδρου. ἀλλ᾿ ἡ πυραμίς,   done continually, then we will (eventually) leave some
+ἧς βάσις μέν ἐστι τὸ ΑΕΒΖΓΗΔΘ πολύγωνον, κορυφὴ δὲ           segments of the cone whose (sum) is less than the excess
+ἡ αυτὴ τῷ κώνῳ, τρίτον ἐστὶ μέρος τοῦ πρίσματος, οὗ βάσις    by which the cone exceeds the third part of the cylinder
+μέν ἐστι τὸ ΑΕΒΖΓΗΔΘ πολύγωνον, ὕψος δὲ τὸ αὐτὸ τῷ           [Prop. 10.1]. Let them have been left, and let them be
+κυλίνδρῳ· τὸ ἄρα πρίσμα, οὗ βάσις μέν ἐστι τὸ ΑΕΒΖΓΗΔΘ       the (segments) on AE, EB, BF , F C, CG, GD, DH, and
+πολύγωνον, ὕψος δὲ τὸ αὐτὸ τῷ κυλίνδρῳ, μεῖζόν ἐστι τοῦ      HA. Thus, the remaining pyramid whose base is poly-
+κυλίνδρου, οὗ βάσις ἐστὶν ὁ ΑΒΓΔ κύκλος. ἀλλὰ καὶ ἔλατ-      gon AEBF CGDH, and apex the same as the cone, is
+τον· ἐμπεριέχεται γὰρ ὑπ᾿ αὐτοῦ· ὅπερ ἐστὶν ἀδύνατον. οὐκ    greater than the third part of the cylinder. But, the pyra-
+ἄρα ὁ κύλινδρος τοῦ κώνου ἐλάττων ἐστὶν ἢ τριπλάσιος.        mid whose base is polygon AEBF CGDH, and apex the
+ἐδείχθη δέ, ὅτι οὐδὲ μείζων ἢ τριπλάσιος· τριπλάσιος ἄρα ὁ   same as the cone, is the third part of the prism whose
+κύλινδρος τοῦ κώνου· ὥστε ὁ κῶνος τρίτον ἐστὶ μέρος τοῦ      base is polygon AEBF CGDH, and height the same as
+κυλίνδρου.                                                   the cylinder [Prop. 12.7 corr.]. Thus, the prism whose
+    Πᾶς ἄρα κῶνος κυλίνδρου τρίτον μέρος ἐστὶ τοῦ τὴν        base is polygon AEBF CGDH, and height the same as
+αὐτὴν βάσιν ἔχοντος αὐτῷ καὶ ὕψος ἴσον· ὅπερ ἔδει δεῖξαι.    the cylinder, is greater than the cylinder whose base is
+                                                             circle ABCD. But, (it is) also less. For it is encompassed
+                                                             by it. The very thing is impossible. Thus, the cylinder is
+                                                             not less than three times the cone. And it was shown that
+                                                             neither (is it) greater than three times (the cone). Thus,
+                                                             the cylinder (is) three times the cone. Hence, the cone is
+                                                             the third part of the cylinder.
+                                                                 Thus, every cone is the third part of the cylinder which
+                                                             has the same base as it, and an equal height. (Which is)
+                                                             the very thing it was required to show.
+
+                           iaþ.                                                  Proposition 11
+   Οἱ ὑπο τὸ αὐτὸ ὕψος ὄντες κῶνοι καὶ κύλινδροι πρὸς            Cones and cylinders having the same height are to one
+ἀλλήλους εἰσὶν ὡς αἱ βάσεις.                                 another as their bases.
+   ῎Εστωσαν ὑπὸ τὸ αὐτὸ ὕψος κῶνοι καὶ κύλινδροι, ὧν             Let there be cones and cylinders of the same height
+βάσεις μὲν [εἰσιν] οἱ ΑΒΓΔ, ΕΖΗΘ κύκλοι, ἄξονες δὲ οἱ        whose bases [are] the circles ABCD and EF GH, axes
+ΚΛ, ΜΝ, διάμετροι δὲ τῶν βάσεων αἱ ΑΓ, ΕΗ· λέγω, ὅτι         KL and M N , and diameters of the bases AC and EG (re-
+ἐστὶν ὡς ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως           spectively). I say that as circle ABCD is to circle EF GH,
+ὁ ΑΛ κῶνος πρὸς τὸν ΕΝ κῶνον.                                so cone AL (is) to cone EN .
+
+
+
+
+                                                         489
+STOIQEIWN ibþ.                                                                                        ELEMENTS BOOK 12
+
+          D                                                                D
+    T                     L                                                               L
+                  Q                   J                             T             W                   H
+                                          S       N   Y                                                           N   X
+                                  O                                                               P       S
+
+A         K           G                                   X     A                     C
+                              E       M       H                            K                  E       M       G
+                                                                                                                          O
+
+
+
+    U            F                P       R                         U             V               Q       R
+          B                           Z                                    B
+                                                                                                      F
+
+    Εἰ γὰρ μή, ἔσται ὡς ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ                 For if not, then as circle ABCD (is) to circle EF GH,
+κύκλον, οὕτως ὁ ΑΛ κῶνος ἤτοι πρὸς ἔλασσόν τι τοῦ ΕΝ            so cone AL will be to some solid either less than, or
+κώνου στερεὸν ἢ πρὸς μεῖζον. ἔστω πρότερον πρὸς ἔλασ-           greater than, cone EN . Let it, first of all, be (in this ra-
+σον τὸ Ξ, καὶ ᾧ ἔλασσόν ἐστι τὸ Ξ στερεὸν τοῦ ΕΝ κώνου,         tio) to (some) lesser (solid), O. And let solid X be equal
+ἐκείνῳ ἴσον ἔστω τὸ Ψ στερεόν· ὁ ΕΝ κῶνος ἄρα ἴσος ἐστὶ         to that (magnitude) by which solid O is less than cone
+τοῖς Ξ, Ψ στερεοῖς. ἐγγεγράφθω εἰς τὸν ΕΖΗΘ κύκλον              EN . Thus, cone EN is equal to (the sum of) solids O
+τετράγωνον τὸ ΕΖΗΘ· τὸ ἄρα τετράγωνον μεῖζόν ἐστιν              and X. Let the square EF GH have been inscribed in cir-
+ἢ τὸ ἥμισυ τοῦ κύκλου. ἀνεστάτω ἀπὸ τοῦ ΕΖΗΘ τε-                cle EF GH [Prop. 4.6]. Thus, the square is greater than
+τραγώνου πυραμὶς ἰσοϋψὴς τῷ κώνῳ· ἡ ἄρα ἀνασταθεῖσα             half of the circle [Prop. 12.2]. Let a pyramid of the same
+πυραμὶς μείζων ἐστὶν ἢ τὸ ἥμισυ τοῦ κώνου, ἐπειδήπερ ἐὰν        height as the cone have been set up on square EF GH.
+περιγράψωμεν περὶ τὸν κύκλον τετράγωνον, καὶ ἀπ᾿ αὐτοῦ          Thus, the pyramid set up is greater than half of the cone,
+ἀναστήσωμεν πυραμίδα ἰσοϋψῆ τῷ κώνῳ, ἡ ἐγγραφεῖσα πυ-           inasmuch as, if we circumscribe a square about the cir-
+ραμὶς ἥμισύ ἐστι τῆς περιγραφείσης· πρὸς ἀλλήλας γάρ εἰσιν      cle [Prop. 4.7], and set up on it a pyramid of the same
+ὡς αἱ βάσεις· ἐλάττων δὲ ὁ κῶνος τῆς περιγραφείσης πυ-          height as the cone, then the inscribed pyramid is half
+ραμίδος. τετμήσθωσαν αἱ ΕΖ, ΖΗ, ΗΘ, ΘΕ περιφέρειαι              of the circumscribed pyramid. For they are to one an-
+δίχα κατὰ τὰ Ο, Π, Ρ, Σ σημεῖα, καὶ ἐπεζεύχθωσαν αἱ             other as their bases [Prop. 12.6]. And the cone (is) less
+ΘΟ, ΟΕ, ΕΠ, ΠΖ, ΖΡ, ΡΗ, ΗΣ, ΣΘ. ἕκαστον ἄρα τῶν                 than the circumscribed pyramid. Let the circumferences
+ΘΟΕ, ΕΠΖ, ΖΡΗ, ΗΖΘ τριγώνων μεῖζόν ἐστιν ἢ τὸ ἥμισυ             EF , F G, GH, and HE have been cut in half at points
+τοῦ καθ᾿ ἑαυτὸ τμήματος τοῦ κύκλου. ἀνεστάτω ἐφ᾿                P , Q, R, and S. And let HP , P E, EQ, QF , F R, RG,
+ἑκάστου τῶν ΘΟΕ, ΕΠΖ, ΖΡΗ, ΗΣΘ τριγώνων πυραμὶς                 GS, and SH have been joined. Thus, each of the trian-
+ἰσοϋψὴς τῷ κώνῳ· καὶ ἑκάστη ἄρα τῶν ἀνασταθεισῶν πυ-            gles HP E, EQF , F RG, and GSH is greater than half
+ραμίδων μείζων ἐστὶν ἢ τὸ ἥμισυ τοῦ καθ᾿ ἑαυτὴν τμήματος        of the segment of the circle about it [Prop. 12.2]. Let
+τοῦ κώνου. τέμνοντες δὴ τὰς ὑπολειπομένας περιφερείας           pyramids of the same height as the cone have been set up
+δίχα καὶ ἐπιζευγνύντες εὐθείας καὶ ἀνιστάντες ἐπὶ ἑκάστου       on each of the triangles HP E, EQF , F RG, and GSH.
+τῶν τριγώνων πυραμίδας ἰσοϋψεῖς τῷ κώνῳ καὶ ἀεὶ τοῦτο           And, thus, each of the pyramids set up is greater than
+ποιοῦντες καταλείψομέν τινα ἀποτμήματα τοῦ κώνου, ἃ             half of the segment of the cone about it [Prop. 12.10].
+ἔσται ἐλάσσονα τοῦ Ψ στερεοῦ. λελείφθω, καὶ ἔστω τὰ             So, (if) the remaining circumferences are cut in half, and
+ἐπὶ τῶν ΘΟΕ, ΕΠΖ, ΖΡΗ, ΗΣΘ· λοιπὴ ἄρα ἡ πυραμίς, ἧς             straight-lines are joined, and pyramids of equal height
+βάσις τὸ ΘΟΕΠΖΡΗΣ πολύγωνον, ὕψος δὲ τὸ αὐτὸ τῷ                 to the cone are set up on each of the triangles, and
+κώνῳ, μείζων ἐστὶ τοῦ Ξ στερεοῦ. ἐγγεγράφθω καὶ εἰς τὸν         this is done continually, then we will (eventually) leave
+ΑΒΓΔ κύκλον τῷ ΘΟΕΠΖΡΗΣ πολυγώνῳ ὅμοιόν τε καὶ                  some segments of the cone (the sum of) which is less
+ὁμοίως κείμενον πολύγωνον τὸ ΔΤΑΥΒΦΓΧ, καὶ ἀνεστάτω             than solid X [Prop. 10.1]. Let them have been left, and
+ἐπ᾿ αὐτοῦ πυραμὶς ἰσοϋψὴς τῷ ΑΛ κώνῳ. ἐπεὶ οὖν ἐστιν ὡς         let them be the (segments) on HP E, EQF , F RG, and
+τὸ ἀπὸ τῆς ΑΓ πρὸς τὸ ἀπὸ τῆς ΕΗ, οὕτως τὸ ΔΤΑΥΒΦΓΧ             GSH. Thus, the remaining pyramid whose base is poly-
+πολύγωνον πρὸς τὸ ΘΟΕΠΖΡΗΣ πολύγωνον, ὡς δὲ τὸ                  gon HP EQF RGS, and height the same as the cone, is
+ἀπὸ τῆς ΑΓ πρὸς τὸ ἀπὸ τῆς ΕΗ, οὕτως ὁ ΑΒΓΔ κύκλος              greater than solid O [Prop. 6.18]. And let the polygon
+πρὸς τὸν ΕΖΗΘ κύκλον, καὶ ὡς ἄρα ὁ ΑΒΓΔ κύκλος πρὸς             DT AU BV CW , similar, and similarly laid out, to polygon
+τὸν ΕΖΗΘ κύκλον, οὕτως τὸ ΔΤΑΥΒΦΓΧ πολύγωνον                    HP EQF RGS, have been inscribed in circle ABCD. And
+πρὸς τὸ ΘΟΕΠΖΡΗΣ πολύγωνον. ὡς δὲ ὁ ΑΒΓΔ κύκλος                 on it let a pyramid of the same height as cone AL have
+πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως ὁ ΑΛ κῶνος πρὸς τὸ Ξ                been set up. Therefore, since as the (square) on AC is
+στερεόν, ὡς δὲ τὸ ΔΤΑΥΒΦΓΧ πολύγωνον πρὸς τὸ ΘΟ-                to the (square) on EG, so polygon DT AU BV CW (is) to
+ΕΠΖΡΗΣ πολύγωνον, οὕτως ἡ πυραμίς, ἧς βάσις μὲν τὸ              polygon HP EQF RGS [Prop. 12.1], and as the (square)
+ΔΤΑΥΒΦΓΧ πολύγωνον, κορυφὴ δὲ τὸ Λ σημεῖον, πρὸς                on AC (is) to the (square) on EG, so circle ABCD (is)
+
+
+                                                              490
+STOIQEIWN ibþ.                                                                            ELEMENTS BOOK 12
+
+τὴν πυραμίδα, ἧς βάσις μὲν τὸ ΘΟΕΠΖΡΗΣ πολύγωνον,         to circle EF GH [Prop. 12.2], thus as circle ABCD (is)
+κορυφὴ δὲ τὸ Ν σημεῖον. καὶ ὡς ἄρα ὁ ΑΛ κῶνος πρὸς τὸ     to circle EF GH, so polygon DT AU BV CW also (is) to
+Ξ στερεόν, οὕτως ἡ πυραμίς, ἧς βάσις μὲν τὸ ΔΤΑΥΒΦΓΧ      polygon HP EQF RGS. And as circle ABCD (is) to cir-
+πολύγωνον, κορυφὴ δὲ τὸ Λ σημεῖον, πρὸς τὴν πυραμίδα,     cle EF GH, so cone AL (is) to solid O. And as poly-
+ἧς βάσις μὲν τὸ ΘΟΕΠΖΡΗΣ πολύγωνον, κορυφὴ δὲ τὸ Ν        gon DT AU BV CW (is) to polygon HP EQF RGS, so the
+σημεῖον· ἐναλλὰξ ἄρα ἐστὶν ὡς ὁ ΑΛ κῶνος πρὸς τὴν ἐν      pyramid whose base is polygon DT AU BV CW , and apex
+αὐτῷ πυραμίδα, οὕτως τὸ Ξ στερεὸν πρὸς τὴν ἐν τῷ ΕΝ       the point L, (is) to the pyramid whose base is polygon
+κώνῳ πυραμίδα. μείζων δὲ ὁ ΑΛ κῶνος τῆς ἐν αὐτῷ πυ-       HP EQF RGS, and apex the point N [Prop. 12.6]. And,
+ραμίδος· μεῖζον ἄρα καὶ τὸ Ξ στερεὸν τῆς ἐν τῷ ΕΝ κώνῳ    thus, as cone AL (is) to solid O, so the pyramid whose
+πυραμίδος. ἀλλὰ καὶ ἔλασσον· ὅπερ ἄτοπον. οὐκ ἄρα ἐστὶν   base is DT AU BV CW , and apex the point L, (is) to the
+ὡς ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως ὁ ΑΛ         pyramid whose base is polygon HP EQF RGS, and apex
+κῶνος πρὸς ἔλασσόν τι τοῦ ΕΝ κώνου στερεόν. ὁμοίως        the point N [Prop. 5.11]. Thus, alternately, as cone AL
+δὲ δείξομεν, ὅτι οὐδέ ἐστιν ὡς ὁ ΕΖΗΘ κύκλος πρὸς τὸν     is to the pyramid within it, so solid O (is) to the pyramid
+ΑΒΓΔ κύκλον, οὕτως ὁ ΕΝ κῶνος πρὸς ἔλασσόν τι τοῦ         within cone EN [Prop. 5.16]. But, cone AL (is) greater
+ΑΛ κώνου στερεόν.                                         than the pyramid within it. Thus, solid O (is) also greater
+    Λέγω δή, ὅτι οὐδέ ἐστιν ὡς ὁ ΑΒΓΔ κύκλος πρὸς τὸν     than the pyramid within cone EN [Prop. 5.14]. But, (it
+ΕΖΗΘ κύκλον, οὕτως ὁ ΑΛ κῶνος πρὸς μεῖζόν τι τοῦ ΕΝ       is) also less. The very thing (is) absurd. Thus, circle
+κώνου στερεόν.                                            ABCD is not to circle EF GH, as cone AL (is) to some
+    Εἰ γὰρ δυνατόν, ἕστω πρὸς μεῖζον τὸ Ξ· ἀνάπαλιν ἄρα   solid less than cone EN . So, similarly, we can show that
+ἐστὶν ὡς ὁ ΕΖΗΘ κύκλος πρὸς τὸν ΑΒΓΔ κύκλον, οὕτως        neither is circle EF GH to circle ABCD, as cone EN (is)
+τὸ Ξ στερεὸν πρὸς τὸν ΑΛ κῶνον. ἀλλ᾿ ὡς τὸ Ξ στερεὸν      to some solid less than cone AL.
+πρὸς τὸν ΑΛ κῶνον, οὕτως ὁ ΕΝ κῶνος πρὸς ἔλασσόν τι           So, I say that neither is circle ABCD to circle EF GH,
+τοῦ ΑΛ κώνου στερεόν· καὶ ὡς ἄρα ὁ ΕΖΗΘ κύκλος πρὸς       as cone AL (is) to some solid greater than cone EN .
+τὸν ΑΒΓΔ κύκλον, οὕτως ὁ ΕΝ κῶνος πρὸς ἔλασσόν τι             For, if possible, let it be (in this ratio) to (some)
+τοῦ ΑΛ κώνου στερεόν· ὅπερ ἀδύνατον ἐδείχθη. οὐκ ἄρα      greater (solid), O. Thus, inversely, as circle EF GH is to
+ἐστὶν ὡς ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως ὁ      circle ABCD, so solid O (is) to cone AL [Prop. 5.7 corr.].
+ΑΛ κῶνος πρὸς μεῖζόν τι τοῦ ΕΝ κώνου στερεόν. ἐδείχθη     But, as solid O (is) to cone AL, so cone EN (is) to some
+δέ, ὅτι οὐδὲ πρὸς ἔλασσον· ἔστιν ἄρα ὡς ὁ ΑΒΓΔ κύκλος     solid less than cone AL [Prop. 12.2 lem.]. And, thus, as
+πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως ὁ ΑΛ κῶνος πρὸς τὸν ΕΝ        circle EF GH (is) to circle ABCD, so cone EN (is) to
+κῶνον.                                                    some solid less than cone AL. The very thing was shown
+    ᾿Αλλ᾿ ὡς ὁ κῶνος πρὸς τὸν κῶνον, ὁ κύλινδρος πρὸς     (to be) impossible. Thus, circle ABCD is not to circle
+τὸν κύλινδρον· τριπλασίων γὰρ ἑκάτερος ἑκατέρου. καὶ ὡς   EF GH, as cone AL (is) to some solid greater than cone
+ἄρα ὁ ΑΒΓΔ κύκλος πρὸς τὸν ΕΖΗΘ κύκλον, οὕτως οἱ ἐπ᾿      EN . And, it was shown that neither (is it in this ratio) to
+αὐτῶν ἰσοϋψεῖς.                                           (some) lesser (solid). Thus, as circle ABCD is to circle
+    Οἱ ἄρα ὑπὸ τὸ αὐτὸ ὕψος ὄντες κῶνοι καὶ κύλινδροι     EF GH, so cone AL (is) to cone EN .
+πρὸς ἀλλήλους εἰσὶν ὡς αἱ βάσεις· ὅπερ ἔδει δεῖξαι.           But, as the cone (is) to the cone, (so) the cylin-
+                                                          der (is) to the cylinder. For each (is) three times each
+                                                          [Prop. 12.10]. Thus, circle ABCD (is) also to circle
+                                                          EF GH, as (the ratio of the cylinders) on them (having)
+                                                          the same height.
+                                                              Thus, cones and cylinders having the same height are
+                                                          to one another as their bases. (Which is) the very thing it
+                                                          was required to show.
+
+                         ibþ.                                                 Proposition 12
+    Οἱ ὅμοιοι κῶνοι καὶ κύλινδροι πρὸς ἀλλήλους ἐν τρι-    Similar cones and cylinders are to one another in the
+πλασίονι λόγῳ εἰσὶ τῶν ἐν ταῖς βάσεσι διαμέτρων.        cubed ratio of the diameters of their bases.
+    ῎Εστωσαν ὅμοιοι κῶνοι καὶ κύλινδροι, ὧν βάσεις μὲν     Let there be similar cones and cylinders of which the
+οἱ ΑΒΓΔ, ΕΖΗΘ κύκλοι, διάμετροι δὲ τῶν βάσεων αἱ ΒΔ, bases (are) the circles ABCD and EF GH, the diameters
+ΖΘ, ἄξονες δὲ τῶν κώνων καὶ κυλίνδρων οἱ ΚΛ, ΜΝ· λέγω, of the bases (are) BD and F H, and the axes of the cones
+
+
+
+                                                      491
+STOIQEIWN ibþ.                                                                             ELEMENTS BOOK 12
+
+ὅτι ὁ κῶνος, οὗ βάσις μέν [ἐστιν] ὁ ΑΒΓΔ κύκλος, κορυφὴ    and cylinders (are) KL and M N (respectively). I say
+δὲ τὸ Λ σημεῖον, πρὸς τὸν κῶνον, οὗ βάσις μέν [ἐστιν]      that the cone whose base [is] circle ABCD, and apex the
+ὁ ΕΖΗΘ κύκλος, κορυφὴ δὲ τὸ Ν σημεῖον, τριπλασίονα         point L, has to the cone whose base [is] circle EF GH,
+λόγον ἔχει ἤπερ ἡ ΒΔ πρὸς τὴν ΖΘ.                          and apex the point N , the cubed ratio that BD (has) to
+                                                           F H.
+                                     N                                                            N
+    L                                                          L
+                              E                                                            E
+        A               S             O                            A                  S            P
+    T         Q                                                T          W
+
+
+B                 D J         M           Z      X                                H                    F       O
+        K                                                  B       K          D            M
+
+
+    U         F         R             P                        U          V
+                                                                                      R            Q
+        G                                                           C
+                              H                                                            G
+    Εἰ γὰρ μὴ ἔχει ὁ ΑΒΓΔΛ κῶνος πρὸς τὸν ΕΖΗΘΝ                For if cone ABCDL does not have to cone EF GHN
+κῶνον πριπλασίονα λόγον ἤπερ ἡ ΒΔ πρὸς τὴν ΖΘ, ἕξει        the cubed ratio that BD (has) to F H then cone ABCDL
+ὁ ΑΒΓΔΛ κῶνος ἢ πρὸς ἔλασσόν τι τοῦ ΕΖΗΘΝ κώνου            will have the cubed ratio to some solid either less than, or
+στερεὸν τριπλασίονα λόγον ἢ πρὸς μεῖζον. ἐχέτω πρότερον    greater than, cone EF GHN . Let it, first of all, have (such
+πρὸς ἔλασσον τὸ Ξ, καὶ ἐγγεγράφθω εἰς τὸν ΕΖΗΘ κύκλον      a ratio) to (some) lesser (solid), O. And let the square
+τετράγωνον τὸ ΕΖΗΘ· τὸ ἄρα ΕΖΗΘ τετράγωνον μεῖζόν          EF GH have been inscribed in circle EF GH [Prop. 4.6].
+ἐστιν ἢ τὸ ἥμισυ τοῦ ΕΖΗΘ κύκλου. καὶ ἀνεστάτω ἐπὶ         Thus, square EF GH is greater than half of circle EF GH
+τοῦ ΕΖΗΘ τετραγώνου πυραμὶς τὴν αὐτὴν κορυφὴν ἔχουσα       [Prop. 12.2]. And let a pyramid having the same apex
+τῷ κώνῳ· ἡ ἄρα ἀνασταθεῖσα πυραμὶς μείζων ἐστὶν ἢ τὸ       as the cone have been set up on square EF GH. Thus,
+ἥμισυ μέρος τοῦ κώνου. τετμήσθωσαν δὴ αἱ ΕΖ, ΖΗ,           the pyramid set up is greater than the half part of the
+ΗΘ, ΘΕ περιφέρειαι δίχα κατὰ τὰ Ο, Π, Ρ, Σ σημεῖα, καὶ     cone [Prop. 12.10]. So, let the circumferences EF , F G,
+ἐπεζεύχθωσαν αἱ ΕΟ, ΟΖ, ΖΠ, ΠΗ, ΗΡ, ΡΘ, ΘΣ, ΣΕ. καὶ        GH, and HE have been cut in half at points P , Q, R,
+ἕκαστον ἄρα τῶν ΕΟΖ, ΖΠΗ, ΗΡΘ, ΘΣΕ τριγώνων μεῖζόν         and S (respectively). And let EP , P F , F Q, QG, GR,
+ἐστιν ἢ τὸ ἥμισυ μέρος τοῦ καθ᾿ ἑαυτὸ τμήματος τοῦ ΕΖΗΘ    RH, HS, and SE have been joined. And, thus, each
+κύκλου. καὶ ἀνεστάτω ἐφ᾿ ἑκάστου τῶν ΕΟΖ, ΖΠΗ, ΗΡΘ,        of the triangles EP F , F QG, GRH, and HSE is greater
+ΘΣΕ τριγώνων πυραμὶς τὴν αὐτὴν κορυφὴν ἔχουσα τῷ           than the half part of the segment of circle EF GH about it
+κώνῳ· καὶ ἑκάστη ἄρα τῶν ἀνασταθεισῶν πυραμίδων μείζων     [Prop. 12.2]. And let a pyramid having the same apex as
+ἐστὶν ἢ τὸ ἥμισυ μέρος τοῦ καθ᾿ ἑαυτὴν τμήματος τοῦ        the cone have been set up on each of the triangles EP F ,
+κώνου. τέμνοντες δὴ τὰς ὑπολειπομένας περιφερείας δίχα     F QG, GRH, and HSE. And thus each of the pyramids
+καὶ ἐπιζευγνύντες εὐθείας καὶ ἀνιστάντες ἐφ᾿ ἑκάστου τῶν   set up is greater than the half part of the segment of the
+τριγώνων πυραμίδας τὴν αὐτὴν κορυφὴν ἐχούσας τῷ κώνῳ       cone about it [Prop. 12.10]. So, (if) the the remaining cir-
+καὶ τοῦτο ἀεὶ ποιοῦντες καταλείψομέν τινα ἀποτμήματα τοῦ   cumferences are cut in half, and straight-lines are joined,
+κώνου, ἃ ἔσται ἐλάσσονα τῆς ὑπεροχῆς, ᾗ ὑπερέχει ὁ         and pyramids having the same apex as the cone are set
+ΕΖΗΘΝ κῶνος τοῦ Ξ στερεοῦ. λελείφθω, καὶ ἔστω τὰ           up on each of the triangles, and this is done continu-
+ἐπὶ τῶν ΕΟ, ΟΖ, ΖΠ, ΠΗ, ΗΡ, ΡΘ, ΘΣ, ΣΕ· λοιπὴ ἄρα ἡ        ally, then we will (eventually) leave some segments of the
+πυραμίς, ἧς βάσις μέν ἐστι τὸ ΕΟΖΠΗΡΘΣ πολύγωνον,          cone whose (sum) is less than the excess by which cone
+κορυφὴ δὲ τὸ Ν σημεῖον, μείζων ἐστὶ τοῦ Ξ στερεοῦ.         EF GHN exceeds solid O [Prop. 10.1]. Let them have
+ἐγγεγράφθω καὶ εἰς τὸν ΑΒΓΔ κύκλον τῷ ΕΟΖΠΗΡΘΣ             been left, and let them be the (segments) on EP , P F ,
+πολυγώνῳ ὅμοιόν τε καὶ ὁμοίως κείμενον πολύγωνον τὸ        F Q, QG, GR, RH, HS, and SE. Thus, the remaining
+ΑΤΒΥΓΦΔΧ, καὶ ἀνεστάτω ἐπὶ τοῦ ΑΤΒΥΓΦΔΧ πο-                pyramid whose base is polygon EP F QGRHS, and apex
+λυγώνου πυραμὶς τὴν αὐτὴν κορυφὴν ἔχουσα τῷ κώνῳ,          the point N , is greater than solid O. And let the polygon
+καὶ τῶν μὲν περιεχόντων τὴν πυραμίδα, ἧς βάσις μέν ἐστι    AT BU CV DW , similar, and similarly laid out, to poly-
+τὸ ΑΤΒΥΓΦΔΧ πολύγωνον, κορυφὴ δὲ τὸ Λ σημεῖον,             gon EP F QGRHS, have been inscribed in circle ABCD
+ἓν τρίγωνον ἔστω τὸ ΛΒΤ, τῶν δὲ περειχόντων τὴν πυ-        [Prop. 6.18]. And let a pyramid having the same apex
+ραμίδα, ἧς βάσις μέν ἐστι τὸ ΕΟΖΠΗΡΘΣ πολύγωνον,           as the cone have been set up on polygon AT BU CV DW .
+
+
+                                                       492
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+κορυφὴ δὲ τὸ Ν σημεῖον, ἓν τρίγωνον ἔστω τὸ ΝΖΟ, καὶ         And let LBT be one of the triangles containing the pyra-
+ἐπεζεύχθωσαν αἱ ΚΤ, ΜΟ. καὶ ἐπεὶ ὅμοιός ἐστιν ὁ ΑΒΓΔΛ        mid whose base is polygon AT BU CV DW , and apex the
+κῶνος τῷ ΕΖΗΘΝ κώνῳ, ἔστιν ἄρα ὡς ἡ ΒΔ πρὸς τὴν              point L. And let N F P be one of the triangles containing
+ΖΘ, οὕτως ὁ ΚΛ ἄξων πρὸς τὸν ΜΝ ἄξονα. ὡς δὲ ἡ ΒΔ            the pyramid whose base is triangle EP F QGRHS, and
+πρὸς τὴν ΖΘ, οὕτως ἡ ΒΚ πρὸς τὴν ΖΜ· καὶ ὡς ἄρα ἡ ΒΚ         apex the point N . And let KT and M P have been joined.
+πρὸς τὴν ΖΜ, οὕτως ἡ ΚΛ πρὸς τὴν ΜΝ. καὶ ἐναλλὰξ ὡς          And since cone ABCDL is similar to cone EF GHN , thus
+ἡ ΒΚ πρὸς τὴν ΚΛ, οὕτως ἡ ΖΜ πρὸς τὴν ΜΝ. καὶ περὶ           as BD is to F H, so axis KL (is) to axis M N [Def. 11.24].
+ἴσας γωνίας τὰς ὑπὸ ΒΚΛ, ΖΜΝ αἱ πλευραὶ ἀνάλογόν εἰσιν·      And as BD (is) to F H, so BK (is) to F M . And, thus, as
+ὅμοιον ἄρα ἐστὶ τὸ ΒΚΛ τρίγωνον τῷ ΖΜΝ τριγώνῳ. πάλιν,       BK (is) to F M , so KL (is) to M N . And, alternately, as
+ἐπεί ἐστιν ὡς ἡ ΒΚ πρὸς τὴν ΚΤ, οὕτως ἡ ΖΜ πρὸς τὴν          BK (is) to KL, so F M (is) to M N [Prop. 5.16]. And
+ΜΟ, καὶ περὶ ἴσας γωνίας τὰς ὑπὸ ΒΚΤ, ΖΜΟ, ἐπειδήπερ,        the sides around the equal angles BKL and F M N are
+ὃ μέρος ἐστὶν ἡ ὑπὸ ΒΚΤ γωνία τῶν πρὸς τῷ Κ κέντρῳ           proportional. Thus, triangle BKL is similar to triangle
+τεσσάρων ὀρθῶν, τὸ αὐτὸ μέρος ἐστὶ καὶ ἡ ὑπὸ ΖΜΟ γωνία       F M N [Prop. 6.6]. Again, since as BK (is) to KT , so
+τῶν πρὸς τῷ Μ κέντρῳ τεσσάρων ὀρθῶν· ἐπεὶ οὖν περὶ ἴσας      F M (is) to M P , and (they are) about the equal angles
+γωνίας αἱ πλευραὶ ἀνάλογόν εἰσιν, ὅμοιον ἄρα ἐστι τὸ ΒΚΤ     BKT and F M P , inasmuch as whatever part angle BKT
+τρίγωνον τῷ ΖΜΟ τριγώνῳ. πάλιν, ἐπεὶ ἐδείχθη ὡς ἡ ΒΚ         is of the four right-angles at the center K, angle F M P is
+πρὸς τὴν ΚΛ, οὕτως ἡ ΖΜ πρὸς τὴν ΜΝ, ἴση δὲ ἡ μὲν            also the same part of the four right-angles at the cen-
+ΒΚ τῇ ΚΤ, ἡ δὲ ΖΜ τῇ ΟΜ, ἔστιν ἄρα ὡς ἡ ΤΚ πρὸς              ter M . Therefore, since the sides about equal angles
+τὴν ΚΛ, οὕτως ἡ ΟΜ πρὸς τὴν ΜΝ. καὶ περὶ ἴσας γωνίας         are proportional, triangle BKT is thus similar to train-
+τὰς ὑπὸ ΤΚΛ, ΟΜΝ· ὀρθαὶ γάρ· αἱ πλευραὶ ἀνάλογόν εἰσιν·      gle F M P [Prop. 6.6]. Again, since it was shown that
+ὅμοιον ἄρα ἐστὶ τὸ ΛΚΤ τρίγωνον τῷ ΝΜΟ τριγώνῳ. καὶ          as BK (is) to KL, so F M (is) to M N , and BK (is)
+ἐπεὶ διὰ τὴν ὁμοιότητα τῶν ΛΚΒ, ΝΜΖ τριγώνων ἐστὶν           equal to KT , and F M to P M , thus as T K (is) to KL,
+ὡς ἡ ΛΒ πρὸς τὴν ΒΚ, οὕτως ἡ ΝΖ πρὸς τὴν ΖΜ, διὰ δὲ          so P M (is) to M N . And the sides about the equal angles
+τὴν ὁμοιότητα τῶν ΒΚΤ, ΖΜΟ τριγώνων ἐστὶν ὡς ἡ ΚΒ            T KL and P M N —for (they are both) right-angles—are
+πρὸς τὴν ΒΤ, οὕτως ἡ ΜΖ πρὸς τὴν ΖΟ, δι᾿ ἴσου ἄρα ὡς         proportional. Thus, triangle LKT (is) similar to triangle
+ἡ ΛΒ πρὸς τὴν ΒΤ, οὕτως ἡ ΝΖ πρὸς τὴν ΖΟ. πάλιν, ἐπεὶ        N M P [Prop. 6.6]. And since, on account of the similarity
+διὰ τὴν ομοιότητα τῶν ΛΤΚ, ΝΟΜ τριγώνων ἐστὶν ὡς ἡ           of triangles LKB and N M F , as LB (is) to BK, so N F
+ΛΤ πρὸς τὴν ΤΚ, οὕτως ἡ ΝΟ πρὸς τὴν ΟΜ, διὰ δὲ τὴν           (is) to F M , and, on account of the similarity of triangles
+ὁμοιότητα τῶν ΤΚΒ, ΟΜΖ τριγώνων ἐστὶν ὡς ἡ ΚΤ πρὸς           BKT and F M P , as KB (is) to BT , so M F (is) to F P
+τὴν ΤΒ, οὕτως ἡ ΜΟ πρὸς τὴν ΟΖ, δι᾿ ἴσου ἄρα ὡς ἡ ΛΤ         [Def. 6.1], thus, via equality, as LB (is) to BT , so N F
+πρὸς τὴν ΤΒ, οὕτως ἡ ΝΟ πρὸς τὴν ΟΖ. ἐδείχθη δὲ καὶ          (is) to F P [Prop. 5.22]. Again, since, on account of the
+ὡς ἡ ΤΒ πρὸς τὴν ΒΛ, οὕτως ἡ ΟΖ πρὸς τὴν ΖΝ. δι᾿ ἴσου        similarity of triangles LT K and N P M , as LT (is) to T K,
+ἄρα ὡς ἡ ΤΛ πρὸς τὴν ΛΒ, οὕτως ἡ ΟΝ πρὸς τὴν ΝΖ.             so N P (is) to P M , and, on account of the similarity of
+τῶν ΛΤΒ, ΝΟΖ ἄρα τριγώνων ἀνάλογόν εἰσιν αἱ πλευραί·         triangles T KB and P M F , as KT (is) to T B, so M P (is)
+ἰσογώνια ἄρα ἐστὶ τὰ ΛΤΒ, ΝΟΖ τρίγωνα· ὥστε καὶ ὅμοια.       to P F , thus, via equality, as LT (is) to T B, so N P (is)
+καὶ πυραμὶς ἄρα, ἧς βάσις μὲν τὸ ΒΚΤ τρίγωνον, κορυφὴ        to P F [Prop. 5.22]. And it was shown that as T B (is)
+δὲ τὸ Λ σημεῖον, ὁμοία ἐστὶ πυραμίδι, ἧς βάσις μὲν τὸ        to BL, so P F (is) to F N . Thus, via equality, as T L (is)
+ΖΜΟ τρίγωνον, κορυφὴ δὲ τὸ Ν σημεῖον· ὑπὸ γὰρ ὅμοίων         to LB, so P N (is) to N F [Prop. 5.22]. Thus, the sides
+ἐπιπέδων περιέχονται ἴσων τὸ πλῆθος. αἱ δὲ ὅμοιαι πυ-        of triangles LT B and N P F are proportional. Thus, tri-
+ραμίδες καὶ τριγώνους ἔχουσαι βάσεις ἐν τριπλασίονι λόγῳ     angles LT B and N P F are equiangular [Prop. 6.5]. And,
+εἰσὶ τῶν ὁμολόγων πλευρῶν. ἡ ἄρα ΒΚΤΛ πυραμὶς πρὸς τὴν       hence, (they are) similar [Def. 6.1]. And, thus, the pyra-
+ΖΜΟΝ πυραμίδα τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΚ πρὸς          mid whose base is triangle BKT , and apex the point L,
+τὴν ΖΜ. ὁμοίως δὴ ἐπιζευγνύντες ἀπὸ τῶν Α, Χ, Δ, Φ, Γ, Υ     is similar to the pyramid whose base is triangle F M P ,
+ἐπὶ τὸ Κ εὐθείας καὶ ἀπὸ τῶν Ε, Σ, Θ, Ρ, Η, Π ἐπὶ τὸ Μ καὶ   and apex the point N . For they are contained by equal
+ἀνιστάντες ἐφ᾿ ἑκάστου τῶν τριγώνων πυραμίδας τὴν αὐτὴν      numbers of similar planes [Def. 11.9]. And similar pyra-
+κορυφὴν ἐχούσας τοῖς κώνοις δείξομεν, ὅτι καὶ ἑκάστη τῶν     mids which also have triangular bases are in the cubed
+ὁμοταγῶν πυραμίδων πρὸς ἑκάστην ὁμοταγῆ πυραμίδα τρι-        ratio of corresponding sides [Prop. 12.8]. Thus, pyramid
+πλασίονα λόγον ἕξει ἤπερ ἡ ΒΚ ὁμόλογος πλευρὰ πρὸς τὴν       BKT L has to pyramid F M P N the cubed ratio that BK
+ΖΜ ὁμόλογον πλευράν, τουτέστιν ἤπερ ἡ ΒΔ πρὸς τὴν ΖΘ.        (has) to F M . So, similarly, joining straight-lines from
+καὶ ὡς ἓν τῶν ἡγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως          (points) A, W , D, V , C, and U to (center) K, and from
+ἅπαντα τὰ ἡγούμενα πρὸς ἅπαντα τὰ ἑπόμενα· ἔστιν ἄρα         (points) E, S, H, R, G, and Q to (center) M , and set-
+
+
+                                                         493
+STOIQEIWN ibþ.                                                                                ELEMENTS BOOK 12
+
+καὶ ὡς ἡ ΒΚΤΛ πυραμὶς πρὸς τὴν ΖΜΟΝ πυραμίδα, οὕτως          ting up pyramids having the same apexes as the cones
+ἡ ὅλη πυραμίς, ἧς βάσις τὸ ΑΤΒΥΓΦΔΧ πολύγωνον, κο-           on each of the triangles (so formed), we can also show
+ρυφὴ δὲ τὸ Λ σημεῖον, πρὸς τὴν ὅλην πυραμίδα, ἧς βάσις       that each of the pyramids (on base ABCD taken) in or-
+μὲν τὸ ΕΟΖΠΗΡΘΣ πολύγωνον, κορυφὴ δὲ τὸ Ν σημεῖον·           der will have to each of the pyramids (on base EF GH
+ὥστε καὶ πυραμίς, ἧς βάσις μὲν τὸ ΑΤΒΥΓΦΔΧ, κορυφὴ δὲ        taken) in order the cubed ratio that the corresponding
+τὸ Λ, πρὸς τὴν πυραμίδα, ἧς βάσις [μὲν] τὸ ΕΟΖΠΗΡΘΣ          side BK (has) to the corresponding side F M —that is to
+πολύγωνον, κορυφὴ δὲ τὸ Ν σημεῖον, τριπλασίονα λόγον         say, that BD (has) to F H. And (for two sets of propor-
+ἔχει ἤπερ ἡ ΒΔ πρὸς τὴν ΖΘ. ὑπόκειται δὲ καὶ ὁ κῶνος, οὗ     tional magnitudes) as one of the leading (magnitudes is)
+βάσις [μὲν] ὁ ΑΒΓΔ κύκλος, κορυφὴ δὲ τὸ Λ σημεῖον, πρὸς      to one of the following, so (the sum of) all of the leading
+τὸ Ξ στερεὸν τριπλασίονα λόγον ἔχων ἤπερ ἡ ΒΔ πρὸς τὴν       (magnitudes is) to (the sum of) all of the following (mag-
+ΖΘ· ἔστιν ἄρα ὡς ὁ κῶνος, οὗ βάσις μέν ἐστιν ὁ ΑΒΓΔ          nitudes) [Prop. 5.12]. And, thus, as pyramid BKT L (is)
+κύκλος, κορυφὴ δὲ τὸ Λ, πρὸς τὸ Ξ στερεόν, οὕτως ἡ πυ-       to pyramid F M P N , so the whole pyramid whose base
+ραμίς, ἧς βάσις μὲν τὸ ΑΤΒΥΓΦΔΧ [πολύγωνον], κορυφὴ          is polygon AT BU CV DW , and apex the point L, (is) to
+δὲ τὸ Λ, πρὸς τὴν πυραμίδα, ἧς βάσις μέν ἐστι τὸ ΕΟΖ-        the whole pyramid whose base is polygon EP F QGRHS,
+ΠΗΡΘΣ πολύγωνον, κορυφὴ δὲ τὸ Ν· ἐναλλὰξ ἄρα, ὡς ὁ           and apex the point N . And, hence, the pyramid whose
+κῶνος, οὗ βάσις μὲν ὁ ΑΒΓΔ κύκλος, κορυφὴ δὲ τὸ Λ,           base is polygon AT BU CV DW , and apex the point L,
+πρὸς τὴν ἐν αὐτῷ πυραμίδα, ἧς βάσις μὲν τὸ ΑΤΒΥΓΦΔΧ          has to the pyramid whose base is polygon EP F QGRHS,
+πολύγωνον, κορυφὴ δὲ τὸ Λ, οὕτως τὸ Ξ [στερεὸν] πρὸς τὴν     and apex the point N , the cubed ratio that BD (has)
+πυραμίδα, ἧς βάσις μέν ἐστι τὸ ΕΟΖΠΗΡΘΣ πολύγωνον,           to F H. And it was also assumed that the cone whose
+κορυφὴ δὲ τὸ Ν. μείζων δὲ ὁ εἰρημένος κῶνος τῆς ἐν αὐτῷ      base is circle ABCD, and apex the point L, has to solid
+πυραμίδος· ἐμπεριέχει γὰρ αὐτὴν. μεῖζον ἄρα καὶ τὸ Ξ         O the cubed ratio that BD (has) to F H. Thus, as the
+στερεὸν τῆς πυραμίδος, ἧς βάσις μέν ἐστι τὸ ΕΟΖΠΗΡΘΣ         cone whose base is circle ABCD, and apex the point L,
+πολύγωνον, κορυφὴ δὲ τὸ Ν. ἀλλὰ καὶ ἔλαττον· ὅπερ ἐστὶν      is to solid O, so the pyramid whose base (is) [polygon]
+ἀδύνατον. οὐκ ἄρα ὁ κῶνος, οὗ βάσις ὁ ΑΒΓΔ κύκλος, κο-       AT BU CV DW , and apex the point L, (is) to the pyramid
+ρυφὴ δὲ τὸ Λ [σημεῖον], πρὸς ἔλαττόν τι τοῦ κώνου στερεόν,   whose base is polygon EP F QGRHS, and apex the point
+οὗ βάσις μὲν ὁ ΕΖΗΘ κύκλος, κορυφὴ δὲ τὸ Ν σημεῖον, τρι-     N . Thus, alternately, as the cone whose base (is) circle
+πλασίονα λόγον ἔχει ἤπερ ἡ ΒΔ πρὸς τὴν ΖΘ. ὁμοίως δὴ         ABCD, and apex the point L, (is) to the pyramid within
+δείξομεν, ὅτι οὐδὲ ὁ ΕΖΗΘΝ κῶνος πρὸς ἔλαττόν τι τοῦ         it whose base (is) the polygon AT BU CV DW , and apex
+ΑΒΓΔΛ κώνου στερεὸν τριπλασίονα λόγον ἔχει ἤπερ ἡ ΖΘ         the point L, so the [solid] O (is) to the pyramid whose
+πρὸς τὴν ΒΔ.                                                 base is polygon EP F QGRHS, and apex the point N
+    Λέγω δή, ὅτι οὐδὲ ὁ ΑΒΓΔΛ κῶνος πρὸς μεῖζόν τι τοῦ       [Prop. 5.16]. And the aforementioned cone (is) greater
+ΕΖΗΘΝ κώνου στερεὸν τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΔ         than the pyramid within it. For it encompasses it. Thus,
+πρὸς τὴν ΖΘ.                                                 solid O (is) also greater than the pyramid whose base is
+    Εἰ γὰρ δυνατόν, ἐχέτω πρὸς μεῖζον τὸ Ξ. ἀνάπαλιν ἄρα     polygon EP F QGRHS, and apex the point N . But, (it
+τὸ Ξ στερεὸν πρὸς τὸν ΑΒΓΔΛ κῶνον τριπλασίονα λόγον          is) also less. The very thing is impossible. Thus, the cone
+ἔχει ἤπερ ἡ ΖΘ πρὸς τὴν ΒΔ. ὡς δὲ τὸ Ξ στερεὸν πρὸς          whose base (is) circle ABCD, and apex the [point] L,
+τὸν ΑΒΓΔΛ κῶνον, οὕτως ὁ ΕΖΗΘΝ κῶνος πρὸς ἔλαττόν            does not have to some solid less than the cone whose
+τι τοῦ ΑΒΓΔΛ κώνου στερεόν. καὶ ὁ ΕΖΗΘΝ ἄρα κῶνος            base (is) circle EF GH, and apex the point N , the cubed
+πρὸς ἔλαττόν τι τοῦ ΑΒΓΔΛ κώνου στερεὸν τριπλασίονα          ratio that BD (has) to EH. So, similarly, we can show
+λόγον ἔχει ἤπερ ἡ ΖΘ πρὸς τὴν ΒΔ· ὅπερ ἀδύνατον ἐδείχθη.     that neither does cone EF GHN have to some solid less
+οὐκ ἄρα ὁ ΑΒΓΔΛ κῶνος πρὸς μεῖζόν τι τοῦ ΕΖΗΘΝ               than cone ABCDL the cubed ratio that F H (has) to BD.
+κώνου στερεὸν τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΔ πρὸς              So, I say that neither does cone ABCDL have to some
+τὴν ΖΘ. ἐδείχθη δέ, ὅτι οὐδὲ πρὸς ἔλαττον. ὁ ΑΒΓΔΛ ἄρα       solid greater than cone EF GHN the cubed ratio that BD
+κῶνος πρὸς τὸν ΕΖΗΘΝ κῶνον τριπλασίονα λόγον ἔχει            (has) to F H.
+ἤπερ ἡ ΒΔ πρὸς τὴν ΖΘ.                                           For, if possible, let it have (such a ratio) to a greater
+    ῾Ως δὲ ὁ κῶνος πρὸς τὸν κῶνον, ὁ κύλινδρος πρὸς τὸν      (solid), O. Thus, inversely, solid O has to cone ABCDL
+κύλινδρον· τριπλάσιος γὰρ ὁ κύλινδρος τοῦ κώνου ὁ ἐπὶ τῆς    the cubed ratio that F H (has) to BD [Prop. 5.7 corr.].
+αὐτῆς βάσεως τῷ κώνῳ καὶ ἰσοϋψὴς αὐτῷ. καὶ ὁ κύλινδρος       And as solid O (is) to cone ABCDL, so cone EF GHN
+ἄρα πρὸς τὸν κύλινδρον τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΔ      (is) to some solid less than cone ABCDL [12.2 lem.].
+πρὸς τὴν ΖΘ.                                                 Thus, cone EF GHN also has to some solid less than cone
+    Οἱ ἄρα ὅμοιοι κῶνοι καὶ κύλινδροι πρὸς ἀλλήλους ἐν       ABCDL the cubed ratio that F H (has) to BD. The very
+
+
+                                                         494
+STOIQEIWN ibþ.                                                                                 ELEMENTS BOOK 12
+
+τριπλασίονι λόγῳ εἰσὶ τῶν ἐν ταῖς βάσεσι διαμέτρων· ὅπερ thing was shown (to be) impossible. Thus, cone ABCDL
+ἔδει δεῖξαι.                                             does not have to some solid greater than cone EF GHN
+                                                         the cubed ratio than BD (has) to F H. And it was shown
+                                                         that neither (does it have such a ratio) to a lesser (solid).
+                                                         Thus, cone ABCDL has to cone EF GHN the cubed ra-
+                                                         tio that BD (has) to F G.
+                                                             And as the cone (is) to the cone, so the cylinder (is)
+                                                         to the cylinder. For a cylinder is three times a cone on
+                                                         the same base as the cone, and of the same height as it
+                                                         [Prop. 12.10]. Thus, the cylinder also has to the cylinder
+                                                         the cubed ratio that BD (has) to F H.
+                                                             Thus, similar cones and cylinders are in the cubed ra-
+                                                         tio of the diameters of their bases. (Which is) the very
+                                                         thing it was required to show.
+
+                           igþ.                                                  Proposition 13
+   ᾿Εὰν κύλινδρος ἐπιπέδῳ τμηθῇ παραλλήλῳ ὄντι τοῖς ἀπε-        If a cylinder is cut by a plane which is parallel to the
+ναντίον ἐπιπέδοις, ἔσται ὡς ὁ κύλινδρος πρὸς τὸν κύλινδρον, opposite planes (of the cylinder) then as the cylinder (is)
+οὕτως ὁ ἄξων πρὸς τὸν ἄξονα.                                to the cylinder, so the axis will be to the axis.
+   O        R        A         H      G       T        F        P         R        A       G        C       T      V
+
+   L       N        E        K       Z       X       M          L        N        E        K      F       O       M
+
+
+
+   P        S        B       J        D       U       Q          Q         S       B       H      D       U        W
+    Κύλινδρος γὰρ ὁ ΑΔ ἐπιπέδῳ τῷ ΗΘ τετμήσθω πα-                For let the cylinder AD have been cut by the plane
+ραλλήλῳ ὄντι τοῖς ἀπεναντίον ἐπιπέδοις τοῖς ΑΒ, ΓΔ, καὶ      GH which is parallel to the opposite planes (of the cylin-
+συμβαλλέτω τῷ ἄξονι τὸ ΗΘ ἐπίπεδον κατὰ τὸ Κ σημεῖον·        der), AB and CD. And let the plane GH have met the
+λέγω, ὅτι ἐστὶν ὡς ὁ ΒΗ κύλινδρος πρὸς τὸν ΗΔ κύλινδρον,     axis at point K. I say that as cylinder BG is to cylinder
+οὕτως ὁ ΕΚ ἄξων πρὸς τὸν ΚΖ ἄξονα.                           GD, so axis EK (is) to axis KF .
+    ᾿Εκβεβλήσθω γὰρ ὁ ΕΖ ἄξων ἐφ᾿ ἑκάτερα τὰ μέρη ἐπὶ            For let axis EF have been produced in each direction
+τὰ Λ, Μ σημεῖα, καὶ ἐκκείσθωσαν τῷ ΕΚ ἄξονι ἴσοι ὁσοι-       to points L and M . And let any number whatsoever (of
+δηποτοῦν οἱ ΕΝ, ΝΛ, τῷ δὲ ΖΚ ἴσοι ὁσοιδηποτοῦν οἱ ΖΞ,        lengths), EN and N L, equal to axis EK, be set out (on
+ΞΜ, καὶ νοείσθω ὁ ἐπὶ τοῦ ΛΜ ἄξονος κύλινδρος ὁ ΟΧ,          the axis EL), and any number whatsoever (of lengths),
+οὗ βάσεις οἱ ΟΠ, ΦΧ κύκλοι. καὶ ἐκβεβλήσθω διὰ τῶν           F O and OM , equal to (axis) F K, (on the axis KM ).
+Ν, Ξ σημείων ἐπίπεδα παράλληλα τοῖς ΑΒ, ΓΔ καὶ ταῖς          And let the cylinder P W , whose bases (are) the circles
+βάσεσι τοῦ ΟΧ κυλίνδρου καὶ ποιείτωσαν τοὺς ΡΣ, ΤΥ           P Q and V W , have been conceived on axis LM . And
+κύκλους περὶ τὰ Ν, Ξ κέντρα. καὶ ἐπεὶ οἱ ΛΝ, ΝΕ, ΕΚ          let planes parallel to AB, CD, and the bases of cylinder
+ἄξονες ἴσοι εἰσὶν ἀλλήλοις, οἱ ἄρα ΠΡ, ΡΒ, ΒΗ κύλινδροι      P W , have been produced through points N and O, and
+πρὸς ἀλλήλους εἰσὶν ὡς αἱ βάσεις. ἴσαι δέ εἰσιν αἱ βάσεις·   let them have made the circles RS and T U around the
+ἴσοι ἄρα καὶ οἱ ΠΡ, ΡΒ, ΒΗ κύλινδροι ἀλλήλοις. επεὶ οὖν      centers N and O (respectively). And since axes LN , N E,
+οἱ ΛΝ, ΝΕ, ΕΚ ἄξονες ἴσοι εἰσὶν ἀλλήλοις, εἰσὶ δὲ καὶ οἱ     and EK are equal to one another, the cylinders QR, RB,
+ΠΡ, ΡΒ, ΒΗ κύλινδροι ἴσοι ἀλλήλοις, καί ἐστιν ἴσον τὸ        and BG are to one another as their bases [Prop. 12.11].
+πλῆθος τῷ πλήθει, ὁσαπλασίων ἄρα ὁ ΚΛ ἄξων τοῦ ΕΚ            But the bases are equal. Thus, the cylinders QR, RB,
+ἄξονος, τοσαυταπλασίων ἔσται καὶ ὁ ΠΗ κύλινδρος τοῦ ΗΒ       and BG (are) also equal to one another. Therefore, since
+κυλίνδρου. διὰ τὰ αὐτὰ δὴ καὶ ὁσαπλασίων ἐστὶν ὁ ΜΚ ἄξων     the axes LN , N E, and EK are equal to one another,
+τοῦ ΚΖ ἄξονος, τοσαυταπλασίων ἐστὶ καὶ ὁ ΧΗ κύλινδρος        and the cylinders QR, RB, and BG are also equal to one
+τοῦ ΗΔ κυλίνδρου. καὶ εἰ μὲν ἴσος ἐστὶν ὁ ΚΛ ἄξων τῷ         another, and the number (of the former) is equal to the
+ΚΜ ἄξονι, ἴσος ἔσται καὶ ὁ ΠΗ κύλινδρος τῷ ΗΧ κυλίνδρῳ,      number (of the latter), thus as many multiples as axis KL
+
+
+
+                                                          495
+STOIQEIWN ibþ.                                                                                    ELEMENTS BOOK 12
+
+εἰ δὲ μείζων ὁ ἄξων τοῦ ἄξονος, μείζων καὶ ὁ κύλινδρος          is of axis EK, so many multiples is cylinder QG also of
+τοῦ κυλίνδρου, καὶ εἰ ἐλάσσων, ἐλάσσων. τεσσάρων δὴ με-         cylinder GB. And so, for the same (reasons), as many
+γεθῶν ὄντων, ἀξόνων μὲν τῶν ΕΚ, ΚΖ, κυλίνδρων δὲ τῶν            multiples as axis M K is of axis KF , so many multiples
+ΒΗ, ΗΔ, εἴληπται ἰσάκις πολλαπλάσια, τοῦ μὲν ΕΚ ἄξονος          is cylinder W G also of cylinder GD. And if axis KL is
+καὶ τοῦ ΒΗ κυλίνδρου ὅ τε ΛΚ ἄξων καὶ ὁ ΠΗ κύλινδρος,           equal to axis KM then cylinder QG will also be equal
+τοῦ δὲ ΚΖ ἄξονες καὶ τοῦ ΗΔ κυλίνδρου ὅ τε ΚΜ ἄξων              to cylinder GW , and if the axis (is) greater than the axis
+καὶ ὁ ΗΧ κύλινδρος, καὶ δέδεικται, ὅτι εἰ ὑπερέχει ὁ ΚΛ         then the cylinder (will also be) greater than the cylinder,
+ἄξων τοῦ ΚΜ ἄξονος, ὑπερέχει καὶ ὁ ΠΗ κύλινδρος τοῦ             and if (the axis is) less then (the cylinder will also be)
+ΗΧ κυλίνδρου, καὶ εἰ ἴσος, ἴσος, καὶ εἰ ἐλάσσων, ἐλάσσων.       less. So, there are four magnitudes—the axes EK and
+ἔστιν ἄρα ὡς ὁ ΕΚ ἄξων πρὸς τὸν ΚΖ ἄξονα, οὕτως ὁ ΒΗ            KF , and the cylinders BG and GD—and equal multiples
+κύλινδρος πρὸς τὸν ΗΔ κύλινδρον· ὅπερ ἔδει δεῖξαι.              have been taken of axis EK and cylinder BG—(namely),
+                                                                axis LK and cylinder QG—and of axis KF and cylinder
+                                                                GD—(namely), axis KM and cylinder GW . And it has
+                                                                been shown that if axis KL exceeds axis KM then cylin-
+                                                                der QG also exceeds cylinder GW , and if (the axes are)
+                                                                equal then (the cylinders are) equal, and if (KL is) less
+                                                                then (QG is) less. Thus, as axis EK is to axis KF , so
+                                                                cylinder BG (is) to cylinder GD [Def. 5.5]. (Which is)
+                                                                the very thing it was required to show.
+
+                            idþ.                                                    Proposition 14
+   Οἱ ἐπὶ ἴσων βάσεων ὄντες κῶνοι καὶ κύλινδροι πρὸς               Cones and cylinders which are on equal bases are to
+αλλήλους εἰσὶν ὡς τὰ ὕψη.                                       one another as their heights.
+
+                               Z        K                                                     F        K
+       E         H                                                     E        G
+                               G          L       D                                           C         L       D
+
+       A           J B                                                 A          H      B
+                                          N M                                                            N      M
+    ῎Εστωσαν γὰρ ἐπὶ ἴσων βάσεων τῶν ΑΒ, ΓΔ κύκλων                  For let EB and F D be cylinders on equal bases,
+κύλινδροι οἱ ΕΒ, ΖΔ· λέγω, ὅτι ἐστὶν ὡς ὁ ΕΒ κύλινδρος          (namely) the circles AB and CD (respectively). I say
+πρὸς τὸν ΖΔ κύλινδρον, οὕτως ὁ ΗΘ ἄξων πρὸς τὸν ΚΛ              that as cylinder EB is to cylinder F D, so axis GH (is) to
+ἄξονα.                                                          axis KL.
+    ᾿Εκβεβλήσθω γὰρ ὁ ΚΛ ἄξων ἐπὶ τὸ Ν σημεῖον, καὶ                 For let the axis KL have been produced to point N .
+κείσθω τῷ ΗΘ ἄξονι ἴσος ὁ ΛΝ, καὶ περὶ ἄξονα τὸν ΛΝ             And let LN be made equal to axis GH. And let the cylin-
+κύλινδρος νενοήσθω ὁ ΓΜ. ἐπεὶ οὖν οἱ ΕΒ, ΓΜ κύλινδροι           der CM have been conceived about axis LN . Therefore,
+ὑπὸ τὸ αὐτὸ ὕψος εἰσίν, πρὸς ἀλλήλους εἰσὶν ὡς αἱ βάσεις.       since cylinders EB and CM have the same height they
+ἴσαι δέ εἰσίν αἱ βάσεις ἀλλήλαις· ἴσοι ἄρα εἰσὶ καὶ οἱ ΕΒ, ΓΜ   are to one another as their bases [Prop. 12.11]. And the
+κύλινδροι. καὶ ἐπεὶ κύλινδρος ὁ ΖΜ ἐπιπέδῳ τέτμηται τῷ          bases are equal to one another. Thus, cylinders EB and
+ΓΔ παραλλήλῳ ὄντι τοῖς ἀπεναντίον ἐπιπέδοις, ἔστιν ἄρα ὡς       CM are also equal to one another. And since cylinder
+ὁ ΓΜ κύλινδρος πρὸς τὸν ΖΔ κύλινδρον, οὕτως ὁ ΛΝ ἄξων           F M has been cut by the plane CD, which is parallel to
+πρὸς τὸν ΚΛ ἄξονα. ἴσος δέ ἐστιν ὁ μὲν ΓΜ κύλινδρος τῷ          its opposite planes, thus as cylinder CM is to cylinder
+ΕΒ κυλίνδρῳ, ὁ δὲ ΛΝ ἄξων τῷ ΗΘ ἄξονι· ἔστιν ἄρα ὡς ὁ           F D, so axis LN (is) to axis KL [Prop. 12.13]. And cylin-
+ΕΒ κύλινδρος πρὸς τὸν ΖΔ κύλινδρον, οὕτως ὁ ΗΘ ἄξων             der CM is equal to cylinder EB, and axis LN to axis GH.
+πρὸς τὸν ΚΛ ἄξονα. ὡς δὲ ὁ ΕΒ κύλινδρος πρὸς τὸν ΖΔ             Thus, as cylinder EB is to cylinder F D, so axis GH (is)
+
+
+                                                            496
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+κύλινδρον, οὑτως ὁ ΑΒΗ κῶνος πρὸς τὸν ΓΔΚ κῶνον. καὶ        to axis KL. And as cylinder EB (is) to cylinder F D, so
+ὡς ἄρα ὁ ΗΘ ἄξων πρὸς τὸν ΚΛ ἄξονα, οὕτως ὁ ΑΒΗ             cone ABG (is) to cone CDK [Prop. 12.10]. Thus, also,
+κῶνος πρὸς τὸν ΓΔΚ κῶνον καὶ ὁ ΕΒ κύλινδρος πρὸς τὸν        as axis GH (is) to axis KL, so cone ABG (is) to cone
+ΖΔ κύλινδρον· ὅπερ ἔδει δεῖξαι.                             CDK, and cylinder EB to cylinder F D. (Which is) the
+                                                            very thing it was required to show.
+
+                            ieþ.                                                 Proposition 15
+   Τῶν ἴσων κώνων καὶ κυλίνδρων ἀντιπεπόνθασιν αἱ         The bases of equal cones and cylinders are recipro-
+βάσεις τοῖς ὕψεσιν· καὶ ὧν κώνων καὶ κυλίνδρων ἀντι- cally proportional to their heights. And, those cones and
+πεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν, ἴσοι εἰσὶν ἐκεῖνοι. cylinders whose bases (are) reciprocally proportional to
+                                                      their heights are equal.
+       L       X         O         S              H                 L       O
+                                                                                        P          S              G
+                                       T              Z                                                T
+   D                    M          P              N                 D                 M
+                                                                                                 Q                 N
+                                                                                                                       F
+
+ A K           G                              J                 A           C
+                                                                                                              H
+                                                                    K
+           B             R         U              E                     B               R         U               E
+    ῎Εστωσαν ἴσοι κῶνοι καὶ κύλινδροι, ὧν βάσεις μὲν οἱ         Let there be equal cones and cylinders whose bases
+ΑΒΓΔ, ΕΖΗΘ κύκλοι, διάμετροι δὲ αὐτῶν αἱ ΑΓ, ΕΗ,            are the circles ABCD and EF GH, and the diameters
+ἅξονες δὲ οἱ ΚΛ, ΜΝ, οἵτινες καὶ ὕψη εἰσὶ τῶν κώνων ἢ       of (the bases) AC and EG, and (whose) axes (are) KL
+κυλίνδρων, καὶ συμπεπληρώσθωσαν οἱ ΑΞ, ΕΟ κύλινδροι.        and M N , which are also the heights of the cones and
+λέγω, ὅτι τῶν ΑΞ, ΕΟ κυλίνδρων ἀντιπεπόνθασιν αἱ βάσεις     cylinders (respectively). And let the cylinders AO and
+τοῖς ὕψεσιν, καί ἐστιν ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν ΕΖΗΘ        EP have been completed. I say that the bases of cylinders
+βάσιν, οὕτως τὸ ΜΝ ὕψος πρὸς τὸ ΚΛ ὕψος.                    AO and EP are reciprocally proportional to their heights,
+    Τὸ γὰρ ΛΚ ὕψος τῷ ΜΝ ὕψει ἤτοι ἴσον ἐστὶν ἢ οὔ.         and (so) as base ABCD is to base EF GH, so height M N
+ἔστω πρότερον ἴσον. ἔστι δὲ καὶ ὁ ΑΞ κύλινδρος τῷ ΕΟ        (is) to height KL.
+κυλίνδρῳ ἴσος. οἱ δὲ ὑπὸ τὸ αὐτὸ ὕψος ὄντες κῶνοι καὶ           For height LK is either equal to height M N , or not.
+κύλινδροι πρὸς ἀλλήλους εἰσὶν ὡς αἱ βάσεις· ἴση ἄρα καὶ     Let it, first of all, be equal. And cylinder AO is also equal
+ἡ ΑΒΓΔ βάσις τῇ ΕΖΗΘ βάσει. ὥστε καὶ ἀντιπέπονθεν,          to cylinder EP . And cones and cylinders having the same
+ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν ΕΖΗΘ βάσιν, οὕτως τὸ ΜΝ            height are to one another as their bases [Prop. 12.11].
+ὕψος πρὸς τὸ ΚΛ ὕψος. ἀλλὰ δὴ μὴ ἔστω τὸ ΛΚ ὕψος            Thus, base ABCD (is) also equal to base EF GH. And,
+τῷ ΜΝ ἴσον, ἀλλ᾿ ἔστω μεῖζον τὸ ΜΝ, καὶ ἀφῃρήσθω ἀπὸ        hence, reciprocally, as base ABCD (is) to base EF GH,
+τοῦ ΜΝ ὕψους τῷ ΚΛ ἴσον τὸ ΠΝ, καὶ διὰ τοῦ Π σημείου        so height M N (is) to height KL. And so, let height LK
+τετμήσθω ὁ ΕΟ κύλινδρος ἐπιπέδῳ τῷ ΤΥΣ παραλλήλῳ            not be equal to M N , but let M N be greater. And let QN ,
+τοῖς τῶν ΕΖΗΘ, ΡΟ κύκλων ἐπιπέδοις, καὶ ἀπὸ βάσεως μὲν      equal to KL, have been cut off from height M N . And
+τοῦ ΕΖΗΘ κύκλου, ὕψους δὲ τοῦ ΝΠ κύλινδρος νενοήσθω         let the cylinder EP have been cut, through point Q, by
+ὁ ΕΣ. καί ἐπεὶ ἴσος ἐστὶν ὁ ΑΞ κύλινδρος τῷ ΕΟ κυλίνδρῳ,    the plane T U S (which is) parallel to the planes of the
+ἔστιν ἄρα ὡς ὁ ΑΞ κύλινδρος πρὸς τὸν ΕΣ κυλίνδρον, οὕτως    circles EF GH and RP . And let cylinder ES have been
+ὁ ΕΟ κύλινδρος πρὸς τὸν ΕΣ κύλινδρον. ἀλλ᾿ ὡς μὲν ὁ ΑΞ      conceived, with base the circle EF GH, and height N Q.
+κύλινδρος πρὸς τὸν ΕΣ κύλινδρον, οὕτως ἡ ΑΒΓΔ βάσις         And since cylinder AO is equal to cylinder EP , thus, as
+πρὸς τὴν ΕΖΗΘ· ὑπὸ γὰρ τὸ αὐτὸ ὕψος εἰσὶν οἱ ΑΞ, ΕΣ         cylinder AO (is) to cylinder ES, so cylinder EP (is) to
+κύλινδροι· ὡς δὲ ὁ ΕΟ κύλινδρος πρὸς τὸν ΕΣ, οὕτως τὸ       cylinder ES [Prop. 5.7]. But, as cylinder AO (is) to cylin-
+ΜΝ ὕψος πρὸς τὸ ΠΝ ὕψος· ὁ γὰρ ΕΟ κύλινδρος ἐπιπέδῳ         der ES, so base ABCD (is) to base EF GH. For cylinders
+τέτμηται παραλλήλῳ ὄντι τοῖς ἀπεναντίον ἐπιπέδοις. ἔστιν    AO and ES (have) the same height [Prop. 12.11]. And
+ἄρα καὶ ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν ΕΖΗΘ βάσιν, οὕτως τὸ       as cylinder EP (is) to (cylinder) ES, so height M N (is)
+ΜΝ ὕψος πρὸς τὸ ΠΝ ὕψος. ἴσον δὲ τὸ ΠΝ ὕψος τῷ ΚΛ           to height QN . For cylinder EP has been cut by a plane
+ὕψει· ἔστιν ἄρα ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν ΕΖΗΘ βάσιν,        which is parallel to its opposite planes [Prop. 12.13].
+οὕτως τὸ ΜΝ ὕψος πρὸς τὸ ΚΛ ὕψος. τῶν ἄρα ΑΞ, ΕΟ            And, thus, as base ABCD is to base EF GH, so height
+κυλίνδρων ἀντιπεπόνθασιν αἱ βάσεις τοῖς ὕψεσιν.             M N (is) to height QN [Prop. 5.11]. And height QN
+
+
+                                                          497
+STOIQEIWN ibþ.                                                                              ELEMENTS BOOK 12
+
+    ᾿Αλλὰ δὴ τῶν ΑΞ, ΕΟ κυλίνδρων ἀντιπεπονθέτωσαν αἱ      (is) equal to height KL. Thus, as base ABCD is to base
+βάσεις τοῖς ὕψεσιν, καὶ ἔστω ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν      EF GH, so height M N (is) to height KL. Thus, the bases
+ΕΖΗΘ βάσιν, οὕτως τὸ ΜΝ ὕψος πρὸς τὸ ΚΛ ὕψος· λέγω,        of cylinders AO and EP are reciprocally proportional to
+ὅτι ἴσος ἐστὶν ὁ ΑΞ κύλινδρος τῷ ΕΟ κυλίνδρῳ.              their heights.
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ἐπεί ἐστιν ὡς ἡ             And, so, let the bases of cylinders AO and EP be
+ΑΒΓΔ βάσις πρὸς τὴν ΕΖΗΘ βάσιν, οὕτως τὸ ΜΝ ὕψος           reciprocally proportional to their heights, and (thus) let
+πρὸς τὸ ΚΛ ὕψος, ἴσον δὲ τὸ ΚΛ ὕψος τῷ ΠΝ ὕψει, ἔσται      base ABCD be to base EF GH, as height M N (is) to
+ἄρα ὡς ἡ ΑΒΓΔ βάσις πρὸς τὴν ΕΖΗΘ βάσιν, οὕτως τὸ          height KL. I say that cylinder AO is equal to cylinder
+ΜΝ ὕψος πρὸς τὸ ΠΝ ὕψος. ἀλλ᾿ ὡς μὲν ἡ ΑΒΓΔ βάσις          EP .
+πρὸς τὴν ΕΖΗΘ βάσιν, οὕτως ὁ ΑΞ κύλινδρος πρὸς τὸν             For, with the same construction, since as base ABCD
+ΕΣ κύλινδρον· ὑπὸ γὰρ τὸ αὐτὸ ὕψος εἰσίν· ὡς δὲ τὸ ΜΝ      is to base EF GH, so height M N (is) to height KL, and
+ὕψος πρὸς τὸ ΠΝ [ὕψος], οὕτως ὁ ΕΟ κύλινδρος πρὸς τὸν      height KL (is) equal to height QN , thus, as base ABCD
+ΕΣ κύλινδρον· ἔστιν ἄρα ὡς ὁ ΑΞ κύλινδρος πρὸς τὸν ΕΣ      (is) to base EF GH, so height M N will be to height
+κύλινδρον, οὕτως ὁ ΕΟ κύλινδρος πρὸς τὸν ΕΣ. ἴσος ἄρα      QN . But, as base ABCD (is) to base EF GH, so cylin-
+ὁ ΑΞ κύλινδρος τῷ ΕΟ κυλίνδρῳ. ὡσαύτως δὲ καὶ ἐπὶ τῶν      der AO (is) to cylinder ES. For they are the same height
+κώνων· ὅπερ ἔδει δεῖξαι.                                   [Prop. 12.11]. And as height M N (is) to [height] QN ,
+                                                           so cylinder EP (is) to cylinder ES [Prop. 12.13]. Thus,
+                                                           as cylinder AO is to cylinder ES, so cylinder EP (is) to
+                                                           (cylinder) ES [Prop. 5.11]. Thus, cylinder AO (is) equal
+                                                           to cylinder EP [Prop. 5.9]. In the same manner, (the
+                                                           proposition can) also (be demonstrated) for the cones.
+                                                           (Which is) the very thing it was required to show.
+
+                          iþ.                                                   Proposition 16
+    Δύο κύκλων περὶ τὸ αὐτὸ κέντρον ὄντων εἰς τὸν           There being two circles about the same center, to
+μείζονα κύκλον πολύγωνον ἰσόπλευρόν τε καὶ ἀρτιόπλευρον inscribe an equilateral and even-sided polygon in the
+ἐγγράψαι μὴ ψαῦον τοῦ ἐλάσσονος κύκλου.                 greater circle, not touching the lesser circle.
+
+                          J           A                                                H            A
+                                          L                                                             L
+
+
+         B      E         K         H MD                             B
+                                                                             E         K          G M
+                                                                                                            D
+
+
+                                          N                                                             N
+                           Z          G                                                 F           C
+    ῎Εστωσαν οἱ δοθέντες δύο κύκλοι οἱ ΑΒΓΔ, ΕΖΗΘ              Let ABCD and EF GH be the given two circles, about
+περὶ τὸ αὐτὸ κέντρον τὸ Κ· δεῖ δὴ εἰς τὸν μείζονα κύκλον   the same center, K. So, it is necessary to inscribe an
+τὸν ΑΒΓΔ πολύγωνον ἰσόπλευρόν τε καὶ ἀρτιόπλευρον          equilateral and even-sided polygon in the greater circle
+ἐγγράψαι μὴ ψαῦον τοῦ ΕΖΗΘ κύκλου.                         ABCD, not touching circle EF GH.
+    ῎Ηχθω γὰρ διὰ τοῦ Κ κέντρου εὐθεῖα ἡ ΒΚΔ, καὶ              Let the straight-line BKD have been drawn through
+ἀπὸ τοῦ Η σημείου τῇ ΒΔ εὐθείᾳ πρὸς ὀρθὰς ἤχθω ἡ           the center K. And let GA have been drawn, at right-
+ΗΑ καὶ διήχθω ἐπὶ τὸ Γ· ἡ ΑΓ ἄρα ἐφάπτεται τοῦ ΕΖΗΘ        angles to the straight-line BD, through point G, and let it
+κύκλου. τέμνοντες δὴ τὴν ΒΑΔ περιφέρειαν δίχα καὶ τὴν      have been drawn through to C. Thus, AC touches circle
+ἡμίσειαν αὐτῆς δίχα καὶ τοῦτο ἀεὶ ποιοῦντες καταλείψομεν   EF GH [Prop. 3.16 corr.]. So, (by) cutting circumference
+περιφέρειαν ἐλάσσονα τῆς ΑΔ. λελείφθω, καὶ ἔστω ἡ ΛΔ,      BAD in half, and the half of it in half, and doing this con-
+καὶ ἀπὸ τοῦ Λ ἐπὶ τὴν ΒΔ κάθετος ἤχθω ἡ ΛΜ καὶ διήχθω      tinually, we will (eventually) leave a circumference less
+
+
+                                                       498
+STOIQEIWN ibþ.                                                                                                           ELEMENTS BOOK 12
+
+ἐπὶ τὸ Ν, καὶ ἐπεζεύχθωσαν αἱ ΛΔ, ΔΝ· ἴση ἄρα ἐστὶν ἡ                      than AD [Prop. 10.1]. Let it have been left, and let it be
+ΛΔ τῇ ΔΝ. καὶ ἐπεὶ παράλληλός ἐστιν ἡ ΛΝ τῇ ΑΓ, ἡ δὲ ΑΓ                    LD. And let LM have been drawn, from L, perpendicu-
+ἐφάπτεται τοῦ ΕΖΗΘ κύκλου, ἡ ΛΝ ἄρα οὐκ ἐφάπτεται τοῦ                      lar to BD, and let it have been drawn through to N . And
+ΕΖΗΘ κύκλου· πολλῷ ἄρα αἱ ΛΔ, ΔΝ οὐκ ἐφάπτονται τοῦ                        let LD and DN have been joined. Thus, LD is equal to
+ΕΖΗΘ κύκλου. ἐὰν δὴ τῇ ΛΔ εὐθείᾳ ἴσας κατὰ τὸ συνεχὲς                      DN [Props. 3.3, 1.4]. And since LN is parallel to AC
+ἐναρμόσωμεν εἰς τὸν ΑΒΓΔ κύκλον, ἐγγραφήσεται εἰς τὸν                      [Prop. 1.28], and AC touches circle EF GH, LN thus
+ΑΒΓΔ κύκλον πολύγωνον ἰσόπλευρόν τε καὶ ἀρτιόπλευρον                       does not touch circle EF GH. Thus, even more so, LD
+μὴ ψαῦον τοῦ ἐλάσσονος κύκλου τοῦ ΕΖΗΘ· ὅπερ ἔδει                          and DN do not touch circle EF GH. And if we continu-
+ποιῆσαι.                                                                   ously insert (straight-lines) equal to straight-line LD into
+                                                                           circle ABCD [Prop. 4.1] then an equilateral and even-
+                                                                           sided polygon, not touching the lesser circle EF GH, will
+                                                                           have been inscribed in circle ABCD.† (Which is) the very
+                                                                           thing it was required to do.
+† Note that the chord of the polygon, LN , does not touch the inner circle either.
+
+
+
+                                  izþ.                                                                   Proposition 17
+    Δύο σφαιρῶν περὶ τὸ αὐτὸ κέντρον οὐσῶν εἰς τὴν          There being two spheres about the same center, to in-
+μείζονα σφαῖραν στερεὸν πολύεδρον ἐγγράψαι μὴ ψαῦον τῆς scribe a polyhedral solid in the greater sphere, not touch-
+ἐλάσσονος σφαίρας κατὰ τὴν ἐπιφάνειαν.                  ing the lesser sphere on its surface.
+
+                     M             E                                                                 M
+                                                                                                                 E
+
+
+            L                                                                            L
+                S         T               U                                                      S
+                                                                                                         T
+                                                                                                                         U
+                            P            R      X                                                                            O
+  K         O                                                                   K                            Q           R
+                                     Z                                                       P                       F
+    Y               Q                                                           X                    W
+
+B       W       F       H        A                                     D    B        Y           V       G       A                        D
+
+
+                                     J                             N                                                 H
+                                                                                                                                      N
+
+
+
+
+                                  G                                                                              C
+    Νενοήσθωσαν δύο σφαῖραι περὶ τὸ αὐτὸ κέντρον τὸ Α·                          Let two spheres have been conceived about the same
+δεῖ δὴ εἰς τὴν μείζονα σφαῖραν στερεὸν πολύεδρον ἐγγράψαι                  center, A. So, it is necessary to inscribe a polyhedral solid
+μὴ ψαῦον τῆς ἐλάσσονος σφαίρας κατὰ τὴν ἐπιφάνειαν.                        in the greater sphere, not touching the lesser sphere on
+    Τετμήσθωσαν αἱ σφαῖραι ἐπιπέδῳ τινὶ διὰ τοῦ κέντρου·                   its surface.
+ἔσονται δὴ αἱ τομαὶ κύκλοι, ἐπειδήπερ μενούσης τῆς                              Let the spheres have been cut by some plane through
+διαμέτρου καὶ περιφερομένου τοῦ ἡμικυκλίου ἐγιγνετο ἡ                      the center. So, the sections will be circles, inasmuch
+σφαῖρα· ὥστε καὶ καθ᾿ οἵας ἂν θέσεως ἐπινοήσωμεν τὸ                        as a sphere is generated by the diameter remaining be-
+ἡμικύκλιον, τὸ δι᾿ αὐτοῦ ἐκβαλλόμενον ἐπίπεδον ποιήσει                     hind, and a semi-circle being carried around [Def. 11.14].
+ἐπὶ τῆς ἐπιφανείας τῆς σφαίρας κύκλον. καὶ φανερόν,                        And, hence, whatever position we conceive (of for) the
+ὅτι καὶ μέγιστον, ἐπειδήπερ ἡ διάμετρος τῆς σφαίρας, ἥτις                  semi-circle, the plane produced through it will make a
+
+
+                                                                       499
+STOIQEIWN ibþ.                                                                              ELEMENTS BOOK 12
+
+ἐστὶ καὶ τοῦ ἡμικυκλίου διάμετρος δηλαδὴ καὶ τοῦ κύκλου,    circle on the surface of the sphere. And (it is) clear
+μείζων ἐστὶ πασῶν τῶν εἰς τὸν κύκλον ἢ τὴν σφαῖραν δια-     that (it is) also a great (circle), inasmuch as the diam-
+γομένων [εὐθειῶν]. ἔστω οὖν ἐν μὲν τῇ μείζονι σφαίρᾳ        eter of the sphere, which is also manifestly the diame-
+κύκλος ὁ ΒΓΔΕ, ἐν δὲ τῇ ἐλάσσονι σφαίρᾳ κύκλος ὁ ΖΗΘ,       ter of the semi-circle and the circle, is greater than all
+καὶ ἤχθωσαν αὐτῶν δύο διάμετροι πρὸς ὀρθὰς ἀλλήλαις αἱ      of the (other) [straight-lines] drawn across in the cir-
+ΒΔ, ΓΕ, καὶ δύο κύκλων περὶ τὸ αὐτὸ κέντρον ὄντων τῶν       cle or the sphere [Prop. 3.15]. Therefore, let BCDE be
+ΒΓΔΕ, ΖΗΘ εἰς τὸν μείζονα κύκλον τὸν ΒΓΔΕ πολύγωνον         the circle in the greater sphere, and F GH the circle in
+ἰσόπλευρον καὶ ἀρτιόπλευρον ἐγγεγράφθω μὴ ψαῦον τοῦ         the lesser sphere. And let two diameters of them have
+ἐλάσσονος κύκλου τοῦ ΖΗΘ, οὗ πλευραὶ ἔστωσαν ἐν τῷ ΒΕ       been drawn at right-angles to one another, (namely),
+τεταρτημορίῳ αἱ ΒΚ, ΚΛ, ΛΜ, ΜΕ, καὶ ἐπιζευχθεῖσα ἡ ΚΑ       BD and CE. And there being two circles about the
+διήχθω ἐπὶ τὸ Ν, καὶ ἀνεστάτω ἀπὸ τοῦ Α σημείου τῷ τοῦ      same center—(namely), BCDE and F GH—let an equi-
+ΒΓΔΕ κύκλου ἐπιπέδῳ πρὸς ὀρθὰς ἡ ΑΞ καὶ συμβαλλέτω          lateral and even-sided polygon have been inscribed in
+τῇ ἐπιφανείᾳ τῆς σφαίρας κατὰ τὸ Ξ, καὶ διὰ τῆς ΑΞ καὶ      the greater circle, BCDE, not touching the lesser circle,
+ἑκατέρας τῶν ΒΔ, ΚΝ ἐπίπεδα ἐκβεβλήσθω· ποιήσουσι δὴ        F GH [Prop. 12.16], of which let the sides in the quad-
+διὰ τὰ εἰρημένα ἐπὶ τῆς ἐπιφανείας τῆς σφαίρας μεγίστους    rant BE be BK, KL, LM , and M E. And, KA being
+κύκλους. ποιείτωσαν, ὧν ἡμικύκλια ἔστω ἐπὶ τῶν ΒΔ, ΚΝ       joined, let it have been drawn across to N . And let AO
+διαμέτρων τὰ ΒΞΔ, ΚΞΝ. καὶ ἐπεὶ ἡ ΞΑ ὀρθή ἐστι πρὸς τὸ      have been set up at point A, at right-angles to the plane of
+τοῦ ΒΓΔΕ κύκλου ἐπίπεδον, καὶ πάντα ἄρα τὰ διὰ τῆς ΞΑ       circle BCDE. And let it meet the surface of the (greater)
+ἐπίπεδά ἐστιν ὀρθὰ πρὸς τὸ τοῦ ΒΓΔΕ κύκλου ἐπίπεδον·        sphere at O. And let planes have been produced through
+ὥστε καὶ τὰ ΒΞΔ, ΚΞΝ ἡμικύκλια ὀρθά ἐστι πρὸς τὸ τοῦ        AO and each of BD and KN . So, according to the afore-
+ΒΓΔΕ κύκλου ἐπίπεδον. καὶ ἐπεὶ ἴσα ἐστὶ τὰ ΒΕΔ, ΒΞΔ,        mentioned (discussion), they will make great circles on
+ΚΞΝ ἡμικύκλια· ἐπὶ γὰρ ἴσων εἰσὶ διαμέτρων τῶν ΒΔ, ΚΝ·      the surface of the (greater) sphere. Let them make (great
+ἴσα ἐστὶ καὶ τὰ ΒΕ, ΒΞ, ΚΞ τεταρτημόρια ἀλλήλοις. ὄσαι      circles), of which let BOD and KON be semi-circles on
+ἄρα εἰσὶν ἐν τῷ ΒΕ τεταρτημορίῳ πλευραὶ τοῦ πολυγώνου,      the diameters BD and KN (respectively). And since OA
+τοσαῦταί εἰσι καὶ ἐν τοῖς ΒΞ, ΚΞ τεταρτημορίοις ἴσαι ταῖς   is at right-angles to the plane of circle BCDE, all of the
+ΒΚ, ΚΛ, ΛΜ, ΜΕ εὐθείαις. ἐγγεγράφθωσαν καὶ ἔστωσαν          planes through OA are thus also at right-angles to the
+αἱ ΒΟ, ΟΠ, ΠΡ, ΡΞ, ΚΣ, ΣΤ, ΤΥ, ΥΞ, καὶ ἐπεζεύχθωσαν         plane of circle BCDE [Prop. 11.18]. And, hence, the
+αἱ ΣΟ, ΤΠ, ΥΡ, καὶ ἀπὸ τῶν Ο, Σ ἐπὶ τὸ τοῦ ΒΓΔΕ             semi-circles BOD and KON are also at right-angles to
+κύκλου ἐπίπεδον κάθετοι ἤχθωσαν· πεσοῦνται δὴ ἐπὶ τὰς       the plane of circle BCDE. And since semi-circles BED,
+κοινὰς τομὰς τῶν ἐπιπέδων τὰς ΒΔ, ΚΝ, ἐπειδήπερ καὶ         BOD, and KON are equal—for (they are) on the equal
+τὰ τῶν ΒΞΔ, ΚΞΝ ἐπίπεδα ὀρθά ἐστι πρὸς τὸ τοῦ ΒΓΔΕ          diameters BD and KN [Def. 3.1]—the quadrants BE,
+κύκλου ἐπίπεδον. πιπτέτωσαν, καὶ ἔστωσαν αἱ ΟΦ, ΣΧ,         BO, and KO are also equal to one another. Thus, as
+καὶ ἐπεζεύχθω ἡ ΧΦ. καὶ ἐπεὶ ἐν ἴσοις ἡμικυκλίοις τοῖς      many sides of the polygon as are in quadrant BE, so
+ΒΞΔ, ΚΞΝ ἴσαι ἀπειλημμέναι εἰσὶν αἱ ΒΟ, ΚΣ, καὶ κάθετοι     many are also in quadrants BO and KO equal to the
+ἠγμέναι εἰσὶν αἱ ΟΦ, ΣΧ, ἴση [ἄρα] ἐστὶν ἡ μὲν ΟΦ τῇ ΣΧ,    straight-lines BK, KL, LM , and M E. Let them have
+ἡ δὲ ΒΦ τῇ ΚΧ. ἔστι δὲ καὶ ὅλη ἡ ΒΑ ὅλῃ τῇ ΚΑ ἴση· καὶ      been inscribed, and let them be BP , P Q, QR, RO, KS,
+λοιπὴ ἄρα ἡ ΦΑ λοιπῇ τῇ ΧΑ ἐστιν ἴση· ἔστιν ἄρα ὡς ἡ ΒΦ     ST , T U , and U O. And let SP , T Q, and U R have been
+πρὸς τὴν ΦΑ, οὕτως ἡ ΚΧ πρὸς τὴν ΧΑ· παράλληλος ἄρα         joined. And let perpendiculars have been drawn from P
+ἐστὶν ἡ ΧΦ τῇ ΚΒ. καὶ ἐπεὶ ἑκατέρα τῶν ΟΦ, ΣΧ ὀρθή          and S to the plane of circle BCDE [Prop. 11.11]. So,
+ἐστι πρὸς τὸ τοῦ ΒΓΔΕ κύκλου ἐπίπεδον, παράλληλος ἄρα       they will fall on the common sections of the planes BD
+ἐστὶν ἡ ΟΦ τῇ ΣΧ. ἐδείχθη δὲ αὐτῇ καὶ ἴση· καὶ αἱ ΧΦ, ΣΟ    and KN (with BCDE), inasmuch as the planes of BOD
+ἄρα ἴσαι εἰσὶ καὶ παράλληλοι. καὶ ἐπεὶ παράλληλός ἐστιν     and KON are also at right-angles to the plane of circle
+ἡ ΧΦ τῇ ΣΟ, ἀλλὰ ἡ ΧΦ τῇ ΚΒ ἐστι παράλληλος, καὶ            BCDE [Def. 11.4]. Let them have fallen, and let them be
+ἡ ΣΟ ἄρα τῇ ΚΒ ἐστι παράλληλος. καὶ ἐπιζευγνύουσιν          P V and SW . And let W V have been joined. And since
+αὐτὰς αἱ ΒΟ, ΚΣ· τὸ ΚΒΟΣ ἄρα τετράπλευρον ἐν ἑνί            BP and KS are equal (circumferences) having been cut
+ἐστιν ἐπιπέδῳ, ἐπειδήπερ, ἐὰν ὦσι δύο εὐθεῖαι παράλληλοι,   off in the equal semi-circles BOD and KON [Def. 3.28],
+καὶ ἐφ᾿ ἑκατέρας αὐτῶν ληφθῇ τυχόντα σημεῖα, ἡ ἐπὶ τὰ       and P V and SW are perpendiculars having been drawn
+σημεῖα ἐπιζευγνυμένη εὐθεῖα ἐν τῷ αὐτῷ ἐπιπέδῳ ἐστὶ ταῖς    (from them), P V is [thus] equal to SW , and BV to KW
+παραλλήλοις. διὰ τὰ αὐτὰ δὴ καὶ ἑκάτερον τῶν ΣΟΠΤ,          [Props. 3.27, 1.26]. And the whole of BA is also equal
+ΤΠΡΥ τετραπλεύρων ἐν ἑνί ἐστιν ἐπιπέδῳ. ἔστι δὲ καὶ         to the whole of KA. And, thus, as BV is to V A, so KW
+τὸ ΥΡΞ τρίγωνον ἐν ἑνὶ ἑπιπέδῳ. ἐὰν δὴ νοήσωμεν ἀπὸ         (is) to W A. W V is thus parallel to KB [Prop. 6.2]. And
+
+
+                                                        500
+STOIQEIWN ibþ.                                                                              ELEMENTS BOOK 12
+
+τῶν Ο, Σ, Π, Τ, Ρ, Υ σημείων ἐπὶ τὸ Α ἐπιζευγνυμένας        since P V and SW are each at right-angles to the plane
+εὐθείας, συσταθήσεταί τι σχῆμα στερεὸν πολύεδρον ματαξὺ     of circle BCDE, P V is thus parallel to SW [Prop. 11.6].
+τῶν ΒΞ, ΚΞ περιφερειῶν ἐκ πυραμίδων συγκείμενον, ὧν         And it was also shown (to be) equal to it. And, thus,
+βάσεις μὲν τὰ ΚΒΟΣ, ΣΟΠΤ, ΤΠΡΥ τετράπλευρα καὶ τὸ           W V and SP are equal and parallel [Prop. 1.33]. And
+ΥΡΞ τρίγωνον, κορυφὴ δὲ τὸ Α σημεῖον. ἐὰν δὲ καὶ ἐπὶ        since W V is parallel to SP , but W V is parallel to KB,
+ἑκάστης τῶν ΚΛ, ΛΜ, ΜΕ πλευρῶν καθάπερ ἐπὶ τῆς ΒΚ τὰ        SP is thus also parallel to KB [Prop. 11.1]. And BP
+αὐτὰ κατασκευάσωμεν καὶ ἔτι τῶν λοιπῶν τριῶν τεταρτη-       and KS join them. Thus, the quadrilateral KBP S is in
+μορίων, συσταθήσεταί τι σχῆμα πολύεδρον ἐγγεγραμμένον       one plane, inasmuch as if there are two parallel straight-
+εἰς τὴν σφαῖραν πυραμίσι περιεχόμενον, ὧν βάσιες [μὲν] τὰ   lines, and a random point is taken on each of them, then
+εἰρημένα τετράπλευρα καὶ τὸ ΥΡΞ τρίγωνον καὶ τὰ ὁμοταγῆ     the straight-line joining the points is in the same plane
+αὐτοῖς, κορυφὴ δὲ τὸ Α σημεῖον.                             as the parallel (straight-lines) [Prop. 11.7]. So, for the
+    Λέγω ὅτι τὸ εἰρημένον πολύεδρον οὐκ ἐφάψεται τῆς        same (reasons), each of the quadrilaterals SP QT and
+ἐλάσσονος σφαίρας κατὰ τὴν ἐπιφάνειαν, ἐφ᾿ ἧς ἐστιν ὁ       T QRU is also in one plane. And triangle U RO is also
+ΖΗΘ κύκλος.                                                 in one plane [Prop. 11.2]. So, if we conceive straight-
+    ῎Ηχθω ἀπὸ τοῦ Α σημείου ἐπὶ τὸ τοῦ ΚΒΟΣ τε-             lines joining points P , S, Q, T , R, and U to A then
+τραπλεύρου ἐπίπεδον κάθετος ἡ ΑΨ καὶ συμβαλλέτω τῷ          some solid polyhedral figure will have been constructed
+ἐπιπέδῳ κατὰ τὸ Ψ σημεῖον, καὶ ἐπεζεύχθωσαν αἱ ΨΒ, ΨΚ.      between the circumferences BO and KO, being com-
+καὶ ἐπεὶ ἡ ΑΨ ὀρθή ἐστι πρὸς τὸ τοῦ ΚΒΟΣ τετραπλεύρου       posed of pyramids whose bases (are) the quadrilaterals
+ἐπίπεδον, καὶ πρὸς πάσας ἄρα τὰς ἁπτομένας αὐτῆς εὐθείας    KBP S, SP QT , T QRU , and the triangle U RO, and apex
+καὶ οὔσας ἐν τῷ τοῦ τετραπλεύρου ἐπιπέδῳ ὀρθή ἐστιν. ἡ      the point A. And if we also make the same construction
+ΑΨ ἄρα ὀρθή ἐστι πρὸς ἑκατέραν τῶν ΒΨ, ΨΚ. καὶ ἐπεὶ         on each of the sides KL, LM , and M E, just as on BK,
+ἴση ἐστὶν ἡ ΑΒ τῇ ΑΚ, ἵσον ἐστὶ καὶ τὸ ἀπὸ τῆς ΑΒ τῷ        and, further, (repeat the construction) in the remaining
+ἀπὸ τῆς ΑΚ. καί ἐστι τῷ μὲν ἀπὸ τῆς ΑΒ ἴσα τὰ ἀπὸ τῶν       three quadrants, then some polyhedral figure which has
+ΑΨ, ΨΒ· ὀρθὴ γὰρ ἡ πρὸς τῷ Ψ· τῷ δὲ ἀπὸ τῆς ΑΚ ἴσα τὰ       been inscribed in the sphere will have been constructed,
+ἀπὸ τῶν ΑΨ, ΨΚ. τὰ ἄρα ἀπὸ τῶν ΑΨ, ΨΒ ἴσα ἐστὶ τοῖς         being contained by pyramids whose bases (are) the afore-
+ἀπὸ τῶν ΑΨ, ΨΚ. κοινὸν ἀφῃρήσθω τὸ ἀπὸ τῆς ΑΨ· λοιπὸν       mentioned quadrilaterals, and triangle U RO, and the
+ἄρα τὸ ἀπὸ τῆς ΒΨ λοιπῷ τῷ ἀπὸ τῆς ΨΚ ἴσον ἐστίν· ἴση       (quadrilaterals and triangles) similarly arranged to them,
+ἄρα ἡ ΒΨ τῇ ΨΚ. ὁμοίως δὴ δείξομεν, ὅτι καὶ αἱ ἀπὸ τοῦ Ψ    and apex the point A.
+ἐπὶ τὰ Ο, Σ ἐπιζευγνύμεναι εὐθεῖαι ἴσαι εἰσὶν ἑκατέρᾳ τῶν       So, I say that the aforementioned polyhedron will not
+ΒΨ, ΨΚ. ὁ ἄρα κέντρῳ τῷ Ψ καὶ διαστήματι ἑνὶ τῶν ΨΒ,        touch the lesser sphere on the surface on which the circle
+ΨΚ γραφόμενος κύκλος ἥξει καὶ διὰ τῶν Ο, Σ, καὶ ἔσται       F GH is (situated).
+ἐν κύκλῳ τὸ ΚΒΟΣ τετράπλευρον.                                  Let the perpendicular (straight-line) AX have been
+    Καὶ ἐπεὶ μείζων ἐστὶν ἡ ΚΒ τῆς ΧΦ, ἴση δὲ ἡ ΧΦ τῇ       drawn from point A to the plane KBP S, and let it meet
+ΣΟ, μείζων ἄρα ἡ ΚΒ τῆς ΣΟ. ἴση δὲ ἡ ΚΒ ἑκατέρᾳ τῶν         the plane at point X [Prop. 11.11]. And let XB and
+ΚΣ, ΒΟ· καὶ ἑκατέρα ἄρα τῶν ΚΣ, ΒΟ τῆς ΣΟ μείζων            XK have been joined. And since AX is at right-angles to
+ἐστίν. καὶ ἐπεὶ ἐν κύκλῳ τετράπλευρόν ἐστι τὸ ΚΒΟΣ, καὶ     the plane of quadrilateral KBP S, it is thus also at right-
+ἴσαι αἱ ΚΒ, ΒΟ, ΚΣ, καὶ ἐλάττων ἡ ΟΣ, καὶ ἐκ τοῦ κέντρου    angles to all of the straight-lines joined to it which are
+τοῦ κύκλου ἐστὶν ἡ ΒΨ, τὸ ἄρα ἀπὸ τῆς ΚΒ τοῦ ἀπὸ τῆς        also in the plane of the quadrilateral [Def. 11.3]. Thus,
+ΒΨ μεῖζόν ἐστιν ἢ διπλάσιον. ἤχθω ἀπὸ τοῦ Κ ἐπὶ τὴν ΒΦ      AX is at right-angles to each of BX and XK. And since
+κάθετος ἡ ΚΩ. καὶ ἐπεὶ ἡ ΒΔ τῆς ΔΩ ἐλάττων ἐστὶν ἢ          AB is equal to AK, the (square) on AB is also equal to
+διπλῆ, καί ἐστιν ὡς ἡ ΒΔ πρὸς τὴν ΔΩ, οὕτως τὸ ὑπὸ τῶν      the (square) on AK. And the (sum of the squares) on AX
+ΔΒ, ΒΩ πρὸς τὸ ὑπὸ [τῶν] ΔΩ, ΩΒ, ἀναγραφομένου ἀπὸ          and XB is equal to the (square) on AB. For the angle
+τῆς ΒΩ τετραγώνου καὶ συμπληρουμένου τοῦ ἐπὶ τῆς ΩΔ         at X (is) a right-angle [Prop. 1.47]. And the (sum of
+παραλληλογράμμου καὶ τὸ ὑπὸ ΔΒ, ΒΩ ἄρα τοῦ ὑπὸ ΔΩ,          the squares) on AX and XK is equal to the (square) on
+ΩΒ ἔλαττόν ἐστιν ἢ διπλάσιον. καί ἐστι τῆς ΚΔ ἐπιζευ-       AK [Prop. 1.47]. Thus, the (sum of the squares) on AX
+γνυμένης τὸ μὲν ὑπὸ ΔΒ, ΒΩ ἴσον τῷ ἀπὸ τῆς ΒΚ, τὸ δὲ        and XB is equal to the (sum of the squares) on AX and
+ὑπὸ τῶν ΔΩ, ΩΒ ἴσον τῷ ἀπὸ τῆς ΚΩ· τὸ ἄρα ἀπὸ τῆς ΚΒ        XK. Let the (square) on AX have been subtracted from
+τοῦ ἀπὸ τῆς ΚΩ ἔλασσόν ἐστιν ἢ διπλάσιον. ἀλλὰ τὸ ἀπὸ       both. Thus, the remaining (square) on BX is equal to the
+τῆς ΚΒ τοῦ ἀπὸ τῆς ΒΨ μεῖζόν ἐστιν ἢ διπλάσιον· μεῖζον      remaining (square) on XK. Thus, BX (is) equal to XK.
+ἄρα τὸ ἀπὸ τῆς ΚΩ τοῦ ἀπὸ τῆς ΒΨ. καὶ ἐπεὶ ἴση ἐστὶν ἡ      So, similarly, we can show that the straight-lines joined
+ΒΑ τῇ ΚΑ, ἴσον ἐστὶ τὸ ἀπὸ τῆς ΒΑ τῷ ἀπὸ τῆς ΑΚ. καί        from X to P and S are equal to each of BX and XK.
+
+
+                                                        501
+STOIQEIWN ibþ.                                                                                                    ELEMENTS BOOK 12
+
+ἐστι τῷ μὲν ἀπὸ τῆς ΒΑ ἴσα τὰ ἀπὸ τῶν ΒΨ, ΨΑ, τῷ δὲ ἀπὸ                   Thus, a circle drawn (in the plane of the quadrilateral)
+τῆς ΚΑ ἴσα τὰ ἀπὸ τῶν ΚΩ, ΩΑ· τὰ ἄρα ἀπὸ τῶν ΒΨ, ΨΑ                       with center X, and radius one of XB or XK, will also
+ἴσα ἐστὶ τοῖς ἀπὸ τῶν ΚΩ, ΩΑ, ὧν τὸ ἀπὸ τῆς ΚΩ μεῖζον                     pass through P and S, and the quadrilateral KBP S will
+τοῦ ἀπὸ τῆς ΒΨ· λοιπὸν ἄρα τὸ ἀπὸ τῆς ΩΑ ἔλασσόν ἐστι                     be inside the circle.
+τοῦ ἀπὸ τῆς ΨΑ. μείζων ἄρα ἡ ΑΨ τῆς ΑΩ· πολλῷ ἄρα ἡ                           And since KB is greater than W V , and W V (is) equal
+ΑΨ μείζων ἐστὶ τῆς ΑΗ. καί ἐστιν ἡ μὲν ΑΨ ἐπὶ μίαν τοῦ                    to SP , KB (is) thus greater than SP . And KB (is)
+πολυέδρου βάσιν, ἡ δὲ ΑΗ ἐπὶ τὴν τῆς ἐλάσσονος σφαίρας                    equal to each of KS and BP . Thus, KS and BP are
+ἐπιφάνειαν· ὥστε τὸ πολύεδρον οὐ ψαύσει τῆς ἐλάσσονος                     each greater than SP . And since quadrilateral KBP S
+σφαίρας κατὰ τὴν ἐπιφάνειαν.                                              is in a circle, and KB, BP , and KS are equal (to one
+    Δύο ἄρα σφαιρῶν περὶ τὸ αὐτὸ κέντρον οὐσῶν εἰς τὴν                    another), and P S (is) less (than them), and BX is the
+μείζονα σφαῖραν στερεὸν πολύεδρον ἐγγέγραπται μὴ ψαῦον                    radius of the circle, the (square) on KB is thus greater
+τῆς ἐλάσσονος σφαίρας κατὰ τὴν ἐπιφάνειαν· ὅπερ ἔδει                      than double the (square) on BX.† Let the perpendicular
+ποιῆσαι.                                                                  KY have been drawn from K to BV .‡ And since BD is
+                                                                          less than double DY , and as BD is to DY , so the (rect-
+                                                                          angle contained) by DB and BY (is) to the (rectangle
+                                                                          contained) by DY and Y B—a square being described
+                                                                          on BY , and a (rectangular) parallelogram (with short
+                                                                          side equal to BY ) completed on Y D—the (rectangle con-
+                                                                          tained) by DB and BY is thus also less than double the
+                                                                          (rectangle contained) by DY and Y B. And, KD being
+                                                                          joined, the (rectangle contained) by DB and BY is equal
+                                                                          to the (square) on BK, and the (rectangle contained) by
+                                                                          DY and Y B equal to the (square) on KY [Props. 3.31,
+                                                                          6.8 corr.]. Thus, the (square) on KB is less than double
+                                                                          the (square) on KY . But, the (square) on KB is greater
+                                                                          than double the (square) on BX. Thus, the (square) on
+                                                                          KY (is) greater than the (square) on BX. And since
+                                                                          BA is equal to KA, the (square) on BA is equal to the
+                                                                          (square) on AK. And the (sum of the squares) on BX
+                                                                          and XA is equal to the (square) on BA, and the (sum of
+                                                                          the squares) on KY and Y A (is) equal to the (square) on
+                                                                          KA [Prop. 1.47]. Thus, the (sum of the squares) on BX
+                                                                          and XA is equal to the (sum of the squares) on KY and
+                                                                          Y A, of which the (square) on KY (is) greater than the
+                                                                          (square) on BX. Thus, the remaining (square) on Y A
+                                                                          is less than the (square) on XA. Thus, AX (is) greater
+                                                                          than AY . Thus, AX is much greater than AG.§ And AX
+                                                                          is (a perpendicular) on one of the bases of the polyhe-
+                                                                          dron, and AG (is a perpendicular) on the surface of the
+                                                                          lesser sphere. Hence, the polyhedron will not touch the
+                                                                          lesser sphere on its surface.
+                                                                              Thus, there being two spheres about the same cen-
+                                                                          ter, a polyhedral solid has been inscribed in the greater
+                                                                          sphere which does not touch the lesser sphere on its sur-
+                                                                          face. (Which is) the very thing it was required to do.
+† Since KB, BP , and KS are greater than the sides of an inscribed square, which are each of length
+                                                                                                      √
+                                                                                                          2 BX.
+‡ Note that points Y and V   are actually identical.
+§ This conclusion depends on the fact that the chord of the polygon in proposition 12.16 does not touch the inner circle.
+
+
+
+
+                                                                      502
+STOIQEIWN ibþ.                                                                               ELEMENTS BOOK 12
+
+                         Pìrisma.                                                    Corollary
+    ᾿Εὰν δὲ καὶ εἰς ἑτάραν σφαῖραν τῷ ἐν τῇ ΒΓΔΕ σφαίρᾳ         And, also, if a similar polyhedral solid to that in
+στερεῷ πολυέδρῳ ὅμοιον στερεὸν πολύεδρον ἐγγραφῇ, τὸ        sphere BCDE is inscribed in another sphere then the
+ἐν τῇ ΒΓΔΕ σφαίρᾳ στερεὸν πολύεδρον πρὸς τὸ ἐν τῇ           polyhedral solid in sphere BCDE has to the polyhedral
+ἑτέρᾳ σφαίρᾳ στερεὸν πολύεδρον τριπλασίονα λόγον ἔχει,      solid in the other sphere the cubed ratio that the diameter
+ἤπερ ἡ τῆς ΒΓΔΕ σφαίρας διάμετρος πρὸς τὴν τῆς ἑτέρας       of sphere BCDE has to the diameter of the other sphere.
+σφαίρας διάμετρον. διαιρεθέντων γὰρ τῶν στερεῶν εἰς         For if the solids are divided into similarly numbered, and
+τὰς ὁμοιοπληθεῖς καὶ ὁμοιοταγεῖς πυραμίδας ἔσονται αἱ πυ-   similarly situated, pyramids, then the pyramids will be
+ραμίδες ὅμοιαι. αἱ δὲ ὅμοιαι πυραμίδες πρὸς ἀλλήλας ἐν      similar. And similar pyramids are in the cubed ratio of
+τριπλασίονι λόγῳ εἰσὶ τῶν ὁμολόγων πλευρῶν· ἡ ἄρα πυ-       corresponding sides [Prop. 12.8 corr.]. Thus, the pyra-
+ραμίς, ἧς βάσις μέν ἐστι τὸ ΚΒΟΣ τετράπλευρον, κορυφὴ       mid whose base is quadrilateral KBP S, and apex the
+δὲ τὸ Α σημεῖον, πρὸς τὴν ἐν τῇ ἑτέρᾳ σφαίρᾳ ὁμοιοταγῆ      point A, will have to the similarly situated pyramid in the
+πυραμίδα τριπλασίονα λόγον ἔχει, ἤπερ ἡ ὁμόλογος πλευρὰ     other sphere the cubed ratio that a corresponding side
+πρὸς τὴν ὁμόλογον πλευράν, τουτέστιν ἤπερ ἡ ΑΒ ἐκ τοῦ       (has) to a corresponding side. That is to say, that of ra-
+κέντρου τῆς σφαίρας τῆς περὶ κέντρον τὸ Α πρὸς τὴν ἐκ τοῦ   dius AB of the sphere about center A to the radius of the
+κέντρου τῆς ἑτέρας σφαίρας. ὁμοίως καὶ ἑκάστη πυραμὶς       other sphere. And, similarly, each pyramid in the sphere
+τῶν ἐν τῇ περὶ κέντρον τὸ Α σφαίρᾳ πρὸς ἑκάστην ὁμοταγῆ     about center A will have to each similarly situated pyra-
+πυραμίδα τῶν ἐν τῇ ἑτέρᾳ σφαίρᾳ τριπλασίονα λόγον ἕξει,     mid in the other sphere the cubed ratio that AB (has) to
+ἤπερ ἡ ΑΒ πρὸς τὴν ἐκ τοῦ κέντρου τῆς ἑτέρας σφαίρας.       the radius of the other sphere. And as one of the leading
+καὶ ὡς ἓν τῶν ἡγουμένων πρὸς ἓν τῶν ἑπομένων, οὕτως         (magnitudes is) to one of the following (in two sets of
+ἅπαντα τὰ ἡγούμενα πρὸς ἅπαντα τὰ ἑπόμενα· ὥστε ὅλον        proportional magnitudes), so (the sum of) all the lead-
+τὸ ἐν τῇ περὶ κέντρον τὸ Α σφαίρᾳ στερεὸν πολύεδρον         ing (magnitudes is) to (the sum of) all of the following
+πρὸς ὅλον τὸ ἐν τῇ ἑτέρᾳ [σφαίρᾳ] στερεὸν πολύεδρον τρι-    (magnitudes) [Prop. 5.12]. Hence, the whole polyhedral
+πλασίονα λόγον ἕξει, ἤπερ ἡ ΑΒ πρὸς τὴν ἐκ τοῦ κέντρου      solid in the sphere about center A will have to the whole
+τῆς ἑτέρας σφαίρας, τουτέστιν ἤπερ ἡ ΒΔ διάμετρος πρὸς      polyhedral solid in the other [sphere] the cubed ratio that
+τὴν τῆς ἑτέρας σφαίρας διάμετρον· ὅπερ ἔδει δεῖξαι.         (radius) AB (has) to the radius of the other sphere. That
+                                                            is to say, that diameter BD (has) to the diameter of the
+                                                            other sphere. (Which is) the very thing it was required to
+                                                            show.
+
+                             ihþ.                                               Proposition 18
+    Αἱ σφαῖραι πρὸς ἀλλήλας ἐν τριπλασίονι λόγῳ εἰσὶ τῶν       Spheres are to one another in the cubed ratio of their
+ἰδίων διαμέτρων.                                            respective diameters.
+              A                                                           A
+                                        L                                                            L
+
+     B                   G                                         B                 C
+
+
+                          M                          N                                M                            N
+                    D                                                            D
+              H                                                            G
+
+ E       J           K       Z                                 E
+                                                                       H         K
+                                                                                         F
+
+
+
+
+                                                         503
+STOIQEIWN ibþ.                                                                             ELEMENTS BOOK 12
+
+    Νενοήσθωσαν σφαῖραι αἱ ΑΒΓ, ΔΕΖ, διάμετροι δὲ               Let the spheres ABC and DEF have been conceived,
+αὐτῶν αἱ ΒΓ, ΕΖ· λέγω, ὅτι ἡ ΑΒΓ σφαῖρα πρὸς τὴν ΔΕΖ       and (let) their diameters (be) BC and EF (respectively).
+σφαῖραν τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ.      I say that sphere ABC has to sphere DEF the cubed ratio
+    Εἰ γὰρ μὴ ἡ ΑΒΓ σφαῖρα πρὸς τὴν ΔΕΖ σφαῖραν τρι-       that BC (has) to EF .
+πλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ, ἕξει ἄρα ἡ           For if sphere ABC does not have to sphere DEF the
+ΑΒΓ σφαῖρα πρὸς ἐλάσσονά τινα τῆς ΔΕΖ σφαίρας τρι-         cubed ratio that BC (has) to EF then sphere ABC will
+πλασίονα λόγον ἢ πρὸς μείζονα ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ.       have to some (sphere) either less than, or greater than,
+ἐχέτω πρότερον πρὸς ἐλάσσονα τὴν ΗΘΚ, καὶ νενοήσθω ἡ       sphere DEF the cubed ratio that BC (has) to EF . Let
+ΔΕΖ τῇ ΗΘΚ περὶ τὸ αὐτὸ κέντρον, καὶ ἐγγεγράφθω εἰς        it, first of all, have (such a ratio) to a lesser (sphere),
+τὴν μείζονα σφαῖραν τὴν ΔΕΖ στερεὸν πολύεδρον μὴ ψαῦον     GHK. And let DEF have been conceived about the
+τῆς ἐλάσσονος σφαίρας τῆς ΗΘΚ κατὰ τὴν ἐπιφάνειαν,         same center as GHK. And let a polyhedral solid have
+ἐγγεγράφθω δὲ καὶ εἰς τὴν ΑΒΓ σφαῖραν τῷ ἐν τῇ ΔΕΖ         been inscribed in the greater sphere DEF , not touching
+σφαίρᾳ στερεῷ πολυέδρῳ ὅμοιον στερεὸν πολύεδρον· τὸ        the lesser sphere GHK on its surface [Prop. 12.17]. And
+ἄρα ἐν τῇ ΑΒΓ στερεὸν πολύεδρον πρὸς τὸ ἐν τῇ ΔΕΖ          let a polyhedral solid, similar to the polyhedral solid in
+στερεὸν πολύεδρον τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς    sphere DEF , have also been inscribed in sphere ABC.
+τὴν ΕΖ. ἔχει δὲ καὶ ἡ ΑΒΓ σφαῖρα πρὸς τὴν ΗΘΚ σφαῖραν      Thus, the polyhedral solid in sphere ABC has to the
+τριπλασίονα λόγον ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ· ἔστιν ἄρα ὡς      polyhedral solid in sphere DEF the cubed ratio that BC
+ἡ ΑΒΓ σφαῖρα πρὸς τὴν ΗΘΚ σφαῖραν, οὕτως τὸ ἐν τῇ          (has) to EF [Prop. 12.17 corr.]. And sphere ABC also
+ΑΒΓ σφαίρᾳ στερεὸν πολύεδρον πρὸς τὸ ἐν τῇ ΔΕΖ σφαίρᾳ      has to sphere GHK the cubed ratio that BC (has) to EF .
+στερεὸν πολύεδρον· ἐναλλὰξ [ἄρα] ὡς ἡ ΑΒΓ σφαῖρα πρὸς      Thus, as sphere ABC is to sphere GHK, so the polyhe-
+τὸ ἐν αὐτῇ πολύεδρον, οὕτως ἡ ΗΘΚ σφαῖρα πρὸς τὸ ἐν τῇ     dral solid in sphere ABC (is) to the polyhedral solid is
+ΔΕΖ σφαίρᾳ στερεὸν πολύεδρον. μείζων δὲ ἡ ΑΒΓ σφαῖρα       sphere DEF . [Thus], alternately, as sphere ABC (is) to
+τοῦ ἐν αὐτῇ πολυέδρου· μείζων ἄρα καὶ ἡ ΗΘΚ σφαῖρα         the polygon within it, so sphere GHK (is) to the polyhe-
+τοῦ ἐν τῇ ΔΕΖ σφαίρᾳ πολυέδρου. ἀλλὰ καὶ ἐλάττων·          dral solid within sphere DEF [Prop. 5.16]. And sphere
+ἐμπεριέχεται γὰρ ὑπ᾿ αὐτοῦ. οὐκ ἄρα ἡ ΑΒΓ σφαῖρα πρὸς      ABC (is) greater than the polyhedron within it. Thus,
+ἐλάσσονα τῆς ΔΕΖ σφαίρας τριπλασίονα λόγον ἔχει ἤπερ ἡ     sphere GHK (is) also greater than the polyhedron within
+ΒΓ διάμετρος πρὸς τὴν ΕΖ. ὁμοίως δὴ δείξομεν, ὅτι οὐδὲ ἡ   sphere DEF [Prop. 5.14]. But, (it is) also less. For it is
+ΔΕΖ σφαῖρα πρὸς ἐλάσσονα τῆς ΑΒΓ σφαίρας τριπλασίονα       encompassed by it. Thus, sphere ABC does not have to
+λόγον ἔχει ἤπερ ἡ ΕΖ πρὸς τὴν ΒΓ.                          (a sphere) less than sphere DEF the cubed ratio that di-
+    Λέγω δή, ὅτι οὐδὲ ἡ ΑΒΓ σφαῖρα πρὸς μείζονά τινα τῆς   ameter BC (has) to EF . So, similarly, we can show that
+ΔΕΖ σφαίρας τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ πρὸς τὴν      sphere DEF does not have to (a sphere) less than sphere
+ΕΖ.                                                        ABC the cubed ratio that EF (has) to BC either.
+    Εἰ γὰρ δυνατόν, ἐχέτω πρὸς μείζονα τὴν ΛΜΝ· ἀνάπαλιν        So, I say that sphere ABC does not have to some
+ἄρα ἡ ΛΜΝ σφαῖρα πρὸς τὴν ΑΒΓ σφαῖραν τριπλασίονα          (sphere) greater than sphere DEF the cubed ratio that
+λόγον ἔχει ἤπερ ἡ ΕΖ διάμετρος πρὸς τὴν ΒΓ διάμετρον.      BC (has) to EF either.
+ὡς δὲ ἡ ΛΜΝ σφαῖρα πρὸς τὴν ΑΒΓ σφαῖραν, οὕτως ἡ ΔΕΖ            For, if possible, let it have (the cubed ratio) to a
+σφαῖρα πρὸς ἐλάσσονά τινα τῆς ΑΒΓ σφαίρας, ἐπειδήπερ       greater (sphere), LM N . Thus, inversely, sphere LM N
+μείζων ἐστὶν ἡ ΛΜΝ τῆς ΔΕΖ, ὡς ἔμπροσθεν ἐδείχθη. καὶ      (has) to sphere ABC the cubed ratio that diameter
+ἡ ΔΕΖ ἄρα σφαῖρα πρὸς ἐλάσσονά τινα τῆς ΑΒΓ σφαίρας        EF (has) to diameter BC [Prop. 5.7 corr.]. And as
+τριπλασίονα λόγον ἔχει ἤπερ ἡ ΕΖ πρὸς τὴν ΒΓ· ὅπερ         sphere LM N (is) to sphere ABC, so sphere DEF
+ἀδύνατον ἐδείχθη. οὐκ ἄρα ἡ ΑΒΓ σφαῖρα πρὸς μείζονά        (is) to some (sphere) less than sphere ABC, inasmuch
+τινα τῆς ΔΕΖ σφαίρας τριπλασίονα λόγον ἔχει ἤπερ ἡ ΒΓ      as LM N is greater than DEF , as was shown before
+πρὸς τὴν ΕΖ. ἐδείχθη δέ, ὅτι οὐδὲ πρὸς ἐλάσσονα. ἡ ἄρα     [Prop. 12.2 lem.]. And, thus, sphere DEF has to some
+ΑΒΓ σφαῖρα πρὸς τὴν ΔΕΖ σφαῖραν τριπλασίονα λόγον ἔχει     (sphere) less than sphere ABC the cubed ratio that EF
+ἤπερ ἡ ΒΓ πρὸς τὴν ΕΖ· ὅπερ ἔδει δεῖξαι.                   (has) to BC. The very thing was shown (to be) impossi-
+                                                           ble. Thus, sphere ABC does not have to some (sphere)
+                                                           greater than sphere DEF the cubed ratio that BC (has)
+                                                           to EF . And it was shown that neither (does it have
+                                                           such a ratio) to a lesser (sphere). Thus, sphere ABC has
+                                                           to sphere DEF the cubed ratio that BC (has) to EF .
+                                                           (Which is) the very thing it was required to show.
+
+
+                                                       504

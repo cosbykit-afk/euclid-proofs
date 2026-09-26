@@ -1,0 +1,939 @@
+ELEMENTS BOOK 2
+
+Fundamentals of Geometric Algebra
+
+
+
+
+               49
+STOIQEIWN bþ.                                                                               ELEMENTS BOOK 2
+
+
+                         VOroi.                                                  Definitions
+    αʹ. Πᾶν παραλληλόγραμμον ὀρθογώνιον περιέχεσθαι            1. Any rectangular parallelogram is said to be con-
+λέγεται ὑπὸ δύο τῶν τὴν ὀρθὴν γωνίαν περιεχουσῶν           tained by the two straight-lines containing the right-
+εὐθειῶν.                                                   angle.
+    βʹ. Παντὸς δὲ παραλληλογράμμου χωρίου τῶν περὶ τὴν         2. And in any parallelogrammic figure, let any one
+διάμετρον αὐτοῦ παραλληλογράμμων ἓν ὁποιονοῦν σὺν τοῖς     whatsoever of the parallelograms about its diagonal,
+δυσὶ παραπληρώμασι γνώμων καλείσθω.                        (taken) with its two complements, be called a gnomon.
+
+                           aþ.                                                 Proposition 1†
+   ᾿Εὰν ὦσι δύο εὐθεῖαι, τμηθῇ δὲ ἡ ἑτέρα αὐτῶν εἰς ὁσα-      If there are two straight-lines, and one of them is cut
+δηποτοῦν τμήματα, τὸ περιεχόμενον ὀρθογώνιον ὑπὸ τῶν into any number of pieces whatsoever, then the rectangle
+δύο εὐθειῶν ἴσον ἐστὶ τοῖς ὑπό τε τῆς ἀτμήτου καὶ ἑκάστου contained by the two straight-lines is equal to the (sum
+τῶν τμημάτων περιεχομένοις ὀρθογωνίοις.                   of the) rectangles contained by the uncut (straight-line),
+                                                          and every one of the pieces (of the cut straight-line).
+                Α                                                          A
+      Β                  ∆            Ε           Γ                B                 D           E            C
+
+
+
+
+    Η                                                          G
+                         Κ            Λ           Θ                                  K           L            H
+     Ζ                                                             F
+    ῎Εστωσαν δύο εὐθεῖαι αἱ Α, ΒΓ, καὶ τετμήσθω ἡ ΒΓ,          Let A and BC be the two straight-lines, and let BC
+ὡς ἔτυχεν, κατὰ τὰ Δ, Ε σημεῖα· λέγω, ὅτι τὸ ὑπὸ τῶν Α,    be cut, at random, at points D and E. I say that the rect-
+ΒΓ περιεχομένον ὀρθογώνιον ἴσον ἐστὶ τῷ τε ὑπὸ τῶν Α,      angle contained by A and BC is equal to the rectangle(s)
+ΒΔ περιεχομένῳ ὀρθογωνίῳ καὶ τῷ ὑπὸ τῶν Α, ΔΕ καὶ ἔτι      contained by A and BD, by A and DE, and, finally, by A
+τῷ ὑπὸ τῶν Α, ΕΓ.                                          and EC.
+    ῎Ηχθω γὰρ ἀπὸ τοῦ Β τῇ ΒΓ πρὸς ὀρθὰς ἡ ΒΖ, καὶ             For let BF have been drawn from point B, at right-
+κείσθω τῇ Α ἴση ἡ ΒΗ, καὶ διὰ μὲν τοῦ Η τῇ ΒΓ παράλληλος   angles to BC [Prop. 1.11], and let BG be made equal
+ἤχθω ἡ ΗΘ, διὰ δὲ τῶν Δ, Ε, Γ τῇ ΒΗ παράλληλοι ἤχθωσαν     to A [Prop. 1.3], and let GH have been drawn through
+αἱ ΔΚ, ΕΛ, ΓΘ.                                             (point) G, parallel to BC [Prop. 1.31], and let DK, EL,
+    ῎Ισον δή ἐστι τὸ ΒΘ τοῖς ΒΚ, ΔΛ, ΕΘ. καί ἐστι τὸ       and CH have been drawn through (points) D, E, and C
+μὲν ΒΘ τὸ ὑπὸ τῶν Α, ΒΓ· περιέχεται μὲν γὰρ ὑπὸ τῶν        (respectively), parallel to BG [Prop. 1.31].
+ΗΒ, ΒΓ, ἴση δὲ ἡ ΒΗ τῇ Α· τὸ δὲ ΒΚ τὸ ὑπὸ τῶν Α, ΒΔ·           So the (rectangle) BH is equal to the (rectangles)
+περιέχεται μὲν γὰρ ὑπὸ τῶν ΗΒ, ΒΔ, ἴση δὲ ἡ ΒΗ τῇ Α. τὸ    BK, DL, and EH. And BH is the (rectangle contained)
+δὲ ΔΛ τὸ ὑπὸ τῶν Α, ΔΕ· ἴση γὰρ ἡ ΔΚ, τουτέστιν ἡ ΒΗ,      by A and BC. For it is contained by GB and BC, and BG
+τῇ Α. καὶ ἔτι ὁμοίως τὸ ΕΘ τὸ ὑπὸ τῶν Α, ΕΓ· τὸ ἄρα ὑπὸ    (is) equal to A. And BK (is) the (rectangle contained) by
+τῶν Α, ΒΓ ἴσον ἐστὶ τῷ τε ὑπὸ Α, ΒΔ καὶ τῷ ὑπὸ Α, ΔΕ       A and BD. For it is contained by GB and BD, and BG
+καὶ ἔτι τῷ ὑπὸ Α, ΕΓ.                                      (is) equal to A. And DL (is) the (rectangle contained) by
+    ᾿Εὰν ἄρα ὦσι δύο εὐθεῖαι, τμηθῇ δὲ ἡ ἑτέρα αὐτῶν εἰς   A and DE. For DK, that is to say BG [Prop. 1.34], (is)
+ὁσαδηποτοῦν τμήματα, τὸ περιεχόμενον ὀρθογώνιον ὑπὸ        equal to A. Similarly, EH (is) also the (rectangle con-
+τῶν δύο εὐθειῶν ἴσον ἐστὶ τοῖς ὑπό τε τῆς ἀτμήτου καὶ      tained) by A and EC. Thus, the (rectangle contained)
+ἑκάστου τῶν τμημάτων περιεχομένοις ὀρθογωνίοις· ὅπερ       by A and BC is equal to the (rectangles contained) by A
+
+
+                                                         50
+STOIQEIWN bþ.                                                                                                             ELEMENTS BOOK 2
+
+ἔδει δεῖξαι.                                                                   and BD, by A and DE, and, finally, by A and EC.
+                                                                                   Thus, if there are two straight-lines, and one of them
+                                                                               is cut into any number of pieces whatsoever, then the
+                                                                               rectangle contained by the two straight-lines is equal
+                                                                               to the (sum of the) rectangles contained by the uncut
+                                                                               (straight-line), and every one of the pieces (of the cut
+                                                                               straight-line). (Which is) the very thing it was required
+                                                                               to show.
+† This proposition is a geometric version of the algebraic identity: a (b + c + d + · · · ) = a b + a c + a d + · · · .
+
+
+
+                                    bþ.                                                                   Proposition 2†
+    ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ὑπὸ τῆς ὅλης    If a straight-line is cut at random then the (sum of
+καὶ ἑκατέρου τῶν τμημάτων περιεχόμενον ὀρθογώνιον ἴσον the) rectangle(s) contained by the whole (straight-line),
+ἐστὶ τῷ ἀπὸ τῆς ὅλης τετραγώνῳ.                          and each of the pieces (of the straight-line), is equal to
+                                                         the square on the whole.
+                 Α         Γ                            Β                                        A          C                  B
+
+
+
+
+                 ∆         Ζ                            Ε                                        D          F                  E
+    Εὐθεῖα γὰρ ἡ ΑΒ τετμήσθω, ὡς ἔτυχεν, κατὰ τὸ Γ                                 For let the straight-line AB have been cut, at random,
+σημεῖον· λέγω, ὅτι τὸ ὑπὸ τῶν ΑΒ, ΒΓ περιεχόμενον                              at point C. I say that the rectangle contained by AB and
+ὀρθογώνιον μετὰ τοῦ ὑπὸ ΒΑ, ΑΓ περιεχομένου ὀρθο-                              BC, plus the rectangle contained by BA and AC, is equal
+γωνίου ἴσον ἐστὶ τῷ ἀπὸ τῆς ΑΒ τετραγώνῳ.                                      to the square on AB.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΑΒ τετράγωνον τὸ ΑΔΕΒ,                                For let the square ADEB have been described on AB
+καὶ ἤχθω διὰ τοῦ Γ ὁποτέρᾳ τῶν ΑΔ, ΒΕ παράλληλος ἡ                             [Prop. 1.46], and let CF have been drawn through C,
+ΓΖ.                                                                            parallel to either of AD or BE [Prop. 1.31].
+    ῎Ισον δή ἐστὶ τὸ ΑΕ τοῖς ΑΖ, ΓΕ. καί ἐστι τὸ μὲν ΑΕ                            So the (square) AE is equal to the (rectangles) AF
+τὸ ἀπὸ τῆς ΑΒ τετράγωνον, τὸ δὲ ΑΖ τὸ ὑπὸ τῶν ΒΑ,                              and CE. And AE is the square on AB. And AF (is) the
+ΑΓ περιεχόμενον ὀρθογώνιον· περιέχεται μὲν γὰρ ὑπὸ τῶν                         rectangle contained by the (straight-lines) BA and AC.
+ΔΑ, ΑΓ, ἴση δὲ ἡ ΑΔ τῇ ΑΒ· τὸ δὲ ΓΕ τὸ ὑπὸ τῶν ΑΒ,                             For it is contained by DA and AC, and AD (is) equal to
+ΒΓ· ἴση γὰρ ἡ ΒΕ τῇ ΑΒ. τὸ ἄρα ὑπὸ τῶν ΒΑ, ΑΓ μετὰ                             AB. And CE (is) the (rectangle contained) by AB and
+τοῦ ὑπὸ τῶν ΑΒ, ΒΓ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΑΒ τετραγώνῳ.                          BC. For BE (is) equal to AB. Thus, the (rectangle con-
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ὑπὸ τῆς                        tained) by BA and AC, plus the (rectangle contained) by
+ὅλης καὶ ἑκατέρου τῶν τμημάτων περιεχόμενον ὀρθογώνιον                         AB and BC, is equal to the square on AB.
+ἴσον ἐστὶ τῷ ἀπὸ τῆς ὅλης τετραγώνῳ· ὅπερ ἔδει δεῖξαι.                             Thus, if a straight-line is cut at random then the (sum
+                                                                               of the) rectangle(s) contained by the whole (straight-
+                                                                               line), and each of the pieces (of the straight-line), is equal
+                                                                               to the square on the whole. (Which is) the very thing it
+                                                                               was required to show.
+
+
+
+                                                                            51
+STOIQEIWN bþ.                                                                                                 ELEMENTS BOOK 2
+
+† This proposition is a geometric version of the algebraic identity: a b + a c = a2 if a = b + c.
+
+
+
+                                   gþ.                                                              Proposition 3†
+    ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ὑπὸ τῆς ὅλης     If a straight-line is cut at random then the rectangle
+καὶ ἑνὸς τῶν τμημάτων περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ contained by the whole (straight-line), and one of the
+τῷ τε ὑπὸ τῶν τμημάτων περιεχομένῳ ὀρθογωνίῳ καὶ τῷ pieces (of the straight-line), is equal to the rectangle con-
+ἀπὸ τοῦ προειρημένου τμήματος τετραγώνῳ.                 tained by (both of) the pieces, and the square on the
+                                                         aforementioned piece.
+         Α                Γ                                 Β                         A              C                       B
+
+
+
+
+         Ζ                ∆                                 Ε                         F              D                       E
+    Εὐθεῖα γὰρ ἡ ΑΒ τετμήσθω, ὡς ἔτυχεν, κατὰ τὸ Γ·                             For let the straight-line AB have been cut, at random,
+λέγω, ὅτι τὸ ὑπὸ τῶν ΑΒ, ΒΓ περιεχόμενον ὀρθογώνιον                         at (point) C. I say that the rectangle contained by AB
+ἴσον ἐστὶ τῷ τε ὑπὸ τῶν ΑΓ, ΓΒ περιεχομένῳ ὀρθογωνίῳ                        and BC is equal to the rectangle contained by AC and
+μετὰ τοῦ ἀπὸ τῆς ΒΓ τετραγώνου.                                             CB, plus the square on BC.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΓΒ τετράγωνον τὸ ΓΔΕΒ,                             For let the square CDEB have been described on CB
+καὶ διήχθω ἡ ΕΔ ἐπὶ τὸ Ζ, καὶ διὰ τοῦ Α ὁποτέρᾳ τῶν ΓΔ,                     [Prop. 1.46], and let ED have been drawn through to
+ΒΕ παράλληλος ἤχθω ἡ ΑΖ. ἴσον δή ἐστι τὸ ΑΕ τοῖς ΑΔ,                        F , and let AF have been drawn through A, parallel to
+ΓΕ· καί ἐστι τὸ μὲν ΑΕ τὸ ὑπὸ τῶν ΑΒ, ΒΓ περιεχόμενον                       either of CD or BE [Prop. 1.31]. So the (rectangle) AE
+ὀρθογώνιον· περιέχεται μὲν γὰρ ὑπὸ τῶν ΑΒ, ΒΕ, ἴση δὲ ἡ                     is equal to the (rectangle) AD and the (square) CE. And
+ΒΕ τῇ ΒΓ· τὸ δὲ ΑΔ τὸ ὑπὸ τῶν ΑΓ, ΓΒ· ἴση γὰρ ἡ ΔΓ                          AE is the rectangle contained by AB and BC. For it is
+τῇ ΓΒ· τὸ δὲ ΔΒ τὸ ἀπὸ τῆς ΓΒ τετράγωνον· τὸ ἄρα ὑπὸ                        contained by AB and BE, and BE (is) equal to BC. And
+τῶν ΑΒ, ΒΓ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ὑπὸ                         AD (is) the (rectangle contained) by AC and CB. For
+τῶν ΑΓ, ΓΒ περιεχομένῳ ὀρθογωνίῳ μετὰ τοῦ ἀπὸ τῆς ΒΓ                        DC (is) equal to CB. And DB (is) the square on CB.
+τετραγώνου.                                                                 Thus, the rectangle contained by AB and BC is equal to
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ὑπὸ τῆς                     the rectangle contained by AC and CB, plus the square
+ὅλης καὶ ἑνὸς τῶν τμημάτων περιεχόμενον ὀρθογώνιον ἴσον                     on BC.
+ἐστὶ τῷ τε ὑπὸ τῶν τμημάτων περιεχομένῳ ὀρθογωνίῳ καὶ                           Thus, if a straight-line is cut at random then the rect-
+τῷ ἀπὸ τοῦ προειρημένου τμήματος τετραγώνῳ· ὅπερ ἔδει                       angle contained by the whole (straight-line), and one of
+δεῖξαι.                                                                     the pieces (of the straight-line), is equal to the rectangle
+                                                                            contained by (both of) the pieces, and the square on the
+                                                                            aforementioned piece. (Which is) the very thing it was
+                                                                            required to show.
+† This proposition is a geometric version of the algebraic identity: (a + b) a = a b + a2 .
+
+
+
+                                   dþ.                                                              Proposition 4†
+   ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ἀπὸ τῆς         If a straight-line is cut at random then the square
+ὅλης τετράγωνον ἴσον ἐστὶ τοῖς τε ἀπὸ τῶν τμημάτων τε- on the whole (straight-line) is equal to the (sum of the)
+τραγώνοις καὶ τῷ δὶς ὑπὸ τῶν τμημάτων περιεχομένῳ ὀρθο- squares on the pieces (of the straight-line), and twice the
+
+
+                                                                         52
+STOIQEIWN bþ.                                                                                ELEMENTS BOOK 2
+
+γωνίῳ.                                                      rectangle contained by the pieces.
+            Α                      Γ      Β                             A                        C     B
+
+         Θ                           Η      Κ                         H                          G       K
+
+
+
+
+            ∆                      Ζ      Ε                             D                        F     E
+    Εὐθεῖα γὰρ γραμμὴ ἡ ΑΒ τετμήσθω, ὡς ἔτυχεν, κατὰ            For let the straight-line AB have been cut, at random,
+τὸ Γ. λέγω, ὅτι τὸ ἀπὸ τῆς ΑΒ τετράγωνον ἴσον ἐστὶ τοῖς     at (point) C. I say that the square on AB is equal to
+τε ἀπὸ τῶν ΑΓ, ΓΒ τετραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΑΓ,        the (sum of the) squares on AC and CB, and twice the
+ΓΒ περιεχομένῳ ὀρθογωνίῳ.                                   rectangle contained by AC and CB.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΑΒ τετράγωνον τὸ ΑΔΕΒ,             For let the square ADEB have been described on AB
+καὶ ἐπεζεύχθω ἡ ΒΔ, καὶ διὰ μὲν τοῦ Γ ὁποτέρᾳ τῶν ΑΔ,       [Prop. 1.46], and let BD have been joined, and let CF
+ΕΒ παράλληλος ἤχθω ἡ ΓΖ, διὰ δὲ τοῦ Η ὁποτέρᾳ τῶν ΑΒ,       have been drawn through C, parallel to either of AD or
+ΔΕ παράλληλος ἤχθω ἡ ΘΚ. καὶ ἐπεὶ παράλληλός ἐστιν ἡ        EB [Prop. 1.31], and let HK have been drawn through
+ΓΖ τῇ ΑΔ, καὶ εἰς αὐτὰς ἐμπέπτωκεν ἡ ΒΔ, ἡ ἐκτὸς γωνία      G, parallel to either of AB or DE [Prop. 1.31]. And since
+ἡ ὑπὸ ΓΗΒ ἴση ἐστὶ τῇ ἐντὸς καὶ ἀπεναντίον τῇ ὑπὸ ΑΔΒ.      CF is parallel to AD, and BD has fallen across them, the
+ἀλλ᾿ ἡ ὑπὸ ΑΔΒ τῇ ὑπὸ ΑΒΔ ἐστιν ἴση, ἐπεὶ καὶ πλευρὰ ἡ      external angle CGB is equal to the internal and opposite
+ΒΑ τῇ ΑΔ ἐστιν ἴση· καὶ ἡ ὑπὸ ΓΗΒ ἄρα γωνιά τῇ ὑπὸ ΗΒΓ      (angle) ADB [Prop. 1.29]. But, ADB is equal to ABD,
+ἐστιν ἴση· ὥστε καὶ πλευρὰ ἡ ΒΓ πλευρᾷ τῇ ΓΗ ἐστιν ἴση·     since the side BA is also equal to AD [Prop. 1.5]. Thus,
+ἀλλ᾿ ἡ μὲν ΓΒ τῇ ΗΚ ἐστιν ἴση. ἡ δὲ ΓΗ τῇ ΚΒ· καὶ ἡ ΗΚ      angle CGB is also equal to GBC. So the side BC is
+ἄρα τῇ ΚΒ ἐστιν ἴση· ἰσόπλευρον ἄρα ἐστὶ τὸ ΓΗΚΒ. λέγω      equal to the side CG [Prop. 1.6]. But, CB is equal to
+δή, ὅτι καὶ ὀρθογώνιον. ἐπεὶ γὰρ παράλληλός ἐστιν ἡ ΓΗ      GK, and CG to KB [Prop. 1.34]. Thus, GK is also equal
+τῇ ΒΚ [καὶ εἰς αὐτὰς ἐμπέπτωκεν εὐθεῖα ἡ ΓΒ], αἱ ἄρα ὑπὸ    to KB. Thus, CGKB is equilateral. So I say that (it is)
+ΚΒΓ, ΗΓΒ γωνίαι δύο ὀρθαῖς εἰσιν ἴσαι. ὀρθὴ δὲ ἡ ὑπὸ        also right-angled. For since CG is parallel to BK [and the
+ΚΒΓ· ὀρθὴ ἄρα καὶ ἡ ὑπὸ ΒΓΗ· ὥστε καὶ αἱ ἀπεναντίον         straight-line CB has fallen across them], the angles KBC
+αἱ ὑπὸ ΓΗΚ, ΗΚΒ ὀρθαί εἰσιν. ὀρθογώνιον ἄρα ἐστὶ τὸ         and GCB are thus equal to two right-angles [Prop. 1.29].
+ΓΗΚΒ· ἐδείχθη δὲ καὶ ἰσόπλευρον· τετράγωνον ἄρα ἐστίν·      But KBC (is) a right-angle. Thus, BCG (is) also a right-
+καί ἐστιν ἀπὸ τῆς ΓΒ. διὰ τὰ αὐτὰ δὴ καὶ τὸ ΘΖ τετράγωνόν   angle. So the opposite (angles) CGK and GKB are also
+ἐστιν· καί ἐστιν ἀπὸ τῆς ΘΗ, τουτέστιν [ἀπὸ] τῆς ΑΓ· τὰ     right-angles [Prop. 1.34]. Thus, CGKB is right-angled.
+ἄρα ΘΖ, ΚΓ τετράγωνα ἀπὸ τῶν ΑΓ, ΓΒ εἰσιν. καὶ ἐπεὶ         And it was also shown (to be) equilateral. Thus, it is a
+ἴσον ἐστὶ τὸ ΑΗ τῷ ΗΕ, καί ἐστι τὸ ΑΗ τὸ ὑπὸ τῶν ΑΓ,        square. And it is on CB. So, for the same (reasons),
+ΓΒ· ἴση γὰρ ἡ ΗΓ τῇ ΓΒ· καὶ τὸ ΗΕ ἄρα ἴσον ἐστὶ τῷ          HF is also a square. And it is on HG, that is to say [on]
+ὑπὸ ΑΓ, ΓΒ· τὰ ἄρα ΑΗ, ΗΕ ἴσα ἐστὶ τῷ δὶς ὑπὸ τῶν           AC [Prop. 1.34]. Thus, the squares HF and KC are
+ΑΓ, ΓΒ. ἔστι δὲ καὶ τὰ ΘΖ, ΓΚ τετράγωνα ἀπὸ τῶν ΑΓ,         on AC and CB (respectively). And the (rectangle) AG
+ΓΒ· τὰ ἄρα τέσσαρα τὰ ΘΖ, ΓΚ, ΑΗ, ΗΕ ἴσα ἐστὶ τοῖς τε       is equal to the (rectangle) GE [Prop. 1.43]. And AG is
+ἀπὸ τῶν ΑΓ, ΓΒ τετραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΑΓ, ΓΒ        the (rectangle contained) by AC and CB. For GC (is)
+περιεχομένῳ ὀρθογωνίῳ. ἀλλὰ τὰ ΘΖ, ΓΚ, ΑΗ, ΗΕ ὅλον          equal to CB. Thus, GE is also equal to the (rectangle
+ἐστὶ τὸ ΑΔΕΒ, ὅ ἐστιν ἀπὸ τῆς ΑΒ τετράγωνον· τὸ ἄρα         contained) by AC and CB. Thus, the (rectangles) AG
+ἀπὸ τῆς ΑΒ τετράγωνον ἴσον ἐστὶ τοῖς τε ἀπὸ τῶν ΑΓ,         and GE are equal to twice the (rectangle contained) by
+ΓΒ τετραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΑΓ, ΓΒ περιεχομένῳ        AC and CB. And HF and CK are the squares on AC
+ὀρθογωνίῳ.                                                  and CB (respectively). Thus, the four (figures) HF , CK,
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ἀπὸ τῆς     AG, and GE are equal to the (sum of the) squares on
+
+
+                                                        53
+STOIQEIWN bþ.                                                                                                   ELEMENTS BOOK 2
+
+ὅλης τετράγωνον ἴσον ἐστὶ τοῖς τε ἀπὸ τῶν τμημάτων τε- AC and BC, and twice the rectangle contained by AC
+τραγώνοις καὶ τῷ δὶς ὑπὸ τῶν τμημάτων περιεχομένῳ ὀρθο- and CB. But, the (figures) HF , CK, AG, and GE are
+γωνίῳ· ὅπερ ἔδει δεῖξαι.                                (equivalent to) the whole of ADEB, which is the square
+                                                        on AB. Thus, the square on AB is equal to the (sum
+                                                        of the) squares on AC and CB, and twice the rectangle
+                                                        contained by AC and CB.
+                                                            Thus, if a straight-line is cut at random then the
+                                                        square on the whole (straight-line) is equal to the (sum
+                                                        of the) squares on the pieces (of the straight-line), and
+                                                        twice the rectangle contained by the pieces. (Which is)
+                                                        the very thing it was required to show.
+† This proposition is a geometric version of the algebraic identity: (a + b)2 = a2 + b2 + 2 a b.
+
+
+
+                                  eþ.                                                              Proposition 5‡
+    ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ εἰς ἴσα καὶ ἄνισα, τὸ ὑπὸ τῶν    If a straight-line is cut into equal and unequal (pieces)
+ἀνίσων τῆς ὅλης τμημάτων περιεχόμενον ὀρθογώνιον μετὰ then the rectangle contained by the unequal pieces of the
+τοῦ ἀπὸ τῆς μεταξὺ τῶν τομῶν τετραγώνου ἴσον ἐστὶ τῷ whole (straight-line), plus the square on the (difference)
+ἀπὸ τῆς ἡμισείας τετραγώνῳ.                                between the (equal and unequal) pieces, is equal to the
+                                                           square on half (of the straight-line).
+  Α                              Γ ∆                           Β              A                         C D                    B
+
+
+
+                                            Ν                                                                   O
+                                        Θ                                                                   H
+                                                                 Μ                                                              M
+  Κ                           ΛΜ        Ξ
+                                                                              K                        LN   P
+                                 Ε Η                            Ζ                                       E   G                  F
+    Εὐθεῖα γάρ τις ἡ ΑΒ τετμήσθω εἰς μὲν ἴσα κατὰ τὸ                           For let any straight-line AB have been cut—equally at
+Γ, εἰς δὲ ἄνισα κατὰ τὸ Δ· λέγω, ὅτι τὸ ὑπὸ τῶν ΑΔ, ΔΒ                     C, and unequally at D. I say that the rectangle contained
+περιεχόμενον ὀρθογώνιον μετὰ τοῦ ἀπὸ τῆς ΓΔ τετραγώνου                     by AD and DB, plus the square on CD, is equal to the
+ἴσον ἐστὶ τῷ ἀπὸ τῆς ΓΒ τετραγώνῳ.                                         square on CB.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΓΒ τετράγωνον τὸ ΓΕΖΒ,                            For let the square CEF B have been described on CB
+καὶ ἐπεζεύχθω ἡ ΒΕ, καὶ διὰ μὲν τοῦ Δ ὁποτέρᾳ τῶν ΓΕ,                      [Prop. 1.46], and let BE have been joined, and let DG
+ΒΖ παράλληλος ἤχθω ἡ ΔΗ, διὰ δὲ τοῦ Θ ὁποτέρᾳ τῶν                          have been drawn through D, parallel to either of CE or
+ΑΒ, ΕΖ παράλληλος πάλιν ἤχθω ἡ ΚΜ, καὶ πάλιν διὰ τοῦ Α                     BF [Prop. 1.31], and again let KM have been drawn
+ὁποτέρᾳ τῶν ΓΛ, ΒΜ παράλληλος ἤχθω ἡ ΑΚ. καὶ ἐπεὶ ἴσον                     through H, parallel to either of AB or EF [Prop. 1.31],
+ἐστὶ τὸ ΓΘ παραπλήρωμα τῷ ΘΖ παραπληρώματι, κοινὸν                         and again let AK have been drawn through A, parallel to
+προσκείσθω τὸ ΔΜ· ὅλον ἄρα τὸ ΓΜ ὅλῳ τῷ ΔΖ ἴσον                            either of CL or BM [Prop. 1.31]. And since the comple-
+ἐστίν. ἀλλὰ τὸ ΓΜ τῷ ΑΛ ἴσον ἐστίν, ἐπεὶ καὶ ἡ ΑΓ τῇ                       ment CH is equal to the complement HF [Prop. 1.43],
+ΓΒ ἐστιν ἴση· καὶ τὸ ΑΛ ἄρα τῷ ΔΖ ἴσον ἐστίν. κοινὸν                       let the (square) DM have been added to both. Thus,
+προσκείσθω τὸ ΓΘ· ὅλον ἄρα τὸ ΑΘ τῷ ΜΝΞ† γνώμονι                           the whole (rectangle) CM is equal to the whole (rect-
+ἴσον ἐστίν. ἀλλὰ τὸ ΑΘ τὸ ὑπὸ τῶν ΑΔ, ΔΒ ἐστιν· ἴση                        angle) DF . But, (rectangle) CM is equal to (rectangle)
+γὰρ ἡ ΔΘ τῇ ΔΒ· καὶ ὁ ΜΝΞ ἄρα γνώμων ἴσος ἐστὶ τῷ                          AL, since AC is also equal to CB [Prop. 1.36]. Thus,
+ὑπὸ ΑΔ, ΔΒ. κοινὸν προσκείσθω τὸ ΛΗ, ὅ ἐστιν ἴσον τῷ                       (rectangle) AL is also equal to (rectangle) DF . Let (rect-
+ἀπὸ τῆς ΓΔ· ὁ ἄρα ΜΝΞ γνώμων καὶ τὸ ΛΗ ἴσα ἐστὶ τῷ                         angle) CH have been added to both. Thus, the whole
+ὑπὸ τῶν ΑΔ, ΔΒ περιεχομένῳ ὀρθογωνίῳ καὶ τῷ ἀπὸ τῆς                        (rectangle) AH is equal to the gnomon N OP . But, AH
+
+
+                                                                        54
+STOIQEIWN bþ.                                                                                                   ELEMENTS BOOK 2
+
+ΓΔ τετραγώνῳ. ἀλλὰ ὁ ΜΝΞ γνώμων καὶ τὸ ΛΗ ὅλον ἐστὶ                         is the (rectangle contained) by AD and DB. For DH
+τὸ ΓΕΖΒ τετράγωνον, ὅ ἐστιν ἀπὸ τῆς ΓΒ· τὸ ἄρα ὑπὸ τῶν                      (is) equal to DB. Thus, the gnomon N OP is also equal
+ΑΔ, ΔΒ περιεχόμενον ὀρθογώνιον μετὰ τοῦ ἀπὸ τῆς ΓΔ                          to the (rectangle contained) by AD and DB. Let LG,
+τετραγώνου ἴσον ἐστὶ τῷ ἀπὸ τῆς ΓΒ τετραγώνῳ.                               which is equal to the (square) on CD, have been added to
+   ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ εἰς ἴσα καὶ ἄνισα, τὸ ὑπὸ                   both. Thus, the gnomon N OP and the (square) LG are
+τῶν ἀνίσων τῆς ὅλης τμημάτων περιεχόμενον ὀρθογώνιον                        equal to the rectangle contained by AD and DB, and the
+μετὰ τοῦ ἀπὸ τῆς μεταξὺ τῶν τομῶν τετραγώνου ἴσον ἐστὶ                      square on CD. But, the gnomon N OP and the (square)
+τῷ ἀπὸ τῆς ἡμισείας τετραγώνῳ. ὅπερ ἔδει δεῖξαι.                            LG is (equivalent to) the whole square CEF B, which is
+                                                                            on CB. Thus, the rectangle contained by AD and DB,
+                                                                            plus the square on CD, is equal to the square on CB.
+                                                                                Thus, if a straight-line is cut into equal and unequal
+                                                                            (pieces) then the rectangle contained by the unequal
+                                                                            pieces of the whole (straight-line), plus the square on the
+                                                                            (difference) between the (equal and unequal) pieces, is
+                                                                            equal to the square on half (of the straight-line). (Which
+                                                                            is) the very thing it was required to show.
+† Note the (presumably mistaken) double use of the label M in the Greek text.
+
+‡ This proposition is a geometric version of the algebraic identity: a b + [(a + b)/2 − b]2 = [(a + b)/2]2 .
+
+
+
+                                   þ.                                                                Proposition 6†
+   ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ δίχα, προστεθῇ δέ τις αὐτῇ                          If a straight-line is cut in half, and any straight-line
+εὐθεῖα ἐπ᾿ εὐθείας, τὸ ὑπὸ τῆς ὅλης σὺν τῇ προσκειμένῃ καὶ                  added to it straight-on, then the rectangle contained by
+τῆς προσκειμένης περιεχόμενον ὀρθόγώνιον μετὰ τοῦ ἀπὸ                       the whole (straight-line) with the (straight-line) having
+τῆς ἡμισείας τετραγώνου ἴσον ἐστὶ τῷ ἀπὸ τῆς συγκειμένης                    being added, and the (straight-line) having being added,
+ἔκ τε τῆς ἡμισείας καὶ τῆς προσκειμένης τετραγώνῳ.                          plus the square on half (of the original straight-line), is
+                                                                            equal to the square on the sum of half (of the original
+                                                                            straight-line) and the (straight-line) having been added.
+        Α                   Γ                   Β         ∆                         A                   C              B       D
+                                                    Ξ                                                                      O
+                                              Θ                                                                     H
+                                          Ν                 Μ                                                   N              M
+        Κ                 Λ                                                         K                  L
+                                              Ο                                                                        P
+
+
+
+                            Ε                   Η          Ζ                                               E           G       F
+    Εὐθεῖα γάρ τις ἡ ΑΒ τετμήσθω δίχα κατὰ τὸ Γ σημεῖον,                        For let any straight-line AB have been cut in half at
+προσκείσθω δέ τις αὐτῇ εὐθεῖα ἐπ᾿ εὐθείας ἡ ΒΔ· λέγω,                       point C, and let any straight-line BD have been added to
+ὅτι τὸ ὑπὸ τῶν ΑΔ, ΔΒ περιεχόμενον ὀρθογώνιον μετὰ                          it straight-on. I say that the rectangle contained by AD
+τοῦ ἀπὸ τῆς ΓΒ τετραγώνου ἴσον ἐστὶ τῷ ἀπὸ τῆς ΓΔ τε-                       and DB, plus the square on CB, is equal to the square
+τραγώνῳ.                                                                    on CD.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΓΔ τετράγωνον τὸ ΓΕΖΔ,                             For let the square CEF D have been described on
+καὶ ἐπεζεύχθω ἡ ΔΕ, καὶ διὰ μὲν τοῦ Β σημείου ὁποτέρᾳ                       CD [Prop. 1.46], and let DE have been joined, and
+τῶν ΕΓ, ΔΖ παράλληλος ἤχθω ἡ ΒΗ, διὰ δὲ τοῦ Θ σημείου                       let BG have been drawn through point B, parallel to
+ὁποτέρᾳ τῶν ΑΒ, ΕΖ παράλληλος ἤχθω ἡ ΚΜ, καὶ ἔτι διὰ                        either of EC or DF [Prop. 1.31], and let KM have
+τοῦ Α ὁποτέρᾳ τῶν ΓΛ, ΔΜ παράλληλος ἤχθω ἡ ΑΚ.                              been drawn through point H, parallel to either of AB
+    ᾿Επεὶ οὖν ἴση ἐστὶν ἡ ΑΓ τῇ ΓΒ, ἴσον ἐστὶ καὶ τὸ ΑΛ                     or EF [Prop. 1.31], and finally let AK have been drawn
+
+
+                                                                         55
+STOIQEIWN bþ.                                                                                                    ELEMENTS BOOK 2
+
+τῷ ΓΘ. ἀλλὰ τὸ ΓΘ τῷ ΘΖ ἴσον ἐστίν. καὶ τὸ ΑΛ ἄρα τῷ                        through A, parallel to either of CL or DM [Prop. 1.31].
+ΘΖ ἐστιν ἴσον. κοινὸν προσκείσθω τὸ ΓΜ· ὅλον ἄρα τὸ                             Therefore, since AC is equal to CB, (rectangle) AL is
+ΑΜ τῷ ΝΞΟ γνώμονί ἐστιν ἴσον. ἀλλὰ τὸ ΑΜ ἐστι τὸ ὑπὸ                        also equal to (rectangle) CH [Prop. 1.36]. But, (rectan-
+τῶν ΑΔ, ΔΒ· ἴση γάρ ἐστιν ἡ ΔΜ τῇ ΔΒ· καὶ ὁ ΝΞΟ ἄρα                         gle) CH is equal to (rectangle) HF [Prop. 1.43]. Thus,
+γνώμων ἴσος ἐστὶ τῷ ὑπὸ τῶν ΑΔ, ΔΒ [περιεχομένῳ ὀρθο-                       (rectangle) AL is also equal to (rectangle) HF . Let (rect-
+γωνίῳ]. κοινὸν προσκείσθω τὸ ΛΗ, ὅ ἐστιν ἴσον τῷ ἀπὸ                        angle) CM have been added to both. Thus, the whole
+τῆς ΒΓ τετραγώνῳ· τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΒ περιεχόμενον                        (rectangle) AM is equal to the gnomon N OP . But, AM
+ὀρθογώνιον μετὰ τοῦ ἀπὸ τῆς ΓΒ τετραγώνου ἴσον ἐστὶ                         is the (rectangle contained) by AD and DB. For DM is
+τῷ ΝΞΟ γνώμονι καὶ τῷ ΛΗ. ἀλλὰ ὁ ΝΞΟ γνώμων καὶ                             equal to DB. Thus, gnomon N OP is also equal to the
+τὸ ΛΗ ὅλον ἐστὶ τὸ ΓΕΖΔ τετράγωνον, ὅ ἐστιν ἀπὸ τῆς                         [rectangle contained] by AD and DB. Let LG, which
+ΓΔ· τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΒ περιεχόμενον ὀρθογώνιον                           is equal to the square on BC, have been added to both.
+μετὰ τοῦ ἀπὸ τῆς ΓΒ τετραγώνου ἴσον ἐστὶ τῷ ἀπὸ τῆς ΓΔ                      Thus, the rectangle contained by AD and DB, plus the
+τετραγώνῳ.                                                                  square on CB, is equal to the gnomon N OP and the
+   ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ δίχα, προστεθῇ δέ τις                       (square) LG. But the gnomon N OP and the (square)
+αὐτῇ εὐθεῖα ἐπ᾿ εὐθείας, τὸ ὑπὸ τῆς ὅλης σὺν τῇ προ-                        LG is (equivalent to) the whole square CEF D, which is
+σκειμένῃ καὶ τῆς προσκειμένης περιεχόμενον ὀρθόγώνιον                       on CD. Thus, the rectangle contained by AD and DB,
+μετὰ τοῦ ἀπὸ τῆς ἡμισείας τετραγώνου ἴσον ἐστὶ τῷ ἀπὸ                       plus the square on CB, is equal to the square on CD.
+τῆς συγκειμένης ἔκ τε τῆς ἡμισείας καὶ τῆς προσκειμένης                         Thus, if a straight-line is cut in half, and any straight-
+τετραγώνῳ· ὅπερ ἔδει δεῖξαι.                                                line added to it straight-on, then the rectangle contained
+                                                                            by the whole (straight-line) with the (straight-line) hav-
+                                                                            ing being added, and the (straight-line) having being
+                                                                            added, plus the square on half (of the original straight-
+                                                                            line), is equal to the square on the sum of half (of the
+                                                                            original straight-line) and the (straight-line) having been
+                                                                            added. (Which is) the very thing it was required to show.
+† This proposition is a geometric version of the algebraic identity: (2 a + b) b + a2 = (a + b)2 .
+
+
+
+                                   zþ.                                                               Proposition 7†
+    ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ἀπὸ τῆς ὅλης                        If a straight-line is cut at random then the sum of
+καὶ τὸ ἀφ᾿ ἑνὸς τῶν τμημάτων τὰ συναμφότερα τετράγωνα                       the squares on the whole (straight-line), and one of the
+ἴσα ἐστὶ τῷ τε δὶς ὑπὸ τῆς ὅλης καὶ τοῦ εἰρημένου τμήματος                  pieces (of the straight-line), is equal to twice the rectan-
+περιεχομένῳ ὀρθογωνίῳ καὶ τῷ ἀπὸ τοῦ λοιποῦ τμήματος                        gle contained by the whole, and the said piece, and the
+τετραγώνῳ.                                                                  square on the remaining piece.
+                Α                        Γ             Β                                    A                 C            B
+                                          Λ                                                                      L
+
+            Θ                   Κ        Η               Ζ                                H              K       G          F
+                                     Μ                                                                       M
+
+
+
+
+                ∆                        Ν             Ε                                     D                N            E
+   Εὐθεῖα γάρ τις ἡ ΑΒ τετμήσθω, ὡς ἔτυχεν, κατὰ τὸ Γ       For let any straight-line AB have been cut, at random,
+σημεῖον· λέγω, ὅτι τὰ ἀπὸ τῶν ΑΒ, ΒΓ τετράγωνα ἴσα ἐστὶ at point C. I say that the (sum of the) squares on AB and
+τῷ τε δὶς ὑπὸ τῶν ΑΒ, ΒΓ περιεχομένῳ ὀρθογωνίῳ καὶ τῷ BC is equal to twice the rectangle contained by AB and
+
+
+                                                                         56
+STOIQEIWN bþ.                                                                                                  ELEMENTS BOOK 2
+
+ἀπὸ τῆς ΓΑ τετραγώνῳ.                                                       BC, and the square on CA.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΑΒ τετράγωνον τὸ ΑΔΕΒ·                             For let the square ADEB have been described on AB
+καὶ καταγεγράφθω τὸ σχῆμα.                                                  [Prop. 1.46], and let the (rest of) the figure have been
+    ᾿Επεὶ οὖν ἴσον ἐστὶ τὸ ΑΗ τῷ ΗΕ, κοινὸν προσκείσθω                      drawn.
+τὸ ΓΖ· ὅλον ἄρα τὸ ΑΖ ὅλῳ τῷ ΓΕ ἴσον ἐστίν· τὰ ἄρα                              Therefore, since (rectangle) AG is equal to (rectan-
+ΑΖ, ΓΕ διπλάσιά ἐστι τοῦ ΑΖ. ἀλλὰ τὰ ΑΖ, ΓΕ ὁ ΚΛΜ                           gle) GE [Prop. 1.43], let the (square) CF have been
+ἐστι γνώμων καὶ τὸ ΓΖ τετράγωνον· ὁ ΚΛΜ ἄρα γνώμων                          added to both. Thus, the whole (rectangle) AF is equal
+καὶ τὸ ΓΖ διπλάσιά ἐστι τοῦ ΑΖ. ἔστι δὲ τοῦ ΑΖ διπλάσιον                    to the whole (rectangle) CE. Thus, (rectangle) AF plus
+καὶ τὸ δὶς ὑπὸ τῶν ΑΒ, ΒΓ· ἴση γὰρ ἡ ΒΖ τῇ ΒΓ· ὁ ἄρα                        (rectangle) CE is double (rectangle) AF . But, (rectan-
+ΚΛΜ γνώμων καὶ τὸ ΓΖ τετράγωνον ἴσον ἐστὶ τῷ δὶς ὑπὸ                        gle) AF plus (rectangle) CE is the gnomon KLM , and
+τῶν ΑΒ, ΒΓ. κοινὸν προσκείσθω τὸ ΔΗ, ὅ ἐστιν ἀπὸ τῆς                        the square CF . Thus, the gnomon KLM , and the square
+ΑΓ τετράγωνον· ὁ ἄρα ΚΛΜ γνώμων καὶ τὰ ΒΗ, ΗΔ                               CF , is double the (rectangle) AF . But double the (rect-
+τετράγωνα ἴσα ἐστὶ τῷ τε δὶς ὑπὸ τῶν ΑΒ, ΒΓ περιεχομένῳ                     angle) AF is also twice the (rectangle contained) by AB
+ὀρθογωνίῳ καὶ τῷ ἀπὸ τῆς ΑΓ τετραγώνῳ. ἀλλὰ ὁ ΚΛΜ                           and BC. For BF (is) equal to BC. Thus, the gnomon
+γνώμων καὶ τὰ ΒΗ, ΗΔ τετράγωνα ὅλον ἐστὶ τὸ ΑΔΕΒ καὶ                        KLM , and the square CF , are equal to twice the (rect-
+τὸ ΓΖ, ἅ ἐστιν ἀπὸ τῶν ΑΒ, ΒΓ τετράγωνα· τὰ ἄρα ἀπὸ τῶν                     angle contained) by AB and BC. Let DG, which is
+ΑΒ, ΒΓ τετράγωνα ἴσα ἐστὶ τῷ [τε] δὶς ὑπὸ τῶν ΑΒ, ΒΓ                        the square on AC, have been added to both. Thus, the
+περιεχομένῳ ὀρθογωνίῳ μετὰ τοῦ ἀπὸ τῆς ΑΓ τετραγώνου.                       gnomon KLM , and the squares BG and GD, are equal
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ ἀπὸ                         to twice the rectangle contained by AB and BC, and the
+τῆς ὅλης καὶ τὸ ἀφ᾿ ἑνὸς τῶν τμημάτων τὰ συναμφότερα                        square on AC. But, the gnomon KLM and the squares
+τετράγωνα ἴσα ἐστὶ τῷ τε δὶς ὑπὸ τῆς ὅλης καὶ τοῦ                           BG and GD is (equivalent to) the whole of ADEB and
+εἰρημένου τμήματος περιεχομένῳ ὀρθογωνίῳ καὶ τῷ ἀπὸ                         CF , which are the squares on AB and BC (respectively).
+τοῦ λοιποῦ τμήματος τετραγώνῳ· ὅπερ ἔδει δεῖξαι.                            Thus, the (sum of the) squares on AB and BC is equal
+                                                                            to twice the rectangle contained by AB and BC, and the
+                                                                            square on AC.
+                                                                                Thus, if a straight-line is cut at random then the sum
+                                                                            of the squares on the whole (straight-line), and one of
+                                                                            the pieces (of the straight-line), is equal to twice the rect-
+                                                                            angle contained by the whole, and the said piece, and the
+                                                                            square on the remaining piece. (Which is) the very thing
+                                                                            it was required to show.
+† This proposition is a geometric version of the algebraic identity: (a + b)2 + a2 = 2 (a + b) a + b2 .
+
+
+
+                                  hþ.                                                                Proposition 8†
+    ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ τετράκις ὑπὸ                        If a straight-line is cut at random then four times the
+τῆς ὅλης καὶ ἑνὸς τῶν τμημάτων περιεχόμενον ὀρθογώνιον                      rectangle contained by the whole (straight-line), and one
+μετὰ τοῦ ἀπὸ τοῦ λοιποῦ τμήματος τετραγώνου ἴσον ἐστὶ                       of the pieces (of the straight-line), plus the square on the
+τῷ ἀπό τε τῆς ὅλης καὶ τοῦ εἰρημένου τμήματος ὡς ἀπὸ                        remaining piece, is equal to the square described on the
+μιᾶς ἀναγραφέντι τετραγώνῳ.                                                 whole and the former piece, as on one (complete straight-
+    Εὐθεῖα γάρ τις ἡ ΑΒ τετμήσθω, ὡς ἔτυχεν, κατὰ τὸ                        line).
+Γ σημεῖον· λέγω, ὅτι τὸ τετράκις ὑπὸ τῶν ΑΒ, ΒΓ πε-                             For let any straight-line AB have been cut, at random,
+ριεχόμενον ὀρθογώνιον μετὰ τοῦ ἀπὸ τῆς ΑΓ τετραγώνου                        at point C. I say that four times the rectangle contained
+ἴσον ἐστὶ τῷ ἀπὸ τῆς ΑΒ, ΒΓ ὡς ἀπὸ μιᾶς ἀναγραφέντι                         by AB and BC, plus the square on AC, is equal to the
+τετραγώνῳ.                                                                  square described on AB and BC, as on one (complete
+    ᾿Εκβεβλήσθω γὰρ ἐπ᾿ εὐθείας [τῇ ΑΒ εὐθεῖα] ἡ ΒΔ,                        straight-line).
+καὶ κείσθω τῇ ΓΒ ἴση ἡ ΒΔ, καὶ ἀναγεγράφθω ἀπὸ τῆς                              For let BD have been produced in a straight-line
+ΑΔ τετράγωνον τὸ ΑΕΖΔ, καὶ καταγεγράφθω διπλοῦν τὸ                          [with the straight-line AB], and let BD be made equal
+σχῆμα.                                                                      to CB [Prop. 1.3], and let the square AEF D have been
+                                                                            described on AD [Prop. 1.46], and let the (rest of the)
+                                                                            figure have been drawn double.
+
+                                                                         57
+STOIQEIWN bþ.                                                                                   ELEMENTS BOOK 2
+
+         Α                    Γ       Β        ∆                       A                    C       B        D
+                                          Τ                                                             T
+
+       Μ                          Η             Ν                    M                          G             N
+                                        Κ                                                            K
+
+        Ξ                                       Ο                     O                                       P
+                          Σ       Π     Ρ                                               S       Q    R
+                              Υ                                                             U
+
+
+
+
+         Ε                    Θ       Λ        Ζ                       E                    H       L        F
+    ᾿Επεὶ οὖν ἴση ἐστὶν ἡ ΓΒ τῇ ΒΔ, ἀλλὰ ἡ μὲν ΓΒ τῇ ΗΚ           Therefore, since CB is equal to BD, but CB is equal
+ἐστιν ἴση, ἡ δὲ ΒΔ τῇ ΚΝ, καὶ ἡ ΗΚ ἄρα τῇ ΚΝ ἐστιν ἴση.       to GK [Prop. 1.34], and BD to KN [Prop. 1.34], GK is
+διὰ τὰ αὐτὰ δὴ καὶ ἡ ΠΡ τῇ ΡΟ ἐστιν ἴση. καὶ ἐπεὶ ἴση ἐστὶν   thus also equal to KN . So, for the same (reasons), QR is
+ἡ ΒΓ τῂ ΒΔ, ἡ δὲ ΗΚ τῇ ΚΝ, ἴσον ἄρα ἐστὶ καὶ τὸ μὲν           equal to RP . And since BC is equal to BD, and GK to
+ΓΚ τῷ ΚΔ, τὸ δὲ ΗΡ τῷ ΡΝ. ἀλλὰ τὸ ΓΚ τῷ ΡΝ ἐστιν              KN , (square) CK is thus also equal to (square) KD, and
+ἴσον· παραπληρώματα γὰρ τοῦ ΓΟ παραλληλογράμμου· καὶ          (square) GR to (square) RN [Prop. 1.36]. But, (square)
+τὸ ΚΔ ἄρα τῷ ΗΡ ἴσον ἐστίν· τὰ τέσσαρα ἄρα τὰ ΔΚ, ΓΚ,         CK is equal to (square) RN . For (they are) comple-
+ΗΡ, ΡΝ ἴσα ἀλλήλοις ἐστίν. τὰ τέσσαρα ἄρα τετραπλάσιά         ments in the parallelogram CP [Prop. 1.43]. Thus,
+ἐστι τοῦ ΓΚ. πάλιν ἐπεὶ ἴση ἐστὶν ἡ ΓΒ τῇ ΒΔ, ἀλλὰ ἡ μὲν      (square) KD is also equal to (square) GR. Thus, the
+ΒΔ τῇ ΒΚ, τουτέστι τῇ ΓΗ ἴση, ἡ δὲ ΓΒ τῇ ΗΚ, τουτέστι         four (squares) DK, CK, GR, and RN are equal to one
+τῇ ΗΠ, ἐστιν ἴση, καὶ ἡ ΓΗ ἄρα τῇ ΗΠ ἴση ἐστίν. καὶ ἐπεὶ      another. Thus, the four (taken together) are quadruple
+ἴση ἐστὶν ἡ μὲν ΓΗ τῇ ΗΠ, ἡ δὲ ΠΡ τῇ ΡΟ, ἴσον ἐστὶ καὶ τὸ     (square) CK. Again, since CB is equal to BD, but BD
+μὲν ΑΗ τῷ ΜΠ, τὸ δὲ ΠΛ τῷ ΡΖ. ἀλλὰ τὸ ΜΠ τῷ ΠΛ ἐστιν          (is) equal to BK—that is to say, CG—and CB is equal
+ἴσον· παραπληρώματα γὰρ τοῦ ΜΛ παραλληλογράμμου· καὶ          to GK—that is to say, GQ—CG is thus also equal to GQ.
+τὸ ΑΗ ἄρα τῷ ΡΖ ἴσον ἐστίν· τὰ τέσσαρα ἄρα τὰ ΑΗ, ΜΠ,         And since CG is equal to GQ, and QR to RP , (rectan-
+ΠΛ, ΡΖ ἴσα ἀλλήλοις ἐστίν· τὰ τέσσαρα ἄρα τοῦ ΑΗ ἐστι         gle) AG is also equal to (rectangle) M Q, and (rectangle)
+τετραπλάσια. ἐδείχθη δὲ καὶ τὰ τέσσαρα τὰ ΓΚ, ΚΔ, ΗΡ,         QL to (rectangle) RF [Prop. 1.36]. But, (rectangle) M Q
+ΡΝ τοῦ ΓΚ τετραπλάσια· τὰ ἄρα ὀκτώ, ἃ περιέχει τὸν ΣΤΥ        is equal to (rectangle) QL. For (they are) complements
+γνώμονα, τετραπλάσιά ἐστι τοῦ ΑΚ. καὶ ἐπεὶ τὸ ΑΚ τὸ ὑπὸ       in the parallelogram M L [Prop. 1.43]. Thus, (rectangle)
+τῶν ΑΒ, ΒΔ ἐστιν· ἴση γὰρ ἡ ΒΚ τῇ ΒΔ· τὸ ἄρα τετράκις         AG is also equal to (rectangle) RF . Thus, the four (rect-
+ὑπὸ τῶν ΑΒ, ΒΔ τετραπλάσιόν ἐστι τοῦ ΑΚ. ἐδείχθη δὲ           angles) AG, M Q, QL, and RF are equal to one another.
+τοῦ ΑΚ τετραπλάσιος καὶ ὁ ΣΤΥ γνώμων· τὸ ἄρα τετράκις         Thus, the four (taken together) are quadruple (rectan-
+ὑπὸ τῶν ΑΒ, ΒΔ ἴσον ἐστὶ τῷ ΣΤΥ γνώμονι. κοινὸν προ-          gle) AG. And it was also shown that the four (squares)
+σκείσθω τὸ ΞΘ, ὅ ἐστιν ἴσον τῷ ἀπὸ τῆς ΑΓ τετραγώνῳ· τὸ       CK, KD, GR, and RN (taken together are) quadruple
+ἄρα τετράκις ὑπὸ τῶν ΑΒ, ΒΔ περιεχόμενον ὀρθογώνιον           (square) CK. Thus, the eight (figures taken together),
+μετὰ τοῦ ἀπὸ ΑΓ τετραγώνου ἴσον ἐστὶ τῷ ΣΤΥ γνώμονι           which comprise the gnomon ST U , are quadruple (rect-
+καὶ τῷ ΞΘ. ἀλλὰ ὁ ΣΤΥ γνώμων καὶ τὸ ΞΘ ὅλον ἐστὶ τὸ           angle) AK. And since AK is the (rectangle contained)
+ΑΕΖΔ τετράγωνον, ὅ ἐστιν ἀπὸ τῆς ΑΔ· τὸ ἄρα τετράκις          by AB and BD, for BK (is) equal to BD, four times the
+ὑπὸ τῶν ΑΒ, ΒΔ μετὰ τοῦ ἀπὸ ΑΓ ἴσον ἐστὶ τῷ ἀπὸ ΑΔ            (rectangle contained) by AB and BD is quadruple (rect-
+τετραγώνῳ· ἴση δὲ ἡ ΒΔ τῇ ΒΓ. τὸ ἄρα τετράκις ὑπὸ τῶν         angle) AK. But the gnomon ST U was also shown (to
+ΑΒ, ΒΓ περιεχόμενον ὀρθογώνιον μετὰ τοῦ ἀπὸ ΑΓ τε-            be equal to) quadruple (rectangle) AK. Thus, four times
+τραγώνου ἴσον ἐστὶ τῷ ἀπὸ τῆς ΑΔ, τουτέστι τῷ ἀπὸ τῆς         the (rectangle contained) by AB and BD is equal to the
+ΑΒ καὶ ΒΓ ὡς ἀπὸ μιᾶς ἀναγραφέντι τετραγώνῳ.                  gnomon ST U . Let OH, which is equal to the square on
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ, ὡς ἔτυχεν, τὸ τετράκις      AC, have been added to both. Thus, four times the rect-
+ὑπὸ τῆς ὅλης καὶ ἑνὸς τῶν τμημάτων περιεχόμενον ὀρθογώ-       angle contained by AB and BD, plus the square on AC,
+νιον μετὰ τοῦ ἀπὸ τοῦ λοιποῦ τμήματος τετραγώνου ἴσου         is equal to the gnomon ST U , and the (square) OH. But,
+
+
+                                                          58
+STOIQEIWN bþ.                                                                                                   ELEMENTS BOOK 2
+
+ἐστὶ τῷ ἀπό τε τῆς ὅλης καὶ τοῦ εἰρημένου τμήματος ὡς                       the gnomon ST U and the (square) OH is (equivalent to)
+ἀπὸ μιᾶς ἀναγραφέντι τετραγώνῳ· ὅπερ ἔδει δεῖξαι.                           the whole square AEF D, which is on AD. Thus, four
+                                                                            times the (rectangle contained) by AB and BD, plus the
+                                                                            (square) on AC, is equal to the square on AD. And BD
+                                                                            (is) equal to BC. Thus, four times the rectangle con-
+                                                                            tained by AB and BC, plus the square on AC, is equal to
+                                                                            the (square) on AD, that is to say the square described
+                                                                            on AB and BC, as on one (complete straight-line).
+                                                                                Thus, if a straight-line is cut at random then four times
+                                                                            the rectangle contained by the whole (straight-line), and
+                                                                            one of the pieces (of the straight-line), plus the square
+                                                                            on the remaining piece, is equal to the square described
+                                                                            on the whole and the former piece, as on one (complete
+                                                                            straight-line). (Which is) the very thing it was required
+                                                                            to show.
+† This proposition is a geometric version of the algebraic identity: 4 (a + b) a + b2 = [(a + b) + a]2 .
+
+
+
+                                   jþ.                                                                Proposition 9†
+   ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ εἰς ἴσα καὶ ἄνισα, τὰ ἀπὸ        If a straight-line is cut into equal and unequal (pieces)
+τῶν ἀνίσων τῆς ὅλης τμημάτων τετράγωνα διπλάσιά ἐστι then the (sum of the) squares on the unequal pieces of the
+τοῦ τε ἀπὸ τῆς ἡμισείας καὶ τοῦ ἀπὸ τῆς μεταξὺ τῶν τομῶν whole (straight-line) is double the (sum of the) square
+τετραγώνου.                                              on half (the straight-line) and (the square) on the (dif-
+                                                         ference) between the (equal and unequal) pieces.
+                                   Ε                                                                       E
+
+
+                                Η                   Ζ                                                      G           F
+
+
+
+     Α                             Γ             ∆               Β               A                         C           D          B
+    Εὐθεῖα γάρ τις ἡ ΑΒ τετμήσθω εἰς μὲν ἴσα κατὰ τὸ                            For let any straight-line AB have been cut—equally at
+Γ, εἱς δὲ ἄνισα κατὰ τὸ Δ· λέγω, ὅτι τὰ ἀπὸ τῶν ΑΔ, ΔΒ                      C, and unequally at D. I say that the (sum of the) squares
+τετράγωνα διπλάσιά ἐστι τῶν ἀπὸ τῶν ΑΓ, ΓΔ τετραγώνων.                      on AD and DB is double the (sum of the squares) on AC
+    ῎Ηχθω γὰρ ἀπὸ τοῦ Γ τῇ ΑΒ πρὸς ὀρθὰς ἡ ΓΕ, καὶ                          and CD.
+κείσθω ἴση ἑκατέρᾳ τῶν ΑΓ, ΓΒ, καὶ ἐπεζεύχθωσαν αἱ ΕΑ,                          For let CE have been drawn from (point) C, at right-
+ΕΒ, καὶ διὰ μὲν τοῦ Δ τῇ ΕΓ παράλληλος ἤχθω ἡ ΔΖ, διὰ                       angles to AB [Prop. 1.11], and let it be made equal to
+δὲ τοῦ Ζ τῇ ΑΒ ἡ ΖΗ, καὶ ἐπεζεύχθω ἡ ΑΖ. καὶ ἐπεὶ ἴση                       each of AC and CB [Prop. 1.3], and let EA and EB
+ἐστὶν ἡ ΑΓ τῇ ΓΕ, ἴση ἐστὶ καὶ ἡ ὑπὸ ΕΑΓ γωνία τῇ ὑπὸ                       have been joined. And let DF have been drawn through
+ΑΕΓ. καὶ ἐπεὶ ὀρθή ἐστιν ἡ πρὸς τῷ Γ, λοιπαὶ ἄρα αἱ ὑπὸ                     (point) D, parallel to EC [Prop. 1.31], and (let) F G
+ΕΑΓ, ΑΕΓ μιᾷ ὀρθῇ ἴσαι εἰσίν· καί εἰσιν ἴσαι· ἡμίσεια ἄρα                   (have been drawn) through (point) F , (parallel) to AB
+ὀρθῆς ἐστιν ἑκατέρα τῶν ὑπὸ ΓΕΑ, ΓΑΕ. δὶα τὰ αὐτὰ δὴ                        [Prop. 1.31]. And let AF have been joined. And since
+καὶ ἑκατέρα τῶν ὑπὸ ΓΕΒ, ΕΒΓ ἡμίσειά ἐστιν ὀρθῆς· ὅλη                       AC is equal to CE, the angle EAC is also equal to the
+ἄρα ἡ ὑπὸ ΑΕΒ ὀρθή ἐστιν. καὶ ἐπεὶ ἡ ὑπὸ ΗΕΖ ἡμίσειά                        (angle) AEC [Prop. 1.5]. And since the (angle) at C is
+ἐστιν ὀρθῆς, ὀρθὴ δὲ ἡ ὑπὸ ΕΗΖ· ἴση γάρ ἐστι τῇ ἐντὸς καὶ                   a right-angle, the (sum of the) remaining angles (of tri-
+ἀπεναντίον τῇ ὑπὸ ΕΓΒ· λοιπὴ ἄρα ἡ ὑπὸ ΕΖΗ ἡμίσειά ἐστιν                    angle AEC), EAC and AEC, is thus equal to one right-
+
+
+                                                                         59
+STOIQEIWN bþ.                                                                                                         ELEMENTS BOOK 2
+
+ὀρθῆς· ἴση ἄρα [ἐστὶν] ἡ ὑπὸ ΗΕΖ γωνία τῇ ὑπὸ ΕΖΗ· ὥστε                    angle [Prop. 1.32]. And they are equal. Thus, (angles)
+καὶ πλευρὰ ἡ ΕΗ τῇ ΗΖ ἐστιν ἴση. πάλιν ἐπεὶ ἡ πρὸς τῷ Β                    CEA and CAE are each half a right-angle. So, for the
+γωνία ἡμίσειά ἐστιν ὀρθῆς, ὀρθὴ δὲ ἡ ὑπὸ ΖΔΒ· ἴση γὰρ                      same (reasons), (angles) CEB and EBC are also each
+πάλιν ἐστὶ τῇ ἐντὸς καὶ ἀπεναντίον τῇ ὑπὸ ΕΓΒ· λοιπὴ ἄρα                   half a right-angle. Thus, the whole (angle) AEB is a
+ἡ ὑπὸ ΒΖΔ ἡμίσειά ἐστιν ὀρθῆς· ἴση ἄρα ἡ πρὸς τῷ Β γωνία                   right-angle. And since GEF is half a right-angle, and
+τῇ ὑπὸ ΔΖΒ· ὥστε καὶ πλευρὰ ἡ ΖΔ πλευρᾷ τῇ ΔΒ ἐστιν                        EGF (is) a right-angle—for it is equal to the internal and
+ἴση. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΓ τῇ ΓΕ, ἴσον ἐστὶ καὶ τὸ ἀπὸ ΑΓ                opposite (angle) ECB [Prop. 1.29]—the remaining (an-
+τῷ ἀπὸ ΓΕ· τὰ ἄρα ἀπὸ τῶν ΑΓ, ΓΕ τετράγωνα διπλάσιά                        gle) EF G is thus half a right-angle [Prop. 1.32]. Thus,
+ἐστι τοῦ ἀπὸ ΑΓ. τοῖς δὲ ἀπὸ τῶν ΑΓ, ΓΕ ἴσον ἐστὶ τὸ ἀπὸ                   angle GEF [is] equal to EF G. So the side EG is also
+τῆς ΕΑ τετράγωνον· ὀρθὴ γὰρ ἡ ὑπὸ ΑΓΕ γωνία· τὸ ἄρα                        equal to the (side) GF [Prop. 1.6]. Again, since the an-
+ἀπὸ τῆς ΕΑ διπλάσιόν ἐστι τοῦ ἀπὸ τῆς ΑΓ. πάλιν, ἐπεὶ ἴση                  gle at B is half a right-angle, and (angle) F DB (is) a
+ἐστὶν ἡ ΕΗ τῇ ΗΖ, ἴσον καὶ τὸ ἀπὸ τῆς ΕΗ τῷ ἀπὸ τῆς ΗΖ·                    right-angle—for again it is equal to the internal and op-
+τὰ ἄρα ἀπὸ τῶν ΕΗ, ΗΖ τετράγωνα διπλάσιά ἐστι τοῦ ἀπὸ                      posite (angle) ECB [Prop. 1.29]—the remaining (angle)
+τῆς ΗΖ τετραγώνου. τοῖς δὲ ἀπὸ τῶν ΕΗ, ΗΖ τετραγώνοις                      BF D is half a right-angle [Prop. 1.32]. Thus, the angle at
+ἴσον ἐστὶ τὸ ἀπὸ τῆς ΕΖ τετράγωνον· τὸ ἄρα ἀπὸ τῆς ΕΖ                      B (is) equal to DF B. So the side F D is also equal to the
+τετράγωνον διπλάσιόν ἐστι τοῦ ἀπὸ τῆς ΗΖ. ἴση δὲ ἡ ΗΖ                      side DB [Prop. 1.6]. And since AC is equal to CE, the
+τῇ ΓΔ· τὸ ἄρα ἀπὸ τῆς ΕΖ διπλάσιόν ἐστι τοῦ ἀπὸ τῆς ΓΔ.                    (square) on AC (is) also equal to the (square) on CE.
+ἔστι δὲ καὶ τὸ ἀπὸ τῆς ΕΑ διπλάσιον τοῦ ἀπὸ τῆς ΑΓ· τὰ                     Thus, the (sum of the) squares on AC and CE is dou-
+ἄρα ἀπὸ τῶν ΑΕ, ΕΖ τετράγωνα διπλάσιά ἐστι τῶν ἀπὸ τῶν                     ble the (square) on AC. And the square on EA is equal
+ΑΓ, ΓΔ τετραγώνων. τοῖς δὲ ἀπὸ τῶν ΑΕ, ΕΖ ἴσον ἐστὶ                        to the (sum of the) squares on AC and CE. For angle
+τὸ ἀπὸ τῆς ΑΖ τετράγωνον· ὀρθὴ γάρ ἐστιν ἡ ὑπὸ ΑΕΖ                         ACE (is) a right-angle [Prop. 1.47]. Thus, the (square)
+γωνία· τὸ ἄρα ἀπὸ τῆς ΑΖ τετράγωνον διπλάσιόν ἐστι τῶν                     on EA is double the (square) on AC. Again, since EG
+ἀπὸ τῶν ΑΓ, ΓΔ. τῷ δὲ ἀπὸ τῆς ΑΖ ἴσα τὰ ἀπὸ τῶν ΑΔ,                        is equal to GF , the (square) on EG (is) also equal to
+ΔΖ· ὀρθὴ γὰρ ἡ πρὸς τῷ Δ γωνία· τὰ ἄρα ἀπὸ τῶν ΑΔ, ΔΖ                      the (square) on GF . Thus, the (sum of the squares) on
+διπλάσιά ἐστι τῶν ἀπὸ τῶν ΑΓ, ΓΔ τετραγώνων. ἴση δὲ ἡ                      EG and GF is double the square on GF . And the square
+ΔΖ τῇ ΔΒ· τὰ ἄρα ἀπὸ τῶν ΑΔ, ΔΒ τετράγωνα διπλάσιά                         on EF is equal to the (sum of the) squares on EG and
+ἐστι τῶν ἀπὸ τῶν ΑΓ, ΓΔ τετράγώνων.                                        GF [Prop. 1.47]. Thus, the square on EF is double the
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ εἰς ἴσα καὶ ἄνισα, τὰ ἀπὸ                 (square) on GF . And GF (is) equal to CD [Prop. 1.34].
+τῶν ἀνίσων τῆς ὅλης τμημάτων τετράγωνα διπλάσιά ἐστι                       Thus, the (square) on EF is double the (square) on CD.
+τοῦ τε ἀπὸ τῆς ἡμισείας καὶ τοῦ ἀπὸ τῆς μεταξὺ τῶν τομῶν                   And the (square) on EA is also double the (square) on
+τετραγώνου· ὅπερ ἔδει δεῖξαι.                                              AC. Thus, the (sum of the) squares on AE and EF is
+                                                                           double the (sum of the) squares on AC and CD. And
+                                                                           the square on AF is equal to the (sum of the squares)
+                                                                           on AE and EF . For the angle AEF is a right-angle
+                                                                           [Prop. 1.47]. Thus, the square on AF is double the (sum
+                                                                           of the squares) on AC and CD. And the (sum of the
+                                                                           squares) on AD and DF (is) equal to the (square) on
+                                                                           AF . For the angle at D is a right-angle [Prop. 1.47].
+                                                                           Thus, the (sum of the squares) on AD and DF is double
+                                                                           the (sum of the) squares on AC and CD. And DF (is)
+                                                                           equal to DB. Thus, the (sum of the) squares on AD and
+                                                                           DB is double the (sum of the) squares on AC and CD.
+                                                                               Thus, if a straight-line is cut into equal and unequal
+                                                                           (pieces) then the (sum of the) squares on the unequal
+                                                                           pieces of the whole (straight-line) is double the (sum of
+                                                                           the) square on half (the straight-line) and (the square) on
+                                                                           the (difference) between the (equal and unequal) pieces.
+                                                                           (Which is) the very thing it was required to show.
+† This proposition is a geometric version of the algebraic identity: a2 + b2 = 2[([a + b]/2)2 + ([a + b]/2 − b)2 ].
+
+
+
+
+                                                                         60
+STOIQEIWN bþ.                                                                                  ELEMENTS BOOK 2
+
+                           iþ.                                                   Proposition 10†
+    ᾿Εὰν εὐθεῖα γραμμὴ τμηθῇ δίχα, προστεθῇ δέ τις αὐτῇ          If a straight-line is cut in half, and any straight-line
+εὐθεῖα ἐπ᾿ εὐθείας, τὸ ἀπὸ τῆς ὅλης σὺν τῇ προσκειμένῃ       added to it straight-on, then the sum of the square on
+καὶ τὸ ἀπὸ τῆς προσκειμένης τὰ συναμφότερα τετράγωνα         the whole (straight-line) with the (straight-line) having
+διπλάσιά ἐστι τοῦ τε ἀπὸ τῆς ἡμισείας καὶ τοῦ ἀπὸ τῆς συγ-   been added, and the (square) on the (straight-line) hav-
+κειμένης ἔκ τε τῆς ἡμισείας καὶ τῆς προσκειμένης ὡς ἀπὸ      ing been added, is double the (sum of the square) on half
+μιᾶς ἀναγραφέντος τετραγώνου.                                (the straight-line), and the square described on the sum
+                                                             of half (the straight-line) and (straight-line) having been
+                                                             added, as on one (complete straight-line).
+                     Ε                           Ζ                                 E                              F
+
+
+
+
+                                                  ∆                                                                D
+    Α                Γ                Β                         A                  C                 B
+
+                                                 Η                                                                G
+    Εὐθεῖα γάρ τις ἡ ΑΒ τετμήσθω δίχα κατὰ τὸ Γ, προ-            For let any straight-line AB have been cut in half at
+σκείσθω δέ τις αὐτῇ εὐθεῖα ἐπ᾿ εὐθείας ἡ ΒΔ· λέγω, ὅτι τὰ    (point) C, and let any straight-line BD have been added
+ἀπὸ τῶν ΑΔ, ΔΒ τετράγωνα διπλάσιά ἐστι τῶν ἀπὸ τῶν           to it straight-on. I say that the (sum of the) squares on
+ΑΓ, ΓΔ τετραγώνων.                                           AD and DB is double the (sum of the) squares on AC
+    ῎Ηχθω γὰρ ἀπὸ τοῦ Γ σημείου τῇ ΑΒ πρὸς ὀρθὰς ἡ ΓΕ,       and CD.
+καὶ κείσθω ἴση ἑκατέρᾳ τῶν ΑΓ, ΓΒ, καὶ ἐπεζεύχθωσαν              For let CE have been drawn from point C, at right-
+αἱ ΕΑ, ΕΒ· καὶ διὰ μὲν τοῦ Ε τῇ ΑΔ παράλληλος ἤχθω ἡ         angles to AB [Prop. 1.11], and let it be made equal to
+ΕΖ, διὰ δὲ τοῦ Δ τῇ ΓΕ παράλληλος ἤχθω ἡ ΖΔ. καὶ ἐπεὶ        each of AC and CB [Prop. 1.3], and let EA and EB have
+εἰς παραλλήλους εὐθείας τὰς ΕΓ, ΖΔ εὐθεῖά τις ἐνέπεσεν       been joined. And let EF have been drawn through E,
+ἡ ΕΖ, αἱ ὑπὸ ΓΕΖ, ΕΖΔ ἄρα δυσὶν ὀρθαῖς ἴσαι εἰσίν· αἱ        parallel to AD [Prop. 1.31], and let F D have been drawn
+ἄρα ὑπὸ ΖΕΒ, ΕΖΔ δύο ὀρθῶν ἐλάσσονές εἰσιν· αἱ δὲ            through D, parallel to CE [Prop. 1.31]. And since some
+ἀπ᾿ ἐλασσόνων ἢ δύο ὀρθῶν ἐκβαλλόμεναι συμπίπτουσιν·         straight-line EF falls across the parallel straight-lines EC
+αἱ ἄρα ΕΒ, ΖΔ ἐκβαλλόμεναι ἐπὶ τὰ Β, Δ μέρη συμ-             and F D, the (internal angles) CEF and EF D are thus
+πεσοῦνται. ἐκβεβλήσθωσαν καὶ συμπιπτέτωσαν κατὰ τὸ Η,        equal to two right-angles [Prop. 1.29]. Thus, F EB and
+καὶ ἐπεζεύχθω ἡ ΑΗ. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΓ τῇ ΓΕ, ἴση       EF D are less than two right-angles. And (straight-lines)
+ἐστὶ καὶ γωνία ἡ ὑπὸ ΕΑΓ τῇ ὑπὸ ΑΕΓ· καὶ ὀρθὴ ἡ πρὸς τῷ      produced from (internal angles whose sum is) less than
+Γ· ἡμίσεια ἄρα ὀρθῆς [ἐστιν] ἑκατέρα τῶν ὑπὸ ΕΑΓ, ΑΕΓ.       two right-angles meet together [Post. 5]. Thus, being pro-
+διὰ τὰ αὐτὰ δὴ καὶ ἑκατέρα τῶν ὑπὸ ΓΕΒ, ΕΒΓ ἡμίσειά ἐστιν    duced in the direction of B and D, the (straight-lines)
+ὀρθῆς· ὀρθὴ ἄρα ἐστὶν ἡ ὑπὸ ΑΕΒ. καὶ ἐπεὶ ἡμίσεια ὀρθῆς      EB and F D will meet. Let them have been produced,
+ἐστιν ἡ ὑπὸ ΕΒΓ, ἡμίσεια ἄρα ὀρθῆς καὶ ἡ ὑπὸ ΔΒΗ. ἔστι       and let them meet together at G, and let AG have been
+δὲ καὶ ἡ ὑπὸ ΒΔΗ ὀρθή· ἴση γάρ ἐστι τῇ ὑπὸ ΔΓΕ· ἐναλλὰξ      joined. And since AC is equal to CE, angle EAC is also
+γάρ· λοιπὴ ἅρα ἡ ὑπὸ ΔΗΒ ἡμίσειά ἐστιν ὀρθῆς· ἡ ἄρα ὑπὸ      equal to (angle) AEC [Prop. 1.5]. And the (angle) at
+ΔΗΒ τῇ ὑπὸ ΔΒΗ ἐστιν ἴση· ὥστε καὶ πλευρὰ ἡ ΒΔ πλευρᾷ        C (is) a right-angle. Thus, EAC and AEC [are] each
+τῇ ΗΔ ἐστιν ἴση. πάλιν, ἐπεὶ ἡ ὑπὸ ΕΗΖ ἡμίσειά ἐστιν         half a right-angle [Prop. 1.32]. So, for the same (rea-
+ὀρθῆς, ὀρθὴ δὲ ἡ πρὸς τῷ Ζ· ἴση γάρ ἐστι τῇ ἀπεναντίον τῇ    sons), CEB and EBC are also each half a right-angle.
+πρὸς τῷ Γ· λοιπὴ ἄρα ἡ ὑπὸ ΖΕΗ ἡμίσειά ἐστιν ὀρθῆς· ἴση      Thus, (angle) AEB is a right-angle. And since EBC
+ἄρα ἡ ὑπὸ ΕΗΖ γωνία τῇ ὑπὸ ΖΕΗ· ὥστε καὶ πλευρὰ ἡ ΗΖ         is half a right-angle, DBG (is) thus also half a right-
+πλευρᾷ τῇ ΕΖ ἐστιν ἴση. καὶ ἐπεὶ [ἴση ἐστὶν ἡ ΕΓ τῇ ΓΑ],     angle [Prop. 1.15]. And BDG is also a right-angle. For
+ἴσον ἐστὶ [καὶ] τὸ ἀπὸ τῆς ΕΓ τετράγωνον τῷ ἀπὸ τῆς ΓΑ       it is equal to DCE. For (they are) alternate (angles)
+
+
+                                                         61
+STOIQEIWN bþ.                                                                                                   ELEMENTS BOOK 2
+
+τετραγώνῳ· τὰ ἄρα ἀπὸ τῶν ΕΓ, ΓΑ τετράγωνα διπλάσιά                         [Prop. 1.29]. Thus, the remaining (angle) DGB is half
+ἐστι τοῦ ἀπὸ τῆς ΓΑ τετραγώνου. τοῖς δὲ ἀπὸ τῶν ΕΓ, ΓΑ                      a right-angle. Thus, DGB is equal to DBG. So side BD
+ἴσον ἐστὶ τὸ ἀπὸ τῆς ΕΑ· τὸ ἄρα ἀπὸ τῆς ΕΑ τετράγωνον                       is also equal to side GD [Prop. 1.6]. Again, since EGF is
+διπλάσιόν ἐστι τοῦ ἀπὸ τῆς ΑΓ τετραγώνου. πάλιν, ἐπεὶ ἴση                   half a right-angle, and the (angle) at F (is) a right-angle,
+ἐστὶν ἡ ΖΗ τῇ ΕΖ, ἴσον ἐστὶ καὶ τὸ ἀπὸ τῆς ΖΗ τῷ ἀπὸ τῆς                    for it is equal to the opposite (angle) at C [Prop. 1.34],
+ΖΕ· τὰ ἄρα ἀπὸ τῶν ΗΖ, ΖΕ διπλάσιά ἐστι τοῦ ἀπὸ τῆς ΕΖ.                     the remaining (angle) F EG is thus half a right-angle.
+τοῖς δὲ ἀπὸ τῶν ΗΖ, ΖΕ ἴσον ἐστὶ τὸ ἀπὸ τῆς ΕΗ· τὸ ἄρα                      Thus, angle EGF (is) equal to F EG. So the side GF
+ἀπὸ τῆς ΕΗ διπλάσιόν ἐστι τοῦ ἀπὸ τῆς ΕΖ. ἴση δὲ ἡ ΕΖ τῇ                    is also equal to the side EF [Prop. 1.6]. And since [EC
+ΓΔ· τὸ ἄρα ἀπὸ τῆς ΕΗ τετράγωνον διπλάσιόν ἐστι τοῦ ἀπὸ                     is equal to CA] the square on EC is [also] equal to the
+τῆς ΓΔ. ἐδείχθη δὲ καὶ τὸ ἀπὸ τῆς ΕΑ διπλάσιον τοῦ ἀπὸ                      square on CA. Thus, the (sum of the) squares on EC
+τῆς ΑΓ· τὰ ἄρα ἀπὸ τῶν ΑΕ, ΕΗ τετράγωνα διπλάσιά ἐστι                       and CA is double the square on CA. And the (square)
+τῶν ἀπὸ τῶν ΑΓ, ΓΔ τετραγώνων. τοῖς δὲ ἀπὸ τῶν ΑΕ,                          on EA is equal to the (sum of the squares) on EC and
+ΕΗ τετραγώνοις ἴσον ἐστὶ τὸ ἀπὸ τῆς ΑΗ τετράγωνον· τὸ                       CA [Prop. 1.47]. Thus, the square on EA is double the
+ἄρα ἀπὸ τῆς ΑΗ διπλάσιόν ἐστι τῶν ἀπὸ τῶν ΑΓ, ΓΔ. τῷ                        square on AC. Again, since F G is equal to EF , the
+δὲ ἀπὸ τῆς ΑΗ ἴσα ἐστὶ τὰ ἀπὸ τῶν ΑΔ, ΔΗ· τὰ ἄρα ἀπὸ                        (square) on F G is also equal to the (square) on F E.
+τῶν ΑΔ, ΔΗ [τετράγωνα] διπλάσιά ἐστι τῶν ἀπὸ τῶν ΑΓ,                        Thus, the (sum of the squares) on GF and F E is dou-
+ΓΔ [τετραγώνων]. ἴση δὲ ἡ ΔΗ τῇ ΔΒ· τὰ ἄρα ἀπὸ τῶν                          ble the (square) on EF . And the (square) on EG is equal
+ΑΔ, ΔΒ [τετράγωνα] διπλάσιά ἐστι τῶν ἀπὸ τῶν ΑΓ, ΓΔ                         to the (sum of the squares) on GF and F E [Prop. 1.47].
+τετραγώνων.                                                                 Thus, the (square) on EG is double the (square) on EF .
+    ᾿Εὰν ἄρα εὐθεῖα γραμμὴ τμηθῇ δίχα, προστεθῇ δέ τις                      And EF (is) equal to CD [Prop. 1.34]. Thus, the square
+αὐτῇ εὐθεῖα ἐπ᾿ εὐθείας, τὸ ἀπὸ τῆς ὅλης σὺν τῇ προ-                        on EG is double the (square) on CD. But it was also
+σκειμένῃ καὶ τὸ ἀπὸ τῆς προσκειμένης τὰ συναμφότερα                         shown that the (square) on EA (is) double the (square)
+τετράγωνα διπλάσιά ἐστι τοῦ τε ἀπὸ τῆς ἡμισείας καὶ τοῦ                     on AC. Thus, the (sum of the) squares on AE and EG is
+ἀπὸ τῆς συγκειμένης ἔκ τε τῆς ἡμισείας καὶ τῆς προ-                         double the (sum of the) squares on AC and CD. And the
+σκειμένης ὡς ἀπὸ μιᾶς ἀναγραφέντος τετραγώνου· ὅπερ                         square on AG is equal to the (sum of the) squares on AE
+ἔδει δεῖξαι.                                                                and EG [Prop. 1.47]. Thus, the (square) on AG is double
+                                                                            the (sum of the squares) on AC and CD. And the (sum
+                                                                            of the squares) on AD and DG is equal to the (square)
+                                                                            on AG [Prop. 1.47]. Thus, the (sum of the) [squares] on
+                                                                            AD and DG is double the (sum of the) [squares] on AC
+                                                                            and CD. And DG (is) equal to DB. Thus, the (sum of
+                                                                            the) [squares] on AD and DB is double the (sum of the)
+                                                                            squares on AC and CD.
+                                                                                Thus, if a straight-line is cut in half, and any straight-
+                                                                            line added to it straight-on, then the sum of the square
+                                                                            on the whole (straight-line) with the (straight-line) hav-
+                                                                            ing been added, and the (square) on the (straight-line)
+                                                                            having been added, is double the (sum of the square) on
+                                                                            half (the straight-line), and the square described on the
+                                                                            sum of half (the straight-line) and (straight-line) having
+                                                                            been added, as on one (complete straight-line). (Which
+                                                                            is) the very thing it was required to show.
+† This proposition is a geometric version of the algebraic identity: (2 a + b)2 + b2 = 2 [a2 + (a + b)2 ].
+
+
+
+                                  iaþ.                                                               Proposition 11†
+    Τὴν δοθεῖσαν εὐθεῖαν τεμεῖν ὥστε τὸ ὑπὸ τῆς ὅλης καὶ    To cut a given straight-line such that the rectangle
+τοῦ ἑτέρου τῶν τμημάτων περιεχόμενον ὀρθογώνιον ἴσον contained by the whole (straight-line), and one of the
+εἶναι τῷ ἀπὸ τοῦ λοιποῦ τμήματος τετραγώνῳ.              pieces (of the straight-line), is equal to the square on the
+                                                         remaining piece.
+
+
+                                                                         62
+STOIQEIWN bþ.                                                                                ELEMENTS BOOK 2
+
+               Ζ             Η                                            F              G
+
+
+
+
+             Α                 Θ        Β                                                  H         B
+                                                                        A
+
+
+
+             Ε                                                          E
+
+
+
+               Γ             Κ          ∆                                 C              K          D
+    ῎Εστω ἡ δοθεῖσα εὐθεῖα ἡ ΑΒ· δεῖ δὴ τὴν ΑΒ τεμεῖν          Let AB be the given straight-line. So it is required to
+ὥστε τὸ ὑπὸ τῆς ὅλης καὶ τοῦ ἑτέρου τῶν τμημάτων           cut AB such that the rectangle contained by the whole
+περιεχόμενον ὀρθογώνιον ἴσον εἶναι τῷ ἀπὸ τοῦ λοιποῦ       (straight-line), and one of the pieces (of the straight-
+τμήματος τετραγώνῳ.                                        line), is equal to the square on the remaining piece.
+    ᾿Αναγεγράφθω γὰρ ἀπὸ τῆς ΑΒ τετράγωνον τὸ ΑΒΔΓ,            For let the square ABDC have been described on AB
+καὶ τετμήσθω ἡ ΑΓ δίχα κατὰ τὸ Ε σημεῖον, καὶ ἐπεζεύχθω    [Prop. 1.46], and let AC have been cut in half at point
+ἡ ΒΕ, καὶ διήχθω ἡ ΓΑ ἐπὶ τὸ Ζ, καὶ κείσθω τῇ ΒΕ ἴση ἡ     E [Prop. 1.10], and let BE have been joined. And let
+ΕΖ, καὶ ἀναγεγράφθω ἀπὸ τῆς ΑΖ τετράγωνον τὸ ΖΘ, καὶ       CA have been drawn through to (point) F , and let EF
+διήχθω ἡ ΗΘ ἐπὶ τὸ Κ· λέγω, ὅτι ἡ ΑΒ τέτμηται κατὰ τὸ Θ,   be made equal to BE [Prop. 1.3]. And let the square
+ὥστε τὸ ὑπὸ τῶν ΑΒ, ΒΘ περιεχόμενον ὀρθογώνιον ἴσον        F H have been described on AF [Prop. 1.46], and let GH
+ποιεῖν τῷ ἀπὸ τῆς ΑΘ τετραγώνῳ.                            have been drawn through to (point) K. I say that AB has
+    ᾿Επεὶ γὰρ εὐθεῖα ἡ ΑΓ τέτμηται δίχα κατὰ τὸ Ε,         been cut at H such as to make the rectangle contained by
+πρόσκειται δὲ αὐτῇ ἡ ΖΑ, τὸ ἄρα ὑπὸ τῶν ΓΖ, ΖΑ πε-         AB and BH equal to the square on AH.
+ριεχόμενον ὀρθογώνιον μετὰ τοῦ ἀπὸ τῆς ΑΕ τετραγώνου           For since the straight-line AC has been cut in half at
+ἴσον ἐστὶ τῷ ἀπὸ τῆς ΕΖ τετραγώνῳ. ἴση δὲ ἡ ΕΖ τῇ ΕΒ·      E, and F A has been added to it, the rectangle contained
+τὸ ἄρα ὑπὸ τῶν ΓΖ, ΖΑ μετὰ τοῦ ἀπὸ τῆς ΑΕ ἴσον ἐστὶ        by CF and F A, plus the square on AE, is thus equal to
+τῷ ἀπὸ ΕΒ. ἀλλὰ τῷ ἀπὸ ΕΒ ἴσα ἐστὶ τὰ ἀπὸ τῶν ΒΑ,          the square on EF [Prop. 2.6]. And EF (is) equal to EB.
+ΑΕ· ὀρθὴ γὰρ ἡ πρὸς τῷ Α γωνία· τὸ ἄρα ὑπὸ τῶν ΓΖ,         Thus, the (rectangle contained) by CF and F A, plus the
+ΖΑ μετὰ τοῦ ἀπὸ τῆς ΑΕ ἴσον ἐστὶ τοῖς ἀπὸ τῶν ΒΑ, ΑΕ.      (square) on AE, is equal to the (square) on EB. But,
+κοινὸν ἀφῃρήσθω τὸ ἀπὸ τῆς ΑΕ· λοιπὸν ἄρα τὸ ὑπὸ τῶν       the (sum of the squares) on BA and AE is equal to the
+ΓΖ, ΖΑ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς ΑΒ     (square) on EB. For the angle at A (is) a right-angle
+τετραγώνῳ. καί ἐστι τὸ μὲν ὑπὸ τῶν ΓΖ, ΖΑ τὸ ΖΚ· ἴση       [Prop. 1.47]. Thus, the (rectangle contained) by CF and
+γὰρ ἡ ΑΖ τῇ ΖΗ· τὸ δὲ ἀπὸ τῆς ΑΒ τὸ ΑΔ· τὸ ἄρα ΖΚ ἴσον     F A, plus the (square) on AE, is equal to the (sum of
+ἐστὶ τῷ ΑΔ. κοινὸν ἀρῃρήσθω τὸ ΑΚ· λοιπὸν ἄρα τὸ ΖΘ        the squares) on BA and AE. Let the square on AE have
+τῷ ΘΔ ἴσον ἐστίν. καί ἐστι τὸ μὲν ΘΔ τὸ ὑπὸ τῶν ΑΒ,        been subtracted from both. Thus, the remaining rectan-
+ΒΘ· ἴση γὰρ ἡ ΑΒ τῇ ΒΔ· τὸ δὲ ΖΘ τὸ ἀπὸ τῆς ΑΘ· τὸ         gle contained by CF and F A is equal to the square on
+ἄρα ὑπὸ τῶν ΑΒ, ΒΘ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ       AB. And F K is the (rectangle contained) by CF and
+τῷ ἀπὸ ΘΑ τετραγώνῳ.                                       F A. For AF (is) equal to F G. And AD (is) the (square)
+    ῾Η ἄρα δοθεῖσα εὐθεῖα ἡ ΑΒ τέτμηται κατὰ τὸ Θ ὥστε     on AB. Thus, the (rectangle) F K is equal to the (square)
+τὸ ὑπὸ τῶν ΑΒ, ΒΘ περιεχόμενον ὀρθογώνιον ἴσον ποιεῖν      AD. Let (rectangle) AK have been subtracted from both.
+τῷ ἀπὸ τῆς ΘΑ τετραγώνῳ· ὅπερ ἔδει ποιῆσαι.                Thus, the remaining (square) F H is equal to the (rectan-
+                                                           gle) HD. And HD is the (rectangle contained) by AB
+                                                           and BH. For AB (is) equal to BD. And F H (is) the
+                                                           (square) on AH. Thus, the rectangle contained by AB
+
+
+                                                       63
+STOIQEIWN bþ.                                                                                                          ELEMENTS BOOK 2
+
+                                                                            and BH is equal to the square on HA.
+                                                                               Thus, the given straight-line AB has been cut at
+                                                                            (point) H such as to make the rectangle contained by
+                                                                            AB and BH equal to the square on HA. (Which is) the
+                                                                            very thing it was required to do.
+† This manner of cutting a straight-line—so that the ratio of the whole to the larger piece is equal to the ratio of the larger to the smaller piece—is
+
+sometimes called the “Golden Section”.
+
+
+                                  ibþ.                                                               Proposition 12†
+   ᾿Εν τοῖς ἀμβλυγωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν                               In obtuse-angled triangles, the square on the side sub-
+ἀμβλεῖαν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον μεῖζόν                      tending the obtuse angle is greater than the (sum of the)
+ἐστι τῶν ἀπὸ τῶν τὴν ἀμβλεῖαν γωνίαν περιεχουσῶν                            squares on the sides containing the obtuse angle by twice
+πλευρῶν τετραγώνων τῷ περιεχομένῳ δὶς ὑπὸ τε μιᾶς τῶν                       the (rectangle) contained by one of the sides around the
+περὶ τὴν ἀμβλεῖαν γωνίαν, ἐφ᾿ ἣν ἡ κάθετος πίπτει, καὶ τῆς                  obtuse angle, to which a perpendicular (straight-line)
+ἀπολαμβανομένης ἐκτὸς ὑπὸ τῆς καθέτου πρὸς τῇ ἀμβλείᾳ                       falls, and the (straight-line) cut off outside (the triangle)
+γωνίᾳ.                                                                      by the perpendicular (straight-line) towards the obtuse
+                                                                            angle.
+    Β                                                                            B
+
+
+
+
+    ∆                 Α                                          Γ               D                 A                                          C
+   ῎Εστω ἀμβλυγώνιον τρίγωνον τὸ ΑΒΓ ἀμβλεῖαν ἔχον                              Let ABC be an obtuse-angled triangle, having the an-
+τὴν ὑπὸ ΒΑΓ, καὶ ἤχθω ἀπὸ τοῦ Β σημείου ἐπὶ τὴν ΓΑ                          gle BAC obtuse. And let BD be drawn from point B,
+ἐκβληθεῖσαν κάθετος ἡ ΒΔ. λέγω, ὅτι τὸ ἀπὸ τῆς ΒΓ                           perpendicular to CA produced [Prop. 1.12]. I say that
+τετράγωνον μεῖζόν ἐστι τῶν ἀπὸ τῶν ΒΑ, ΑΓ τετραγώνων                        the square on BC is greater than the (sum of the) squares
+τῷ δὶς ὑπὸ τῶν ΓΑ, ΑΔ περιεχομένῳ ὀρθογωνίῳ.                                on BA and AC, by twice the rectangle contained by CA
+   ᾿Επεὶ γὰρ εὐθεῖα ἡ ΓΔ τέτμηται, ὡς ἔτυχεν, κατὰ τὸ Α                     and AD.
+σημεῖον, τὸ ἄρα ἀπὸ τῆς ΔΓ ἴσον ἐστὶ τοῖς ἀπὸ τῶν ΓΑ,                           For since the straight-line CD has been cut, at ran-
+ΑΔ τετραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΓΑ, ΑΔ περιεχομένῳ                        dom, at point A, the (square) on DC is thus equal to
+ὀρθογωνίῳ. κοινὸν προσκείσθω τὸ ἀπὸ τῆς ΔΒ· τὰ ἄρα                          the (sum of the) squares on CA and AD, and twice the
+ἀπὸ τῶν ΓΔ, ΔΒ ἴσα ἐστὶ τοῖς τε ἀπὸ τῶν ΓΑ, ΑΔ, ΔΒ τε-                      rectangle contained by CA and AD [Prop. 2.4]. Let the
+τραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΓΑ, ΑΔ [περιεχομένῳ ὀρθο-                      (square) on DB have been added to both. Thus, the (sum
+γωνίῳ]. ἀλλὰ τοῖς μὲν ἀπὸ τῶν ΓΔ, ΔΒ ἴσον ἐστὶ τὸ ἀπὸ                       of the squares) on CD and DB is equal to the (sum of
+τῆς ΓΒ· ὀρθὴ γὰρ ἡ προς τῷ Δ γωνία· τοῖς δὲ ἀπὸ τῶν ΑΔ,                     the) squares on CA, AD, and DB, and twice the [rect-
+ΔΒ ἴσον τὸ ἀπὸ τῆς ΑΒ· τὸ ἄρα ἀπὸ τῆς ΓΒ τετράγωνον                         angle contained] by CA and AD. But, the (square) on
+ἴσον ἐστὶ τοῖς τε ἀπὸ τῶν ΓΑ, ΑΒ τετραγώνοις καὶ τῷ δὶς                     CB is equal to the (sum of the squares) on CD and DB.
+ὑπὸ τῶν ΓΑ, ΑΔ περιεχομένῳ ὀρθογωνίῳ· ὥστε τὸ ἀπὸ τῆς                       For the angle at D (is) a right-angle [Prop. 1.47]. And
+ΓΒ τετράγωνον τῶν ἀπὸ τῶν ΓΑ, ΑΒ τετραγώνων μεῖζόν                          the (square) on AB (is) equal to the (sum of the squares)
+ἐστι τῷ δὶς ὑπὸ τῶν ΓΑ, ΑΔ περιεχομένῳ ὀρθογωνίῳ.                           on AD and DB [Prop. 1.47]. Thus, the square on CB
+   ᾿Εν ἄρα τοῖς ἀμβλυγωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν                       is equal to the (sum of the) squares on CA and AB, and
+ἀμβλεῖαν γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον μεῖζόν                      twice the rectangle contained by CA and AD. So the
+ἐστι τῶν ἀπὸ τῶν τὴν ἀμβλεῖαν γωνίαν περιεχουσῶν                            square on CB is greater than the (sum of the) squares on
+
+
+                                                                         64
+STOIQEIWN bþ.                                                                                         ELEMENTS BOOK 2
+
+πλευρῶν τετραγώνων τῷ περιχομένῳ δὶς ὑπό τε μιᾶς τῶν CA and AB by twice the rectangle contained by CA and
+περὶ τὴν ἀμβλεῖαν γωνίαν, ἐφ᾿ ἣν ἡ κάθετος πίπτει, καὶ τῆς AD.
+ἀπολαμβανομένης ἐκτὸς ὑπὸ τῆς καθέτου πρὸς τῇ ἀμβλείᾳ          Thus, in obtuse-angled triangles, the square on the
+γωνίᾳ· ὅπερ ἔδει δεῖξαι.                                   side subtending the obtuse angle is greater than the (sum
+                                                           of the) squares on the sides containing the obtuse an-
+                                                           gle by twice the (rectangle) contained by one of the
+                                                           sides around the obtuse angle, to which a perpendicu-
+                                                           lar (straight-line) falls, and the (straight-line) cut off out-
+                                                           side (the triangle) by the perpendicular (straight-line) to-
+                                                           wards the obtuse angle. (Which is) the very thing it was
+                                                           required to show.
+† This proposition is equivalent to the well-known cosine formula: BC 2 = AB 2 + AC 2 − 2 AB AC cos BAC, since cos BAC = −AD/AB.
+
+
+
+                             igþ.                                                      Proposition 13†
+   ᾿Εν τοῖς ὀξυγωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀξεῖαν               In acute-angled triangles, the square on the side sub-
+γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἔλαττόν ἐστι               tending the acute angle is less than the (sum of the)
+τῶν ἀπὸ τῶν τὴν ὀξεῖαν γωνίαν περιεχουσῶν πλευρῶν τε-             squares on the sides containing the acute angle by twice
+τραγώνων τῷ περιεχομένῳ δὶς ὑπό τε μιᾶς τῶν περὶ τὴν              the (rectangle) contained by one of the sides around the
+ὀξεῖαν γωνίαν, ἐφ᾿ ἣν ἡ κάθετος πίπτει, καὶ τῆς ἀπολαμβα-         acute angle, to which a perpendicular (straight-line) falls,
+νομένης ἐντὸς ὑπὸ τῆς καθέτου πρὸς τῇ ὀξείᾳ γωνίᾳ.                and the (straight-line) cut off inside (the triangle) by the
+                                                                  perpendicular (straight-line) towards the acute angle.
+                               Α                                                                 A
+
+
+
+
+             Β                 ∆               Γ                               B                 D                C
+    ῎Εστω ὀξυγώνιον τρίγωνον τὸ ΑΒΓ ὀξεῖαν ἔχον τὴν                   Let ABC be an acute-angled triangle, having the an-
+πρὸς τῷ Β γωνίαν, καὶ ἤχθω ἀπὸ τοῦ Α σημείου ἐπὶ τὴν              gle at (point) B acute. And let AD have been drawn from
+ΒΓ κάθετος ἡ ΑΔ· λέγω, ὅτι τὸ ἀπὸ τῆς ΑΓ τετράγωνον               point A, perpendicular to BC [Prop. 1.12]. I say that the
+ἔλαττόν ἐστι τῶν ἀπὸ τῶν ΓΒ, ΒΑ τετραγώνων τῷ δὶς ὑπὸ             square on AC is less than the (sum of the) squares on
+τῶν ΓΒ, ΒΔ περιεχομένῳ ὀρθογωνίῳ.                                 CB and BA, by twice the rectangle contained by CB and
+    ᾿Επεὶ γὰρ εὐθεῖα ἡ ΓΒ τέτμηται, ὡς ἔτυχεν, κατὰ τὸ            BD.
+Δ, τὰ ἄρα ἀπὸ τῶν ΓΒ, ΒΔ τετράγωνα ἴσα ἐστὶ τῷ τε                     For since the straight-line CB has been cut, at ran-
+δὶς ὑπὸ τῶν ΓΒ, ΒΔ περιεχομένῳ ὀρθογωνίῳ καὶ τῷ ἀπὸ               dom, at (point) D, the (sum of the) squares on CB and
+τῆς ΔΓ τετραγώνῳ. κοινὸν προσκείσθω τὸ ἀπὸ τῆς ΔΑ                 BD is thus equal to twice the rectangle contained by CB
+τετράγωνον· τὰ ἄρα ἀπὸ τῶν ΓΒ, ΒΔ, ΔΑ τετράγωνα ἴσα               and BD, and the square on DC [Prop. 2.7]. Let the
+ἐστὶ τῷ τε δὶς ὑπὸ τῶν ΓΒ, ΒΔ περιεχομένῳ ὀρθογωνίῳ               square on DA have been added to both. Thus, the (sum
+καὶ τοῖς ἀπὸ τῶν ΑΔ, ΔΓ τετραγώνιος. ἀλλὰ τοῖς μὲν ἀπὸ            of the) squares on CB, BD, and DA is equal to twice
+τῶν ΒΔ, ΔΑ ἴσον τὸ ἀπὸ τῆς ΑΒ· ὀρθὴ γὰρ ἡ πρὸς τῷ Δ               the rectangle contained by CB and BD, and the (sum of
+γωνίᾳ· τοῖς δὲ ἀπὸ τῶν ΑΔ, ΔΓ ἴσον τὸ ἀπὸ τῆς ΑΓ· τὰ              the) squares on AD and DC. But, the (square) on AB
+ἄρα ἀπὸ τῶν ΓΒ, ΒΑ ἴσα ἐστὶ τῷ τε ἀπὸ τῆς ΑΓ καὶ τῷ δὶς           (is) equal to the (sum of the squares) on BD and DA.
+ὑπὸ τῶν ΓΒ, ΒΔ· ὥστε μόνον τὸ ἀπὸ τῆς ΑΓ ἔλαττόν ἐστι             For the angle at (point) D is a right-angle [Prop. 1.47].
+
+
+                                                               65
+STOIQEIWN bþ.                                                                                          ELEMENTS BOOK 2
+
+τῶν ἀπὸ τῶν ΓΒ, ΒΑ τετραγώνων τῷ δὶς ὑπὸ τῶν ΓΒ, ΒΔ               And the (square) on AC (is) equal to the (sum of the
+περιεχομένῳ ὀρθογωνίῳ.                                            squares) on AD and DC [Prop. 1.47]. Thus, the (sum of
+    ᾿Εν ἄρα τοῖς ὀξυγωνίοις τριγώνοις τὸ ἀπὸ τῆς τὴν ὀξεῖαν       the squares) on CB and BA is equal to the (square) on
+γωνίαν ὑποτεινούσης πλευρᾶς τετράγωνον ἔλαττόν ἐστι               AC, and twice the (rectangle contained) by CB and BD.
+τῶν ἀπὸ τῶν τὴν ὀξεῖαν γωνίαν περιεχουσῶν πλευρῶν τε-             So the (square) on AC alone is less than the (sum of the)
+τραγώνων τῷ περιεχομένῳ δὶς ὑπό τε μιᾶς τῶν περὶ τὴν              squares on CB and BA by twice the rectangle contained
+ὀξεῖαν γωνίαν, ἐφ᾿ ἣν ἡ κάθετος πίπτει, καὶ τῆς ἀπολαμβα-         by CB and BD.
+νομένης ἐντὸς ὑπὸ τῆς καθέτου πρὸς τῇ ὀξείᾳ γωνίᾳ· ὅπερ               Thus, in acute-angled triangles, the square on the side
+ἔδει δεῖξαι.                                                      subtending the acute angle is less than the (sum of the)
+                                                                  squares on the sides containing the acute angle by twice
+                                                                  the (rectangle) contained by one of the sides around the
+                                                                  acute angle, to which a perpendicular (straight-line) falls,
+                                                                  and the (straight-line) cut off inside (the triangle) by
+                                                                  the perpendicular (straight-line) towards the acute angle.
+                                                                  (Which is) the very thing it was required to show.
+† This proposition is equivalent to the well-known cosine formula: AC 2 = AB 2 + BC 2 − 2 AB BC cos ABC, since cos ABC = BD/AB.
+
+
+
+                              idþ.                                                      Proposition 14
+    Τῷ δοθέντι εὐθυγράμμῳ ἴσον τετράγωνον συστήσας-    To construct a square equal to a given rectilinear fig-
+θαι.                                                ure.
+
+                                               Θ                                                                  H
+        Α                                                                  A
+
+
+
+                                               Ε                                                                  E               F
+                 Β                                          Ζ                       B                    G
+                                      Η
+
+
+                 Γ                             ∆                                    C                             D
+    ῎Εστω τὸ δοθὲν εὐθύγραμμον τὸ Α· δεῖ δὴ τῷ Α                      Let A be the given rectilinear figure. So it is required
+εὐθυγράμμῳ ἴσον τετράγωνον συστήσασθαι.                           to construct a square equal to the rectilinear figure A.
+    Συνεστάτω γὰρ τῷ Α ἐυθυγράμμῳ ἴσον παραλληλό-                     For let the right-angled parallelogram BD, equal to
+γραμμον ὀρθογώνιον τὸ ΒΔ· εἰ μὲν οὖν ἴση ἐστὶν ἡ ΒΕ               the rectilinear figure A, have been constructed [Prop.
+τῇ ΕΔ, γεγονὸς ἂν εἴη τὸ ἐπιταχθέν. συνέσταται γὰρ τῷ             1.45]. Therefore, if BE is equal to ED then that (which)
+Α εὐθυγράμμῳ ἴσον τετράγωνον τὸ ΒΔ· εἰ δὲ οὔ, μία τῶν             was prescribed has taken place. For the square BD, equal
+ΒΕ, ΕΔ μείζων ἐστίν. ἔστω μείζων ἡ ΒΕ, καὶ ἐκβεβλήσθω             to the rectilinear figure A, has been constructed. And if
+ἐπὶ τὸ Ζ, καὶ κείσθω τῇ ΕΔ ἴση ἡ ΕΖ, καὶ τετμήσθω ἡ ΒΖ            not, then one of the (straight-lines) BE or ED is greater
+δίχα κατὰ τὸ Η, καὶ κέντρῳ τῷ Η, διαστήματι δὲ ἑνὶ τῶν            (than the other). Let BE be greater, and let it have
+ΗΒ, ΗΖ ἡμικύκλιον γεγράφθω τὸ ΒΘΖ, καὶ ἐκβεβλήσθω ἡ               been produced to F , and let EF be made equal to ED
+ΔΕ ἐπὶ τὸ Θ, καὶ ἐπεζεύχθω ἡ ΗΘ.                                  [Prop. 1.3]. And let BF have been cut in half at (point)
+    ᾿Επεὶ οὖν εὐθεῖα ἡ ΒΖ τέτμηται εἰς μὲν ἴσα κατὰ τὸ Η, εἰς     G [Prop. 1.10]. And, with center G, and radius one of
+δὲ ἄνισα κατὰ τὸ Ε, τὸ ἄρα ὑπὸ τῶν ΒΕ, ΕΖ περιεχόμενον            the (straight-lines) GB or GF , let the semi-circle BHF
+ὀρθογώνιον μετὰ τοῦ ἀπὸ τῆς ΕΗ τετραγώνου ἴσον ἐστὶ               have been drawn. And let DE have been produced to H,
+τῷ ἀπὸ τῆς ΗΖ τετραγώνῳ. ἴση δὲ ἡ ΗΖ τῇ ΗΘ· τὸ ἄρα                and let GH have been joined.
+ὑπὸ τῶν ΒΕ, ΕΖ μετὰ τοῦ ἀπὸ τῆς ΗΕ ἴσον ἐστὶ τῷ ἀπὸ                   Therefore, since the straight-line BF has been cut—
+τῆς ΗΘ. τῷ δὲ ἀπὸ τῆς ΗΘ ἴσα ἐστὶ τὰ ἀπὸ τῶν ΘΕ, ΕΗ               equally at G, and unequally at E—the rectangle con-
+
+
+                                                                66
+STOIQEIWN bþ.                                                                              ELEMENTS BOOK 2
+
+τετράγωνα· τὸ ἄρα ὑπὸ τῶν ΒΕ, ΕΖ μετὰ τοῦ ἀπὸ ΗΕ ἴσα      tained by BE and EF , plus the square on EG, is thus
+ἐστὶ τοῖς ἀπὸ τῶν ΘΕ, ΕΗ. κοινὸν ἀφῃρήσθω τὸ ἀπὸ τῆς ΗΕ   equal to the square on GF [Prop. 2.5]. And GF (is) equal
+τετράγωνον· λοιπὸν ἄρα τὸ ὑπὸ τῶν ΒΕ, ΕΖ περιεχόμενον     to GH. Thus, the (rectangle contained) by BE and EF ,
+ὄρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς ΕΘ τετραγώνῳ. ἀλλὰ τὸ     plus the (square) on GE, is equal to the (square) on GH.
+ὑπὸ τῶν ΒΕ, ΕΖ τὸ ΒΔ ἐστιν· ἴση γὰρ ἡ ΕΖ τῇ ΕΔ· τὸ        And the (sum of the) squares on HE and EG is equal to
+ἄρα ΒΔ παραλληλόγραμμον ἴσον ἐστὶ τῷ ἀπὸ τῆς ΘΕ τε-       the (square) on GH [Prop. 1.47]. Thus, the (rectangle
+τραγώνῳ. ἴσον δὲ τὸ ΒΔ τῷ Α εὐθυγράμμῳ. καὶ τὸ Α ἄρα      contained) by BE and EF , plus the (square) on GE, is
+εὐθύγραμμον ἴσον ἐστὶ τῷ ἀπὸ τῆς ΕΘ ἀναγραφησομένῳ        equal to the (sum of the squares) on HE and EG. Let
+τετραγώνῳ.                                                the square on GE have been taken from both. Thus, the
+   Τῷ ἄρα δοθέντι εὐθυγράμμῳ τῷ Α ἴσον τετράγωνον         remaining rectangle contained by BE and EF is equal to
+συνέσταται τὸ ἀπὸ τῆς ΕΘ ἀναγραφησόμενον· ὅπερ ἔδει       the square on EH. But, BD is the (rectangle contained)
+ποιῆσαι.                                                  by BE and EF . For EF (is) equal to ED. Thus, the par-
+                                                          allelogram BD is equal to the square on HE. And BD
+                                                          (is) equal to the rectilinear figure A. Thus, the rectilin-
+                                                          ear figure A is also equal to the square (which) can be
+                                                          described on EH.
+                                                              Thus, a square—(namely), that (which) can be de-
+                                                          scribed on EH—has been constructed, equal to the given
+                                                          rectilinear figure A. (Which is) the very thing it was re-
+                                                          quired to do.
+
+
+
+
+                                                      67
+68

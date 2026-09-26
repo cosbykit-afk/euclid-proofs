@@ -1,0 +1,2067 @@
+ELEMENTS BOOK 3
+
+Fundamentals of Plane Geometry Involving
+                 Circles
+
+
+
+
+                   69
+STOIQEIWN gþ.                                                                                         ELEMENTS BOOK 3
+
+
+                           VOroi.                                                         Definitions
+    αʹ. ῎Ισοι κύκλοι εἰσίν, ὧν αἱ διάμετροι ἴσαι εἰσίν, ἢ ὧν αἱ       1. Equal circles are (circles) whose diameters are
+ἐκ τῶν κέντρων ἴσαι εἰσίν.                                        equal, or whose (distances) from the centers (to the cir-
+    βʹ. Εὐθεῖα κύκλου ἐφάπτεσθαι λέγεται, ἥτις ἁπτομένη           cumferences) are equal (i.e., whose radii are equal).
+τοῦ κύκλου καὶ ἐκβαλλομένη οὐ τέμνει τὸν κύκλον.                      2. A straight-line said to touch a circle is any (straight-
+    γʹ. Κύκλοι ἐφάπτεσθαι ἀλλήλων λέγονται οἵτινες ἁπτό-          line) which, meeting the circle and being produced, does
+μενοι ἀλλήλων οὐ τέμνουσιν ἀλλήλους.                              not cut the circle.
+    δʹ. ᾿Εν κύκλῳ ἴσον ἀπέχειν ἀπὸ τοῦ κέντρου εὐθεῖαι                3. Circles said to touch one another are any (circles)
+λέγονται, ὅταν αἱ ἀπὸ τοῦ κέντρου ἐπ᾿ αὐτὰς κάθετοι               which, meeting one another, do not cut one another.
+ἀγόμεναι ἴσαι ὦσιν.                                                   4. In a circle, straight-lines are said to be equally far
+    εʹ. Μεῖζον δὲ ἀπέχειν λέγεται, ἐφ᾿ ἣν ἡ μείζων κάθετος        from the center when the perpendiculars drawn to them
+πίπτει.                                                           from the center are equal.
+    ϛʹ. Τμῆμα κύκλου ἐστὶ τὸ περιεχόμενον σχῆμα ὑπό τε                5. And (that straight-line) is said to be further (from
+εὐθείας καὶ κύκλου περιφερείας.                                   the center) on which the greater perpendicular falls
+    ζʹ. Τμήματος δὲ γωνία ἐστὶν ἡ περιεχομένη ὑπό τε              (from the center).
+εὐθείας καὶ κύκλου περιφερείας.                                       6. A segment of a circle is the figure contained by a
+    ηʹ. ᾿Εν τμήματι δὲ γωνία ἐστίν, ὅταν ἐπὶ τῆς περι-            straight-line and a circumference of a circle.
+φερείας τοῦ τμήματος ληφθῇ τι σημεῖον καὶ ἀπ᾿ αὐτοῦ ἐπὶ               7. And the angle of a segment is that contained by a
+τὰ πέρατα τῆς εὐθείας, ἥ ἐστι βάσις τοῦ τμήματος, ἐπι-            straight-line and a circumference of a circle.
+ζευχθῶσιν εὐθεῖαι, ἡ περιεχομένη γωνία ὑπὸ τῶν ἐπιζευ-                8. And the angle in a segment is the angle contained
+χθεισῶν εὐθειῶν.                                                  by the joined straight-lines, when any point is taken on
+    θʹ. ῞Οταν δὲ αἱ περιέχουσαι τὴν γωνίαν εὐθεῖαι ἀπο-           the circumference of a segment, and straight-lines are
+λαμβάνωσί τινα περιφέρειαν, ἐπ᾿ ἐκείνης λέγεται βεβηκέναι         joined from it to the ends of the straight-line which is
+ἡ γωνία.                                                          the base of the segment.
+    ιʹ. Τομεὺς δὲ κύκλου ἐστίν, ὅταν πρὸς τῷ κέντρῷ τοῦ               9. And when the straight-lines containing an angle
+κύκλου συσταθῇ γωνία, τὸ περιεχόμενον σχῆμα ὑπό τε τῶν            cut off some circumference, the angle is said to stand
+τὴν γωνίαν περιεχουσῶν εὐθειῶν καὶ τῆς ἀπολαμβανομένης            upon that (circumference).
+ὑπ᾿ αὐτῶν περιφερείας.                                                10. And a sector of a circle is the figure contained by
+    ιαʹ. ῞Ομοία τμήματα κύκλων ἐστὶ τὰ δεχόμενα γωνίας            the straight-lines surrounding an angle, and the circum-
+ἴσας, ἤ ἐν οἷς αἱ γωνίαι ἴσαι ἀλλήλαις εἰσίν.                     ference cut off by them, when the angle is constructed at
+                                                                  the center of a circle.
+                                                                      11. Similar segments of circles are those accepting
+                                                                  equal angles, or in which the angles are equal to one an-
+                                                                  other.
+
+                             aþ.                                                        Proposition 1
+    Τοῦ δοθέντος κύκλου τὸ κέντρον εὑρεῖν.                            To find the center of a given circle.
+    ῎Εστω ὁ δοθεὶς κύκλος ὁ ΑΒΓ· δεῖ δὴ τοῦ ΑΒΓ κύκλου                Let ABC be the given circle. So it is required to find
+τὸ κέντρον εὑρεῖν.                                                the center of circle ABC.
+    Διήχθω τις εἰς αὐτόν, ὡς ἔτυχεν, εὐθεῖα ἡ ΑΒ, καὶ                 Let some straight-line AB have been drawn through
+τετμήσθω δίχα κατὰ τὸ Δ σημεῖον, καὶ ἀπὸ τοῦ Δ τῇ ΑΒ              (ABC), at random, and let (AB) have been cut in half at
+πρὸς ὀρθὰς ἤχθω ἡ ΔΓ καὶ διήχθω ἐπὶ τὸ Ε, καὶ τετμήσθω            point D [Prop. 1.9]. And let DC have been drawn from
+ἡ ΓΕ δίχα κατὰ τὸ Ζ· λέγω, ὅτι τὸ Ζ κέντρον ἐστὶ τοῦ ΑΒΓ          D, at right-angles to AB [Prop. 1.11]. And let (CD) have
+[κύκλου].                                                         been drawn through to E. And let CE have been cut in
+    Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, ἔστω τὸ Η, καὶ ἐπεζεύχθωσαν          half at F [Prop. 1.9]. I say that (point) F is the center of
+αἱ ΗΑ, ΗΔ, ΗΒ. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΔ τῇ ΔΒ, κοινὴ δὲ ἡ          the [circle] ABC.
+ΔΗ, δύο δὴ αἱ ΑΔ, ΔΗ δύο ταῖς ΗΔ, ΔΒ ἴσαι εἰσὶν ἑκατέρα               For (if) not then, if possible, let G (be the center of the
+ἑκατέρᾳ· καὶ βάσις ἡ ΗΑ βάσει τῇ ΗΒ ἐστιν ἴση· ἐκ κέντρου         circle), and let GA, GD, and GB have been joined. And
+γάρ· γωνία ἄρα ἡ ὑπὸ ΑΔΗ γωνίᾳ τῇ ὑπὸ ΗΔΒ ἴση ἐστίν.              since AD is equal to DB, and DG (is) common, the two
+
+
+                                                              70
+STOIQEIWN gþ.                                                                                     ELEMENTS BOOK 3
+
+ὅταν δὲ εὐθεῖα ἐπ᾿ εὐθεῖαν σταθεῖσα τὰς ἐφεξῆς γωνίας           (straight-lines) AD, DG are equal to the two (straight-
+ἴσας ἀλλήλαις ποιῇ, ὀρθὴ ἑκατέρα τῶν ἴσων γωνιῶν ἐστιν·         lines) BD, DG,† respectively. And the base GA is equal
+ὀρθὴ ἄρα ἐστὶν ἡ ὑπὸ ΗΔΒ. ἐστὶ δὲ καὶ ἡ ὑπὸ ΖΔΒ ὀρθή·           to the base GB. For (they are both) radii. Thus, angle
+ἴση ἄρα ἡ ὑπὸ ΖΔΒ τῇ ὑπὸ ΗΔΒ, ἡ μείζων τῇ ἐλάττονι·             ADG is equal to angle GDB [Prop. 1.8]. And when a
+ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα τὸ Η κέντρον ἐστὶ τοῦ ΑΒΓ          straight-line stood upon (another) straight-line make ad-
+κύκλου. ὁμοίως δὴ δείξομεν, ὅτι οὐδ᾿ ἄλλο τι πλὴν τοῦ Ζ.        jacent angles (which are) equal to one another, each of
+                                                                the equal angles is a right-angle [Def. 1.10]. Thus, GDB
+                                                                is a right-angle. And F DB is also a right-angle. Thus,
+                                                                F DB (is) equal to GDB, the greater to the lesser. The
+                                                                very thing is impossible. Thus, (point) G is not the center
+                                                                of the circle ABC. So, similarly, we can show that neither
+                                                                is any other (point) except F .
+                                Γ                                                           C
+
+
+
+
+                                      Η                                                           G
+                               Ζ                                                           F
+
+
+               Α                                 Β                            A                            B
+                               ∆                                                           D
+
+                                Ε                                                           E
+    Τὸ Ζ ἄρα σημεῖον κέντρον ἐστὶ τοῦ ΑΒΓ [κύκλου].                 Thus, point F is the center of the [circle] ABC.
+
+                           Pìrisma.                                                     Corollary
+   ᾿Εκ δὴ τούτου φανερόν, ὅτι ἐὰν ἐν κύκλῳ εὐθεῖά τις         So, from this, (it is) manifest that if any straight-line
+εὐθεῖάν τινα δίχα καὶ πρὸς ὀρθὰς τέμνῃ, ἐπὶ τῆς τεμνούσης in a circle cuts any (other) straight-line in half, and at
+ἐστὶ τὸ κέντρον τοῦ κύκλου. — ὅπερ ἔδει ποιῆσαι.          right-angles, then the center of the circle is on the for-
+                                                          mer (straight-line). — (Which is) the very thing it was
+                                                          required to do.
+† The Greek text has “GD, DB”, which is obviously a mistake.
+
+
+
+                                bþ.                                                  Proposition 2
+    ᾿Εὰν κύκλου ἐπὶ τῆς περιφερείας ληφθῇ δύο τυχόντα               If two points are taken at random on the circumfer-
+σημεῖα, ἡ ἐπὶ τὰ σημεῖα ἐπιζευγνυμένη εὐθεῖα ἐντὸς πεσεῖται     ence of a circle then the straight-line joining the points
+τοῦ κύκλου.                                                     will fall inside the circle.
+    ῎Εστω κύκλος ὁ ΑΒΓ, καὶ ἐπὶ τῆς περιφερείας αὐτοῦ               Let ABC be a circle, and let two points A and B have
+εἰλήφθω δύο τυχόντα σημεῖα τὰ Α, Β· λέγω, ὅτι ἡ ἀπὸ             been taken at random on its circumference. I say that the
+τοῦ Α ἐπὶ τὸ Β ἐπιζευγνυμένη εὐθεῖα ἐντὸς πεσεῖται τοῦ          straight-line joining A to B will fall inside the circle.
+κύκλου.                                                             For (if) not then, if possible, let it fall outside (the
+    Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, πιπτέτω ἐκτὸς ὡς ἡ ΑΕΒ, καὶ        circle), like AEB (in the figure). And let the center of
+εἰλήφθω τὸ κέντρον τοῦ ΑΒΓ κύκλου, καὶ ἔστω τὸ Δ, καὶ           the circle ABC have been found [Prop. 3.1], and let it be
+ἐπεζεύχθωσαν αἱ ΔΑ, ΔΒ, καὶ διήχθω ἡ ΔΖΕ.                       (at point) D. And let DA and DB have been joined, and
+    ᾿Επεὶ οὖν ἴση ἐστὶν ἡ ΔΑ τῇ ΔΒ, ἴση ἄρα καὶ γωνία ἡ         let DF E have been drawn through.
+ὑπὸ ΔΑΕ τῇ ὑπὸ ΔΒΕ· καὶ ἐπεὶ τριγώνου τοῦ ΔΑΕ μία                   Therefore, since DA is equal to DB, the angle DAE
+
+
+
+                                                               71
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+πλευρὰ προσεκβέβληται ἡ ΑΕΒ, μείζων ἄρα ἡ ὑπὸ ΔΕΒ             (is) thus also equal to DBE [Prop. 1.5]. And since in tri-
+γωνία τῆς ὑπὸ ΔΑΕ. ἴση δὲ ἡ ὑπὸ ΔΑΕ τῇ ὑπὸ ΔΒΕ·               angle DAE the one side, AEB, has been produced, an-
+μείζων ἄρα ἡ ὑπὸ ΔΕΒ τῆς ὑπὸ ΔΒΕ. ὑπὸ δὲ τὴν μείζονα          gle DEB (is) thus greater than DAE [Prop. 1.16]. And
+γωνίαν ἡ μείζων πλευρὰ ὑποτείνει· μείζων ἄρα ἡ ΔΒ τῆς         DAE (is) equal to DBE [Prop. 1.5]. Thus, DEB (is)
+ΔΕ. ἴση δὲ ἡ ΔΒ τῇ ΔΖ. μείζων ἄρα ἡ ΔΖ τῆς ΔΕ ἡ               greater than DBE. And the greater angle is subtended
+ἐλάττων τῆς μείζονος· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα ἡ          by the greater side [Prop. 1.19]. Thus, DB (is) greater
+ἀπὸ τοῦ Α ἐπὶ τὸ Β ἐπιζευγνυμένη εὐθεῖα ἐκτὸς πεσεῖται        than DE. And DB (is) equal to DF . Thus, DF (is)
+τοῦ κύκλου. ὁμοίως δὴ δείξομεν, ὅτι οὐδὲ ἐπ᾿ αὐτῆς τῆς        greater than DE, the lesser than the greater. The very
+περιφερείας· ἐντὸς ἄρα.                                       thing is impossible. Thus, the straight-line joining A to
+                                                              B will not fall outside the circle. So, similarly, we can
+                                                              show that neither (will it fall) on the circumference itself.
+                                                              Thus, (it will fall) inside (the circle).
+
+                                           Γ                                                              C
+
+
+                              ∆                                                              D
+          Α                                                              A
+
+
+                   Ζ                                                               F
+                  Ε                                                              E
+                              Β                                                              B
+   ᾿Εὰν ἄρα κύκλου ἐπὶ τῆς περιφερείας ληφθῇ δύο τυχόντα        Thus, if two points are taken at random on the cir-
+σημεῖα, ἡ ἐπὶ τὰ σημεῖα ἐπιζευγνυμένη εὐθεῖα ἐντὸς πεσεῖται cumference of a circle then the straight-line joining the
+τοῦ κύκλου· ὅπερ ἔδει δεῖξαι.                               points will fall inside the circle. (Which is) the very thing
+                                                            it was required to show.
+
+                            gþ.                                                      Proposition 3
+    ᾿Εὰν ἐν κύκλῳ εὐθεῖά τις διὰ τοῦ κέντρου εὐθεῖάν τινα         In a circle, if any straight-line through the center cuts
+μὴ διὰ τοῦ κέντρου δίχα τέμνῃ, καὶ πρὸς ὀρθὰς αὐτὴν τέμνει·   in half any straight-line not through the center then it
+καὶ ἐὰν πρὸς ὀρθὰς αὐτὴν τέμνῃ, καὶ δίχα αὐτὴν τέμνει.        also cuts it at right-angles. And (conversely) if it cuts it
+    ῎Εστω κύκλος ὁ ΑΒΓ, καὶ ἐν αὐτῷ εὐθεῖά τις διὰ τοῦ        at right-angles then it also cuts it in half.
+κέντρου ἡ ΓΔ εὐθεῖάν τινα μὴ διὰ τοῦ κέντρου τὴν ΑΒ δίχα          Let ABC be a circle, and, within it, let some straight-
+τεμνέτω κατὰ τὸ Ζ σημεῖον· λέγω, ὅτι καὶ πρὸς ὀρθὰς αὐτὴν     line through the center, CD, cut in half some straight-line
+τέμνει.                                                       not through the center, AB, at the point F . I say that
+    Εἰλήφθω γὰρ τὸ κέντρον τοῦ ΑΒΓ κύκλου, καὶ ἔστω           (CD) also cuts (AB) at right-angles.
+τὸ Ε, καὶ ἐπεζεύχθωσαν αἱ ΕΑ, ΕΒ.                                 For let the center of the circle ABC have been found
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΖ τῇ ΖΒ, κοινὴ δὲ ἡ ΖΕ, δύο δυσὶν   [Prop. 3.1], and let it be (at point) E, and let EA and
+ἴσαι [εἰσίν]· καὶ βάσις ἡ ΕΑ βάσει τῇ ΕΒ ἴση· γωνία ἄρα ἡ     EB have been joined.
+ὑπὸ ΑΖΕ γωνίᾳ τῇ ὑπὸ ΒΖΕ ἴση ἐστίν. ὅταν δὲ εὐθεῖα ἐπ᾿            And since AF is equal to F B, and F E (is) common,
+εὐθεῖαν σταθεῖσα τὰς ἐφεξῆς γωνίας ἴσας ἀλλήλαις ποιῇ,        two (sides of triangle AF E) [are] equal to two (sides of
+ὀρθὴ ἑκατέρα τῶν ἴσων γωνιῶν ἐστιν· ἑκατέρα ἄρα τῶν           triangle BF E). And the base EA (is) equal to the base
+ὑπὸ ΑΖΕ, ΒΖΕ ὀρθή ἐστιν. ἡ ΓΔ ἄρα διὰ τοῦ κέντρου             EB. Thus, angle AF E is equal to angle BF E [Prop. 1.8].
+οὖσα τὴν ΑΒ μὴ διὰ τοῦ κέντρου οὖσαν δίχα τέμνουσα καὶ        And when a straight-line stood upon (another) straight-
+πρὸς ὀρθὰς τέμνει.                                            line makes adjacent angles (which are) equal to one an-
+                                                              other, each of the equal angles is a right-angle [Def. 1.10].
+                                                              Thus, AF E and BF E are each right-angles. Thus, the
+
+
+                                                           72
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+                                                              (straight-line) CD, which is through the center and cuts
+                                                              in half the (straight-line) AB, which is not through the
+                                                              center, also cuts (AB) at right-angles.
+                            Γ                                                             C
+
+
+
+                             Ε                                                              E
+           Α                                 Β                            A                 F               B
+                              Ζ
+
+                            ∆                                                             D
+    ᾿Αλλὰ δὴ ἡ ΓΔ τὴν ΑΒ πρὸς ὀρθὰς τεμνέτω· λέγω, ὅτι            And so let CD cut AB at right-angles. I say that it
+καὶ δίχα αὐτὴν τέμνει, τουτέστιν, ὅτι ἴση ἐστὶν ἡ ΑΖ τῇ ΖΒ.   also cuts (AB) in half. That is to say, that AF is equal to
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων, ἐπεὶ ἴση ἐστὶν ἡ          F B.
+ΕΑ τῇ ΕΒ, ἴση ἐστὶ καὶ γωνία ἡ ὑπὸ ΕΑΖ τῇ ὑπὸ ΕΒΖ.                For, with the same construction, since EA is equal
+ἐστὶ δὲ καὶ ὀρθὴ ἡ ὑπὸ ΑΖΕ ὀρθῇ τῇ ὑπὸ ΒΖΕ ἴση· δύο           to EB, angle EAF is also equal to EBF [Prop. 1.5].
+ἄρα τρίγωνά ἐστι ΕΑΖ, ΕΖΒ τὰς δύο γωνίας δυσὶ γωνίαις         And the right-angle AF E is also equal to the right-angle
+ἴσας ἔχοντα καὶ μίαν πλευρὰν μιᾷ πλευρᾷ ἴσην κοινὴν αὐτῶν     BF E. Thus, EAF and EF B are two triangles having
+τὴν ΕΖ ὑποτείνουσαν ὑπὸ μίαν τῶν ἴσων γωνιῶν· καὶ τὰς         two angles equal to two angles, and one side equal to
+λοιπὰς ἄρα πλευρὰς ταῖς λοιπαῖς πλευραῖς ἴσας ἕξει· ἴση ἄρα   one side—(namely), their common (side) EF , subtend-
+ἡ ΑΖ τῇ ΖΒ.                                                   ing one of the equal angles. Thus, they will also have the
+    ᾿Εὰν ἄρα ἐν κύκλῳ εὐθεῖά τις διὰ τοῦ κέντρου εὐθεῖάν      remaining sides equal to the (corresponding) remaining
+τινα μὴ διὰ τοῦ κέντρου δίχα τέμνῃ, καὶ πρὸς ὀρθὰς αὐτὴν      sides [Prop. 1.26]. Thus, AF (is) equal to F B.
+τέμνει· καὶ ἐὰν πρὸς ὀρθὰς αὐτὴν τέμνῃ, καὶ δίχα αὐτὴν            Thus, in a circle, if any straight-line through the cen-
+τέμνει· ὅπερ ἔδει δεῖξαι.                                     ter cuts in half any straight-line not through the center
+                                                              then it also cuts it at right-angles. And (conversely) if it
+                                                              cuts it at right-angles then it also cuts it in half. (Which
+                                                              is) the very thing it was required to show.
+
+                            dþ.                                                    Proposition 4
+    ᾿Εὰν ἐν κύκλῳ δύο εὐθεῖαι τέμνωσιν ἀλλήλας μὴ δὶα τοῦ         In a circle, if two straight-lines, which are not through
+κέντρου οὖσαι, οὐ τέμνουσιν ἀλλήλας δίχα.                     the center, cut one another then they do not cut one an-
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, καὶ ἐν αὐτῷ δύο εὐθεῖαι αἱ ΑΓ,       other in half.
+ΒΔ τεμνέτωσαν ἀλλήλας κατὰ τὸ Ε μὴ διὰ τοῦ κέντρου                Let ABCD be a circle, and within it, let two straight-
+οὖσαι· λέγω, ὅτι οὐ τέμνουσιν ἀλλήλας δίχα.                   lines, AC and BD, which are not through the center, cut
+    Εἰ γὰρ δυνατόν, τεμνέτωσαν ἀλλήλας δίχα ὥστε ἴσην         one another at (point) E. I say that they do not cut one
+εἶναι τὴν μὲν ΑΕ τῇ ΕΓ, τὴν δὲ ΒΕ τῇ ΕΔ· καὶ εἰλήφθω τὸ       another in half.
+κέντρον τοῦ ΑΒΓΔ κύκλου, καὶ ἔστω τὸ Ζ, καὶ ἐπεζεύχθω             For, if possible, let them cut one another in half, such
+ἡ ΖΕ.                                                         that AE is equal to EC, and BE to ED. And let the
+    ᾿Επεὶ οὖν εὐθεῖά τις διὰ τοῦ κέντρου ἡ ΖΕ εὐθεῖάν τινα    center of the circle ABCD have been found [Prop. 3.1],
+μὴ διὰ τοῦ κέντρου τὴν ΑΓ δίχα τέμνει, καὶ πρὸς ὀρθὰς         and let it be (at point) F , and let F E have been joined.
+αὐτὴν τέμνει· ὀρθὴ ἄρα ἐστὶν ἡ ὑπὸ ΖΕΑ· πάλιν, ἐπεὶ εὐθεῖά        Therefore, since some straight-line through the center,
+τις ἡ ΖΕ εὐθεῖάν τινα τὴν ΒΔ δίχα τέμνει, καὶ πρὸς ὀρθὰς      F E, cuts in half some straight-line not through the cen-
+αὐτὴν τέμνει· ὀρθὴ ἄρα ἡ ὑπὸ ΖΕΒ. ἐδείχθη δὲ καὶ ἡ ὑπὸ        ter, AC, it also cuts it at right-angles [Prop. 3.3]. Thus,
+ΖΕΑ ὀρθή· ἴση ἄρα ἡ ὑπὸ ΖΕΑ τῇ ὑπὸ ΖΕΒ ἡ ἐλάττων τῇ           F EA is a right-angle. Again, since some straight-line F E
+
+                                                          73
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+μείζονι· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα αἱ ΑΓ, ΒΔ τέμνουσιν cuts in half some straight-line BD, it also cuts it at right-
+ἀλλήλας δίχα.                                             angles [Prop. 3.3]. Thus, F EB (is) a right-angle. But
+                                                          F EA was also shown (to be) a right-angle. Thus, F EA
+                                                          (is) equal to F EB, the lesser to the greater. The very
+                                                          thing is impossible. Thus, AC and BD do not cut one
+                                                          another in half.
+
+
+
+
+                            Ζ                 ∆                                            F              D
+         Α                                                            A
+
+
+                              Ε                                                            E
+                                         Γ                                                            C
+                  Β                                                            B
+    ᾿Εὰν ἄρα ἐν κύκλῳ δύο εὐθεῖαι τέμνωσιν ἀλλήλας μὴ δὶα    Thus, in a circle, if two straight-lines, which are not
+τοῦ κέντρου οὖσαι, οὐ τέμνουσιν ἀλλήλας δίχα· ὅπερ ἔδει through the center, cut one another then they do not cut
+δεῖξαι.                                                   one another in half. (Which is) the very thing it was re-
+                                                          quired to show.
+
+                           eþ.                                                     Proposition 5
+   ᾿Εὰν δύο κύκλοι τέμνωσιν ἀλλήλους, οὐκ ἔσται αὐτῶν    If two circles cut one another then they will not have
+τὸ αὐτὸ κέντρον.                                      the same center.
+              Α                    Γ                                       A                    C
+                      ∆                                                            D
+
+                          Ε                                                            E
+             Β                     Ζ                                      B                     F
+
+                                        Η                                                            G
+   Δύο γὰρ κύκλοι οἱ ΑΒΓ, ΓΔΗ τεμνέτωσαν ἀλλήλους               For let the two circles ABC and CDG cut one another
+κατὰ τὰ Β, Γ σημεῖα. λέγω, ὅτι οὐκ ἔσται αὐτῶν τὸ αὐτὸ      at points B and C. I say that they will not have the same
+κέντρον.                                                    center.
+    Εἰ γὰρ δυνατόν, ἔστω τὸ Ε, καὶ ἐπεζεύχθω ἡ ΕΓ, καὶ          For, if possible, let E be (the common center), and
+διήχθω ἡ ΕΖΗ, ὡς ἔτυχεν. καὶ ἐπεὶ τὸ Ε σημεῖον κέντρον      let EC have been joined, and let EF G have been drawn
+ἐστὶ τοῦ ΑΒΓ κύκλου, ἵση ἐστὶν ἡ ΕΓ τῇ ΕΖ. πάλιν, ἐπεὶ τὸ   through (the two circles), at random. And since point
+Ε σημεῖον κέντρον ἐστὶ τοῦ ΓΔΗ κύκλου, ἴση ἐστὶν ἡ ΕΓ       E is the center of the circle ABC, EC is equal to EF .
+τῇ ΕΗ· ἐδείχθη δὲ ἡ ΕΓ καὶ τῇ ΕΖ ἴση· καὶ ἡ ΕΖ ἄρα τῇ ΕΗ    Again, since point E is the center of the circle CDG, EC
+ἐστιν ἴση ἡ ἐλάσσων τῇ μείζονι· ὅπερ ἐστὶν ἀδύνατον. οὐκ    is equal to EG. But EC was also shown (to be) equal
+ἄρα τὸ Ε σημεῖον κέντρον ἐστὶ τῶν ΑΒΓ, ΓΔΗ κύκλων.          to EF . Thus, EF is also equal to EG, the lesser to the
+   ᾿Εὰν ἄρα δύο κύκλοι τέμνωσιν ἀλλήλους, οὐκ ἔστιν         greater. The very thing is impossible. Thus, point E is not
+
+
+                                                          74
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+αὐτῶν τὸ αὐτὸ κέντρον· ὅπερ ἔδει δεῖξαι.                    the (common) center of the circles ABC and CDG.
+                                                               Thus, if two circles cut one another then they will not
+                                                            have the same center. (Which is) the very thing it was
+                                                            required to show.
+
+                               þ.                                                 Proposition 6
+   ᾿Εὰν δύο κύκλοι ἐφάπτωνται ἀλλήλων, οὐκ ἔσται αὐτῶν    If two circles touch one another then they will not
+τὸ αὐτὸ κέντρον.                                       have the same center.
+                  Γ                                                            C
+
+
+
+
+                           Ζ                                                            F
+                                      Ε      Β                                                       E       B
+
+
+                       ∆                                                            D
+
+                   Α                                                            A
+   Δύο γὰρ κύκλοι οἱ ΑΒΓ, ΓΔΕ ἐφαπτέσθωσαν ἀλλήλων              For let the two circles ABC and CDE touch one an-
+κατὰ τὸ Γ σημεῖον· λέγω, ὅτι οὐκ ἔσται αὐτῶν τὸ αὐτὸ        other at point C. I say that they will not have the same
+κέντρον.                                                    center.
+   Εἰ γὰρ δυνατόν, ἔστω τὸ Ζ, καὶ ἐπεζεύχθω ἡ ΖΓ, καὶ           For, if possible, let F be (the common center), and
+διήχθω, ὡς ἔτυχεν, ἡ ΖΕΒ.                                   let F C have been joined, and let F EB have been drawn
+   ᾿Επεὶ οὖν τὸ Ζ σημεῖον κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου,      through (the two circles), at random.
+ἴση ἐστὶν ἡ ΖΓ τῇ ΖΒ. πάλιν, ἐπεὶ τὸ Ζ σημεῖον κέντρον          Therefore, since point F is the center of the circle
+ἐστὶ τοῦ ΓΔΕ κύκλου, ἴση ἐστὶν ἡ ΖΓ τῇ ΖΕ. ἐδείχθη δὲ ἡ     ABC, F C is equal to F B. Again, since point F is the
+ΖΓ τῇ ΖΒ ἴση· καὶ ἡ ΖΕ ἄρα τῇ ΖΒ ἐστιν ἴση, ἡ ἐλάττων       center of the circle CDE, F C is equal to F E. But F C
+τῇ μείζονι· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα τὸ Ζ σημεῖον       was shown (to be) equal to F B. Thus, F E is also equal
+κέντρον ἐστὶ τῶν ΑΒΓ, ΓΔΕ κύκλων.                           to F B, the lesser to the greater. The very thing is impos-
+   ᾿Εὰν ἄρα δύο κύκλοι ἐφάπτωνται ἀλλήλων, οὐκ ἔσται        sible. Thus, point F is not the (common) center of the
+αὐτῶν τὸ αὐτὸ κέντρον· ὅπερ ἔδει δεῖξαι.                    circles ABC and CDE.
+                                                                Thus, if two circles touch one another then they will
+                                                            not have the same center. (Which is) the very thing it was
+                                                            required to show.
+
+                               zþ.                                                 Proposition 7
+   ᾿Εὰν κύκλου ἐπὶ τῆς διαμέτρου ληφθῇ τι σημεῖον, ὃ μή         If some point, which is not the center of the circle,
+ἐστι κέντρον τοῦ κύκλου, ἀπὸ δὲ τοῦ σημείου πρὸς τὸν        is taken on the diameter of a circle, and some straight-
+κύκλον προσπίπτωσιν εὐθεῖαί τινες, μεγίστη μὲν ἔσται, ἐφ᾿   lines radiate from the point towards the (circumference
+ἧς τὸ κέντρον, ἐλαχίστη δὲ ἡ λοιπή, τῶν δὲ ἄλλων ἀεὶ ἡ      of the) circle, then the greatest (straight-line) will be that
+ἔγγιον τῆς δὶα τοῦ κέντρου τῆς ἀπώτερον μείζων ἐστίν,       on which the center (lies), and the least the remainder
+δύο δὲ μόνον ἴσαι ἀπὸ τοῦ σημείου προσπεσοῦνται πρὸς        (of the same diameter). And for the others, a (straight-
+τὸν κύκλον ἐφ᾿ ἑκάτερα τῆς ἐλαχίστης.                       line) nearer† to the (straight-line) through the center is
+                                                            always greater than a (straight-line) further away. And
+                                                            only two equal (straight-lines) will radiate from the point
+                                                            towards the (circumference of the) circle, (one) on each
+
+
+                                                        75
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+                                                            (side) of the least (straight-line).
+                     Γ              Η                                              C               G
+
+          Β                                                             B
+
+
+
+      Α                              Ζ          ∆                  A                                   F       D
+                          Ε                                                             E
+
+
+
+
+                                        Θ                                                                  H
+                                   Κ                                                               K
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, διάμετρος δὲ αὐτοῦ ἔστω ἡ ΑΔ,          Let ABCD be a circle, and let AD be its diameter, and
+καὶ ἐπὶ τῆς ΑΔ εἰλήφθω τι σημεῖον τὸ Ζ, ὃ μή ἐστι κέντρον   let some point F , which is not the center of the circle,
+τοῦ κύκλου, κέντρον δὲ τοῦ κύκλου ἔστω τὸ Ε, καὶ ἀπὸ τοῦ    have been taken on AD. Let E be the center of the circle.
+Ζ πρὸς τὸν ΑΒΓΔ κύκλον προσπιπτέτωσαν εὐθεῖαί τινες αἱ      And let some straight-lines, F B, F C, and F G, radiate
+ΖΒ, ΖΓ, ΖΗ· λέγω, ὅτι μεγίστη μέν ἐστιν ἡ ΖΑ, ἐλαχίστη      from F towards (the circumference of) circle ABCD. I
+δὲ ἡ ΖΔ, τῶν δὲ ἄλλων ἡ μὲν ΖΒ τῆς ΖΓ μείζων, ἡ δὲ ΖΓ       say that F A is the greatest (straight-line), F D the least,
+τῆς ΖΗ.                                                     and of the others, F B (is) greater than F C, and F C than
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΒΕ, ΓΕ, ΗΕ. καὶ ἐπεὶ παντὸς        F G.
+τριγώνου αἱ δύο πλευραὶ τῆς λοιπῆς μείζονές εἰσιν, αἱ ἄρα       For let BE, CE, and GE have been joined. And since
+ΕΒ, ΕΖ τῆς ΒΖ μείζονές εἰσιν. ἴση δὲ ἡ ΑΕ τῇ ΒΕ [αἱ ἄρα     for every triangle (any) two sides are greater than the
+ΒΕ, ΕΖ ἴσαι εἰσὶ τῇ ΑΖ]· μείζων ἄρα ἡ ΑΖ τῆς ΒΖ. πάλιν,     remaining (side) [Prop. 1.20], EB and EF is thus greater
+ἐπεὶ ἴση ἐστὶν ἡ ΒΕ τῇ ΓΕ, κοινὴ δὲ ἡ ΖΕ, δύο δὴ αἱ ΒΕ,     than BF . And AE (is) equal to BE [thus, BE and EF
+ΕΖ δυσὶ ταῖς ΓΕ, ΕΖ ἴσαι εἰσίν. ἀλλὰ καὶ γωνία ἡ ὑπὸ ΒΕΖ    is equal to AF ]. Thus, AF (is) greater than BF . Again,
+γωνίας τῆς ὑπὸ ΓΕΖ μείζων· βάσις ἄρα ἡ ΒΖ βάσεως τῆς        since BE is equal to CE, and F E (is) common, the two
+ΓΖ μείζων ἐστίν. διὰ τὰ αὐτὰ δὴ καὶ ἡ ΓΖ τῆς ΖΗ μείζων      (straight-lines) BE, EF are equal to the two (straight-
+ἐστίν.                                                      lines) CE, EF (respectively). But, angle BEF (is) also
+    Πάλιν, ἐπεὶ αἱ ΗΖ, ΖΕ τῆς ΕΗ μείζονές εἰσιν, ἴση δὲ ἡ   greater than angle CEF .‡ Thus, the base BF is greater
+ΕΗ τῇ ΕΔ, αἱ ἄρα ΗΖ, ΖΕ τῆς ΕΔ μείζονές εἰσιν. κοινὴ        than the base CF . Thus, the base BF is greater than the
+ἀφῃρήσθω ἡ ΕΖ· λοιπὴ ἄρα ἡ ΗΖ λοιπῆς τῆς ΖΔ μείζων          base CF [Prop. 1.24]. So, for the same (reasons), CF is
+ἐστίν. μεγίστη μὲν ἄρα ἡ ΖΑ, ἐλαχίστη δὲ ἡ ΖΔ, μείζων δὲ    also greater than F G.
+ἡ μὲν ΖΒ τῆς ΖΓ, ἡ δὲ ΖΓ τῆς ΖΗ.                                Again, since GF and F E are greater than EG
+    Λέγω, ὅτι καὶ ἀπὸ τοῦ Ζ σημείου δύο μόνον ἴσαι προ-     [Prop. 1.20], and EG (is) equal to ED, GF and F E
+σπεσοῦνται πρὸς τὸν ΑΒΓΔ κύκλον ἐφ᾿ ἑκάτερα τῆς ΖΔ          are thus greater than ED. Let EF have been taken from
+ἐλαχίστης. συνεστάτω γὰρ πρὸς τῇ ΕΖ εὐθείᾳ καὶ τῷ πρὸς      both. Thus, the remainder GF is greater than the re-
+αὐτῇ σημείῳ τῷ Ε τῇ ὑπὸ ΗΕΖ γωνίᾳ ἴση ἡ ὑπὸ ΖΕΘ, καὶ        mainder F D. Thus, F A (is) the greatest (straight-line),
+ἐπεζεύχθω ἡ ΖΘ. ἐπεὶ οὖν ἴση ἐστὶν ἡ ΗΕ τῇ ΕΘ, κοινὴ        F D the least, and F B (is) greater than F C, and F C than
+δὲ ἡ ΕΖ, δύο δὴ αἱ ΗΕ, ΕΖ δυσὶ ταῖς ΘΕ, ΕΖ ἴσαι εἰσίν·      F G.
+καὶ γωνία ἡ ὑπὸ ΗΕΖ γωνίᾳ τῇ ὑπὸ ΘΕΖ ἴση· βάσις ἄρα             I also say that from point F only two equal (straight-
+ἡ ΖΗ βάσει τῇ ΖΘ ἴση ἐστίν. λέγω δή, ὅτι τῇ ΖΗ ἄλλη         lines) will radiate towards (the circumference of) circle
+ἴση οὐ προσπεσεῖται πρὸς τὸν κύκλον ἀπὸ τοῦ Ζ σημείου.      ABCD, (one) on each (side) of the least (straight-line)
+εἰ γὰρ δυνατόν, προσπιπτέτω ἡ ΖΚ. καὶ ἐπεὶ ἡ ΖΚ τῇ ΖΗ       F D. For let the (angle) F EH, equal to angle GEF , have
+ἴση ἐστίν, ἀλλὰ ἡ ΖΘ τῇ ΖΗ [ἴση ἐστίν], καὶ ἡ ΖΚ ἄρα τῇ     been constructed on the straight-line EF , at the point E
+ΖΘ ἐστιν ἴση, ἡ ἔγγιον τῆς διὰ τοῦ κέντρου τῇ ἀπώτερον      on it [Prop. 1.23], and let F H have been joined. There-
+ἴση· ὅπερ ἀδύνατον. οὐκ ἄρα ἀπὸ τοῦ Ζ σημείου ἑτέρα τις     fore, since GE is equal to EH, and EF (is) common,
+
+
+                                                        76
+STOIQEIWN gþ.                                                                                   ELEMENTS BOOK 3
+
+προσπεσεῖται πρὸς τὸν κύκλον ἴση τῇ ΗΖ· μία ἄρα μόνη.        the two (straight-lines) GE, EF are equal to the two
+    ᾿Εὰν ἄρα κύκλου ἐπὶ τῆς διαμέτρου ληφθῇ τι σημεῖον,      (straight-lines) HE, EF (respectively). And angle GEF
+ὃ μή ἐστι κέντρον τοῦ κύκλου, ἀπὸ δὲ τοῦ σημείου πρὸς        (is) equal to angle HEF . Thus, the base F G is equal to
+τὸν κύκλον προσπίπτωσιν εὐθεῖαί τινες, μεγίστη μὲν ἔσται,    the base F H [Prop. 1.4]. So I say that another (straight-
+ἐφ᾿ ἧς τὸ κέντρον, ἐλαχίστη δὲ ἡ λοιπή, τῶν δὲ ἄλλων ἀεὶ ἡ   line) equal to F G will not radiate towards (the circumfer-
+ἔγγιον τῆς δὶα τοῦ κέντρου τῆς ἀπώτερον μείζων ἐστίν, δύο    ence of) the circle from point F . For, if possible, let F K
+δὲ μόνον ἴσαι ἀπὸ τοῦ αὐτοῦ σημείου προσπεσοῦνται πρὸς       (so) radiate. And since F K is equal to F G, but F H [is
+τὸν κύκλον ἐφ᾿ ἑκάτερα τῆς ἐλαχίστης· ὅπερ ἔδει δεῖξαι.      equal] to F G, F K is thus also equal to F H, the nearer
+                                                             to the (straight-line) through the center equal to the fur-
+                                                             ther away. The very thing (is) impossible. Thus, another
+                                                             (straight-line) equal to GF will not radiate from the point
+                                                             F towards (the circumference of) the circle. Thus, (there
+                                                             is) only one (such straight-line).
+                                                                 Thus, if some point, which is not the center of the
+                                                             circle, is taken on the diameter of a circle, and some
+                                                             straight-lines radiate from the point towards the (circum-
+                                                             ference of the) circle, then the greatest (straight-line)
+                                                             will be that on which the center (lies), and the least
+                                                             the remainder (of the same diameter). And for the oth-
+                                                             ers, a (straight-line) nearer to the (straight-line) through
+                                                             the center is always greater than a (straight-line) further
+                                                             away. And only two equal (straight-lines) will radiate
+                                                             from the same point towards the (circumference of the)
+                                                             circle, (one) on each (side) of the least (straight-line).
+                                                             (Which is) the very thing it was required to show.
+† Presumably, in an angular sense.
+‡ This is not proved, except by reference to the figure.
+
+
+
+                                   hþ.                                            Proposition 8
+    ᾿Εὰν κύκλου ληφθῇ τι σημεῖον ἐκτός, ἀπὸ δὲ τοῦ               If some point is taken outside a circle, and some
+σημείου πρὸς τὸν κύκλον διαχθῶσιν εὐθεῖαί τινες, ὧν μία      straight-lines are drawn from the point to the (circum-
+μὲν διὰ τοῦ κέντρου, αἱ δὲ λοιπαί, ὡς ἔτυχεν, τῶν μὲν πρὸς   ference of the) circle, one of which (passes) through
+τὴν κοίλην περιφέρειαν προσπιπτουσῶν εὐθειῶν μεγίστη         the center, the remainder (being) random, then for the
+μέν ἐστιν ἡ διὰ τοῦ κέντρου, τῶν δὲ ἄλλων ἀεὶ ἡ ἔγγιον τῆς   straight-lines radiating towards the concave (part of the)
+διὰ τοῦ κέντρου τῆς ἀπώτερον μείζων ἐστίν, τῶν δὲ πρὸς       circumference, the greatest is that (passing) through the
+τὴν κυρτὴν περιφέρειαν προσπιπτουσῶν εὐθειῶν ἐλαχίστη        center. For the others, a (straight-line) nearer† to the
+μέν ἐστιν ἡ μεταξὺ τοῦ τε σημείου καὶ τῆς διαμέτρου, τῶν     (straight-line) through the center is always greater than
+δὲ ἄλλων ἀεὶ ἡ ἔγγιον τῆς ἐλαχίστης τῆς ἀπώτερόν ἐστιν       one further away. For the straight-lines radiating towards
+ἐλάττων, δύο δὲ μόνον ἴσαι ἀπὸ τοῦ σημείου προσπεσοῦνται     the convex (part of the) circumference, the least is that
+πρὸς τὸν κύκλον ἐφ᾿ ἑκάτερα τῆς ἐλαχίστης.                   between the point and the diameter. For the others, a
+    ῎Εστω κύκλος ὁ ΑΒΓ, καὶ τοῦ ΑΒΓ εἰλήφθω τι σημεῖον       (straight-line) nearer to the least (straight-line) is always
+ἐκτὸς τὸ Δ, καὶ ἀπ᾿ αὐτοῦ διήχθωσαν εὐθεῖαί τινες αἱ ΔΑ,     less than one further away. And only two equal (straight-
+ΔΕ, ΔΖ, ΔΓ, ἔστω δὲ ἡ ΔΑ διὰ τοῦ κέντρου. λέγω,              lines) will radiate from the point towards the (circum-
+ὅτι τῶν μὲν πρὸς τὴν ΑΕΖΓ κοίλην περιφέρειαν προσπι-         ference of the) circle, (one) on each (side) of the least
+πτουσῶν εὐθειῶν μεγίστη μέν ἐστιν ἡ διὰ τοῦ κέντρου ἡ        (straight-line).
+ΔΑ, μείζων δὲ ἡ μὲν ΔΕ τῆς ΔΖ ἡ δὲ ΔΖ τῆς ΔΓ, τῶν                Let ABC be a circle, and let some point D have been
+δὲ πρὸς τὴν ΘΛΚΗ κυρτὴν περιφέρειαν προσπιπτουσῶν            taken outside ABC, and from it let some straight-lines,
+εὐθειῶν ἐλαχίστη μέν ἐστιν ἡ ΔΗ ἡ μεταξὺ τοῦ σημείου καὶ     DA, DE, DF , and DC, have been drawn through (the
+τῆς διαμέτρου τῆς ΑΗ, ἀεὶ δὲ ἡ ἔγγιον τῆς ΔΗ ἐλαχίστης       circle), and let DA be through the center. I say that for
+ἐλάττων ἐστὶ τῆς ἀπώτερον, ἡ μὲν ΔΚ τῆς ΔΛ, ἡ δὲ ΔΛ          the straight-lines radiating towards the concave (part of
+
+                                                           77
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+τῆς ΔΘ.                                                     the) circumference, AEF C, the greatest is the one (pass-
+                                                            ing) through the center, (namely) AD, and (that) DE (is)
+                                                            greater than DF , and DF than DC. For the straight-lines
+                                                            radiating towards the convex (part of the) circumference,
+                                                            HLKG, the least is the one between the point and the di-
+                                                            ameter AG, (namely) DG, and a (straight-line) nearer to
+                                                            the least (straight-line) DG is always less than one far-
+                                                            ther away, (so that) DK (is less) than DL, and DL than
+                                                            than DH.
+                                               ∆                                                               D
+
+
+                       Θ Λ                                                           H L
+                           Κ                                                             K
+                            Η                                                                   G
+           Γ                 Β                                          C                           B
+                                     Ν                                                                  N
+       Ζ                                                            F
+                       Μ                                                             M
+          Ε                                                          E
+
+               Α                                                            A
+    Εἰλήφθω γὰρ τὸ κέντρον τοῦ ΑΒΓ κύκλου καὶ ἔστω τὸ           For let the center of the circle have been found
+Μ· καὶ ἐπεζεύχθωσαν αἱ ΜΕ, ΜΖ, ΜΓ, ΜΚ, ΜΛ, ΜΘ.              [Prop. 3.1], and let it be (at point) M [Prop. 3.1]. And let
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΜ τῇ ΕΜ, κοινὴ προσκείσθω ἡ       M E, M F , M C, M K, M L, and M H have been joined.
+ΜΔ· ἡ ἄρα ΑΔ ἴση ἐστὶ ταῖς ΕΜ, ΜΔ. ἀλλ᾿ αἱ ΕΜ, ΜΔ               And since AM is equal to EM , let M D have been
+τῆς ΕΔ μείζονές εἰσιν· καὶ ἡ ΑΔ ἄρα τῆς ΕΔ μείζων ἐστίν.    added to both. Thus, AD is equal to EM and M D. But,
+πάλιν, ἐπεὶ ἴση ἐστὶν ἡ ΜΕ τῇ ΜΖ, κοινὴ δὲ ἡ ΜΔ, αἱ ΕΜ,     EM and M D is greater than ED [Prop. 1.20]. Thus,
+ΜΔ ἄρα ταῖς ΖΜ, ΜΔ ἴσαι εἰσίν· καὶ γωνία ἡ ὑπὸ ΕΜΔ          AD is also greater than ED. Again, since M E is equal
+γωνίας τῆς ὑπὸ ΖΜΔ μείζων ἐστίν. βάσις ἄρα ἡ ΕΔ βάσεως      to M F , and M D (is) common, the (straight-lines) EM ,
+τῆς ΖΔ μείζων ἐστίν· ὁμοίως δὴ δείξομεν, ὅτι καὶ ἡ ΖΔ τῆς   M D are thus equal to F M , M D. And angle EM D is
+ΓΔ μείζων ἐστίν· μεγίστη μὲν ἄρα ἡ ΔΑ, μείζων δὲ ἡ μὲν      greater than angle F M D.‡ Thus, the base ED is greater
+ΔΕ τῆς ΔΖ, ἡ δὲ ΔΖ τῆς ΔΓ.                                  than the base F D [Prop. 1.24]. So, similarly, we can
+    Καὶ ἐπεὶ αἱ ΜΚ, ΚΔ τῆς ΜΔ μείζονές εἰσιν, ἴση δὲ ἡ      show that F D is also greater than CD. Thus, AD (is) the
+ΜΗ τῇ ΜΚ, λοιπὴ ἄρα ἡ ΚΔ λοιπῆς τῆς ΗΔ μείζων ἐστίν·        greatest (straight-line), and DE (is) greater than DF ,
+ὥστε ἡ ΗΔ τῆς ΚΔ ἐλάττων ἐστίν· καὶ ἐπεὶ τριγώνου τοῦ       and DF than DC.
+ΜΛΔ ἐπὶ μιᾶς τῶν πλευρῶν τῆς ΜΔ δύο εὐθεῖαι ἐντὸς               And since M K and KD is greater than M D [Prop.
+συνεστάθησαν αἱ ΜΚ, ΚΔ, αἱ ἄρα ΜΚ, ΚΔ τῶν ΜΛ, ΛΔ            1.20], and M G (is) equal to M K, the remainder KD
+ἐλάττονές εἰσιν· ἴση δὲ ἡ ΜΚ τῇ ΜΛ· λοιπὴ ἄρα ἡ ΔΚ          is thus greater than the remainder GD. So GD is less
+λοιπῆς τῆς ΔΛ ἐλάττων ἐστίν. ὁμοίως δὴ δείξομεν, ὅτι        than KD. And since in triangle M LD, the two inter-
+καὶ ἡ ΔΛ τῆς ΔΘ ἐλάττων ἐστίν· ἐλαχίστη μὲν ἄρα ἡ ΔΗ,       nal straight-lines M K and KD were constructed on one
+ἐλάττων δὲ ἡ μὲν ΔΚ τῆς ΔΛ ἡ δὲ ΔΛ τῆς ΔΘ.                  of the sides, M D, then M K and KD are thus less than
+    Λέγω, ὅτι καὶ δύο μόνον ἴσαι ἀπὸ τοῦ Δ σημείου          M L and LD [Prop. 1.21]. And M K (is) equal to M L.
+προσπεσοῦνται πρὸς τὸν κύκλον ἐφ᾿ ἑκάτερα τῆς ΔΗ            Thus, the remainder DK is less than the remainder DL.
+ἐλαχίστης· συνεστάτω πρὸς τῇ ΜΔ εὐθείᾳ καὶ τῷ πρὸς          So, similarly, we can show that DL is also less than DH.
+αὐτῇ σημείῳ τῷ Μ τῇ ὑπὸ ΚΜΔ γωνίᾳ ἴση γωνία ἡ ὑπὸ           Thus, DG (is) the least (straight-line), and DK (is) less
+ΔΜΒ, καὶ ἐπεζεύχθω ἡ ΔΒ. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΜΚ τῇ         than DL, and DL than DH.
+ΜΒ, κοινὴ δὲ ἡ ΜΔ, δύο δὴ αἱ ΚΜ, ΜΔ δύο ταῖς ΒΜ, ΜΔ             I also say that only two equal (straight-lines) will radi-
+
+
+                                                        78
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+ἴσαι εἰσὶν ἑκατέρα ἑκατέρᾳ· καὶ γωνία ἡ ὑπὸ ΚΜΔ γωνίᾳ       ate from point D towards (the circumference of) the cir-
+τῇ ὑπὸ ΒΜΔ ἴση· βάσις ἄρα ἡ ΔΚ βάσει τῇ ΔΒ ἴση ἐστίν.       cle, (one) on each (side) on the least (straight-line), DG.
+λέγω [δή], ὅτι τῇ ΔΚ εὐθείᾳ ἄλλη ἴση οὐ προσπεσεῖται        Let the angle DM B, equal to angle KM D, have been
+πρὸς τὸν κύκλον ἀπὸ τοῦ Δ σημείου. εἰ γὰρ δυνατόν, προ-     constructed on the straight-line M D, at the point M on
+σπιπτέτω καὶ ἔστω ἡ ΔΝ. ἐπεὶ οὖν ἡ ΔΚ τῇ ΔΝ ἐστιν ἴση,      it [Prop. 1.23], and let DB have been joined. And since
+ἀλλ᾿ ἡ ΔΚ τῇ ΔΒ ἐστιν ἴση, καὶ ἡ ΔΒ ἄρα τῇ ΔΝ ἐστιν         M K is equal to M B, and M D (is) common, the two
+ἴση, ἡ ἔγγιον τῆς ΔΗ ἐλαχίστης τῇ ἀπώτερον [ἐστιν] ἴση·     (straight-lines) KM , M D are equal to the two (straight-
+ὅπερ ἀδύνατον ἐδείχθη. οὐκ ἄρα πλείους ἢ δύο ἴσαι πρὸς      lines) BM , M D, respectively. And angle KM D (is)
+τὸν ΑΒΓ κύκλον ἀπὸ τοῦ Δ σημείου ἐφ᾿ ἑκάτερα τῆς ΔΗ         equal to angle BM D. Thus, the base DK is equal to the
+ἐλαχίστης προσπεσοῦνται.                                    base DB [Prop. 1.4]. [So] I say that another (straight-
+    ᾿Εὰν ἄρα κύκλου ληφθῇ τι σημεῖον ἐκτός, ἀπὸ δὲ τοῦ      line) equal to DK will not radiate towards the (circum-
+σημείου πρὸς τὸν κύκλον διαχθῶσιν εὐθεῖαί τινες, ὧν μία     ference of the) circle from point D. For, if possible, let
+μὲν διὰ τοῦ κέντρου αἱ δὲ λοιπαί, ὡς ἔτυχεν, τῶν μὲν πρὸς   (such a straight-line) radiate, and let it be DN . There-
+τὴν κοίλην περιφέρειαν προσπιπτουσῶν εὐθειῶν μεγίστη        fore, since DK is equal to DN , but DK is equal to DB,
+μέν ἐστιν ἡ διὰ τοῦ κέντου, τῶν δὲ ἄλλων ἀεὶ ἡ ἔγγιον τῆς   then DB is thus also equal to DN , (so that) a (straight-
+διὰ τοῦ κέντρου τῆς ἀπώτερον μείζων ἐστίν, τῶν δὲ πρὸς      line) nearer to the least (straight-line) DG [is] equal to
+τὴν κυρτὴν περιφέρειαν προσπιπτουσῶν εὐθειῶν ἐλαχίστη       one further away. The very thing was shown (to be) im-
+μέν ἐστιν ἡ μεταξὺ τοῦ τε σημείου καὶ τῆς διαμέτρου, τῶν    possible. Thus, not more than two equal (straight-lines)
+δὲ ἄλλων ἀεὶ ἡ ἔγγιον τῆς ἐλαχίστης τῆς ἀπώτερόν ἐστιν      will radiate towards (the circumference of) circle ABC
+ἐλάττων, δύο δὲ μόνον ἴσαι ἀπὸ τοῦ σημείου προσπεσοῦνται    from point D, (one) on each side of the least (straight-
+πρὸς τὸν κύκλον ἐφ᾿ ἑκάτερα τῆς ἐλαχίστης· ὅπερ ἔδει        line) DG.
+δεῖξαι.                                                         Thus, if some point is taken outside a circle, and some
+                                                            straight-lines are drawn from the point to the (circumfer-
+                                                            ence of the) circle, one of which (passes) through the cen-
+                                                            ter, the remainder (being) random, then for the straight-
+                                                            lines radiating towards the concave (part of the) circum-
+                                                            ference, the greatest is that (passing) through the center.
+                                                            For the others, a (straight-line) nearer to the (straight-
+                                                            line) through the center is always greater than one fur-
+                                                            ther away. For the straight-lines radiating towards the
+                                                            convex (part of the) circumference, the least is that be-
+                                                            tween the point and the diameter. For the others, a
+                                                            (straight-line) nearer to the least (straight-line) is always
+                                                            less than one further away. And only two equal (straight-
+                                                            lines) will radiate from the point towards the (circum-
+                                                            ference of the) circle, (one) on each (side) of the least
+                                                            (straight-line). (Which is) the very thing it was required
+                                                            to show.
+† Presumably, in an angular sense.
+
+‡ This is not proved, except by reference to the figure.
+
+
+                                   jþ.                                           Proposition 9
+   ᾿Εὰν κύκλου ληφθῇ τι σημεῖον ἐντός, ἀπο δὲ τοῦ              If some point is taken inside a circle, and more than
+σημείου πρὸς τὸν κύκλον προσπίπτωσι πλείους ἢ δύο ἴσαι      two equal straight-lines radiate from the point towards
+εὐθεῖαι, τὸ ληφθὲν σημεῖον κέντρον ἐστὶ τοῦ κύκλου.         the (circumference of the) circle, then the point taken is
+   ῎Εστω κύκλος ὁ ΑΒΓ, ἐντὸς δὲ αὐτοῦ σημεῖον τὸ Δ, καὶ     the center of the circle.
+ἀπὸ τοῦ Δ πρὸς τὸν ΑΒΓ κύκλον προσπιπτέτωσαν πλείους           Let ABC be a circle, and D a point inside it, and let
+ἢ δύο ἴσαι εὐθεῖαι αἱ ΔΑ, ΔΒ, ΔΓ· λέγω, ὅτι τὸ Δ σημεῖον    more than two equal straight-lines, DA, DB, and DC, ra-
+κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου.                                diate from D towards (the circumference of) circle ABC.
+
+
+                                                           79
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+                                                            I say that point D is the center of circle ABC.
+                            Λ                                                             L
+
+             Β               Ζ                                             B                 F
+                                          Γ                                                               C
+
+                                              Η                                                               G
+                 Ε                                                             E
+         Κ                   ∆                                         K                   D
+
+
+
+                 Α                                                             A
+                           Θ                                                             H
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΑΒ, ΒΓ καὶ τετμήσθωσαν                 For let AB and BC have been joined, and (then)
+δίχα κατὰ τὰ Ε, Ζ σημεῖα, καὶ ἐπιζευχθεῖσαι αἱ ΕΔ, ΖΔ       have been cut in half at points E and F (respectively)
+διήχθωσαν ἐπὶ τὰ Η, Κ, Θ, Λ σημεῖα.                         [Prop. 1.10]. And ED and F D being joined, let them
+    ᾿Επεὶ οὖν ἴση ἐστὶν ἡ ΑΕ τῇ ΕΒ, κοινὴ δὲ ἡ ΕΔ, δύο      have been drawn through to points G, K, H, and L.
+δὴ αἱ ΑΕ, ΕΔ δύο ταῖς ΒΕ, ΕΔ ἴσαι εἰσίν· καὶ βάσις ἡ ΔΑ         Therefore, since AE is equal to EB, and ED (is) com-
+βάσει τῇ ΔΒ ἴση· γωνία ἄρα ἡ ὑπὸ ΑΕΔ γωνίᾳ τῇ ὑπὸ ΒΕΔ       mon, the two (straight-lines) AE, ED are equal to the
+ἴση ἐστίν· ὀρθὴ ἄρα ἑκατέρα τῶν ὑπὸ ΑΕΔ, ΒΕΔ γωνιῶν· ἡ      two (straight-lines) BE, ED (respectively). And the base
+ΗΚ ἄρα τὴν ΑΒ τέμνει δίχα καὶ πρὸς ὀρθάς. καὶ ἐπεί, ἐὰν     DA (is) equal to the base DB. Thus, angle AED is equal
+ἐν κύκλῳ εὐθεῖά τις εὐθεῖάν τινα δίχα τε καὶ πρὸς ὀρθὰς     to angle BED [Prop. 1.8]. Thus, angles AED and BED
+τέμνῃ, ἐπὶ τῆς τεμνούσης ἐστὶ τὸ κέντρον τοῦ κύκλου, ἐπὶ    (are) each right-angles [Def. 1.10]. Thus, GK cuts AB in
+τῆς ΗΚ ἄρα ἐστὶ τὸ κέντρον τοῦ κύκλου. διὰ τὰ αὐτὰ δὴ καὶ   half, and at right-angles. And since, if some straight-line
+ἐπὶ τῆς ΘΛ ἐστι τὸ κέντρον τοῦ ΑΒΓ κύκλου. καὶ οὐδὲν        in a circle cuts some (other) straight-line in half, and at
+ἕτερον κοινὸν ἔχουσιν αἱ ΗΚ, ΘΛ εὐθεῖαι ἢ τὸ Δ σημεῖον·     right-angles, then the center of the circle is on the former
+τὸ Δ ἄρα σημεῖον κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου.               (straight-line) [Prop. 3.1 corr.], the center of the circle is
+    ᾿Εὰν ἄρα κύκλου ληφθῇ τι σημεῖον ἐντός, ἀπὸ δὲ τοῦ      thus on GK. So, for the same (reasons), the center of
+σημείου πρὸς τὸν κύκλον προσπίπτωσι πλείους ἢ δύο ἴσαι      circle ABC is also on HL. And the straight-lines GK and
+εὐθεῖαι, τὸ ληφθὲν σημεῖον κέντρον ἐστὶ τοῦ κύκλου· ὅπερ    HL have no common (point) other than point D. Thus,
+ἔδει δεῖξαι.                                                point D is the center of circle ABC.
+                                                                Thus, if some point is taken inside a circle, and more
+                                                            than two equal straight-lines radiate from the point to-
+                                                            wards the (circumference of the) circle, then the point
+                                                            taken is the center of the circle. (Which is) the very thing
+                                                            it was required to show.
+
+                           iþ.                                                     Proposition 10
+    Κύκλος κύκλον οὐ τέμνει κατὰ πλείονα σημεῖα ἢ δύο.          A circle does not cut a(nother) circle at more than two
+    Εἰ γὰρ δυνατόν, κύκλος ὁ ΑΒΓ κύκλον τὸν ΔΕΖ             points.
+τεμνέτω κατὰ πλείονα σημεῖα ἢ δύο τὰ Β, Η, Ζ, Θ, καὶ            For, if possible, let the circle ABC cut the circle DEF
+ἐπιζευχθεῖσαι αἱ ΒΘ, ΒΗ δίχα τεμνέσθωσαν κατὰ τὰ Κ, Λ       at more than two points, B, G, F , and H. And BH and
+σημεῖα· καὶ ἀπὸ τῶν Κ, Λ ταῖς ΒΘ, ΒΗ πρὸς ὀρθὰς ἀχθεῖσαι    BG being joined, let them (then) have been cut in half
+αἱ ΚΓ, ΛΜ διήχθωσαν ἐπὶ τὰ Α, Ε σημεῖα.                     at points K and L (respectively). And KC and LM be-
+                                                            ing drawn at right-angles to BH and BG from K and
+                                                            L (respectively) [Prop. 1.11], let them (then) have been
+                                                            drawn through to points A and E (respectively).
+
+
+
+
+                                                        80
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+                       Α                                                             A
+                           ∆           Β                                                 D            B
+          Θ            Κ                                               H             K
+                                      Λ    Ξ Ε                                                       L     O    E
+            Ν               Ο                                            N                   P
+      Μ                                                           M
+                                           Η                                                              G
+              Ζ                                                              F
+                               Γ                                                             C
+    ᾿Επεὶ οὖν ἐν κύκλῳ τῷ ΑΒΓ εὐθεῖά τις ἡ ΑΓ εὐθεῖάν           Therefore, since in circle ABC some straight-line
+τινα τὴν ΒΘ δίχα καὶ πρὸς ὀρθὰς τέμνει, ἐπὶ τῆς ΑΓ ἄρα      AC cuts some (other) straight-line BH in half, and at
+ἐστὶ τὸ κέντρον τοῦ ΑΒΓ κύκλου. πάλιν, ἐπεὶ ἐν κύκλῳ τῷ     right-angles, the center of circle ABC is thus on AC
+αὐτῷ τῷ ΑΒΓ εὐθεῖά τις ἡ ΝΞ εὐθεῖάν τινα τὴν ΒΗ δίχα        [Prop. 3.1 corr.]. Again, since in the same circle ABC
+καὶ πρὸς ὀρθὰς τέμνει, ἐπὶ τῆς ΝΞ ἄρα ἐστὶ τὸ κέντρον       some straight-line N O cuts some (other straight-line) BG
+τοῦ ΑΒΓ κύκλου. ἐδείχθη δὲ καὶ ἐπὶ τῆς ΑΓ, καὶ κατ᾿         in half, and at right-angles, the center of circle ABC is
+οὐδὲν συμβάλλουσιν αἱ ΑΓ, ΝΞ εὐθεῖαι ἢ κατὰ τὸ Ο· τὸ        thus on N O [Prop. 3.1 corr.]. And it was also shown (to
+Ο ἄρα σημεῖον κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου. ὁμοίως δὴ        be) on AC. And the straight-lines AC and N O meet at
+δείξομεν, ὅτι καὶ τοῦ ΔΕΖ κύκλου κέντρον ἐστὶ τὸ Ο· δύο     no other (point) than P . Thus, point P is the center of
+ἄρα κύκλων τεμνόντων ἀλλήλους τῶν ΑΒΓ, ΔΕΖ τὸ αὐτό          circle ABC. So, similarly, we can show that P is also the
+ἐστι κέντρον τὸ Ο· ὅπερ ἐστὶν ἀδύνατον.                     center of circle DEF . Thus, two circles cutting one an-
+    Οὐκ ἄρα κύκλος κύκλον τέμνει κατὰ πλείονα σημεῖα ἢ      other, ABC and DEF , have the same center P . The very
+δύο· ὅπερ ἔδει δεῖξαι.                                      thing is impossible [Prop. 3.5].
+                                                                Thus, a circle does not cut a(nother) circle at more
+                                                            than two points. (Which is) the very thing it was required
+                                                            to show.
+
+                           iaþ.                                                  Proposition 11
+    ᾿Εὰν δύο κύκλοι ἐφάπτωνται ἀλλήλων ἐντός, καὶ ληφθῇ         If two circles touch one another internally, and their
+αὐτῶν τὰ κέντρα, ἡ ἐπὶ τὰ κέντρα αὐτῶν ἐπιζευγνυμένη        centers are found, then the straight-line joining their cen-
+εὐθεῖα καὶ ἐκβαλλομένη ἐπὶ τὴν συναφὴν πεσεῖται τῶν         ters, being produced, will fall upon the point of union of
+κύκλων.                                                     the circles.
+    Δύο γὰρ κύκλοι οἱ ΑΒΓ, ΑΔΕ ἐφαπτέσθωσαν ἀλλήλων             For let two circles, ABC and ADE, touch one another
+ἐντὸς κατὰ τὸ Α σημεῖον, καὶ εἰλήφθω τοῦ μὲν ΑΒΓ κύκλου     internally at point A, and let the center F of circle ABC
+κέντρον τὸ Ζ, τοῦ δὲ ΑΔΕ τὸ Η· λέγω, ὅτι ἡ ἀπὸ τοῦ Η ἐπὶ    have been found [Prop. 3.1], and (the center) G of (cir-
+τὸ Ζ ἐπιζευγνυμένη εὐθεῖα ἐκβαλλομένη ἐπὶ τὸ Α πεσεῖται.    cle) ADE [Prop. 3.1]. I say that the straight-line joining
+    Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, πιπτέτω ὡς ἡ ΖΗΘ, καὶ          G to F , being produced, will fall on A.
+ἐπεζεύχθωσαν αἱ ΑΖ, ΑΗ.                                         For (if) not then, if possible, let it fall like F GH (in
+    ᾿Επεὶ οὖν αἱ ΑΗ, ΗΖ τῆς ΖΑ, τουτέστι τῆς ΖΘ, μείζονές   the figure), and let AF and AG have been joined.
+εἰσιν, κοινὴ ἀφῃρήσθω ἡ ΖΗ· λοιπὴ ἄρα ἡ ΑΗ λοιπῆς τῆς           Therefore, since AG and GF is greater than F A, that
+ΗΘ μείζων ἐστίν. ἴση δὲ ἡ ΑΗ τῇ ΗΔ· καὶ ἡ ΗΔ ἄρα            is to say F H [Prop. 1.20], let F G have been taken from
+τῆς ΗΘ μείζων ἐστὶν ἡ ἐλάττων τῆς μείζονος· ὅπερ ἐστὶν      both. Thus, the remainder AG is greater than the re-
+ἀδύνατον· οὐκ ἄρα ἡ ἀπὸ τοῦ Ζ ἐπὶ τὸ Η ἐπιζευγνυμένη        mainder GH. And AG (is) equal to GD. Thus, GD is
+εὐθεὶα ἐκτὸς πεσεῖται· κατὰ τὸ Α ἄρα ἐπὶ τῆς συναφῆς        also greater than GH, the lesser than the greater. The
+πεσεῖται.                                                   very thing is impossible. Thus, the straight-line joining F
+                                                            to G will not fall outside (one circle but inside the other).
+                                                            Thus, it will fall upon the point of union (of the circles)
+
+
+                                                        81
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+                                                           at point A.
+                             Θ                                                           H
+
+           Α                 ∆                                           A               D
+
+                                 Η                                                           G
+
+                                            Β                                                F            B
+                                 Ζ
+
+                             Ε                                                       E
+
+                 Γ                                                               C
+   ᾿Εὰν ἄρα δύο κύκλοι ἐφάπτωνται ἀλλήλων ἐντός, [καὶ         Thus, if two circles touch one another internally, [and
+ληφθῇ αὐτῶν τὰ κέντρα], ἡ ἐπὶ τὰ κέντρα αὐτῶν ἐπιζευ- their centers are found], then the straight-line joining
+γνυμένη εὐθεῖα [καὶ ἐκβαλλομένη] ἐπὶ τὴν συναφὴν πεσεῖται their centers, [being produced], will fall upon the point
+τῶν κύκλων· ὅπερ ἔδει δεῖξαι.                             of union of the circles. (Which is) the very thing it was
+                                                          required to show.
+
+                                 ibþ.                                            Proposition 12
+   ᾿Εὰν δύο κύκλοι ἐφάπτωνται ἀλλήλων ἐκτός, ἡ ἐπὶ τὰ          If two circles touch one another externally then the
+κέντρα αὐτῶν ἐπιζευγνυμένη διὰ τῆς ἐπαφῆς ἐλεύσεται.       (straight-line) joining their centers will go through the
+                                                           point of union.
+                 Β                                                           B
+
+
+             Ζ                                                           F
+                         Α                                                           A
+                     Γ                                                           C
+                         ∆
+                                                                                     D
+
+                                        Η                                                        G
+
+
+                                        Ε                                                E
+   Δύο γὰρ κύκλοι οἱ ΑΒΓ, ΑΔΕ ἐφαπτέσθωσαν ἀλλήλων             For let two circles, ABC and ADE, touch one an-
+ἐκτὸς κατὰ τὸ Α σημεῖον, καὶ εἰλήφθω τοῦ μὲν ΑΒΓ           other externally at point A, and let the center F of ABC
+κέντρον τὸ Ζ, τοῦ δὲ ΑΔΕ τὸ Η· λέγω, ὅτι ἡ ἀπὸ τοῦ         have been found [Prop. 3.1], and (the center) G of ADE
+Ζ ἐπὶ τὸ Η ἐπιζευγνυμένη εὐθεῖα διὰ τῆς κατὰ τὸ Α ἐπαφῆς   [Prop. 3.1]. I say that the straight-line joining F to G will
+ἐλεύσεται.                                                 go through the point of union at A.
+   Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, ἐρχέσθω ὡς ἡ ΖΓΔΗ, καὶ             For (if) not then, if possible, let it go like F CDG (in
+ἐπεζεύχθωσαν αἱ ΑΖ, ΑΗ.                                    the figure), and let AF and AG have been joined.
+   ᾿Επεὶ οὖν τὸ Ζ σημεῖον κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου,         Therefore, since point F is the center of circle ABC,
+ἴση ἐστὶν ἡ ΖΑ τῇ ΖΓ. πάλιν, ἐπεὶ τὸ Η σημεῖον κέντρον     F A is equal to F C. Again, since point G is the center of
+ἐστὶ τοῦ ΑΔΕ κύκλου, ἴση ἐστὶν ἡ ΗΑ τῇ ΗΔ. ἐδείχθη         circle ADE, GA is equal to GD. And F A was also shown
+
+
+                                                         82
+STOIQEIWN gþ.                                                                               ELEMENTS BOOK 3
+
+δὲ καὶ ἡ ΖΑ τῇ ΖΓ ἴση· αἱ ἄρα ΖΑ, ΑΗ ταῖς ΖΓ, ΗΔ ἴσαι      (to be) equal to F C. Thus, the (straight-lines) F A and
+εἰσίν· ὥστε ὅλη ἡ ΖΗ τῶν ΖΑ, ΑΗ μείζων ἐστίν· ἀλλὰ καὶ     AG are equal to the (straight-lines) F C and GD. So the
+ἐλάττων· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα ἡ ἀπὸ τοῦ Ζ ἐπὶ      whole of F G is greater than F A and AG. But, (it is) also
+τὸ Η ἐπιζευγνυμένη εὐθεῖα διὰ τῆς κατὰ τὸ Α ἐπαφῆς οὐκ     less [Prop. 1.20]. The very thing is impossible. Thus, the
+ἐλεύσεται· δι᾿ αὐτῆς ἄρα.                                  straight-line joining F to G cannot not go through the
+    ᾿Εὰν ἄρα δύο κύκλοι ἐφάπτωνται ἀλλήλων ἐκτός, ἡ ἐπὶ    point of union at A. Thus, (it will go) through it.
+τὰ κέντρα αὐτῶν ἐπιζευγνυμένη [εὐθεῖα] διὰ τῆς ἐπαφῆς          Thus, if two circles touch one another externally then
+ἐλεύσεται· ὅπερ ἔδει δεῖξαι.                               the [straight-line] joining their centers will go through
+                                                           the point of union. (Which is) the very thing it was re-
+                                                           quired to show.
+
+                          igþ.                                                 Proposition 13
+   Κύκλος κύκλου οὐκ ἐφάπτεται κατὰ πλείονα σημεῖα ἢ          A circle does not touch a(nother) circle at more than
+καθ᾿ ἕν, ἐάν τε ἐντὸς ἐάν τε ἐκτὸς ἐφάπτηται.              one point, whether they touch internally or externally.
+                                          Κ                                                            K
+
+                        Α                                                             A
+
+
+
+                                    Γ                                                           C
+                      Ε                                                           E
+                  Η       Θ                                                  G        H
+          Β                       ∆                                   B                       D
+                      Ζ                                                           F
+    Εἰ γὰρ δυνατόν, κύκλος ὁ ΑΒΓΔ κύκλου τοῦ ΕΒΖΔ              For, if possible, let circle ABDC † touch circle EBF D—
+ἐφαπτέσθω πρότερον ἐντὸς κατὰ πλείονα σημεῖα ἢ ἓν τὰ Δ,    first of all, internally—at more than one point, D and B.
+Β.                                                             And let the center G of circle ABDC have been found
+    Καὶ εἰλήφθω τοῦ μὲν ΑΒΓΔ κύκλου κέντρον τὸ Η, τοῦ      [Prop. 3.1], and (the center) H of EBF D [Prop. 3.1].
+δὲ ΕΒΖΔ τὸ Θ.                                                  Thus, the (straight-line) joining G and H will fall on
+    ῾Η ἄρα ἀπὸ τοῦ Η ἐπὶ τὸ Θ ἐπιζευγνυμένη ἐπὶ τὰ Β,      B and D [Prop. 3.11]. Let it fall like BGHD (in the
+Δ πεσεῖται. πιπτέτω ὡς ἡ ΒΗΘΔ. καὶ ἐπεὶ τὸ Η σημεῖον       figure). And since point G is the center of circle ABDC,
+κέντρον ἐστὶ τοῦ ΑΒΓΔ κύκλου, ἴση ἐστὶν ἡ ΒΗ τῇ ΗΔ·        BG is equal to GD. Thus, BG (is) greater than HD.
+μείζων ἄρα ἡ ΒΗ τῆς ΘΔ· πολλῷ ἄρα μείζων ἡ ΒΘ τῆς ΘΔ.      Thus, BH (is) much greater than HD. Again, since point
+πάλιν, ἐπεὶ τὸ Θ σημεῖον κέντρον ἐστὶ τοῦ ΕΒΖΔ κύκλου,     H is the center of circle EBF D, BH is equal to HD.
+ἴση ἐστὶν ἡ ΒΘ τῇ ΘΔ· ἐδείχθη δὲ αὐτῆς καὶ πολλῷ μείζων·   But it was also shown (to be) much greater than it. The
+ὅπερ ἀδύνατον· οὐκ ἄρα κύκλος κύκλου ἐφάπτεται ἐντὸς       very thing (is) impossible. Thus, a circle does not touch
+κατὰ πλείονα σημεῖα ἢ ἕν.                                  a(nother) circle internally at more than one point.
+    Λέγω δή, ὅτι οὐδὲ ἐκτός.                                   So, I say that neither (does it touch) externally (at
+    Εἰ γὰρ δυνατόν, κύκλος ὁ ΑΓΚ κύκλου τοῦ ΑΒΓΔ           more than one point).
+ἐφαπτέσθω ἐκτὸς κατὰ πλείονα σημεῖα ἢ ἓν τὰ Α, Γ, καὶ          For, if possible, let circle ACK touch circle ABDC
+ἐπεζεύχθω ἡ ΑΓ.                                            externally at more than one point, A and C. And let AC
+    ῎Επεὶ οὖν κύκλων τῶν ΑΒΓΔ, ΑΓΚ εἴληπται ἐπὶ τῆς        have been joined.
+περιφερείας ἑκατέρου δύο τυχόντα σημεῖα τὰ Α, Γ, ἡ ἐπὶ         Therefore, since two points, A and C, have been taken
+τὰ σημεῖα ἐπιζευγνυμένη εὐθεῖα ἐντὸς ἑκατέρου πεσεῖται·    at random on the circumference of each of the circles
+ἀλλὰ τοῦ μὲν ΑΒΓΔ ἐντὸς ἔπεσεν, τοῦ δὲ ΑΓΚ ἐκτός·          ABDC and ACK, the straight-line joining the points will
+ὅπερ ἄτοπον· οὐκ ἄρα κύκλος κύκλου ἐφάπτεται ἐκτὸς κατὰ    fall inside each (circle) [Prop. 3.2]. But, it fell inside
+πλείονα σημεῖα ἢ ἕν. ἐδείχθη δέ, ὅτι οὐδὲ ἐντός.           ABDC, and outside ACK [Def. 3.3]. The very thing
+
+
+                                                       83
+STOIQEIWN gþ.                                                                                      ELEMENTS BOOK 3
+
+    Κύκλος ἄρα κύκλου οὐκ ἐφάπτεται κατὰ πλείονα σημεῖα (is) absurd. Thus, a circle does not touch a(nother) circle
+ἢ [καθ᾿] ἕν, ἐάν τε ἐντὸς ἐάν τε ἐκτὸς ἐφάπτηται· ὅπερ ἔδει externally at more than one point. And it was shown that
+δεῖξαι.                                                     neither (does it) internally.
+                                                                Thus, a circle does not touch a(nother) circle at more
+                                                            than one point, whether they touch internally or exter-
+                                                            nally. (Which is) the very thing it was required to show.
+† The Greek text has “ABCD”, which is obviously a mistake.
+
+
+
+                               idþ.                                               Proposition 14
+   ᾿Εν κύκλῳ αἱ ἴσαι εὐθεῖαι ἴσον ἀπέχουσιν ἀπὸ τοῦ    In a circle, equal straight-lines are equally far from the
+κέντρου, καὶ αἱ ἴσον ἀπέχουσαι ἀπὸ τοῦ κέντρου ἴσαι center, and (straight-lines) which are equally far from the
+ἀλλήλαις εἰσίν.                                     center are equal to one another.
+                                          ∆                                                        D
+
+
+             Β                                                            B
+                                 Ε            Η                                            E           G
+
+                       Ζ                                                           F
+
+                                               Γ                                                       C
+                                      Α                                                        A
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, καὶ ἐν αὐτῷ ἴσαι εὐθεῖαι ἔστω-           Let ABDC † be a circle, and let AB and CD be equal
+σαν αἱ ΑΒ, ΓΔ· λέγω, ὅτι αἱ ΑΒ, ΓΔ ἴσον ἀπέχουσιν ἀπὸ         straight-lines within it. I say that AB and CD are equally
+τοῦ κέντρου.                                                  far from the center.
+    Εἰλήφθω γὰρ τὸ κέντον τοῦ ΑΒΓΔ κύκλου καὶ ἔστω τὸ             For let the center of circle ABDC have been found
+Ε, καὶ ἀπὸ τοῦ Ε ἐπὶ τὰς ΑΒ, ΓΔ κάθετοι ἤχθωσαν αἱ ΕΖ,        [Prop. 3.1], and let it be (at) E. And let EF and EG
+ΕΗ, καὶ ἐπεζεύχθωσαν αἱ ΑΕ, ΕΓ.                               have been drawn from (point) E, perpendicular to AB
+    ᾿Επεὶ οὖν εὐθεῖά τις δὶα τοῦ κέντρου ἡ ΕΖ εὐθεῖάν τινα    and CD (respectively) [Prop. 1.12]. And let AE and EC
+μὴ διὰ τοῦ κέντρου τὴν ΑΒ πρὸς ὀρθὰς τέμνει, καὶ δίχα         have been joined.
+αὐτὴν τέμνει. ἴση ἄρα ἡ ΑΖ τῇ ΖΒ· διπλῆ ἄρα ἡ ΑΒ τῆς              Therefore, since some straight-line, EF , through the
+ΑΖ. διὰ τὰ αὐτὰ δὴ καὶ ἡ ΓΔ τῆς ΓΗ ἐστι διπλῆ· καί ἐστιν      center (of the circle), cuts some (other) straight-line, AB,
+ἴση ἡ ΑΒ τῇ ΓΔ· ἴση ἄρα καὶ ἡ ΑΖ τῇ ΓΗ. καὶ ἐπεὶ ἴση ἐστὶν    not through the center, at right-angles, it also cuts it in
+ἡ ΑΕ τῇ ΕΓ, ἴσον καὶ τὸ ἀπὸ τῆς ΑΕ τῷ ἀπὸ τῆς ΕΓ. ἀλλὰ        half [Prop. 3.3]. Thus, AF (is) equal to F B. Thus, AB
+τῷ μὲν ἀπὸ τῆς ΑΕ ἴσα τὰ ἀπὸ τῶν ΑΖ, ΕΖ· ὀρθὴ γὰρ ἡ           (is) double AF . So, for the same (reasons), CD is also
+πρὸς τῷ Ζ γωνία· τῷ δὲ ἀπὸ τῆς ΕΓ ἴσα τὰ ἀπὸ τῶν ΕΗ, ΗΓ·      double CG. And AB is equal to CD. Thus, AF (is)
+ὀρθὴ γὰρ ἡ πρὸς τῷ Η γωνία· τὰ ἄρα ἀπὸ τῶν ΑΖ, ΖΕ ἴσα         also equal to CG. And since AE is equal to EC, the
+ἐστὶ τοῖς ἀπὸ τῶν ΓΗ, ΗΕ, ὧν τὸ ἀπὸ τῆς ΑΖ ἴσον ἐστὶ τῷ       (square) on AE (is) also equal to the (square) on EC.
+ἀπὸ τῆς ΓΗ· ἴση γάρ ἐστιν ἡ ΑΖ τῇ ΓΗ· λοιπὸν ἄρα τὸ ἀπὸ       But, the (sum of the squares) on AF and EF (is) equal
+τῆς ΖΕ τῷ ἀπὸ τῆς ΕΗ ἴσον ἐστίν· ἴση ἄρα ἡ ΕΖ τῇ ΕΗ. ἐν       to the (square) on AE. For the angle at F (is) a right-
+δὲ κύκλῳ ἴσον ἀπέχειν ἀπὸ τοῦ κέντρου εὐθεῖαι λέγονται,       angle [Prop. 1.47]. And the (sum of the squares) on EG
+ὅταν αἱ ἀπὸ τοῦ κέντρου ἐπ᾿ αὐτὰς κάθετοι ἀγόμεναι ἴσαι       and GC (is) equal to the (square) on EC. For the angle
+ὦσιν· αἱ ἄρα ΑΒ, ΓΔ ἴσον ἀπέχουσιν ἀπὸ τοῦ κέντρου.           at G (is) a right-angle [Prop. 1.47]. Thus, the (sum of
+    ᾿Αλλὰ δὴ αἱ ΑΒ, ΓΔ εὐθεῖαι ἴσον ἀπεχέτωσαν ἀπὸ τοῦ        the squares) on AF and F E is equal to the (sum of the
+κέντρου, τουτέστιν ἴση ἔστω ἡ ΕΖ τῇ ΕΗ. λέγω, ὅτι ἴση         squares) on CG and GE, of which the (square) on AF
+ἐστὶ καὶ ἡ ΑΒ τῇ ΓΔ.                                          is equal to the (square) on CG. For AF is equal to CG.
+
+
+                                                             84
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+    Τῶν γὰρ αὐτῶν κατασκευασθέντων ὁμοίως δείξομεν,           Thus, the remaining (square) on F E is equal to the (re-
+ὅτι διπλῆ ἐστιν ἡ μὲν ΑΒ τῆς ΑΖ, ἡ δὲ ΓΔ τῆς ΓΗ· καὶ ἐπεὶ     maining square) on EG. Thus, EF (is) equal to EG. And
+ἴση ἐστὶν ἡ ΑΕ τῇ ΓΕ, ἴσον ἐστὶ τὸ ἀπὸ τῆς ΑΕ τῷ ἀπὸ          straight-lines in a circle are said to be equally far from
+τῆς ΓΕ· ἀλλὰ τῷ μὲν ἀπὸ τῆς ΑΕ ἴσα ἐστὶ τὰ ἀπὸ τῶν ΕΖ,        the center when perpendicular (straight-lines) which are
+ΖΑ, τῷ δὲ ἀπὸ τῆς ΓΕ ἴσα τὰ ἀπὸ τῶν ΕΗ, ΗΓ. τὰ ἄρα ἀπὸ        drawn to them from the center are equal [Def. 3.4]. Thus,
+τῶν ΕΖ, ΖΑ ἴσα ἐστὶ τοῖς ἀπὸ τῶν ΕΗ, ΗΓ· ὧν τὸ ἀπὸ τῆς        AB and CD are equally far from the center.
+ΕΖ τῷ ἀπὸ τῆς ΕΗ ἐστιν ἴσον· ἴση γὰρ ἡ ΕΖ τῇ ΕΗ· λοιπὸν           So, let the straight-lines AB and CD be equally far
+ἄρα τὸ ἀπὸ τῆς ΑΖ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΓΗ· ἴση ἄρα ἡ ΑΖ       from the center. That is to say, let EF be equal to EG. I
+τῇ ΓΗ· καί ἐστι τῆς μὲν ΑΖ διπλῆ ἡ ΑΒ, τῆς δὲ ΓΗ διπλῆ        say that AB is also equal to CD.
+ἡ ΓΔ· ἴση ἄρα ἡ ΑΒ τῇ ΓΔ.                                         For, with the same construction, we can, similarly,
+    ᾿Εν κύκλῳ ἄρα αἱ ἴσαι εὐθεῖαι ἴσον ἀπέχουσιν ἀπὸ          show that AB is double AF , and CD (double) CG. And
+τοῦ κέντρου, καὶ αἱ ἴσον ἀπέχουσαι ἀπὸ τοῦ κέντρου ἴσαι       since AE is equal to CE, the (square) on AE is equal to
+ἀλλήλαις εἰσίν· ὅπερ ἔδει δεῖξαι.                             the (square) on CE. But, the (sum of the squares) on
+                                                              EF and F A is equal to the (square) on AE [Prop. 1.47].
+                                                              And the (sum of the squares) on EG and GC (is) equal
+                                                              to the (square) on CE [Prop. 1.47]. Thus, the (sum of
+                                                              the squares) on EF and F A is equal to the (sum of the
+                                                              squares) on EG and GC, of which the (square) on EF is
+                                                              equal to the (square) on EG. For EF (is) equal to EG.
+                                                              Thus, the remaining (square) on AF is equal to the (re-
+                                                              maining square) on CG. Thus, AF (is) equal to CG. And
+                                                              AB is double AF , and CD double CG. Thus, AB (is)
+                                                              equal to CD.
+                                                                  Thus, in a circle, equal straight-lines are equally far
+                                                              from the center, and (straight-lines) which are equally far
+                                                              from the center are equal to one another. (Which is) the
+                                                              very thing it was required to show.
+† The Greek text has “ABCD”, which is obviously a mistake.
+
+
+
+                               ieþ.                                                Proposition 15
+    ᾿Εν κύκλῳ μεγίστη μὲν ἡ διάμετρος, τῶν δὲ ἄλλων ἀεὶ           In a circle, a diameter (is) the greatest (straight-line),
+ἡ ἔγγιον τοῦ κέντρου τῆς ἀπώτερον μείζων ἐστίν.               and for the others, a (straight-line) nearer to the center
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, διάμετρος δὲ αὐτοῦ ἔστω ἡ ΑΔ,        is always greater than one further away.
+κέντρον δὲ τὸ Ε, καὶ ἔγγιον μὲν τῆς ΑΔ διαμέτρου ἔστω ἡ           Let ABCD be a circle, and let AD be its diameter,
+ΒΓ, ἀπώτερον δὲ ἡ ΖΗ· λέγω, ὅτι μεγίστη μέν ἐστιν ἡ ΑΔ,       and E (its) center. And let BC be nearer to the diameter
+μείζων δὲ ἡ ΒΓ τῆς ΖΗ.                                        AD,† and F G further away. I say that AD is the greatest
+    ῎Ηχθωσαν γὰρ ἀπὸ τοῦ Ε κέντρου ἐπὶ τὰς ΒΓ, ΖΗ             (straight-line), and BC (is) greater than F G.
+κάθετοι αἱ ΕΘ, ΕΚ. καὶ ἐπεὶ ἔγγιον μὲν τοῦ κέντρου ἐστὶν          For let EH and EK have been drawn from the cen-
+ἡ ΒΓ, ἀπώτερον δὲ ἡ ΖΗ, μείζων ἄρα ἡ ΕΚ τῆς ΕΘ. κείσθω        ter E, at right-angles to BC and F G (respectively)
+τῇ ΕΘ ἴση ἡ ΕΛ, καὶ διὰ τοῦ Λ τῇ ΕΚ πρὸς ὀρθὰς ἀχθεῖσα        [Prop. 1.12]. And since BC is nearer to the center,
+ἡ ΛΜ διήχθω ἐπὶ τὸ Ν, καὶ ἐπεζεύχθωσαν αἱ ΜΕ, ΕΝ, ΖΕ,         and F G further away, EK (is) thus greater than EH
+ΕΗ.                                                           [Def. 3.5]. Let EL be made equal to EH [Prop. 1.3].
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΕΘ τῇ ΕΛ, ἴση ἐστὶ καὶ ἡ ΒΓ τῇ       And LM being drawn through L, at right-angles to EK
+ΜΝ. πάλιν, ἐπεὶ ἴση ἐστὶν ἡ μὲν ΑΕ τῇ ΕΜ, ἡ δὲ ΕΔ τῇ          [Prop. 1.11], let it have been drawn through to N . And
+ΕΝ, ἡ ἄρα ΑΔ ταῖς ΜΕ, ΕΝ ἴση ἐστίν. ἀλλ᾿ αἱ μὲν ΜΕ, ΕΝ        let M E, EN , F E, and EG have been joined.
+τῆς ΜΝ μείζονές εἰσιν [καὶ ἡ ΑΔ τῆς ΜΝ μείζων ἐστίν],             And since EH is equal to EL, BC is also equal to
+ἴση δὲ ἡ ΜΝ τῇ ΒΓ· ἡ ΑΔ ἄρα τῆς ΒΓ μείζων ἐστίν. καὶ          M N [Prop. 3.14]. Again, since AE is equal to EM , and
+ἐπεὶ δύο αἱ ΜΕ, ΕΝ δύο ταῖς ΖΕ, ΕΗ ἴσαι εἰσίν, καὶ γωνία      ED to EN , AD is thus equal to M E and EN . But, M E
+ἡ ὑπὸ ΜΕΝ γωνίας τῆς ὑπὸ ΖΕΗ μείζων [ἐστίν], βάσις ἄρα        and EN is greater than M N [Prop. 1.20] [also AD is
+
+
+                                                             85
+STOIQEIWN gþ.                                                                                                    ELEMENTS BOOK 3
+
+ἡ ΜΝ βάσεως τῆς ΖΗ μείζων ἐστίν. ἀλλὰ ἡ ΜΝ τῇ ΒΓ greater than M N ], and M N (is) equal to BC. Thus, AD
+ἐδείχθη ἴση [καὶ ἡ ΒΓ τῆς ΖΗ μείζων ἐστίν]. μεγίστη μὲν is greater than BC. And since the two (straight-lines)
+ἄρα ἡ ΑΔ διάμετρος, μείζων δὲ ἡ ΒΓ τῆς ΖΗ.              M E, EN are equal to the two (straight-lines) F E, EG
+                                                        (respectively), and angle M EN [is] greater than angle
+                                                        F EG,‡ the base M N is thus greater than the base F G
+                                                        [Prop. 1.24]. But, M N was shown (to be) equal to BC
+                                                        [(so) BC is also greater than F G]. Thus, the diameter
+                                                        AD (is) the greatest (straight-line), and BC (is) greater
+                                                        than F G.
+                           Α                                                        A
+                     Μ                                                       M
+                                     Β                                                         B
+                 Ζ                                                                        F
+
+
+
+                 Κ
+                         Λ           Ε                                                   K       L          E
+                                                Θ                                                                      H
+
+
+                 Η                                                                       G
+
+                           Ν                Γ                                                   C N
+                                    ∆                                                   D
+   ᾿Εν κύκλῳ ἄρα μεγίστη μὲν έστιν ἡ διάμετρος, τῶν δὲ        Thus, in a circle, a diameter (is) the greatest (straight-
+ἄλλων ἀεὶ ἡ ἔγγιον τοῦ κέντρου τῆς ἀπώτερον μείζων ἐστίν· line), and for the others, a (straight-line) nearer to the
+ὅπερ ἔδει δεῖξαι.                                         center is always greater than one further away. (Which
+                                                          is) the very thing it was required to show.
+† Euclid should have said “to the center”, rather than ”to the diameter AD”, since BC, AD and F G are not necessarily parallel.
+
+‡ This is not proved, except by reference to the figure.
+
+
+
+                                  iþ.                                                           Proposition 16
+    ῾Η τῇ διαμέτρῳ τοῦ κύκλου πρὸς ὀρθὰς ἀπ᾿ ἄκρας                           A (straight-line) drawn at right-angles to the diameter
+ἀγομένη ἐκτὸς πεσεῖται τοῦ κύκλου, καὶ εἰς τὸν μεταξὺ                    of a circle, from its end, will fall outside the circle. And
+τόπον τῆς τε εὐθείας καὶ τῆς περιφερείας ἑτέρα εὐθεῖα οὐ                 another straight-line cannot be inserted into the space be-
+παρεμπεσεῖται, καὶ ἡ μὲν τοῦ ἡμικυκλίου γωνία ἁπάσης                     tween the (aforementioned) straight-line and the circum-
+γωνίας ὀξείας εὐθυγράμμου μείζων ἐστίν, ἡ δὲ λοιπὴ                       ference. And the angle of the semi-circle is greater than
+ἐλάττων.                                                                 any acute rectilinear angle whatsoever, and the remain-
+    ῎Εστω κύκλος ὁ ΑΒΓ περὶ κέντρον τὸ Δ καὶ διάμετρον                   ing (angle is) less (than any acute rectilinear angle).
+τὴν ΑΒ· λέγω, ὅτι ἡ ἀπὸ τοῦ Α τῇ ΑΒ πρὸς ὀρθὰς ἀπ᾿                           Let ABC be a circle around the center D and the di-
+ἄκρας ἀγομένη ἐκτὸς πεσεῖται τοῦ κύκλου.                                 ameter AB. I say that the (straight-line) drawn from A,
+    Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, πιπτέτω ἐντὸς ὡς ἡ ΓΑ, καὶ                  at right-angles to AB [Prop 1.11], from its end, will fall
+ἐπεζεύχθω ἡ ΔΓ.                                                          outside the circle.
+    ᾿Επεὶ ἴση ἐστὶν ἡ ΔΑ τῇ ΔΓ, ἴση ἐστὶ καὶ γωνία ἡ ὑπὸ                     For (if) not then, if possible, let it fall inside, like CA
+ΔΑΓ γωνίᾳ τῇ ὑπὸ ΑΓΔ. ὀρθὴ δὲ ἡ ὑπὸ ΔΑΓ· ὀρθὴ ἄρα                        (in the figure), and let DC have been joined.
+καὶ ἡ ὑπὸ ΑΓΔ· τριγώνου δὴ τοῦ ΑΓΔ αἱ δύο γωνίαι αἱ                          Since DA is equal to DC, angle DAC is also equal
+ὑπὸ ΔΑΓ, ΑΓΔ δύο ὀρθαῖς ἴσαι εἰσίν· ὅπερ ἐστὶν ἀδύνατον.                 to angle ACD [Prop. 1.5]. And DAC (is) a right-angle.
+οὐκ ἄρα ἡ ἀπὸ τοῦ Α σημείου τῇ ΒΑ πρὸς ὀρθὰς ἀγομένη                     Thus, ACD (is) also a right-angle. So, in triangle ACD,
+ἐντὸς πεσεῖται τοῦ κύκλου. ὁμοίως δὴ δεῖξομεν, ὅτι οὐδ᾿                  the two angles DAC and ACD are equal to two right-
+ἐπὶ τῆς περιφερείας· ἐκτὸς ἄρα.                                          angles. The very thing is impossible [Prop. 1.17]. Thus,
+                                                                         the (straight-line) drawn from point A, at right-angles
+
+
+                                                                      86
+STOIQEIWN gþ.                                                                                     ELEMENTS BOOK 3
+
+                                                              to BA, will not fall inside the circle. So, similarly, we
+                                                              can show that neither (will it fall) on the circumference.
+                                                              Thus, (it will fall) outside (the circle).
+                                   Β                                                                B
+
+
+
+                    Γ                                                              C
+                                     ∆                                                                D
+
+                        Θ                                                               H
+       Ζ            Η                                                 F            G
+       Ε                                                              E
+                                   Α                                                                A
+    Πιπτέτω ὡς ἡ ΑΕ· λέγω δή, ὅτι εἰς τὸν μεταξὺ τόπον             Let it fall like AE (in the figure). So, I say that another
+τῆς τε ΑΕ εὐθείας καὶ τῆς ΓΘΑ περιφερείας ἑτέρα εὐθεῖα        straight-line cannot be inserted into the space between
+οὐ παρεμπεσεῖται.                                             the straight-line AE and the circumference CHA.
+    Εἰ γὰρ δυνατόν, παρεμπιπτέτω ὡς ἡ ΖΑ, καὶ ἤχθω ἀπὸ             For, if possible, let it be inserted like F A (in the fig-
+τοῦ Δ σημείου ἐπὶ τῆν ΖΑ κάθετος ἡ ΔΗ. καὶ ἐπεὶ ὀρθή          ure), and let DG have been drawn from point D, perpen-
+ἐστιν ἡ ὑπὸ ΑΗΔ, ἐλάττων δὲ ὀρθῆς ἡ ὑπὸ ΔΑΗ, μείζων           dicular to F A [Prop. 1.12]. And since AGD is a right-
+ἄρα ἡ ΑΔ τῆς ΔΗ. ἴση δὲ ἡ ΔΑ τῇ ΔΘ· μείζων ἄρα ἡ ΔΘ           angle, and DAG (is) less than a right-angle, AD (is)
+τῆς ΔΗ, ἡ ἐλάττων τῆς μείζονος· ὅπερ ἐστὶν ἀδύνατον. οὐκ      thus greater than DG [Prop. 1.19]. And DA (is) equal
+ἄρα εἰς τὸν μεταξὺ τόπον τῆς τε εὐθείας καὶ τῆς περιφερείας   to DH. Thus, DH (is) greater than DG, the lesser than
+ἑτέρα εὐθεῖα παρεμπεσεῖται.                                   the greater. The very thing is impossible. Thus, another
+    Λέγω, ὅτι καὶ ἡ μὲν τοῦ ἡμικυκλίου γωνία ἡ περιεχομένη    straight-line cannot be inserted into the space between
+ὑπό τε τῆς ΒΑ εὐθείας καὶ τῆς ΓΘΑ περιφερείας ἁπάσης          the straight-line (AE) and the circumference.
+γωνίας ὀξείας εὐθυγράμμου μείζων ἐστίν, ἡ δὲ λοιπὴ ἡ πε-           And I also say that the semi-circular angle contained
+ριεχομένη ὑπό τε τῆς ΓΘΑ περιφερείας καὶ τῆς ΑΕ εὐθείας       by the straight-line BA and the circumference CHA is
+ἁπάσης γωνίας ὀξείας εὐθυγράμμου ἐλάττων ἐστίν.               greater than any acute rectilinear angle whatsoever, and
+    Εἰ γὰρ ἐστί τις γωνία εὐθύγραμμος μείζων μὲν τῆς          the remaining (angle) contained by the circumference
+περιεχομένης ὑπό τε τῆς ΒΑ εὐθείας καὶ τῆς ΓΘΑ περι-          CHA and the straight-line AE is less than any acute rec-
+φερείας, ἐλάττων δὲ τῆς περιεχομένης ὑπό τε τῆς ΓΘΑ           tilinear angle whatsoever.
+περιφερείας καὶ τὴς ΑΕ εὐθείας, εἰς τὸν μεταξὺ τόπον τῆς           For if any rectilinear angle is greater than the (an-
+τε ΓΘΑ περιφερείας καὶ τῆς ΑΕ εὐθείας εὐθεῖα παρεμ-           gle) contained by the straight-line BA and the circum-
+πεσεῖται, ἥτις ποιήσει μείζονα μὲν τῆς περιεχομένης ὑπὸ       ference CHA, or less than the (angle) contained by the
+τε τῆς ΒΑ εὐθείας καὶ τῆς ΓΘΑ περιφερείας ὑπὸ εὐθειῶν         circumference CHA and the straight-line AE, then a
+περιεχομένην, ἐλάττονα δὲ τῆς περιεχομένης ὑπό τε τῆς         straight-line can be inserted into the space between the
+ΓΘΑ περιφερείας καὶ τῆς ΑΕ εὐθείας. οὐ παρεμπίπτει δέ·        circumference CHA and the straight-line AE—anything
+οὐκ ἄρα τῆς περιεχομένης γωνίας ὑπό τε τῆς ΒΑ εὐθείας         which will make (an angle) contained by straight-lines
+καὶ τῆς ΓΘΑ περιφερείας ἔσται μείζων ὀξεῖα ὑπὸ εὐθειῶν        greater than the angle contained by the straight-line BA
+περιεχομένη, οὐδὲ μὴν ἐλάττων τῆς περιεχομένης ὑπό τε         and the circumference CHA, or less than the (angle)
+τῆς ΓΘΑ περιφερείας καὶ τῆς ΑΕ εὐθείας.                       contained by the circumference CHA and the straight-
+                                                              line AE. But (such a straight-line) cannot be inserted.
+                                                              Thus, an acute (angle) contained by straight-lines cannot
+                                                              be greater than the angle contained by the straight-line
+                                                              BA and the circumference CHA, neither (can it be) less
+                                                              than the (angle) contained by the circumference CHA
+                                                              and the straight-line AE.
+
+
+
+
+                                                          87
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+                        Pìrisma.                                                      Corollary
+    ᾿Εκ δὴ τούτου φανερόν, ὅτι ἡ τῇ διαμέτρῳ τοῦ κύκλου           So, from this, (it is) manifest that a (straight-line)
+πρὸς ὀρθὰς ἀπ᾿ ἄκρας ἀγομένη ἐφάπτεται τοῦ κύκλου             drawn at right-angles to the diameter of a circle, from
+[καὶ ὅτι εὐθεῖα κύκλου καθ᾿ ἓν μόνον ἐφάπτεται σημεῖον,       its extremity, touches the circle [and that the straight-line
+ἐπειδήπερ καὶ ἡ κατὰ δύο αὐτῷ συμβάλλουσα ἐντὸς αὐτοῦ         touches the circle at a single point, inasmuch as it was
+πίπτουσα ἐδείχθη]· ὅπερ ἔδει δεῖξαι.                          also shown that a (straight-line) meeting (the circle) at
+                                                              two (points) falls inside it [Prop. 3.2] ]. (Which is) the
+                                                              very thing it was required to show.
+
+                           izþ.                                                    Proposition 17
+   ᾿Απὸ τοῦ δοθέντος σημείου τοῦ δοθέντος κύκλου ἐφα-    To draw a straight-line touching a given circle from a
+πτομένην εὐθεῖαν γραμμὴν ἀγαγεῖν.                     given point.
+                           Α                                                              A
+
+           Ζ                                                              F
+                         ∆                                                               D
+                Β                                                              B
+                                      Γ      Η                                                        C      G
+                             Ε                                                               E
+
+
+
+
+    ῎Εστω τὸ μὲν δοθὲν σημεῖον τὸ Α, ὁ δὲ δοθεὶς κύκλος           Let A be the given point, and BCD the given circle.
+ὁ ΒΓΔ· δεῖ δὴ ἀπὸ τοῦ Α σημείου τοῦ ΒΓΔ κύκλου ἐφα-           So it is required to draw a straight-line touching circle
+πτομένην εὐθεῖαν γραμμὴν ἀγαγεῖν.                             BCD from point A.
+    Εἰλήφθω γὰρ τὸ κέντρον τοῦ κύκλου τὸ Ε, καὶ                   For let the center E of the circle have been found
+ἐπεζεύχθω ἡ ΑΕ, καὶ κέντρῳ μὲν τῷ Ε διαστήματι δὲ τῷ          [Prop. 3.1], and let AE have been joined. And let (the
+ΕΑ κύκλος γεγράφθω ὁ ΑΖΗ, καὶ ἀπὸ τοῦ Δ τῇ ΕΑ πρὸς            circle) AF G have been drawn with center E and radius
+ὀρθὰς ἤχθω ἡ ΔΖ, καὶ ἐπεζεύχθωσαν αἱ ΕΖ, ΑΒ· λέγω,            EA. And let DF have been drawn from from (point) D,
+ὅτι ἀπὸ τοῦ Α σημείου τοῦ ΒΓΔ κύκλου ἐφαπτομένη ἦκται         at right-angles to EA [Prop. 1.11]. And let EF and AB
+ἡ ΑΒ.                                                         have been joined. I say that the (straight-line) AB has
+    ᾿Επεὶ γὰρ τὸ Ε κέντρον ἐστὶ τῶν ΒΓΔ, ΑΖΗ κύκλων,          been drawn from point A touching circle BCD.
+ἴση ἄρα ἐστὶν ἡ μὲν ΕΑ τῇ ΕΖ, ἡ δὲ ΕΔ τῇ ΕΒ· δύο δὴ               For since E is the center of circles BCD and AF G,
+αἱ ΑΕ, ΕΒ δύο ταῖς ΖΕ, ΕΔ ἴσαι εἰσίν· καὶ γωνίαν κοινὴν       EA is thus equal to EF , and ED to EB. So the two
+περιέχουσι τὴν πρὸς τῷ Ε· βάσις ἄρα ἡ ΔΖ βάσει τῇ ΑΒ          (straight-lines) AE, EB are equal to the two (straight-
+ἴση ἐστίν, καὶ τὸ ΔΕΖ τρίγωνον τῷ ΕΒΑ τριγώνῳ ἴσον            lines) F E, ED (respectively). And they contain a com-
+ἐστίν, καὶ αἱ λοιπαὶ γωνίαι ταῖς λοιπαῖς γωνίαις· ἴση ἄρα ἡ   mon angle at E. Thus, the base DF is equal to the
+ὑπὸ ΕΔΖ τῇ ὑπὸ ΕΒΑ. ὀρθὴ δὲ ἡ ὑπὸ ΕΔΖ· ὀρθὴ ἄρα καὶ ἡ         base AB, and triangle DEF is equal to triangle EBA,
+ὑπὸ ΕΒΑ. καί ἐστιν ἡ ΕΒ ἐκ τοῦ κέντρου· ἡ δὲ τῇ διαμέτρῳ      and the remaining angles (are equal) to the (corre-
+τοῦ κύκλου πρὸς ὀρθὰς ἀπ᾿ ἄκρας ἀγομένη ἐφάπτεται τοῦ         sponding) remaining angles [Prop. 1.4]. Thus, (angle)
+κύκλου· ἡ ΑΒ ἄρα ἐφάπτεται τοῦ ΒΓΔ κύκλου.                    EDF (is) equal to EBA. And EDF (is) a right-angle.
+    ᾿Απὸ τοῦ ἄρα δοθέντος σημείου τοῦ Α τοῦ δοθέντος          Thus, EBA (is) also a right-angle. And EB is a ra-
+κύκλου τοῦ ΒΓΔ ἐφαπτομένη εὐθεῖα γραμμὴ ἦκται ἡ ΑΒ·           dius. And a (straight-line) drawn at right-angles to the
+ὅπερ ἔδει ποιῆσαι.                                            diameter of a circle, from its extremity, touches the circle
+                                                              [Prop. 3.16 corr.]. Thus, AB touches circle BCD.
+                                                                  Thus, the straight-line AB has been drawn touching
+
+
+
+                                                          88
+STOIQEIWN gþ.                                                                                 ELEMENTS BOOK 3
+
+                                                            the given circle BCD from the given point A. (Which is)
+                                                            the very thing it was required to do.
+
+                            ihþ.                                                Proposition 18
+    ᾿Εὰν κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ δὲ τοῦ κέντρου      If some straight-line touches a circle, and some
+ἐπὶ τὴν ἁφὴν ἐπιζευχθῇ τις εὐθεῖα, ἡ ἐπιζευχθεῖσα κάθετος (other) straight-line is joined from the center (of the cir-
+ἔσται ἐπὶ τὴν ἐφαπτομένην.                                cle) to the point of contact, then the (straight-line) so
+                                                          joined will be perpendicular to the tangent.
+
+         Α                                                            A
+                                               ∆                                                            D
+                                   Β                                                            B
+                    Ζ                     Η                                      F                      G
+
+
+                                   Γ                                                           C
+
+
+                        Ε                                                            E
+    Κύκλου γὰρ τοῦ ΑΒΓ ἐφαπτέσθω τις εὐθεῖα ἡ ΔΕ κατὰ           For let some straight-line DE touch the circle ABC at
+τὸ Γ σημεῖον, καὶ εἰλήφθω τὸ κέντρον τοῦ ΑΒΓ κύκλου τὸ      point C, and let the center F of circle ABC have been
+Ζ, καὶ ἀπὸ τοῦ Ζ ἐπὶ τὸ Γ ἐπεζεύχθω ἡ ΖΓ· λέγω, ὅτι ἡ ΖΓ    found [Prop. 3.1], and let F C have been joined from F
+κάθετός ἐστιν ἐπὶ τὴν ΔΕ.                                   to C. I say that F C is perpendicular to DE.
+    Εἰ γὰρ μή, ἤχθω ἀπὸ τοῦ Ζ ἐπὶ τὴν ΔΕ κάθετος ἡ ΖΗ.          For if not, let F G have been drawn from F , perpen-
+    ᾿Επεὶ οὖν ἡ ὑπὸ ΖΗΓ γωνία ὀρθή ἐστιν, ὀξεῖα ἄρα ἐστὶν   dicular to DE [Prop. 1.12].
+ἡ ὑπὸ ΖΓΗ· ὑπὸ δὲ τὴν μείζονα γωνίαν ἡ μείζων πλευρὰ            Therefore, since angle F GC is a right-angle, (angle)
+ὑποτείνει· μείζων ἄρα ἡ ΖΓ τῆς ΖΗ· ἴση δὲ ἡ ΖΓ τῇ ΖΒ·       F CG is thus acute [Prop. 1.17]. And the greater angle is
+μείζων ἄρα καὶ ἡ ΖΒ τῆς ΖΗ ἡ ἐλάττων τῆς μείζονος· ὅπερ     subtended by the greater side [Prop. 1.19]. Thus, F C (is)
+ἐστὶν ἀδύνατον. οὐκ ἄρα ἡ ΖΗ κάθετός ἐστιν ἐπὶ τὴν ΔΕ.      greater than F G. And F C (is) equal to F B. Thus, F B
+ὁμοίως δὴ δεῖξομεν, ὅτι οὐδ᾿ ἄλλη τις πλὴν τῆς ΖΓ· ἡ ΖΓ     (is) also greater than F G, the lesser than the greater. The
+ἄρα κάθετός ἐστιν ἐπὶ τὴν ΔΕ.                               very thing is impossible. Thus, F G is not perpendicular to
+    ᾿Εὰν ἄρα κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ δὲ τοῦ        DE. So, similarly, we can show that neither (is) any other
+κέντρου ἐπὶ τὴν ἁφὴν ἐπιζευχθῇ τις εὐθεῖα, ἡ ἐπιζευχθεῖσα   (straight-line) except F C. Thus, F C is perpendicular to
+κάθετος ἔσται ἐπὶ τὴν ἐφαπτομένην· ὅπερ ἔδει δεῖξαι.        DE.
+                                                                Thus, if some straight-line touches a circle, and some
+                                                            (other) straight-line is joined from the center (of the cir-
+                                                            cle) to the point of contact, then the (straight-line) so
+                                                            joined will be perpendicular to the tangent. (Which is)
+                                                            the very thing it was required to show.
+
+                            ijþ.                                                Proposition 19
+   ᾿Εὰν κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ δὲ τῆς ἁφῆς τῇ         If some straight-line touches a circle, and a straight-
+ἐφαπτομένῃ πρὸς ὀρθὰς [γωνίας] εὐθεῖα γραμμὴ ἀχθῇ, ἐπὶ      line is drawn from the point of contact, at right-[angles]
+τῆς ἀχθείσης ἔσται τὸ κέντρον τοῦ κύκλου.                   to the tangent, then the center (of the circle) will be on
+   Κύκλου γὰρ τοῦ ΑΒΓ ἐφαπτέσθω τις εὐθεῖα ἡ ΔΕ κατὰ        the (straight-line) so drawn.
+τὸ Γ σημεῖον, καὶ ἀπὸ τοῦ Γ τῇ ΔΕ πρὸς ὀρθὰς ἤχθω ἡ             For let some straight-line DE touch the circle ABC at
+ΓΑ· λέγω, ὅτι ἐπὶ τῆς ΑΓ ἐστι τὸ κέντρον τοῦ κύκλου.        point C. And let CA have been drawn from C, at right-
+
+
+                                                         89
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+                                                            angles to DE [Prop. 1.11]. I say that the center of the
+                                                            circle is on AC.
+                           Α                                                             A
+
+
+
+
+          Β                      Ζ                                     B                       F
+
+
+
+
+      ∆                                         Ε                 D                                             E
+                           Γ                                                             C
+    Μὴ γάρ, ἀλλ᾿ εἰ δυνατόν, ἔστω τὸ Ζ, καὶ ἐπεζεύχθω ἡ         For (if) not, if possible, let F be (the center of the
+ΓΖ.                                                         circle), and let CF have been joined.
+    ᾿Επεὶ [οὖν] κύκλου τοῦ ΑΒΓ ἐφάπτεταί τις εὐθεῖα ἡ ΔΕ,       [Therefore], since some straight-line DE touches the
+ἀπὸ δὲ τοῦ κέντρου ἐπὶ τὴν ἁφὴν ἐπέζευκται ἡ ΖΓ, ἡ ΖΓ ἄρα   circle ABC, and F C has been joined from the center to
+κάθετός ἐστιν ἐπὶ τὴν ΔΕ· ὀρθὴ ἄρα ἐστὶν ἡ ὑπὸ ΖΓΕ. ἐστὶ    the point of contact, F C is thus perpendicular to DE
+δὲ καὶ ἡ ὑπὸ ΑΓΕ ὀρθή· ἴση ἄρα ἐστὶν ἡ ὑπὸ ΖΓΕ τῇ ὑπὸ       [Prop. 3.18]. Thus, F CE is a right-angle. And ACE
+ΑΓΕ ἡ ἐλάττων τῇ μείζονι· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα      is also a right-angle. Thus, F CE is equal to ACE, the
+τὸ Ζ κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου. ὁμοίως δὴ δείξομεν,       lesser to the greater. The very thing is impossible. Thus,
+ὅτι οὐδ᾿ ἄλλο τι πλὴν ἐπὶ τῆς ΑΓ.                           F is not the center of circle ABC. So, similarly, we can
+    ᾿Εὰν ἄρα κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ δὲ τῆς ἁφῆς   show that neither is any (point) other (than one) on AC.
+τῇ ἐφαπτομένῃ πρὸς ὀρθὰς εὐθεῖα γραμμὴ ἀχθῇ, ἐπὶ τῆς
+ἀχθείσης ἔσται τὸ κέντρον τοῦ κύκλου· ὅπερ ἔδει δεῖξαι.     Thus, if some straight-line touches a circle, and a straight-
+                                                            line is drawn from the point of contact, at right-angles to
+                                                            the tangent, then the center (of the circle) will be on the
+                                                            (straight-line) so drawn. (Which is) the very thing it was
+                                                            required to show.
+
+                           kþ.                                                   Proposition 20
+    ᾿Εν κύκλῳ ἡ πρὸς τῷ κέντρῳ γωνία διπλασίων ἐστὶ τῆς         In a circle, the angle at the center is double that at the
+πρὸς τῇ περιφερείᾳ, ὅταν τὴν αὐτὴν περιφέρειαν βάσιν ἔχω-   circumference, when the angles have the same circumfer-
+σιν αἱ γωνίαι.                                              ence base.
+    ῎Εστω κύκλος ὁ ΑΒΓ, καὶ πρὸς μὲν τῷ κέντρῳ αὐτοῦ            Let ABC be a circle, and let BEC be an angle at its
+γωνία ἔστω ἡ ὑπὸ ΒΕΓ, πρὸς δὲ τῇ περιφερείᾳ ἡ ὑπὸ ΒΑΓ,      center, and BAC (one) at (its) circumference. And let
+ἐχέτωσαν δὲ τὴν αὐτὴν περιφέρειαν βάσιν τὴν ΒΓ· λέγω,       them have the same circumference base BC. I say that
+ὅτι διπλασίων ἐστὶν ἡ ὑπὸ ΒΕΓ γωνία τῆς ὑπὸ ΒΑΓ.            angle BEC is double (angle) BAC.
+    ᾿Επιζευχθεῖσα γὰρ ἡ ΑΕ διήχθω ἐπὶ τὸ Ζ.                     For being joined, let AE have been drawn through to
+    ᾿Επεὶ οὖν ἴση ἐστὶν ἡ ΕΑ τῇ ΕΒ, ἴση καὶ γωνία ἡ ὑπὸ     F.
+ΕΑΒ τῇ ὑπὸ ΕΒΑ· αἱ ἄρα ὑπὸ ΕΑΒ, ΕΒΑ γωνίαι τῆς ὑπὸ              Therefore, since EA is equal to EB, angle EAB (is)
+ΕΑΒ διπλασίους εἰσίν. ἴση δὲ ἡ ὑπὸ ΒΕΖ ταῖς ὑπὸ ΕΑΒ,        also equal to EBA [Prop. 1.5]. Thus, angle EAB and
+ΕΒΑ· καὶ ἡ ὑπὸ ΒΕΖ ἄρα τῆς ὑπὸ ΕΑΒ ἐστι διπλῆ. διὰ τὰ       EBA is double (angle) EAB. And BEF (is) equal to
+αὐτὰ δὴ καὶ ἡ ὑπὸ ΖΕΓ τῆς ὑπὸ ΕΑΓ ἐστι διπλῆ. ὅλη ἄρα       EAB and EBA [Prop. 1.32]. Thus, BEF is also double
+ἡ ὑπὸ ΒΕΓ ὅλης τῆς ὑπὸ ΒΑΓ ἐστι διπλῆ.                      EAB. So, for the same (reasons), F EC is also double
+                                                            EAC. Thus, the whole (angle) BEC is double the whole
+                                                            (angle) BAC.
+
+
+
+                                                        90
+STOIQEIWN gþ.                                                                                   ELEMENTS BOOK 3
+
+
+             Α                         ∆                                  A                           D
+
+
+                          Ε                                                             E
+
+                                           Γ                                                               C
+
+             Η                        Ζ                                  G                           F
+                              Β                                                             B
+    Κεκλάσθω δὴ πάλιν, καὶ ἔστω ἑτέρα γωνία ἡ ὑπὸ ΒΔΓ,          So let another (straight-line) have been inflected, and
+καὶ ἐπιζευχθεῖσα ἡ ΔΕ ἐκβεβλήσθω ἐπὶ τὸ Η. ὁμοίως δὴ       let there be another angle, BDC. And DE being joined,
+δείξομεν, ὅτι διπλῆ ἐστιν ἡ ὑπὸ ΗΕΓ γωνία τῆς ὑπὸ ΕΔΓ,     let it have been produced to G. So, similarly, we can show
+ὧν ἡ ὑπὸ ΗΕΒ διπλῆ ἐστι τῆς ὑπὸ ΕΔΒ· λοιπὴ ἄρα ἡ ὑπὸ       that angle GEC is double EDC, of which GEB is double
+ΒΕΓ διπλῆ ἐστι τῆς ὑπὸ ΒΔΓ.                                EDB. Thus, the remaining (angle) BEC is double the
+    ᾿Εν κύκλῳ ἄρα ἡ πρὸς τῷ κέντρῳ γωνία διπλασίων ἐστὶ    (remaining angle) BDC.
+τῆς πρὸς τῇ περιφερείᾳ, ὅταν τὴν αὐτὴν περιφέρειαν βάσιν        Thus, in a circle, the angle at the center is double that
+ἔχωσιν [αἱ γωνίαι]· ὅπερ ἔδει δεῖξαι.                      at the circumference, when [the angles] have the same
+                                                           circumference base. (Which is) the very thing it was re-
+                                                           quired to show.
+
+                         kaþ.                                                    Proposition 21
+    ᾿Εν κύκλῳ αἱ ἐν τῷ αὐτῷ τμήματι γωνίαι ἴσαι ἀλλήλαις    In a circle, angles in the same segment are equal to
+εἰσίν.                                                   one another.
+              Α                                                              A
+
+
+                          Ζ                 Ε                                           F                   E
+
+         Β                                 ∆                         B                                    D
+
+                                  Γ                                                             C
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, καὶ ἐν τῷ αὐτῷ τμήματι τῷ             Let ABCD be a circle, and let BAD and BED be
+ΒΑΕΔ γωνίαι ἔστωσαν αἱ ὑπὸ ΒΑΔ, ΒΕΔ· λέγω, ὅτι αἱ          angles in the same segment BAED. I say that angles
+ὑπὸ ΒΑΔ, ΒΕΔ γωνίαι ἴσαι ἀλλήλαις εἰσίν.                   BAD and BED are equal to one another.
+    Εἰλήφθω γὰρ τοῦ ΑΒΓΔ κύκλου τὸ κέντρον, καὶ ἔστω           For let the center of circle ABCD have been found
+τὸ Ζ, καὶ ἐπεζεύχθωσαν αἱ ΒΖ, ΖΔ.                          [Prop. 3.1], and let it be (at point) F . And let BF and
+    Καὶ ἐπεὶ ἡ μὲν ὑπὸ ΒΖΔ γωνία πρὸς τῷ κέντρῳ ἐστίν, ἡ   F D have been joined.
+δὲ ὑπὸ ΒΑΔ πρὸς τῇ περιφερείᾳ, καὶ ἔχουσι τὴν αὐτὴν πε-        And since angle BF D is at the center, and BAD at
+ριφέρειαν βάσιν τὴν ΒΓΔ, ἡ ἄρα ὑπὸ ΒΖΔ γωνία διπλασίων     the circumference, and they have the same circumference
+ἐστὶ τῆς ὑπὸ ΒΑΔ. διὰ τὰ αὐτὰ δὴ ἡ ὑπὸ ΒΖΔ καὶ τῆς ὑπὸ     base BCD, angle BF D is thus double BAD [Prop. 3.20].
+
+
+                                                       91
+STOIQEIWN gþ.                                                                                 ELEMENTS BOOK 3
+
+ΒΕΔ ἐστι διπλσίων· ἴση ἄρα ἡ ὑπὸ ΒΑΔ τῇ ὑπὸ ΒΕΔ.   So, for the same (reasons), BF D is also double BED.
+   ᾿Εν κύκλῳ ἄρα αἱ ἐν τῷ αὐτῷ τμήματι γωνίαι ἴσαι Thus, BAD (is) equal to BED.
+ἀλλήλαις εἰσίν· ὅπερ ἔδει δεῖξαι.                      Thus, in a circle, angles in the same segment are equal
+                                                   to one another. (Which is) the very thing it was required
+                                                   to show.
+
+                          kbþ.                                                    Proposition 22
+   Τῶν ἐν τοῖς κύκλοις τετραπλεύρων αἱ ἀπεναντίον γωνίαι        For quadrilaterals within circles, the (sum of the) op-
+δυσὶν ὀρθαῖς ἴσαι εἰσίν.                                     posite angles is equal to two right-angles.
+                                     Β                                                            B
+
+
+        Α                                                             A
+
+
+                                              Γ                                                             C
+
+                 ∆                                                            D
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, καὶ ἐν αὐτῷ τετράπλευρον ἔστω           Let ABCD be a circle, and let ABCD be a quadrilat-
+τὸ ΑΒΓΔ· λέγω, ὅτι αἱ ἀπεναντίον γωνίαι δυσὶν ὀρθαῖς ἴσαι    eral within it. I say that the (sum of the) opposite angles
+εἰσίν.                                                       is equal to two right-angles.
+    ᾿Επεζεύχθωσαν αἱ ΑΓ, ΒΔ.                                     Let AC and BD have been joined.
+    ᾿Επεὶ οὖν παντὸς τριγώνου αἱ τρεῖς γωνίαι δυσὶν ὀρθαῖς       Therefore, since the three angles of any triangle are
+ἴσαι εἰσίν, τοῦ ΑΒΓ ἄρα τριγώνου αἱ τρεῖς γωνίαι αἱ ὑπὸ      equal to two right-angles [Prop. 1.32], the three angles
+ΓΑΒ, ΑΒΓ, ΒΓΑ δυσὶν ὀρθαῖς ἴσαι εἰσίν. ἴση δὲ ἡ μὲν ὑπὸ      CAB, ABC, and BCA of triangle ABC are thus equal
+ΓΑΒ τῇ ὑπὸ ΒΔΓ· ἐν γὰρ τῷ αὐτῷ τμήματί εἰσι τῷ ΒΑΔΓ·         to two right-angles. And CAB (is) equal to BDC. For
+ἡ δὲ ὑπὸ ΑΓΒ τῇ ὑπὸ ΑΔΒ· ἐν γὰρ τῷ αὐτῷ τμήματί εἰσι         they are in the same segment BADC [Prop. 3.21]. And
+τῷ ΑΔΓΒ· ὅλη ἄρα ἡ ὑπὸ ΑΔΓ ταῖς ὑπὸ ΒΑΓ, ΑΓΒ ἴση             ACB (is equal) to ADB. For they are in the same seg-
+ἐστίν. κοινὴ προσκείσθω ἡ ὑπὸ ΑΒΓ· αἱ ἄρα ὑπὸ ΑΒΓ,           ment ADCB [Prop. 3.21]. Thus, the whole of ADC is
+ΒΑΓ, ΑΓΒ ταῖς ὑπὸ ΑΒΓ, ΑΔΓ ἴσαι εἰσίν. ἀλλ᾿ αἱ ὑπὸ           equal to BAC and ACB. Let ABC have been added to
+ΑΒΓ, ΒΑΓ, ΑΓΒ δυσὶν ὀρθαῖς ἴσαι εἰσίν. καὶ αἱ ὑπὸ ΑΒΓ,       both. Thus, ABC, BAC, and ACB are equal to ABC
+ΑΔΓ ἄρα δυσὶν ὀρθαῖς ἴσαι εἰσίν. ὁμοίως δὴ δείξομεν, ὅτι     and ADC. But, ABC, BAC, and ACB are equal to two
+καὶ αἱ ὑπὸ ΒΑΔ, ΔΓΒ γωνίαι δυσὶν ὀρθαῖς ἴσαι εἰσίν.          right-angles. Thus, ABC and ADC are also equal to two
+    Τῶν ἄρα ἐν τοῖς κύκλοις τετραπλεύρων αἱ ἀπεναντίον       right-angles. Similarly, we can show that angles BAD
+γωνίαι δυσὶν ὀρθαῖς ἴσαι εἰσίν· ὅπερ ἔδει δεῖξαι.            and DCB are also equal to two right-angles.
+                                                                 Thus, for quadrilaterals within circles, the (sum of
+                                                             the) opposite angles is equal to two right-angles. (Which
+                                                             is) the very thing it was required to show.
+
+                          kgþ.                                                    Proposition 23
+    ᾿Επὶ τῆς αὐτῆς εὐθείας δύο τμήματα κύκλων ὅμοια καὶ    Two similar and unequal segments of circles cannot be
+ἄνισα οὐ συσταθήσεται ἐπὶ τὰ αὐτὰ μέρη.                 constructed on the same side of the same straight-line.
+    Εἰ γὰρ δυνατόν, ἐπὶ τῆς αὐτῆς εὐθείας τῆς ΑΒ δύο       For, if possible, let the two similar and unequal seg-
+τμήματα κύκλων ὅμοια καὶ ἄνισα συνεστάτω ἐπὶ τὰ αὐτὰ ments of circles, ACB and ADB, have been constructed
+μέρη τὰ ΑΓΒ, ΑΔΒ, καὶ διήχθω ἡ ΑΓΔ, καὶ ἐπεζεύχθωσαν on the same side of the same straight-line AB. And let
+
+
+                                                           92
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+αἱ ΓΒ, ΔΒ.                                                   ACD have been drawn through (the segments), and let
+                                                             CB and DB have been joined.
+
+                                                ∆                                                               D
+                                   Γ                                                             C
+
+
+Α                                                      Β A                                                               B
+    ᾿Επεὶ οὖν ὅμοιόν ἐστι τὸ ΑΓΒ τμῆμα τῷ ΑΔΒ τμήματι,           Therefore, since segment ACB is similar to segment
+ὅμοια δὲ τμήματα κύκλων ἐστὶ τὰ δεχόμενα γωνίας ἴσας,        ADB, and similar segments of circles are those accept-
+ἴση ἄρα ἐστὶν ἡ ὑπὸ ΑΓΒ γωνία τῇ ὑπὸ ΑΔΒ ἡ ἐκτὸς τῇ          ing equal angles [Def. 3.11], angle ACB is thus equal
+ἐντός· ὅπερ ἐστὶν ἀδύνατον.                                  to ADB, the external to the internal. The very thing is
+    Οὐκ ἄρα ἐπὶ τῆς αὐτῆς εὐθείας δύο τμήματα κύκλων         impossible [Prop. 1.16].
+ὅμοια καὶ ἄνισα συσταθήσεται ἐπὶ τὰ αὐτὰ μέρη· ὅπερ ἔδει         Thus, two similar and unequal segments of circles
+δεῖξαι.                                                      cannot be constructed on the same side of the same
+                                                             straight-line.
+
+                          kdþ.                                                    Proposition 24
+   Τὰ ἐπὶ ἴσων εὐθειῶν ὅμοια τμήματα κύλων ἴσα ἀλλήλοις    Similar segments of circles on equal straight-lines are
+ἐστίν.                                                  equal to one another.
+                           Ε                                                               E
+
+
+
+
+           Α                                Β                            A                                  B
+
+                                 Η                                                               G
+                  Ζ                                                              F
+
+
+
+             Γ                              ∆                            C                                   D
+    ῎Εστωσαν γὰρ ἐπὶ ἴσων εὐθειῶν τῶν ΑΒ, ΓΔ ὅμοια               For let AEB and CF D be similar segments of circles
+τμήματα κύκλων τὰ ΑΕΒ, ΓΖΔ· λέγω, ὅτι ἴσον ἐστὶ τὸ           on the equal straight-lines AB and CD (respectively). I
+ΑΕΒ τμῆμα τῷ ΓΖΔ τμήματι.                                    say that segment AEB is equal to segment CF D.
+    ᾿Εφαρμοζομένου γὰρ τοῦ ΑΕΒ τμήματος ἐπὶ τὸ ΓΖΔ καὶ           For if the segment AEB is applied to the segment
+τιθεμένου τοῦ μὲν Α σημείου ἐπὶ τὸ Γ τῆς δὲ ΑΒ εὐθείας       CF D, and point A is placed on (point) C, and the
+ἐπὶ τὴν ΓΔ, ἐφαρμόσει καὶ τὸ Β σημεῖον ἐπὶ τὸ Δ σημεῖον      straight-line AB on CD, then point B will also coincide
+διὰ τὸ ἴσην εἶναι τὴν ΑΒ τῇ ΓΔ· τῆς δὲ ΑΒ ἐπὶ τὴν ΓΔ ἐφαρ-   with point D, on account of AB being equal to CD. And
+μοσάσης ἐφαρμόσει καὶ τὸ ΑΕΒ τμῆμα ἐπὶ τὸ ΓΖΔ. εἰ γὰρ        if AB coincides with CD then the segment AEB will also
+ἡ ΑΒ εὐθεῖα ἐπὶ τὴν ΓΔ ἐφαρμόσει, τὸ δὲ ΑΕΒ τμῆμα ἐπὶ        coincide with CF D. For if the straight-line AB coincides
+τὸ ΓΖΔ μὴ ἐφαρμόσει, ἤτοι ἐντὸς αὐτοῦ πεσεῖται ἢ ἐκτὸς       with CD, and the segment AEB does not coincide with
+ἢ παραλλάξει, ὡς τὸ ΓΗΔ, καὶ κύκλος κύκλον τέμνει κατὰ       CF D, then it will surely either fall inside it, outside (it),†
+πλείονα σημεῖα ἢ δύο· ὅπερ ἐστίν ἀδύνατον. οὐκ ἄρα ἐφαρ-     or it will miss like CGD (in the figure), and a circle (will)
+μοζομένης τῆς ΑΒ εὐθείας ἐπὶ τὴν ΓΔ οὐκ ἐφαρμόσει καὶ        cut (another) circle at more than two points. The very
+
+
+                                                         93
+STOIQEIWN gþ.                                                                                                   ELEMENTS BOOK 3
+
+τὸ ΑΕΒ τμῆμα ἐπὶ τὸ ΓΖΔ· ἐφαρμόσει ἄρα, καὶ ἴσον αὐτῷ                         thing is impossible [Prop. 3.10]. Thus, if the straight-line
+ἔσται.                                                                        AB is applied to CD, the segment AEB cannot not also
+   Τὰ ἄρα ἐπὶ ἴσων εὐθειῶν ὅμοια τμήματα κύκλων ἴσα                           coincide with CF D. Thus, it will coincide, and will be
+ἀλλήλοις ἐστίν· ὅπερ ἔδει δεῖξαι.                                             equal to it [C.N. 4].
+                                                                                  Thus, similar segments of circles on equal straight-
+                                                                              lines are equal to one another. (Which is) the very thing
+                                                                              it was required to show.
+† Both this possibility, and the previous one, are precluded by Prop. 3.23.
+
+
+
+                                  keþ.                                                            Proposition 25
+   Κύκλου τμήματος δοθέντος προσαναγράψαι τὸν κύκλον,    For a given segment of a circle, to complete the circle,
+οὗπέρ ἐστι τμῆμα.                                     the very one of which it is a segment.
+        Α                                  Α                        Α                A                           A                    A
+
+
+
+  Β       ∆             Ε    Β             ∆       Β                ∆          B      D          E    B          D      B             D
+                                                               Ε                                                                  E
+
+
+
+        Γ                                  Γ                        Γ                C                           C                    C
+    ῎Εστω τὸ δοθὲν τμῆμα κύκλου τὸ ΑΒΓ· δεῖ δὴ τοῦ ΑΒΓ                            Let ABC be the given segment of a circle. So it is re-
+τμήματος προσαναγράψαι τὸν κύκλον, οὖπέρ ἐστι τμῆμα.                          quired to complete the circle for segment ABC, the very
+    Τετμήσθω γὰρ ἡ ΑΓ δίχα κατὰ τὸ Δ, καὶ ἤχθω ἀπὸ τοῦ                        one of which it is a segment.
+Δ σημείου τῇ ΑΓ πρὸς ὀρθὰς ἡ ΔΒ, καὶ ἐπεζεύχθω ἡ ΑΒ·                              For let AC have been cut in half at (point) D
+ἡ ὑπὸ ΑΒΔ γωνία ἄρα τῆς ὑπὸ ΒΑΔ ἤτοι μείζων ἐστὶν ἢ                           [Prop. 1.10], and let DB have been drawn from point
+ἴση ἢ ἐλάττων.                                                                D, at right-angles to AC [Prop. 1.11]. And let AB have
+    ῎Εστω πρότερον μείζων, καὶ συνεστάτω πρὸς τῇ ΒΑ                           been joined. Thus, angle ABD is surely either greater
+εὐθείᾳ καὶ τῷ πρὸς αὐτῇ σημείῳ τῷ Α τῇ ὑπὸ ΑΒΔ γωνίᾳ                          than, equal to, or less than (angle) BAD.
+ἴση ἡ ὑπὸ ΒΑΕ, καὶ διήχθω ἡ ΔΒ ἐπὶ τὸ Ε, καὶ ἐπεζεύχθω                            First of all, let it be greater. And let (angle) BAE,
+ἡ ΕΓ. ἐπεὶ οὖν ἴση ἐστὶν ἡ ὑπὸ ΑΒΕ γωνία τῇ ὑπὸ ΒΑΕ,                          equal to angle ABD, have been constructed on the
+ἴση ἄρα ἐστὶ καὶ ἡ ΕΒ εὐθεῖα τῇ ΕΑ. καὶ ἐπεὶ ἴση ἐστὶν ἡ                      straight-line BA, at the point A on it [Prop. 1.23]. And
+ΑΔ τῇ ΔΓ, κοινὴ δὲ ἡ ΔΕ, δύο δὴ αἱ ΑΔ, ΔΕ δύο ταῖς                            let DB have been drawn through to E, and let EC have
+ΓΔ, ΔΕ ἴσαι εἰσὶν ἑκατέρα ἑκατέρᾳ· καὶ γωνία ἡ ὑπὸ ΑΔΕ                        been joined. Therefore, since angle ABE is equal to
+γωνίᾳ τῇ ὑπὸ ΓΔΕ ἐστιν ἴση· ὀρθὴ γὰρ ἑκατέρα· βάσις ἄρα                       BAE, the straight-line EB is thus also equal to EA
+ἡ ΑΕ βάσει τῇ ΓΕ ἐστιν ἴση. ἀλλὰ ἡ ΑΕ τῇ ΒΕ ἐδείχθη                           [Prop. 1.6]. And since AD is equal to DC, and DE (is)
+ἴση· καὶ ἡ ΒΕ ἄρα τῇ ΓΕ ἐστιν ἴση· αἱ τρεῖς ἄρα αἱ ΑΕ, ΕΒ,                    common, the two (straight-lines) AD, DE are equal to
+ΕΓ ἴσαι ἀλλήλαις εἰσίν· ὁ ἄρα κέντρῷ τῷ Ε διαστήματι δὲ                       the two (straight-lines) CD, DE, respectively. And angle
+ἑνὶ τῶν ΑΕ, ΕΒ, ΕΓ κύκλος γραφόμενος ἥξει καὶ διὰ τῶν                         ADE is equal to angle CDE. For each (is) a right-angle.
+λοιπῶν σημείων καὶ ἔσται προσαναγεγραμμένος. κύκλου                           Thus, the base AE is equal to the base CE [Prop. 1.4].
+ἄρα τμήματος δοθέντος προσαναγέγραπται ὁ κύκλος. καὶ                          But, AE was shown (to be) equal to BE. Thus, BE is
+δῆλον, ὡς τὸ ΑΒΓ τμῆμα ἔλαττόν ἐστιν ἡμικυκλίου διὰ τὸ                        also equal to CE. Thus, the three (straight-lines) AE,
+τὸ Ε κέντρον ἐκτὸς αὐτοῦ τυγχάνειν.                                           EB, and EC are equal to one another. Thus, if a cir-
+    ῾Ομοίως [δὲ] κἂν ᾖ ἡ ὑπὸ ΑΒΔ γωνία ἴση τῇ ὑπὸ ΒΑΔ,                        cle is drawn with center E, and radius one of AE, EB,
+τῆς ΑΔ ἴσης γενομένης ἑκατέρᾳ τῶν ΒΔ, ΔΓ αἱ τρεῖς αἱ                          or EC, it will also go through the remaining points (of
+ΔΑ, ΔΒ, ΔΓ ἴσαι ἀλλήλαις ἔσονται, καὶ ἔσται τὸ Δ κέντρον                      the segment), and the (associated circle) will have been
+τοῦ προσαναπεπληρωμένου κύκλου, καὶ δηλαδὴ ἔσται τὸ                           completed [Prop. 3.9]. Thus, a circle has been completed
+ΑΒΓ ἡμικύκλιον.                                                               from the given segment of a circle. And (it is) clear that
+    ᾿Εὰν δὲ ἡ ὑπὸ ΑΒΔ ἐλάττων ᾖ τῆς ὑπὸ ΒΑΔ, καὶ συ-                          the segment ABC is less than a semi-circle, because the
+στησώμεθα πρὸς τῇ ΒΑ εὐθείᾳ καὶ τῷ πρὸς αὐτῇ σημείῳ                           center E happens to lie outside it.
+
+
+                                                                        94
+STOIQEIWN gþ.                                                                                      ELEMENTS BOOK 3
+
+τῷ Α τῇ ὑπὸ ΑΒΔ γωνίᾳ ἴσην, ἐντὸς τοῦ ΑΒΓ τμήματος                 [And], similarly, even if angle ABD is equal to BAD,
+πεσεῖται τὸ κέντρον ἐπὶ τῆς ΔΒ, καὶ ἔσται δηλαδὴ τὸ ΑΒΓ        (since) AD becomes equal to each of BD [Prop. 1.6] and
+τμῆμα μεῖζον ἡμικυκλίου.                                       DC, the three (straight-lines) DA, DB, and DC will be
+   Κύκλου ἄρα τμήματος δοθέντος προσαναγέγραπται ὁ             equal to one another. And point D will be the center
+κύκλος· ὅπερ ἔδει ποιῆσαι.                                     of the completed circle. And ABC will manifestly be a
+                                                               semi-circle.
+                                                                   And if ABD is less than BAD, and we construct (an-
+                                                               gle BAE), equal to angle ABD, on the straight-line BA,
+                                                               at the point A on it [Prop. 1.23], then the center will fall
+                                                               on DB, inside the segment ABC. And segment ABC will
+                                                               manifestly be greater than a semi-circle.
+                                                                   Thus, a circle has been completed from the given seg-
+                                                               ment of a circle. (Which is) the very thing it was required
+                                                               to do.
+
+                             kþ.                                                  Proposition 26
+    ᾿Εν τοῖς ἴσοις κύκλοις αἱ ἴσαι γωνίαι ἐπὶ ἴσων περιφε-     In equal circles, equal angles stand upon equal cir-
+ρειῶν βεβήκασιν, ἐάν τε πρὸς τοῖς κέντροις ἐάν τε πρὸς cumferences whether they are standing at the center or
+ταῖς περιφερείαις ὦσι βεβηκυῖαι.                           at the circumference.
+       Α                                                              A
+
+                                                      ∆                                                               D
+             Η                            Θ                                 G                             H
+
+  Β                      Γ      Ε                    Ζ           B                     C       E                     F
+
+              Κ                            Λ                                 K                            L
+    ῎Εστωσαν ἴσοι κύκλοι οἱ ΑΒΓ, ΔΕΖ καὶ ἐν αὐτοῖς ἴσαι            Let ABC and DEF be equal circles, and within them
+γωνίαι ἔστωσαν πρὸς μὲν τοῖς κέντροις αἱ ὑπὸ ΒΗΓ, ΕΘΖ,         let BGC and EHF be equal angles at the center, and
+πρὸς δὲ ταῖς περιφερείαις αἱ ὑπὸ ΒΑΓ, ΕΔΖ· λέγω, ὅτι ἴση       BAC and EDF (equal angles) at the circumference. I
+ἐστὶν ἡ ΒΚΓ περιφέρεια τῇ ΕΛΖ περιφερείᾳ.                      say that circumference BKC is equal to circumference
+    ᾿Επεζεύχθωσαν γὰρ αἱ ΒΓ, ΕΖ.                               ELF .
+    Καὶ ἐπεὶ ἴσοι εἰσὶν οἱ ΑΒΓ, ΔΕΖ κύκλοι, ἴσαι εἰσὶν αἱ          For let BC and EF have been joined.
+ἐκ τῶν κέντρων· δύο δὴ αἱ ΒΗ, ΗΓ δύο ταῖς ΕΘ, ΘΖ ἴσαι·             And since circles ABC and DEF are equal, their radii
+καὶ γωνία ἡ πρὸς τῷ Η γωνίᾳ τῇ πρὸς τῷ Θ ἴση· βάσις ἄρα        are equal. So the two (straight-lines) BG, GC (are) equal
+ἡ ΒΓ βάσει τῇ ΕΖ ἐστιν ἴση. καὶ ἐπεὶ ἴση ἐστὶν ἡ πρὸς τῷ       to the two (straight-lines) EH, HF (respectively). And
+Α γωνία τῇ πρὸς τῷ Δ, ὅμοιον ἄρα ἐστὶ τὸ ΒΑΓ τμῆμα τῷ          the angle at G (is) equal to the angle at H. Thus, the base
+ΕΔΖ τμήματι· καί εἰσιν ἐπὶ ἴσων εὐθειῶν [τῶν ΒΓ, ΕΖ]· τὰ       BC is equal to the base EF [Prop. 1.4]. And since the
+δὲ ἐπὶ ἴσων εὐθειῶν ὅμοια τμήματα κύκλων ἴσα ἀλλήλοις          angle at A is equal to the (angle) at D, the segment BAC
+ἐστίν· ἴσον ἄρα τὸ ΒΑΓ τμῆμα τῷ ΕΔΖ. ἔστι δὲ καὶ ὅλος ὁ        is thus similar to the segment EDF [Def. 3.11]. And
+ΑΒΓ κύκλος ὅλῳ τῷ ΔΕΖ κύκλῳ ἴσος· λοιπὴ ἄρα ἡ ΒΚΓ              they are on equal straight-lines [BC and EF ]. And simi-
+περιφέρεια τῇ ΕΛΖ περιφερείᾳ ἐστὶν ἴση.                        lar segments of circles on equal straight-lines are equal to
+    ᾿Εν ἄρα τοῖς ἴσοις κύκλοις αἱ ἴσαι γωνίαι ἐπὶ ἴσων περι-   one another [Prop. 3.24]. Thus, segment BAC is equal to
+φερειῶν βεβήκασιν, ἐάν τε πρὸς τοῖς κέντροις ἐάν τε πρὸς       (segment) EDF . And the whole circle ABC is also equal
+ταῖς περιφερείας ὦσι βεβηκυῖαι· ὅπερ ἔδει δεῖξαι.              to the whole circle DEF . Thus, the remaining circum-
+                                                               ference BKC is equal to the (remaining) circumference
+                                                               ELF .
+                                                                   Thus, in equal circles, equal angles stand upon equal
+                                                               circumferences, whether they are standing at the center
+
+
+                                                           95
+STOIQEIWN gþ.                                                                                         ELEMENTS BOOK 3
+
+                                                                 or at the circumference. (Which is) the very thing which
+                                                                 it was required to show.
+
+                              kzþ.                                                    Proposition 27
+   ᾿Εν τοῖς ἴσοις κύκλοις αἱ ἐπὶ ἴσων περιφερειῶν βεβηκυῖαι      In equal circles, angles standing upon equal circum-
+γωνίαι ἴσαι ἀλλήλαις εἰσίν, ἐάν τε πρὸς τοῖς κέντροις ἐάν τε ferences are equal to one another, whether they are
+πρὸς ταῖς περιφερείαις ὦσι βεβηκυῖαι.                        standing at the center or at the circumference.
+      Α                                  ∆                              A                               D
+
+
+             Η                                Θ                               G                                H
+
+Β                         Γ          Ε                     Ζ        B                      C      E                        F
+                      Κ                                                                K
+    ᾿Εν γὰρ ἴσοις κύκλοις τοῖς ΑΒΓ, ΔΕΖ ἐπὶ ἴσων περι-               For let the angles BGC and EHF at the centers G
+φερειῶν τῶν ΒΓ, ΕΖ πρὸς μὲν τοῖς Η, Θ κέντροις γωνίαι            and H, and the (angles) BAC and EDF at the circum-
+βεβηκέτωσαν αἱ ὑπὸ ΒΗΓ, ΕΘΖ, πρὸς δὲ ταῖς περιφερείαις           ferences, stand upon the equal circumferences BC and
+αἱ ὑπὸ ΒΑΓ, ΕΔΖ· λέγω, ὅτι ἡ μὲν ὑπὸ ΒΗΓ γωνία τῇ ὑπὸ            EF , in the equal circles ABC and DEF (respectively). I
+ΕΘΖ ἐστιν ἴση, ἡ δὲ ὑπὸ ΒΑΓ τῇ ὑπὸ ΕΔΖ ἐστιν ἴση.                say that angle BGC is equal to (angle) EHF , and BAC
+    Εἰ γὰρ ἄνισός ἐστιν ἡ ὑπὸ ΒΗΓ τῇ ὑπὸ ΕΘΖ, μία αὐτῶν          is equal to EDF .
+μείζων ἐστίν. ἔστω μείζων ἡ ὑπὸ ΒΗΓ, καὶ συνεστάτω                   For if BGC is unequal to EHF , one of them is greater.
+πρὸς τῇ ΒΗ εὐθείᾳ καὶ τῷ πρὸς αὐτῇ σημείῳ τῷ Η τῇ ὑπὸ            Let BGC be greater, and let the (angle) BGK, equal to
+ΕΘΖ γωνίᾳ ἴση ἡ ὑπὸ ΒΗΚ· αἱ δὲ ἴσαι γωνίαι ἐπὶ ἴσων              angle EHF , have been constructed on the straight-line
+περιφερειῶν βεβήκασιν, ὅταν πρὸς τοῖς κέντροις ὦσιν· ἴση         BG, at the point G on it [Prop. 1.23]. But equal angles
+ἄρα ἡ ΒΚ περιφέρεια τῇ ΕΖ περιφερείᾳ. ἀλλὰ ἡ ΕΖ τῇ ΒΓ            (in equal circles) stand upon equal circumferences, when
+ἐστιν ἴση· καὶ ἡ ΒΚ ἄρα τῇ ΒΓ ἐστιν ἴση ἡ ἐλάττων τῇ             they are at the centers [Prop. 3.26]. Thus, circumference
+μείζονι· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα ἄνισός ἐστιν ἡ ὑπὸ         BK (is) equal to circumference EF . But, EF is equal
+ΒΗΓ γωνία τῇ ὑπὸ ΕΘΖ· ἴση ἄρα. καί ἐστι τῆς μὲν ὑπὸ              to BC. Thus, BK is also equal to BC, the lesser to the
+ΒΗΓ ἡμίσεια ἡ πρὸς τῷ Α, τῆς δὲ ὑπὸ ΕΘΖ ἡμίσεια ἡ πρὸς           greater. The very thing is impossible. Thus, angle BGC
+τῷ Δ· ἴση ἄρα καὶ ἡ πρὸς τῷ Α γωνία τῇ πρὸς τῷ Δ.                is not unequal to EHF . Thus, (it is) equal. And the
+    ᾿Εν ἄρα τοῖς ἴσοις κύκλοις αἱ ἐπὶ ἴσων περιφερειῶν βε-       (angle) at A is half BGC, and the (angle) at D half EHF
+βηκυῖαι γωνίαι ἴσαι ἀλλήλαις εἰσίν, ἐάν τε πρὸς τοῖς κέντροις    [Prop. 3.20]. Thus, the angle at A (is) also equal to the
+ἐάν τε πρὸς ταῖς περιφερείαις ὦσι βεβηκυῖαι· ὅπερ ἔδει δεῖξαι.   (angle) at D.
+                                                                     Thus, in equal circles, angles standing upon equal cir-
+                                                                 cumferences are equal to one another, whether they are
+                                                                 standing at the center or at the circumference. (Which is)
+                                                                 the very thing it was required to show.
+
+                              khþ.                                                    Proposition 28
+    ᾿Εν τοῖς ἴσοις κύκλοις αἱ ἴσαι εὐθεῖαι ἴσας περιφερείας          In equal circles, equal straight-lines cut off equal cir-
+ἀφαιροῦσι τὴν μὲν μείζονα τῇ μείζονι τὴν δὲ ἐλάττονα τῇ          cumferences, the greater (circumference being equal) to
+ἐλάττονι.                                                        the greater, and the lesser to the lesser.
+    ῎Εστωσαν ἴσοι κύκλοι οἱ ΑΒΓ, ΔΕΖ, καὶ ἐν τοῖς κύκλοις            Let ABC and DEF be equal circles, and let AB
+ἴσαι εὐθεῖαι ἔστωσαν αἱ ΑΒ, ΔΕ τὰς μὲν ΑΓΒ, ΑΖΕ περι-            and DE be equal straight-lines in these circles, cutting
+φερείας μείζονας ἀφαιροῦσαι τὰς δὲ ΑΗΒ, ΔΘΕ ἐλάττονας·           off the greater circumferences ACB and DF E, and the
+λέγω, ὅτι ἡ μὲν ΑΓΒ μείζων περιφέρεια ἴση ἐστὶ τῇ ΔΖΕ            lesser (circumferences) AGB and DHE (respectively). I
+μείζονι περιφερείᾳ ἡ δὲ ΑΗΒ ἐλάττων περιφέρεια τῇ ΔΘΕ.           say that the greater circumference ACB is equal to the
+                                                                 greater circumference DF E, and the lesser circumfer-
+
+
+                                                               96
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+                                                             ence AGB to (the lesser) DHE.
+             Γ                             Ζ                              C                             F
+
+
+
+             Κ                             Λ                              K                             L
+
+  Α                      Β          ∆                 Ε          A                    B      D                      E
+
+             Η                             Θ                              G                              H
+    Εἰλήφθω γὰρ τὰ κέντρα τῶν κύκλων τὰ Κ, Λ, καὶ                For let the centers of the circles, K and L, have been
+ἐπεζεύχθωσαν αἱ ΑΚ, ΚΒ, ΔΛ, ΛΕ.                              found [Prop. 3.1], and let AK, KB, DL, and LE have
+    Καὶ ἐπεὶ ἴσοι κύκλοι εἰσίν, ἴσαι εἰσὶ καὶ αἱ ἐκ τῶν      been joined.
+κέντρων· δύο δὴ αἱ ΑΚ, ΚΒ δυσὶ ταῖς ΔΛ, ΛΕ ἴσαι εἰσίν·           And since (ABC and DEF ) are equal circles, their
+καὶ βάσις ἡ ΑΒ βάσει τῇ ΔΕ ἴση· γωνία ἄρα ἡ ὑπὸ ΑΚΒ          radii are also equal [Def. 3.1]. So the two (straight-
+γωνίᾳ τῇ ὑπὸ ΔΛΕ ἴση ἐστίν. αἱ δὲ ἴσαι γωνίαι ἐπὶ ἴσων       lines) AK, KB are equal to the two (straight-lines) DL,
+περιφερειῶν βεβήκασιν, ὅταν πρὸς τοῖς κέντροις ὦσιν· ἴση     LE (respectively). And the base AB (is) equal to the
+ἄρα ἡ ΑΗΒ περιφέρεια τῇ ΔΘΕ. ἐστὶ δὲ καὶ ὅλος ὁ ΑΒΓ          base DE. Thus, angle AKB is equal to angle DLE
+κύκλος ὅλῳ τῷ ΔΕΖ κύκλῳ ἴσος· καὶ λοιπὴ ἄρα ἡ ΑΓΒ            [Prop. 1.8]. And equal angles stand upon equal circum-
+περιφέρεια λοιπῇ τῇ ΔΖΕ περιφερείᾳ ἴση ἐστίν.                ferences, when they are at the centers [Prop. 3.26]. Thus,
+    ᾿Εν ἄρα τοῖς ἴσοις κύκλοις αἱ ἴσαι εὐθεῖαι ἴσας πε-      circumference AGB (is) equal to DHE. And the whole
+ριφερείας ἀφαιροῦσι τὴν μὲν μείζονα τῇ μείζονι τὴν δὲ        circle ABC is also equal to the whole circle DEF . Thus,
+ἐλάττονα τῇ ἐλάττονι· ὅπερ ἔδει δεῖξαι.                      the remaining circumference ACB is also equal to the
+                                                             remaining circumference DF E.
+                                                                 Thus, in equal circles, equal straight-lines cut off
+                                                             equal circumferences, the greater (circumference being
+                                                             equal) to the greater, and the lesser to the lesser. (Which
+                                                             is) the very thing it was required to show.
+
+                             kjþ.                                                Proposition 29
+   ᾿Εν τοῖς ἴσοις κύκλοις τὰς ἴσας περιφερείας ἴσαι εὐθεῖαι    In equal circles, equal straight-lines subtend equal cir-
+ὑποτείνουσιν.                                               cumferences.
+            Α                               ∆                            A                               D
+
+
+
+            Κ                               Λ                            K                               L
+
+Β                        Γ          Ε                   Ζ        B                   C       E                          F
+
+            Η                               Θ                            G                                  H
+    ῎Εστωσαν ἴσοι κύκλοι οἱ ΑΒΓ, ΔΕΖ, καὶ ἐν αὐτοῖς ἴσαι         Let ABC and DEF be equal circles, and within them
+περιφέρειαι ἀπειλήφθωσαν αἱ ΒΗΓ, ΕΘΖ, καὶ ἐπεζεύχθωσαν       let the equal circumferences BGC and EHF have been
+αἱ ΒΓ, ΕΖ εὐθεῖαι· λέγω, ὅτι ἴση ἐστὶν ἡ ΒΓ τῇ ΕΖ.           cut off. And let the straight-lines BC and EF have been
+    Εἰλήφθω γὰρ τὰ κέντρα τῶν κύκλων, καὶ ἔστω τὰ Κ,         joined. I say that BC is equal to EF .
+Λ, καὶ ἐπεζεύχθωσαν αἱ ΒΚ, ΚΓ, ΕΛ, ΛΖ.                           For let the centers of the circles have been found
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΒΗΓ περιφέρεια τῇ ΕΘΖ περιφερείᾳ,   [Prop. 3.1], and let them be (at) K and L. And let BK,
+
+
+
+                                                            97
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+ἴση ἐστὶ καὶ γωνία ἡ ὑπὸ ΒΚΓ τῇ ὑπὸ ΕΛΖ. καὶ ἐπεὶ ἴσοι       KC, EL, and LF have been joined.
+εἰσὶν οἱ ΑΒΓ, ΔΕΖ κύκλοι, ἴσαι εἰσὶ καὶ αἱ ἐκ τῶν κέντρων·       And since the circumference BGC is equal to the cir-
+δύο δὴ αἱ ΒΚ, ΚΓ δυσὶ ταῖς ΕΛ, ΛΖ ἴσαι εἰσίν· καὶ γωνίας     cumference EHF , the angle BKC is also equal to (an-
+ἴσας περιέχουσιν· βάσις ἄρα ἡ ΒΓ βάσει τῇ ΕΖ ἴση ἐστίν·      gle) ELF [Prop. 3.27]. And since the circles ABC and
+    ᾿Εν ἄρα τοῖς ἴσοις κύκλοις τὰς ἴσας περιφερείας ἴσαι     DEF are equal, their radii are also equal [Def. 3.1]. So
+εὐθεῖαι ὑποτείνουσιν· ὅπερ ἔδει δεῖξαι.                      the two (straight-lines) BK, KC are equal to the two
+                                                             (straight-lines) EL, LF (respectively). And they contain
+                                                             equal angles. Thus, the base BC is equal to the base EF
+                                                             [Prop. 1.4].
+                                                                 Thus, in equal circles, equal straight-lines subtend
+                                                             equal circumferences. (Which is) the very thing it was
+                                                             required to show.
+
+                           lþ.                                                   Proposition 30
+   Τὴν δοθεῖσαν περιφέρειαν δίχα τεμεῖν.                        To cut a given circumference in half.
+                           ∆                                                             D
+
+
+
+
+       Α                   Γ                    Β                   A                    C                    B
+    ῎Εστω ἡ δοθεῖσα περιφέρεια ἡ ΑΔΒ· δεῖ δὴ τὴν ΑΔΒ             Let ADB be the given circumference. So it is required
+περιφέρειαν δίχα τεμεῖν.                                     to cut circumference ADB in half.
+    ᾿Επεζεύχθω ἡ ΑΒ, καὶ τετμήσθω δίχα κατὰ τὸ Γ, καὶ            Let AB have been joined, and let it have been cut in
+ἀπὸ τοῦ Γ σημείου τῇ ΑΒ εὐθείᾳ πρὸς ὀρθὰς ἤχθω ἡ ΓΔ,         half at (point) C [Prop. 1.10]. And let CD have been
+καὶ ἐπεζεύχθωσαν αἱ ΑΔ, ΔΒ.                                  drawn from point C, at right-angles to AB [Prop. 1.11].
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΓ τῇ ΓΒ, κοινὴ δὲ ἡ ΓΔ, δύο        And let AD, and DB have been joined.
+δὴ αἱ ΑΓ, ΓΔ δυσὶ ταῖς ΒΓ, ΓΔ ἴσαι εἰσίν· καὶ γωνία ἡ            And since AC is equal to CB, and CD (is) com-
+ὑπὸ ΑΓΔ γωνίᾳ τῇ ὑπὸ ΒΓΔ ἴση· ὀρθὴ γὰρ ἑκατέρα· βάσις        mon, the two (straight-lines) AC, CD are equal to the
+ἄρα ἡ ΑΔ βάσει τῇ ΔΒ ἴση ἐστίν. αἱ δὲ ἴσαι εὐθεῖαι ἴσας      two (straight-lines) BC, CD (respectively). And angle
+περιφερείας ἀφαιροῦσι τὴν μὲν μείζονα τῇ μείζονι τὴν δὲ      ACD (is) equal to angle BCD. For (they are) each right-
+ἐλάττονα τῇ ἐλάττονι· κάι ἐστιν ἑκατέρα τῶν ΑΔ, ΔΒ πε-       angles. Thus, the base AD is equal to the base DB
+ριφερειῶν ἐλάττων ἡμικυκλίου· ἴση ἄρα ἡ ΑΔ περιφέρεια τῇ     [Prop. 1.4]. And equal straight-lines cut off equal circum-
+ΔΒ περιφερείᾳ.                                               ferences, the greater (circumference being equal) to the
+    ῾Η ἄρα δοθεῖσα περιφέρεια δίχα τέτμηται κατὰ τὸ Δ        greater, and the lesser to the lesser [Prop. 1.28]. And the
+σημεῖον· ὅπερ ἔδει ποιῆσαι.                                  circumferences AD and DB are each less than a semi-
+                                                             circle. Thus, circumference AD (is) equal to circumfer-
+                                                             ence DB.
+                                                                 Thus, the given circumference has been cut in half at
+                                                             point D. (Which is) the very thing it was required to do.
+
+                          laþ.                                                   Proposition 31
+    ᾿Εν κύκλῳ ἡ μὲν ἐν τῷ ἡμικυκλίῳ γωνία ὀρθή ἐστιν, ἡ δὲ      In a circle, the angle in a semi-circle is a right-angle,
+ἐν τῷ μείζονι τμήματι ἐλάττων ὀρθῆς, ἡ δὲ ἐν τῷ ἐλάττονι     and that in a greater segment (is) less than a right-angle,
+τμήματι μείζων ὀρθῆς· καὶ ἔπι ἡ μὲν τοῦ μείζονος τμήματος    and that in a lesser segment (is) greater than a right-
+γωνία μείζων ἐστὶν ὀρθῆς, ἡ δὲ τοῦ ἐλάττονος τμήματος        angle. And, further, the angle of a segment greater (than
+γωνία ἐλάττων ὀρθῆς.                                         a semi-circle) is greater than a right-angle, and the an-
+
+
+                                                         98
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+                                                             gle of a segment less (than a semi-circle) is less than a
+                                                             right-angle.
+         Ζ                                                            F
+                         ∆                                                            D
+                                          Γ                                                             C
+
+
+              Α                                                            A
+                                 Ε                                                            E
+
+
+
+
+                     Β                                                            B
+    ῎Εστω κύκλος ὁ ΑΒΓΔ, διάμετρος δὲ αὐτοῦ ἔστω ἡ ΒΓ,           Let ABCD be a circle, and let BC be its diameter, and
+κέντρον δὲ τὸ Ε, καὶ ἐπεζεύχθωσαν αἱ ΒΑ, ΑΓ, ΑΔ, ΔΓ·         E its center. And let BA, AC, AD, and DC have been
+λέγω, ὅτι ἡ μὲν ἐν τῷ ΒΑΓ ἡμικυκλίῳ γωνία ἡ ὑπὸ ΒΑΓ          joined. I say that the angle BAC in the semi-circle BAC
+ὀρθή ἐστιν, ἡ δὲ ἐν τῷ ΑΒΓ μείζονι τοῦ ἡμικυκλίου τμήματι    is a right-angle, and the angle ABC in the segment ABC,
+γωνία ἡ ὑπὸ ΑΒΓ ἐλάττων ἐστὶν ὀρθῆς, ἡ δὲ ἐν τῷ ΑΔΓ          (which is) greater than a semi-circle, is less than a right-
+ἐλάττονι τοῦ ἡμικυκλίου τμήματι γωνία ἡ ὑπὸ ΑΔΓ μείζων       angle, and the angle ADC in the segment ADC, (which
+ἐστὶν ὀρθῆς.                                                 is) less than a semi-circle, is greater than a right-angle.
+    ᾿Επεζεύχθω ἡ ΑΕ, καὶ διήχθω ἡ ΒΑ ἐπὶ τὸ Ζ.                   Let AE have been joined, and let BA have been
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΒΕ τῇ ΕΑ, ἴση ἐστὶ καὶ γωνία ἡ      drawn through to F .
+ὑπὸ ΑΒΕ τῇ ὑπὸ ΒΑΕ. πάλιν, ἐπεὶ ἴση ἐστὶν ἡ ΓΕ τῇ ΕΑ,            And since BE is equal to EA, angle ABE is also
+ἴση ἐστὶ καὶ ἡ ὑπὸ ΑΓΕ τῇ ὑπὸ ΓΑΕ· ὅλη ἄρα ἡ ὑπὸ ΒΑΓ         equal to BAE [Prop. 1.5]. Again, since CE is equal to
+δυσὶ ταῖς ὑπὸ ΑΒΓ, ΑΓΒ ἴση ἐστίν. ἐστὶ δὲ καὶ ἡ ὑπὸ ΖΑΓ      EA, ACE is also equal to CAE [Prop. 1.5]. Thus, the
+ἐκτὸς τοῦ ΑΒΓ τριγώνου δυσὶ ταῖς ὑπὸ ΑΒΓ, ΑΓΒ γωνίαις        whole (angle) BAC is equal to the two (angles) ABC
+ἴση· ἴση ἄρα καὶ ἡ ὑπὸ ΒΑΓ γωνία τῇ ὑπὸ ΖΑΓ· ὀρθὴ ἄρα        and ACB. And F AC, (which is) external to triangle
+ἑκατέρα· ἡ ἄρα ἐν τῷ ΒΑΓ ἡμικυκλίῳ γωνία ἡ ὑπὸ ΒΑΓ           ABC, is also equal to the two angles ABC and ACB
+ὀρθή ἐστιν.                                                  [Prop. 1.32]. Thus, angle BAC (is) also equal to F AC.
+    Καὶ ἐπεὶ τοῦ ΑΒΓ τρίγωνου δύο γωνίαι αἱ ὑπὸ ΑΒΓ,         Thus, (they are) each right-angles. [Def. 1.10]. Thus, the
+ΒΑΓ δύο ὀρθῶν ἐλάττονές εἰσιν, ὀρθὴ δὲ ἡ ὑπὸ ΒΑΓ,            angle BAC in the semi-circle BAC is a right-angle.
+ἐλάττων ἄρα ὀρθῆς ἐστιν ἡ ὑπὸ ΑΒΓ γωνία· καί ἐστιν ἐν            And since the two angles ABC and BAC of trian-
+τῷ ΑΒΓ μείζονι τοῦ ἡμικυκλίου τμήματι.                       gle ABC are less than two right-angles [Prop. 1.17], and
+    Καὶ ἐπεὶ ἐν κύκλῳ τετράπλευρόν ἐστι τὸ ΑΒΓΔ, τῶν δὲ      BAC is a right-angle, angle ABC is thus less than a right-
+ἐν τοῖς κύκλοις τετραπλεύρων αἱ ἀπεναντίον γωνίαι δυσὶν      angle. And it is in segment ABC, (which is) greater than
+ὀρθαῖς ἴσαι εἰσίν [αἱ ἄρα ὑπὸ ΑΒΓ, ΑΔΓ γωνίαι δυσὶν ὀρθαῖς   a semi-circle.
+ἴσας εἰσίν], καί ἐστιν ἡ ὑπὸ ΑΒΓ ἐλάττων ὀρθῆς· λοιπὴ ἄρα        And since ABCD is a quadrilateral within a circle,
+ἡ ὑπὸ ΑΔΓ γωνία μείζων ὀρθῆς ἐστιν· καί ἐστιν ἐν τῷ ΑΔΓ      and for quadrilaterals within circles the (sum of the) op-
+ἐλάττονι τοῦ ἡμικυκλίου τμήματι.                             posite angles is equal to two right-angles [Prop. 3.22]
+    Λέγω, ὅτι καὶ ἡ μὲν τοῦ μείζονος τμήματος γωνία ἡ πε-    [angles ABC and ADC are thus equal to two right-
+ριεχομένη ὑπό [τε] τῆς ΑΒΓ περιφερείας καὶ τῆς ΑΓ εὐθείας    angles], and (angle) ABC is less than a right-angle. The
+μείζων ἐστὶν ὀρθῆς, ἡ δὲ τοῦ ἐλάττονος τμήματος γωνία ἡ      remaining angle ADC is thus greater than a right-angle.
+περιεχομένη ὑπό [τε] τῆς ΑΔ[Γ] περιφερείας καὶ τῆς ΑΓ        And it is in segment ADC, (which is) less than a semi-
+εὐθείας ἐλάττων ἐστὶν ὀρθῆς. καί ἐστιν αὐτόθεν φανερόν.      circle.
+ἐπεὶ γὰρ ἡ ὑπὸ τῶν ΒΑ, ΑΓ εὐθειῶν ὀρθή ἐστιν, ἡ ἄρα              I also say that the angle of the greater segment,
+ὑπὸ τῆς ΑΒΓ περιφερείας καὶ τῆς ΑΓ εὐθείας περιεχομένη       (namely) that contained by the circumference ABC and
+μείζων ἐστὶν ὀρθῆς. πάλιν, ἐπεὶ ἡ ὑπὸ τῶν ΑΓ, ΑΖ εὐθειῶν     the straight-line AC, is greater than a right-angle. And
+ὀρθή ἐστιν, ἡ ἄρα ὑπὸ τῆς ΓΑ εὐθείας καὶ τῆς ΑΔ[Γ] περι-     the angle of the lesser segment, (namely) that contained
+
+
+                                                         99
+STOIQEIWN gþ.                                                                                    ELEMENTS BOOK 3
+
+φερείας περιεχομένη ἐλάττων ἐστὶν ὀρθῆς.                      by the circumference AD[C] and the straight-line AC, is
+   ᾿Εν κύκλῳ ἄρα ἡ μὲν ἐν τῷ ἡμικυκλίῳ γωνία ὀρθή ἐστιν,      less than a right-angle. And this is immediately apparent.
+ἡ δὲ ἐν τῷ μείζονι τμήματι ἐλάττων ὀρθῆς, ἡ δὲ ἐν τῷ          For since the (angle contained by) the two straight-lines
+ἐλάττονι [τμήματι] μείζων ὀρθῆς· καὶ ἔπι ἡ μὲν τοῦ μείζονος   BA and AC is a right-angle, the (angle) contained by
+τμήματος [γωνία] μείζων [ἐστὶν] ὀρθῆς, ἡ δὲ τοῦ ἐλάττονος     the circumference ABC and the straight-line AC is thus
+τμήματος [γωνία] ἐλάττων ὀρθῆς· ὅπερ ἔδει δεῖξαι.             greater than a right-angle. Again, since the (angle con-
+                                                              tained by) the straight-lines AC and AF is a right-angle,
+                                                              the (angle) contained by the circumference AD[C] and
+                                                              the straight-line CA is thus less than a right-angle.
+                                                                  Thus, in a circle, the angle in a semi-circle is a right-
+                                                              angle, and that in a greater segment (is) less than a
+                                                              right-angle, and that in a lesser [segment] (is) greater
+                                                              than a right-angle. And, further, the [angle] of a seg-
+                                                              ment greater (than a semi-circle) [is] greater than a right-
+                                                              angle, and the [angle] of a segment less (than a semi-
+                                                              circle) is less than a right-angle. (Which is) the very thing
+                                                              it was required to show.
+
+                           lbþ.                                                    Proposition 32
+   ᾿Εὰν κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ δὲ τῆς ἁφῆς εἰς       If some straight-line touches a circle, and some
+τὸν κύκλον διαχθῇ τις εὐθεῖα τέμνουσα τὸν κύκλον, ἃς (other) straight-line is drawn across, from the point of
+ποιεῖ γωνίας πρὸς τῇ ἐφαπτομένῃ, ἴσαι ἔσονται ταῖς ἐν τοῖς contact into the circle, cutting the circle (in two), then
+ἐναλλὰξ τοῦ κύκλου τμήμασι γωνίαις.                        those angles the (straight-line) makes with the tangent
+                                                           will be equal to the angles in the alternate segments of
+                                                           the circle.
+                            A                                                              A
+
+                                         D                                                               D
+
+
+
+
+                                           C                                                              C
+
+       E                                         F                    E                                          F
+                            B                                                              B
+    Κύκλου γὰρ τοῦ ΑΒΓΔ ἐφαπτέσθω τις εὐθεῖα ἡ ΕΖ                 For let some straight-line EF touch the circle ABCD
+κατὰ τὸ Β σημεῖον, καὶ ἀπὸ τοῦ Β σημείου διήχθω τις           at the point B, and let some (other) straight-line BD
+εὐθεῖα εἰς τὸν ΑΒΓΔ κύκλον τέμνουσα αὐτὸν ἡ ΒΔ. λέγω,         have been drawn from point B into the circle ABCD,
+ὅτι ἃς ποιεῖ γωνίας ἡ ΒΔ μετὰ τῆς ΕΖ ἐφαπτομένης, ἴσας        cutting it (in two). I say that the angles BD makes with
+ἔσονται ταῖς ἐν τοῖς ἐναλλὰξ τμήμασι τοῦ κύκλου γωνίαις,      the tangent EF will be equal to the angles in the alter-
+τουτέστιν, ὅτι ἡ μὲν ὑπὸ ΖΒΔ γωνία ἴση ἐστὶ τῇ ἐν τῷ ΒΑΔ      nate segments of the circle. That is to say, that angle
+τμήματι συνισταμένῃ γωνίᾳ, ἡ δὲ ὑπὸ ΕΒΔ γωνία ἴση ἐστὶ        F BD is equal to the angle constructed in segment BAD,
+τῇ ἐν τῷ ΔΓΒ τμήματι συνισταμένῃ γωνίᾳ.                       and angle EBD is equal to the angle constructed in seg-
+    ῎Ηχθω γὰρ ἀπὸ τοῦ Β τῇ ΕΖ πρὸς ὀρθὰς ἡ ΒΑ, καὶ            ment DCB.
+εἰλήφθω ἐπὶ τῆς ΒΔ περιφερείας τυχὸν σημεῖον τὸ Γ, καὶ            For let BA have been drawn from B, at right-angles
+ἐπεζεύχθωσαν αἱ ΑΔ, ΔΓ, ΓΒ.                                   to EF [Prop. 1.11]. And let the point C have been taken
+    Καὶ ἐπεὶ κύκλου τοῦ ΑΒΓΔ ἐφάπτεταί τις εὐθεῖα ἡ ΕΖ        at random on the circumference BD. And let AD, DC,
+
+
+
+                                                          100
+STOIQEIWN gþ.                                                                                            ELEMENTS BOOK 3
+
+κατὰ τὸ Β, καὶ ἀπὸ τῆς ἁφῆς ἦκται τῇ ἐφαπτομένῃ πρὸς              and CB have been joined.
+ὀρθὰς ἡ ΒΑ, ἐπὶ τῆς ΒΑ ἄρα τὸ κέντρον ἐστὶ τοῦ ΑΒΓΔ                   And since some straight-line EF touches the circle
+κύκλου. ἡ ΒΑ ἄρα διάμετός ἐστι τοῦ ΑΒΓΔ κύκλου· ἡ ἄρα             ABCD at point B, and BA has been drawn from the
+ὑπὸ ΑΔΒ γωνία ἐν ἡμικυκλίῳ οὖσα ὀρθή ἐστιν. λοιπαὶ ἄρα            point of contact, at right-angles to the tangent, the center
+αἱ ὑπὸ ΒΑΔ, ΑΒΔ μιᾷ ὀρθῇ ἴσαι εἰσίν. ἐστὶ δὲ καὶ ἡ ὑπὸ            of circle ABCD is thus on BA [Prop. 3.19]. Thus, BA
+ΑΒΖ ὀρθή· ἡ ἄρα ὑπὸ ΑΒΖ ἴση ἐστὶ ταῖς ὑπὸ ΒΑΔ, ΑΒΔ.               is a diameter of circle ABCD. Thus, angle ADB, being
+κοινὴ ἀφῃρήσθω ἡ ὑπὸ ΑΒΔ· λοιπὴ ἄρα ἡ ὑπὸ ΔΒΖ γωνία               in a semi-circle, is a right-angle [Prop. 3.31]. Thus, the
+ἴση ἐστὶ τῇ ἐν τῷ ἐναλλὰξ τμήματι τοῦ κύκλου γωνίᾳ τῇ             remaining angles (of triangle ADB) BAD and ABD are
+ὑπὸ ΒΑΔ. καὶ ἐπεὶ ἐν κύκλῳ τετράπλευρόν ἐστι τὸ ΑΒΓΔ,             equal to one right-angle [Prop. 1.32]. And ABF is also a
+αἱ ἀπεναντίον αὐτοῦ γωνίαι δυσὶν ὀρθαῖς ἴσαι εἰσίν. εἰσὶ δὲ       right-angle. Thus, ABF is equal to BAD and ABD. Let
+καὶ αἱ ὑπὸ ΔΒΖ, ΔΒΕ δυσὶν ὀρθαῖς ἴσαι· αἱ ἄρα ὑπὸ ΔΒΖ,            ABD have been subtracted from both. Thus, the remain-
+ΔΒΕ ταῖς ὑπὸ ΒΑΔ, ΒΓΔ ἴσαι εἰσίν, ὧν ἡ ὑπὸ ΒΑΔ τῇ ὑπὸ             ing angle DBF is equal to the angle BAD in the alternate
+ΔΒΖ ἐδείχθη ἴση· λοιπὴ ἄρα ἡ ὑπὸ ΔΒΕ τῇ ἐν τῷ ἐναλλὰξ             segment of the circle. And since ABCD is a quadrilateral
+τοῦ κύκλου τμήματι τῷ ΔΓΒ τῇ ὑπὸ ΔΓΒ γωνίᾳ ἐστὶν ἴση.             in a circle, (the sum of) its opposite angles is equal to
+    ᾿Εὰν ἄρα κύκλου ἐφάπτηταί τις εὐθεῖα, ἀπὸ δὲ τῆς ἁφῆς         two right-angles [Prop. 3.22]. And DBF and DBE is
+εἰς τὸν κύκλον διαχθῇ τις εὐθεῖα τέμνουσα τὸν κύκλον, ἃς          also equal to two right-angles [Prop. 1.13]. Thus, DBF
+ποιεῖ γωνίας πρὸς τῇ ἐφαπτομένῃ, ἴσαι ἔσονται ταῖς ἐν τοῖς        and DBE is equal to BAD and BCD, of which BAD
+ἐναλλὰξ τοῦ κύκλου τμήμασι γωνίαις· ὅπερ ἔδει δεῖξαι.             was shown (to be) equal to DBF . Thus, the remaining
+                                                                  (angle) DBE is equal to the angle DCB in the alternate
+                                                                  segment DCB of the circle.
+                                                                      Thus, if some straight-line touches a circle, and some
+                                                                  (other) straight-line is drawn across, from the point of
+                                                                  contact into the circle, cutting the circle (in two), then
+                                                                  those angles the (straight-line) makes with the tangent
+                                                                  will be equal to the angles in the alternate segments of
+                                                                  the circle. (Which is) the very thing it was required to
+                                                                  show.
+
+                           lgþ.                                                             Proposition 33
+   ᾿Επὶ τῆς δοθείσης εὐθείας γράψαι τμῆμα κύκλου δεχόμε-    To draw a segment of a circle, accepting an angle
+νον γωνίαν ἴσην τῇ δοθείσῃ γωνίᾳ εὐθυγράμμῳ.             equal to a given rectilinear angle, on a given straight-line.
+
+
+                                                                            C           C                        C
+             Γ       Γ                      Γ                                                    A
+                                                                           A        D                                    A         D
+            Α              Α                        Α         D
+∆                ∆                                      ∆                                                        H
+                                            Θ
+                                                Ζ
+                                                                                                                     F
+        Ζ            Ε
+                                                                       F                E
+            Η               Ζ                       Η                      G                         F                   G
+                                        Β                                                                    B
+
+    Β                                                              B
+            Ε              Β                        Ε                      E                     B                       E
+   ῎Εστω ἡ δοθεῖσα εὐθεῖα ἡ ΑΒ, ἡ δὲ δοθεῖσα γωνία                    Let AB be the given straight-line, and C the given
+εὐθύγραμμος ἡ πρὸς τῷ Γ· δεῖ δὴ ἐπὶ τῆς δοθείσης εὐθείας          rectilinear angle. So it is required to draw a segment
+τῆς ΑΒ γράψαι τμῆμα κύκλου δεχόμενον γωνίαν ἴσην τῇ               of a circle, accepting an angle equal to C, on the given
+πρὸς τῷ Γ.                                                        straight-line AB.
+   ῾Η δὴ πρὸς τῷ Γ [γωνία] ἤτοι ὀξεῖά ἐστιν ἢ ὀρθὴ ἢ                  So the [angle] C is surely either acute, a right-angle,
+ἀμβλεῖα· ἔστω πρότερον ὀξεῖα, καὶ ὡς ἐπὶ τῆς πρώτης κα-           or obtuse. First of all, let it be acute. And, as in the first
+ταγραφῆς συνεστάτω πρὸς τῇ ΑΒ εὐθείᾳ καὶ τῷ Α σημείῳ              diagram (from the left), let (angle) BAD, equal to angle
+τῇ πρὸς τῷ Γ γωνίᾳ ἴση ἡ ὑπὸ ΒΑΔ· ὀξεῖα ἄρα ἐστὶ καὶ ἡ            C, have been constructed on the straight-line AB, at the
+ὑπὸ ΒΑΔ. ἤχθω τῇ ΔΑ πρὸς ὀρθὰς ἡ ΑΕ, καὶ τετμήσθω                 point A (on it) [Prop. 1.23]. Thus, BAD is also acute. Let
+ἡ ΑΒ δίχα κατὰ τὸ Ζ, καὶ ἤχθω ἀπὸ τοῦ Ζ σημείου τῇ ΑΒ             AE have been drawn, at right-angles to DA [Prop. 1.11].
+
+
+                                                            101
+STOIQEIWN gþ.                                                                                 ELEMENTS BOOK 3
+
+πρὸς ὀρθὰς ἡ ΖΗ, καὶ ἐπεζεύχθω ἡ ΗΒ.                        And let AB have been cut in half at F [Prop. 1.10]. And
+    Καὶ ἐπεὶ ἴση ἐστὶν ἡ ΑΖ τῇ ΖΒ, κοινὴ δὲ ἡ ΖΗ, δύο δὴ    let F G have been drawn from point F , at right-angles to
+αἱ ΑΖ, ΖΗ δύο ταῖς ΒΖ, ΖΗ ἴσαι εἰσίν· καὶ γωνία ἡ ὑπὸ       AB [Prop. 1.11]. And let GB have been joined.
+ΑΖΗ [γωνίᾳ] τῇ ὑπὸ ΒΖΗ ἴση· βάσις ἄρα ἡ ΑΗ βάσει τῇ             And since AF is equal to F B, and F G (is) common,
+ΒΗ ἴση ἐστίν. ὁ ἄρα κέντρῳ μὲν τῷ Η διαστήματι δὲ τῷ        the two (straight-lines) AF , F G are equal to the two
+ΗΑ κύκλος γραφόμενος ἥξει καὶ διὰ τοῦ Β. γεγράφθω καὶ       (straight-lines) BF , F G (respectively). And angle AF G
+ἔστω ὁ ΑΒΕ, καὶ ἐπεζεύχθω ἡ ΕΒ. ἐπεὶ οὖν ἀπ᾿ ἄκρας τῆς      (is) equal to [angle] BF G. Thus, the base AG is equal to
+ΑΕ διαμέτρου ἀπὸ τοῦ Α τῇ ΑΕ πρὸς ὀρθάς ἐστιν ἡ ΑΔ,         the base BG [Prop. 1.4]. Thus, the circle drawn with
+ἡ ΑΔ ἄρα ἐφάπτεται τοῦ ΑΒΕ κύκλου· ἐπεὶ οὖν κύκλου          center G, and radius GA, will also go through B (as
+τοῦ ΑΒΕ ἐφάπτεταί τις εὐθεῖα ἡ ΑΔ, καὶ ἀπὸ τῆς κατὰ τὸ      well as A). Let it have been drawn, and let it be (de-
+Α ἁφῆς εἰς τὸν ΑΒΕ κύκλον διῆκταί τις εὐθεῖα ἡ ΑΒ, ἡ        noted) ABE. And let EB have been joined. Therefore,
+ἄρα ὑπὸ ΔΑΒ γωνία ἴση ἐστὶ τῇ ἐν τῷ ἐναλλὰξ τοῦ κύκλου      since AD is at the extremity of diameter AE, (namely,
+τμήματι γωνίᾳ τῇ ὑπὸ ΑΕΒ. ἀλλ᾿ ἡ ὑπὸ ΔΑΒ τῇ πρὸς τῷ Γ       point) A, at right-angles to AE, the (straight-line) AD
+ἐστιν ἴση· καὶ ἡ πρὸς τῷ Γ ἄρα γωνία ἴση ἐστὶ τῇ ὑπὸ ΑΕΒ.   thus touches the circle ABE [Prop. 3.16 corr.]. There-
+    ᾿Επὶ τῆς δοθείσης ἄρα εὐθείας τῆς ΑΒ τμῆμα κύκλου       fore, since some straight-line AD touches the circle ABE,
+γέγραπται τὸ ΑΕΒ δεχόμενον γωνίαν τὴν ὑπὸ ΑΕΒ ἴσην          and some (other) straight-line AB has been drawn across
+τῇ δοθείσῃ τῇ πρὸς τῷ Γ.                                    from the point of contact A into circle ABE, angle DAB
+    ᾿Αλλὰ δὴ ὀρθὴ ἔστω ἡ πρὸς τῷ Γ· καὶ δέον πάλιν ἔστω     is thus equal to the angle AEB in the alternate segment
+ἐπὶ τῆς ΑΒ γράψαι τμῆμα κύκλου δεχόμενον γωνίαν ἴσην τῇ     of the circle [Prop. 3.32]. But, DAB is equal to C. Thus,
+πρὸς τῷ Γ ὀρθῇ [γωνίᾳ]. συνεστάτω [πάλιν] τῇ πρὸς τῷ Γ      angle C is also equal to AEB.
+ὀρθῇ γωνίᾳ ἴση ἡ ὑπὸ ΒΑΔ, ὡς ἔχει ἐπὶ τῆς δευτέρας κατα-        Thus, a segment AEB of a circle, accepting the angle
+γραφῆς, καὶ τετμήσθω ἡ ΑΒ δίχα κατὰ τὸ Ζ, καὶ κέντρῳ τῷ     AEB (which is) equal to the given (angle) C, has been
+Ζ, διαστήματι δὲ ὁποτέρῳ τῶν ΖΑ, ΖΒ, κύκλος γεγράφθω        drawn on the given straight-line AB.
+ὁ ΑΕΒ.                                                          And so let C be a right-angle. And let it again be
+    ᾿Εφάπτεται ἄρα ἡ ΑΔ εὐθεῖα τοῦ ΑΒΕ κύκλου διὰ τὸ        necessary to draw a segment of a circle on AB, accepting
+ὀρθὴν εἶναι τὴν πρὸς τῷ Α γωνίαν. καὶ ἴση ἐστὶν ἡ ὑπὸ       an angle equal to the right-[angle] C. Let the (angle)
+ΒΑΔ γωνία τῇ ἐν τῷ ΑΕΒ τμήματι· ὀρθὴ γὰρ καὶ αὐτὴ ἐν        BAD [again] have been constructed, equal to the right-
+ἡμικυκλίῳ οὖσα. ἀλλὰ καὶ ἡ ὑπὸ ΒΑΔ τῇ πρὸς τῷ Γ ἴση         angle C [Prop. 1.23], as in the second diagram (from the
+ἐστίν. καὶ ἡ ἐν τῷ ΑΕΒ ἄρα ἴση ἐστὶ τῇ πρὸς τῷ Γ.           left). And let AB have been cut in half at F [Prop. 1.10].
+    Γέγραπται ἄρα πάλιν ἐπὶ τῆς ΑΒ τμῆμα κύκλου τὸ ΑΕΒ      And let the circle AEB have been drawn with center F ,
+δεχόμενον γωνίαν ἴσην τῇ πρὸς τῷ Γ.                         and radius either F A or F B.
+    ᾿Αλλὰ δὴ ἡ πρὸς τῷ Γ ἀμβλεῖα ἔστω· καὶ συνεστάτω            Thus, the straight-line AD touches the circle ABE, on
+αὐτῇ ἴση πρὸς τῇ ΑΒ εὐθείᾳ καὶ τῷ Α σημείῳ ἡ ὑπὸ ΒΑΔ,       account of the angle at A being a right-angle [Prop. 3.16
+ὡς ἔχει ἐπὶ τῆς τρίτης καταγραφῆς, καὶ τῇ ΑΔ πρὸς ὀρθὰς     corr.]. And angle BAD is equal to the angle in segment
+ἤχθω ἡ ΑΕ, καὶ τετμήσθω πάλιν ἡ ΑΒ δίχα κατὰ τὸ Ζ, καὶ      AEB. For (the latter angle), being in a semi-circle, is also
+τῇ ΑΒ πρὸς ὀρθὰς ἤχθω ἡ ΖΗ, καὶ ἐπεζεύχθω ἡ ΗΒ.             a right-angle [Prop. 3.31]. But, BAD is also equal to C.
+    Καὶ ἐπεὶ πάλιν ἴση ἐστὶν ἡ ΑΖ τῇ ΖΒ, καὶ κοινὴ ἡ ΖΗ,    Thus, the (angle) in (segment) AEB is also equal to C.
+δύο δὴ αἱ ΑΖ, ΖΗ δύο ταῖς ΒΖ, ΖΗ ἴσαι εἰσίν· καὶ γωνία ἡ        Thus, a segment AEB of a circle, accepting an angle
+ὑπὸ ΑΖΗ γωνίᾳ τῇ ὑπὸ ΒΖΗ ἴση· βάσις ἄρα ἡ ΑΗ βάσει          equal to C, has again been drawn on AB.
+τῇ ΒΗ ἴση ἐστίν· ὁ ἄρα κέντρῳ μὲν τῷ Η διαστήματι δὲ τῷ         And so let (angle) C be obtuse. And let (angle) BAD,
+ΗΑ κύκλος γραφόμενος ἥξει καὶ διὰ τοῦ Β. ἐρχέσθω ὡς ὁ       equal to (C), have been constructed on the straight-line
+ΑΕΒ. καὶ ἐπεὶ τῇ ΑΕ διαμέτρῳ ἀπ᾿ ἄκρας πρὸς ὀρθάς ἐστιν     AB, at the point A (on it) [Prop. 1.23], as in the third
+ἡ ΑΔ, ἡ ΑΔ ἄρα ἐφάπτεται τοῦ ΑΕΒ κύκλου. καὶ ἀπὸ τῆς        diagram (from the left). And let AE have been drawn, at
+κατὰ τὸ Α ἐπαφῆς διῆκται ἡ ΑΒ· ἡ ἄρα ὑπὸ ΒΑΔ γωνία          right-angles to AD [Prop. 1.11]. And let AB have again
+ἴση ἐστὶ τῇ ἐν τῷ ἐναλλὰξ τοῦ κύκλου τμήματι τῷ ΑΘΒ         been cut in half at F [Prop. 1.10]. And let F G have been
+συνισταμένῃ γωνίᾳ. ἀλλ᾿ ἡ ὑπὸ ΒΑΔ γωνία τῇ πρὸς τῷ Γ        drawn, at right-angles to AB [Prop. 1.10]. And let GB
+ἴση ἐστίν. καὶ ἡ ἐν τῷ ΑΘΒ ἄρα τμήματι γωνία ἴση ἐστὶ τῇ    have been joined.
+πρὸς τῷ Γ.                                                      And again, since AF is equal to F B, and F G (is)
+    ᾿Επὶ τῆς ἄρα δοθείσης εὐθείας τῆς ΑΒ γέγραπται τμῆμα    common, the two (straight-lines) AF , F G are equal to
+κύκλου τὸ ΑΘΒ δεχόμενον γωνίαν ἴσην τῇ πρὸς τῷ Γ· ὅπερ      the two (straight-lines) BF , F G (respectively). And an-
+ἔδει ποιῆσαι.                                               gle AF G (is) equal to angle BF G. Thus, the base AG is
+
+
+                                                        102
+STOIQEIWN gþ.                                                                                                 ELEMENTS BOOK 3
+
+                                                                      equal to the base BG [Prop. 1.4]. Thus, a circle of center
+                                                                      G, and radius GA, being drawn, will also go through B
+                                                                      (as well as A). Let it go like AEB (in the third diagram
+                                                                      from the left). And since AD is at right-angles to the di-
+                                                                      ameter AE, at its extremity, AD thus touches circle AEB
+                                                                      [Prop. 3.16 corr.]. And AB has been drawn across (the
+                                                                      circle) from the point of contact A. Thus, angle BAD is
+                                                                      equal to the angle constructed in the alternate segment
+                                                                      AHB of the circle [Prop. 3.32]. But, angle BAD is equal
+                                                                      to C. Thus, the angle in segment AHB is also equal to
+                                                                      C.
+                                                                          Thus, a segment AHB of a circle, accepting an angle
+                                                                      equal to C, has been drawn on the given straight-line AB.
+                                                                      (Which is) the very thing it was required to do.
+
+                               ldþ.                                                           Proposition 34
+   ᾿Απὸ τοῦ δοθέντος κύκλου τμῆμα ἀφελεῖν δεχόμενον    To cut off a segment, accepting an angle equal to a
+γωνίαν ἴσην τῇ δοθείσῃ γωνίᾳ εὐθυγράμμῳ.            given rectilinear angle, from a given circle.
+                        Γ                                                                     C
+   Ζ                                                                       F
+
+
+
+
+   Β                                                                       B
+
+
+                                                 ∆                                                                     D
+
+   Ε                            Α                                          E                          A
+    ῎Εστω ὁ δοθεὶς κύκλος ὁ ΑΒΓ, ἡ δὲ δοθεῖσα γωνία                       Let ABC be the given circle, and D the given rectilin-
+εὐθύγραμμος ἡ πρὸς τῷ Δ· δεῖ δὴ ἀπὸ τοῦ ΑΒΓ κύκλου                    ear angle. So it is required to cut off a segment, accepting
+τμῆμα ἀφελεῖν δεχόμενον γωνίαν ἴσην τῇ δοθείσῃ γωνίᾳ                  an angle equal to the given rectilinear angle D, from the
+εὐθυγράμμῳ τῇ πρὸς τῷ Δ.                                              given circle ABC.
+    ῎Ηχθω τοῦ ΑΒΓ ἐφαπτομένη ἡ ΕΖ κατὰ τὸ Β σημεῖον,                      Let EF have been drawn touching ABC at point B.†
+καὶ συνεστάτω πρὸς τῇ ΖΒ εὐθείᾳ καὶ τῷ πρὸς αὐτῇ σημείῳ               And let (angle) F BC, equal to angle D, have been con-
+τῷ Β τῇ πρὸς τῷ Δ γωνίᾳ ἴση ἡ ὑπὸ ΖΒΓ.                                structed on the straight-line F B, at the point B on it
+    ᾿Επεὶ οὖν κύκλου τοῦ ΑΒΓ ἐφάπτεταί τις εὐθεῖα ἡ ΕΖ,               [Prop. 1.23].
+καὶ ἀπὸ τῆς κατὰ τὸ Β ἐπαφῆς διῆκται ἡ ΒΓ, ἡ ὑπὸ ΖΒΓ ἄρα                  Therefore, since some straight-line EF touches the
+γωνία ἴση ἐστὶ τῇ ἐν τῷ ΒΑΓ ἐναλλὰξ τμήματι συνισταμένῃ               circle ABC, and BC has been drawn across (the circle)
+γωνίᾳ. ἀλλ᾿ ἡ ὑπὸ ΖΒΓ τῇ πρὸς τῷ Δ ἐστιν ἴση· καὶ ἡ ἐν                from the point of contact B, angle F BC is thus equal
+τῷ ΒΑΓ ἄρα τμήματι ἴση ἐστὶ τῇ πρὸς τῷ Δ [γωνίᾳ].                     to the angle constructed in the alternate segment BAC
+    ᾿Απὸ τοῦ δοθέντος ἄρα κύκλου τοῦ ΑΒΓ τμῆμα ἀφῄρηται               [Prop. 1.32]. But, F BC is equal to D. Thus, the (angle)
+τὸ ΒΑΓ δεχόμενον γωνίαν ἴσην τῇ δοθείσῃ γωνίᾳ εὐθυγράμ-               in the segment BAC is also equal to [angle] D.
+μῳ τῇ πρὸς τῷ Δ· ὅπερ ἔδει ποιῆσαι.                                       Thus, the segment BAC, accepting an angle equal to
+                                                                      the given rectilinear angle D, has been cut off from the
+                                                                      given circle ABC. (Which is) the very thing it was re-
+                                                                      quired to do.
+† Presumably, by finding the center of ABC [Prop. 3.1], drawing a straight-line between the center and point B, and then drawing EF through
+
+
+
+
+                                                                   103
+STOIQEIWN gþ.                                                                                                   ELEMENTS BOOK 3
+
+point B, at right-angles to the aforementioned straight-line [Prop. 1.11].
+
+
+                                 leþ.                                                             Proposition 35
+   ᾿Εὰν ἐν κύκλῳ δύο εὐθεῖαι τέμνωσιν ἀλλήλας, τὸ ὑπὸ      If two straight-lines in a circle cut one another then
+τῶν τῆς μιᾶς τμημάτων περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ the rectangle contained by the pieces of one is equal to
+τῷ ὑπὸ τῶν τῆς ἑτέρας τμημάτων περιεχομένῳ ὀρθογωνίῳ. the rectangle contained by the pieces of the other.
+         Α                                                                          A
+                                                                   ∆                                                                  D
+                                        Α                                                                      A
+                  Ε                                    Ζ                                    E                               F
+  Β                              ∆                                            B                         D
+                                                 Η          Θ                                                          G        H
+                                                       Ε                                                                    E
+                         Γ                                    Γ                                   C                              C
+                                                   Β                                                                    B
+    ᾿Εν γὰρ κύκλῳ τῷ ΑΒΓΔ δύο εὐθεῖαι αἱ ΑΓ, ΒΔ                                  For let the two straight-lines AC and BD, in the circle
+τεμνέτωσαν ἀλλήλας κατὰ τὸ Ε σημεῖον· λέγω, ὅτι τὸ ὑπὸ                       ABCD, cut one another at point E. I say that the rect-
+τῶν ΑΕ, ΕΓ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ὑπὸ                          angle contained by AE and EC is equal to the rectangle
+τῶν ΔΕ, ΕΒ περιεχομένῳ ὀρθογωνίῳ.                                            contained by DE and EB.
+    Εἰ μὲν οὖν αἱ ΑΓ, ΒΔ διὰ τοῦ κέντρου εἰσὶν ὥστε τὸ Ε                         In fact, if AC and BD are through the center (as in
+κέντρον εἶναι τοῦ ΑΒΓΔ κύκλου, φανερόν, ὅτι ἴσων οὐσῶν                       the first diagram from the left), so that E is the center of
+τῶν ΑΕ, ΕΓ, ΔΕ, ΕΒ καὶ τὸ ὑπὸ τῶν ΑΕ, ΕΓ περιεχόμενον                        circle ABCD, then (it is) clear that, AE, EC, DE, and
+ὀρθογώνιον ἴσον ἐστὶ τῷ ὑπὸ τῶν ΔΕ, ΕΒ περιεχομένῳ                           EB being equal, the rectangle contained by AE and EC
+ὀρθογωνίῳ.                                                                   is also equal to the rectangle contained by DE and EB.
+    Μὴ ἔστωσαν δὴ αἱ ΑΓ, ΔΒ διὰ τοῦ κέντρου, καὶ                                 So let AC and DB not be though the center (as in
+εἰλήφθω τὸ κέντρον τοῦ ΑΒΓΔ, καὶ ἔστω τὸ Ζ, καὶ ἀπὸ                          the second diagram from the left), and let the center of
+τοῦ Ζ ἐπὶ τὰς ΑΓ, ΔΒ εὐθείας κάθετοι ἤχθωσαν αἱ ΖΗ,                          ABCD have been found [Prop. 3.1], and let it be (at) F .
+ΖΘ, καὶ ἐπεζεύχθωσαν αἱ ΖΒ, ΖΓ, ΖΕ.                                          And let F G and F H have been drawn from F , perpen-
+    Καὶ ἐπεὶ εὐθεῖά τις διὰ τοῦ κέντρου ἡ ΗΖ εὐθεῖάν τινα                    dicular to the straight-lines AC and DB (respectively)
+μὴ διὰ τοῦ κέντρου τὴν ΑΓ πρὸς ὀρθὰς τέμνει, καὶ δίχα                        [Prop. 1.12]. And let F B, F C, and F E have been joined.
+αὐτὴν τέμνει· ἴση ἄρα ἡ ΑΗ τῇ ΗΓ. ἐπεὶ οὖν εὐθεῖα ἡ ΑΓ                           And since some straight-line, GF , through the center,
+τέτμηται εἰς μὲν ἴσα κατὰ τὸ Η, εἰς δὲ ἄνισα κατὰ τὸ Ε, τὸ                   cuts at right-angles some (other) straight-line, AC, not
+ἄρα ὑπὸ τῶν ΑΕ, ΕΓ περιεχόμενον ὀρθογώνιον μετὰ τοῦ                          through the center, then it also cuts it in half [Prop. 3.3].
+ἀπὸ τῆς ΕΗ τετραγώνου ἴσον ἐστὶ τῷ ἀπὸ τῆς ΗΓ· [κοινὸν]                      Thus, AG (is) equal to GC. Therefore, since the straight-
+προσκείσθω τὸ ἀπὸ τῆς ΗΖ· τὸ ἄρα ὑπὸ τῶν ΑΕ, ΕΓ μετὰ                         line AC is cut equally at G, and unequally at E, the
+τῶν ἀπὸ τῶν ΗΕ, ΗΖ ἴσον ἐστὶ τοῖς ἀπὸ τῶν ΓΗ, ΗΖ. ἀλλὰ                       rectangle contained by AE and EC plus the square on
+τοῖς μὲν ἀπὸ τῶν ΕΗ, ΗΖ ἴσον ἐστὶ τὸ ἀπὸ τῆς ΖΕ, τοὶς                        EG is thus equal to the (square) on GC [Prop. 2.5]. Let
+δὲ ἀπὸ τῶν ΓΗ, ΗΖ ἴσον ἐστὶ τὸ ἀπὸ τῆς ΖΓ· τὸ ἄρα ὑπὸ                        the (square) on GF have been added [to both]. Thus,
+τῶν ΑΕ, ΕΓ μετὰ τοῦ ἀπὸ τῆς ΖΕ ἴσον ἐστὶ τῷ ἀπὸ τῆς                          the (rectangle contained) by AE and EC plus the (sum
+ΖΓ. ἴση δὲ ἡ ΖΓ τῇ ΖΒ· τὸ ἄρα ὑπὸ τῶν ΑΕ, ΕΓ μετὰ τοῦ                        of the squares) on GE and GF is equal to the (sum of
+ἀπὸ τῆς ΕΖ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΖΒ. διὰ τὰ αὐτὰ δὴ καὶ                       the squares) on CG and GF . But, the (square) on F E
+τὸ ὑπὸ τῶν ΔΕ, ΕΒ μετὰ τοῦ ἀπὸ τῆς ΖΕ ἰσον ἐστὶ τῷ ἀπὸ                       is equal to the (sum of the squares) on EG and GF
+τῆς ΖΒ. ἐδείχθη δὲ καὶ τὸ ὑπὸ τῶν ΑΕ, ΕΓ μετὰ τοῦ ἀπὸ                        [Prop. 1.47], and the (square) on F C is equal to the (sum
+τῆς ΖΕ ἴσον τῷ ἀπὸ τῆς ΖΒ· τὸ ἄρα ὑπὸ τῶν ΑΕ, ΕΓ μετὰ                        of the squares) on CG and GF [Prop. 1.47]. Thus, the
+τοῦ ἀπὸ τῆς ΖΕ ἴσον ἐστὶ τῷ ὑπὸ τῶν ΔΕ, ΕΒ μετὰ τοῦ                          (rectangle contained) by AE and EC plus the (square)
+ἀπὸ τῆς ΖΕ. κοινὸν ἀφῇρήσθω τὸ ἀπὸ τῆς ΖΕ· λοιπὸν ἄρα                        on F E is equal to the (square) on F C. And F C (is)
+τὸ ὑπὸ τῶν ΑΕ, ΕΓ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ                       equal to F B. Thus, the (rectangle contained) by AE
+ὑπὸ τῶν ΔΕ, ΕΒ περιεχομένῳ ὀρθογωνίῳ.                                        and EC plus the (square) on F E is equal to the (square)
+    ᾿Εὰν ἄρα ἐν κύκλῳ εὐθεῖαι δύο τέμνωσιν ἀλλήλας, τὸ                       on F B. So, for the same (reasons), the (rectangle con-
+ὑπὸ τῶν τῆς μιᾶς τμημάτων περιεχόμενον ὀρθογώνιον ἴσον                       tained) by DE and EB plus the (square) on F E is equal
+
+
+                                                                       104
+STOIQEIWN gþ.                                                                                ELEMENTS BOOK 3
+
+ἐστὶ τῷ ὑπὸ τῶν τῆς ἑτέρας τμημάτων περιεχομένῳ ὀρθο-      to the (square) on F B. And the (rectangle contained)
+γωνίῳ· ὅπερ ἔδει δεῖξαι.                                   by AE and EC plus the (square) on F E was also shown
+                                                           (to be) equal to the (square) on F B. Thus, the (rect-
+                                                           angle contained) by AE and EC plus the (square) on
+                                                           F E is equal to the (rectangle contained) by DE and EB
+                                                           plus the (square) on F E. Let the (square) on F E have
+                                                           been taken from both. Thus, the remaining rectangle con-
+                                                           tained by AE and EC is equal to the rectangle contained
+                                                           by DE and EB.
+                                                               Thus, if two straight-lines in a circle cut one another
+                                                           then the rectangle contained by the pieces of one is equal
+                                                           to the rectangle contained by the pieces of the other.
+                                                           (Which is) the very thing it was required to show.
+
+                           lþ.                                                 Proposition 36
+   ᾿Εὰν κύκλου ληφθῇ τι σημεῖον ἐκτός, καὶ ἀπ᾿ αὐτοῦ           If some point is taken outside a circle, and two
+πρὸς τὸν κύκλον προσπίπτωσι δύο εὐθεῖαι, καὶ ἡ μὲν αὐτῶν   straight-lines radiate from it towards the circle, and (one)
+τέμνῃ τὸν κύκλον, ἡ δὲ ἐφάπτηται, ἔσται τὸ ὑπὸ ὅλης τῆς    of them cuts the circle, and the (other) touches (it), then
+τεμνούσης καὶ τῆς ἐκτὸς ἀπολαμβανομένης μεταξὺ τοῦ τε      the (rectangle contained) by the whole (straight-line)
+σημείου καὶ τῆς κυρτῆς περιφερείας ἴσον τῷ ἀπὸ τῆς ἐφα-    cutting (the circle), and the (part of it) cut off outside
+πτομένης τετραγώνῳ.                                        (the circle), between the point and the convex circumfer-
+                                                           ence, will be equal to the square on the tangent (line).
+                Α                                                           A
+
+
+                                            Ε                                                             E
+ Β          Ζ                                                 B         F
+                                                    Α                                                              A
+                                      Γ                                                            C
+                                                Ζ                                                             F
+        Γ              ∆                                           C                D
+                                            Β                                                             B
+
+
+
+  ∆                                                           D
+    Κύκλου γὰρ τοῦ ΑΒΓ εἰλήφθω τι σημεῖον ἐκτὸς τὸ Δ,           For let some point D have been taken outside circle
+καὶ ἀπὸ τοῦ Δ πρὸς τὸν ΑΒΓ κύκλον προσπιπτέτωσαν δύο       ABC, and let two straight-lines, DC[A] and DB, radi-
+εὐθεῖαι αἱ ΔΓ[Α], ΔΒ· καὶ ἡ μὲν ΔΓΑ τεμνέτω τὸν ΑΒΓ        ate from D towards circle ABC. And let DCA cut circle
+κύκλον, ἡ δὲ ΒΔ ἐφαπτέσθω· λέγω, ὅτι τὸ ὑπὸ τῶν ΑΔ,        ABC, and let BD touch (it). I say that the rectangle
+ΔΓ περιεχόμενον ὀρθογώνιον ἴσον ἐστὶ τῷ ἀπὸ τῆς ΔΒ         contained by AD and DC is equal to the square on DB.
+τετραγώνῳ.                                                      [D]CA is surely either through the center, or not. Let
+    ῾Η ἄρα [Δ]ΓΑ ἤτοι διὰ τοῦ κέντρου ἐστὶν ἢ οὔ. ἔστω     it first of all be through the center, and let F be the cen-
+πρότερον διὰ τοῦ κέντρου, καὶ ἔστω τὸ Ζ κέντρον τοῦ ΑΒΓ    ter of circle ABC, and let F B have been joined. Thus,
+κύκλου, καὶ ἐπεζεύχθω ἡ ΖΒ· ὀρθὴ ἄρα ἐστὶν ἡ ὑπὸ ΖΒΔ.      (angle) F BD is a right-angle [Prop. 3.18]. And since
+καὶ ἐπεὶ εὐθεῖα ἡ ΑΓ δίχα τέτμηται κατὰ τὸ Ζ, πρόσκειται   straight-line AC is cut in half at F , let CD have been
+δὲ αὐτῇ ἡ ΓΔ, τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τοῦ ἀπὸ τῆς       added to it. Thus, the (rectangle contained) by AD and
+ΖΓ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΖΔ. ἴση δὲ ἡ ΖΓ τῇ ΖΒ· τὸ ἄρα      DC plus the (square) on F C is equal to the (square) on
+ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τοῦ ἀπὸ τῆς ΖΒ ἴσον ἐστὶ τῷ ἀπὸ        F D [Prop. 2.6]. And F C (is) equal to F B. Thus, the
+τὴς ΖΔ. τῷ δὲ ἀπὸ τῆς ΖΔ ἴσα ἐστὶ τὰ ἀπὸ τῶν ΖΒ, ΒΔ·       (rectangle contained) by AD and DC plus the (square)
+τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τοῦ ἀπὸ τῆς ΖΒ ἴσον ἐστὶ        on F B is equal to the (square) on F D. And the (square)
+τοῖς ἀπὸ τῶν ΖΒ, ΒΔ. κοινὸν ἀφῃρήσθω τὸ ἀπὸ τῆς ΖΒ·        on F D is equal to the (sum of the squares) on F B and
+λοιπὸν ἄρα τὸ ὑπὸ τῶν ΑΔ, ΔΓ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΔΒ       BD [Prop. 1.47]. Thus, the (rectangle contained) by AD
+
+
+                                                        105
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+ἐφαπτομένης.                                                 and DC plus the (square) on F B is equal to the (sum
+    ᾿Αλλὰ δὴ ἡ ΔΓΑ μὴ ἔστω διὰ τοῦ κέντρου τοῦ ΑΒΓ           of the squares) on F B and BD. Let the (square) on
+κύκλου, καὶ εἰλήφθω τὸ κέντρον τὸ Ε, καὶ ἀπὸ τοῦ Ε ἐπὶ       F B have been subtracted from both. Thus, the remain-
+τὴν ΑΓ κάθετος ἤχθω ἡ ΕΖ, καὶ ἐπεζεύχθωσαν αἱ ΕΒ, ΕΓ,        ing (rectangle contained) by AD and DC is equal to the
+ΕΔ· ὀρθὴ ἄρα ἐστὶν ἡ ὑπὸ ΕΒΔ. καὶ ἐπεὶ εὐθεῖά τις διὰ τοῦ    (square) on the tangent DB.
+κέντρου ἡ ΕΖ εὐθεῖάν τινα μὴ διὰ τοῦ κέντρου τὴν ΑΓ πρὸς         And so let DCA not be through the center of cir-
+ὀρθὰς τέμνει, καὶ δίχα αὐτὴν τέμνει· ἡ ΑΖ ἄρα τῇ ΖΓ ἐστιν    cle ABC, and let the center E have been found, and
+ἴση. καὶ ἐπεὶ εὐθεῖα ἡ ΑΓ τέτμηται δίχα κατὰ τὸ Ζ σημεῖον,   let EF have been drawn from E, perpendicular to AC
+πρόσκειται δὲ αὐτῇ ἡ ΓΔ, τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τοῦ      [Prop. 1.12]. And let EB, EC, and ED have been joined.
+ἀπὸ τῆς ΖΓ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΖΔ. κοινὸν προσκείσθω        (Angle) EBD (is) thus a right-angle [Prop. 3.18]. And
+τὸ ἀπὸ τῆς ΖΕ· τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τῶν ἀπὸ τῶν        since some straight-line, EF , through the center, cuts
+ΓΖ, ΖΕ ἴσον ἐστὶ τοῖς ἀπὸ τῶν ΖΔ, ΖΕ. τοῖς δὲ ἀπὸ τῶν        some (other) straight-line, AC, not through the center,
+ΓΖ, ΖΕ ἴσον ἐστὶ τὸ ἀπὸ τῆς ΕΓ· ὀρθὴ γὰρ [ἐστιν] ἡ ὑπὸ       at right-angles, it also cuts it in half [Prop. 3.3]. Thus,
+ΕΖΓ [γωνία]· τοῖς δὲ ἀπὸ τῶν ΔΖ, ΖΕ ἴσον ἐστὶ τὸ ἀπὸ τῆς     AF is equal to F C. And since the straight-line AC is cut
+ΕΔ· τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τοῦ ἀπὸ τῆς ΕΓ ἴσον           in half at point F , let CD have been added to it. Thus, the
+ἐστὶ τῷ ἀπὸ τῆς ΕΔ. ἴση δὲ ἡ ΕΓ τῂ ΕΒ· τὸ ἄρα ὑπὸ τῶν        (rectangle contained) by AD and DC plus the (square)
+ΑΔ, ΔΓ μετὰ τοῦ ἀπὸ τῆς ΕΒ ἴσον ἐστὶ τῷ ἄπὸ τῆς ΕΔ.          on F C is equal to the (square) on F D [Prop. 2.6]. Let
+τῷ δὲ ἀπὸ τῆς ΕΔ ἴσα ἐστὶ τὰ ἀπὸ τῶν ΕΒ, ΒΔ· ὀρθὴ γὰρ        the (square) on F E have been added to both. Thus, the
+ἡ ὑπὸ ΕΒΔ γωνία· τὸ ἄρα ὑπὸ τῶν ΑΔ, ΔΓ μετὰ τοῦ ἀπὸ          (rectangle contained) by AD and DC plus the (sum of
+τῆς ΕΒ ἴσον ἐστὶ τοῖς ἀπὸ τῶν ΕΒ, ΒΔ. κοινὸν ἀφῃρήσθω        the squares) on CF and F E is equal to the (sum of the
+τὸ ἀπὸ τῆς ΕΒ· λοιπὸν ἄρα τὸ ὑπὸ τῶν ΑΔ, ΔΓ ἴσον ἐστὶ        squares) on F D and F E. But the (square) on EC is equal
+τῷ ἀπὸ τῆς ΔΒ.                                               to the (sum of the squares) on CF and F E. For [angle]
+    ᾿Εὰν ἄρα κύκλου ληφθῇ τι σημεῖον ἐκτός, καὶ ἀπ᾿ αὐτοῦ    EF C [is] a right-angle [Prop. 1.47]. And the (square)
+πρὸς τὸν κύκλον προσπίπτωσι δύο εὐθεῖαι, καὶ ἡ μὲν αὐτῶν     on ED is equal to the (sum of the squares) on DF and
+τέμνῃ τὸν κύκλον, ἡ δὲ ἐφάπτηται, ἔσται τὸ ὑπὸ ὅλης τῆς      F E [Prop. 1.47]. Thus, the (rectangle contained) by AD
+τεμνούσης καὶ τῆς ἐκτὸς ἀπολαμβανομένης μεταξὺ τοῦ τε        and DC plus the (square) on EC is equal to the (square)
+σημείου καὶ τῆς κυρτῆς περιφερείας ἴσον τῷ ἀπὸ τῆς ἐφα-      on ED. And EC (is) equal to EB. Thus, the (rectan-
+πτομένης τετραγώνῳ· ὅπερ ἔδει δεῖξαι.                        gle contained) by AD and DC plus the (square) on EB
+                                                             is equal to the (square) on ED. And the (sum of the
+                                                             squares) on EB and BD is equal to the (square) on ED.
+                                                             For EBD (is) a right-angle [Prop. 1.47]. Thus, the (rect-
+                                                             angle contained) by AD and DC plus the (square) on
+                                                             EB is equal to the (sum of the squares) on EB and BD.
+                                                             Let the (square) on EB have been subtracted from both.
+                                                             Thus, the remaining (rectangle contained) by AD and
+                                                             DC is equal to the (square) on BD.
+                                                                 Thus, if some point is taken outside a circle, and two
+                                                             straight-lines radiate from it towards the circle, and (one)
+                                                             of them cuts the circle, and (the other) touches (it), then
+                                                             the (rectangle contained) by the whole (straight-line)
+                                                             cutting (the circle), and the (part of it) cut off outside
+                                                             (the circle), between the point and the convex circumfer-
+                                                             ence, will be equal to the square on the tangent (line).
+                                                             (Which is) the very thing it was required to show.
+
+                          lzþ.                                                   Proposition 37
+   ᾿Εὰν κύκλου ληφθῇ τι σημεῖον ἐκτός, ἀπὸ δὲ τοῦ        If some point is taken outside a circle, and two
+σημείου πρὸς τὸν κύκλον προσπίπτωσι δύο εὐθεῖαι, καὶ straight-lines radiate from the point towards the circle,
+ἡ μὲν αὐτῶν τέμνῃ τὸν κύκλον, ἡ δὲ προσπίπτῃ, ᾖ δὲ τὸ and one of them cuts the circle, and the (other) meets
+ὑπὸ [τῆς] ὅλης τῆς τεμνούσης καὶ τῆς ἐκτὸς ἀπολαμβα- (it), and the (rectangle contained) by the whole (straight-
+
+
+
+                                                         106
+STOIQEIWN gþ.                                                                                  ELEMENTS BOOK 3
+
+νομένης μεταξὺ τοῦ τε σημείου καὶ τῆς κυρτῆς περιφερείας line) cutting (the circle), and the (part of it) cut off out-
+ἴσον τῷ ἀπὸ τῆς προσπιπτούσης, ἡ προσπίπτουσα ἐφάψεται side (the circle), between the point and the convex cir-
+τοῦ κύκλου.                                              cumference, is equal to the (square) on the (straight-line)
+                                                         meeting (the circle), then the (straight-line) meeting (the
+                                                         circle) will touch the circle.
+     ∆                                                           D
+                                         Ε                                                             E
+
+
+                          Γ                                                            C
+                                        Ζ                                                              F
+
+                              Β                 Α                                          B                  A
+    Κύκλου γὰρ τοῦ ΑΒΓ εἰλήφθω τι σημεῖον ἐκτὸς τὸ Δ,           For let some point D have been taken outside circle
+καὶ ἀπὸ τοῦ Δ πρὸς τὸν ΑΒΓ κύκλον προσπιπτέτωσαν δύο        ABC, and let two straight-lines, DCA and DB, radiate
+εὐθεῖαι αἱ ΔΓΑ, ΔΒ, καὶ ἡ μὲν ΔΓΑ τεμνέτω τὸν κύκλον, ἡ     from D towards circle ABC, and let DCA cut the circle,
+δὲ ΔΒ προσπιπτέτω, ἔστω δὲ τὸ ὑπὸ τῶν ΑΔ, ΔΓ ἴσον τῷ        and let DB meet (the circle). And let the (rectangle con-
+ἀπὸ τῆς ΔΒ. λέγω, ὅτι ἡ ΔΒ ἐφάπτεται τοῦ ΑΒΓ κύκλου.        tained) by AD and DC be equal to the (square) on DB.
+    ῎Ηχθω γὰρ τοῦ ΑΒΓ ἐφαπτομένη ἡ ΔΕ, καὶ εἰλήφθω τὸ       I say that DB touches circle ABC.
+κέντρον τοῦ ΑΒΓ κύκλου, καὶ ἔστω τὸ Ζ, καὶ ἐπεζεύχθωσαν         For let DE have been drawn touching ABC [Prop.
+αἱ ΖΕ, ΖΒ, ΖΔ. ἡ ἄρα ὑπὸ ΖΕΔ ὀρθή ἐστιν. καὶ ἐπεὶ ἡ ΔΕ      3.17], and let the center of the circle ABC have been
+ἐφάπτεται τοῦ ΑΒΓ κύκλου, τέμνει δὲ ἡ ΔΓΑ, τὸ ἄρα ὑπὸ       found, and let it be (at) F . And let F E, F B, and F D
+τῶν ΑΔ, ΔΓ ἴσον ἐστὶ τῷ ἀπὸ τῆς ΔΕ. ἦν δὲ καὶ τὸ ὑπὸ        have been joined. (Angle) F ED is thus a right-angle
+τῶν ΑΔ, ΔΓ ἴσον τῷ ἀπὸ τῆς ΔΒ· τὸ ἄρα ἀπὸ τῆς ΔΕ            [Prop. 3.18]. And since DE touches circle ABC, and
+ἴσον ἐστὶ τῷ ἀπὸ τῆς ΔΒ· ἴση ἄρα ἡ ΔΕ τῇ ΔΒ. ἐστὶ δὲ        DCA cuts (it), the (rectangle contained) by AD and DC
+καὶ ἡ ΖΕ τῇ ΖΒ ἴση· δύο δὴ αἱ ΔΕ, ΕΖ δύο ταῖς ΔΒ, ΒΖ        is thus equal to the (square) on DE [Prop. 3.36]. And the
+ἴσαι εἰσίν· καὶ βάσις αὐτῶν κοινὴ ἡ ΖΔ· γωνία ἄρα ἡ ὑπὸ     (rectangle contained) by AD and DC was also equal to
+ΔΕΖ γωνίᾳ τῇ ὑπὸ ΔΒΖ ἐστιν ἴση. ὀρθὴ δὲ ἡ ὑπὸ ΔΕΖ·          the (square) on DB. Thus, the (square) on DE is equal
+ὀρθὴ ἄρα καὶ ἡ ὑπὸ ΔΒΖ. καί ἐστιν ἡ ΖΒ ἐκβαλλομένη          to the (square) on DB. Thus, DE (is) equal to DB. And
+διάμετρος· ἡ δὲ τῇ διαμέτρῳ τοῦ κύκλου πρὸς ὀρθὰς ἀπ᾿       F E is also equal to F B. So the two (straight-lines) DE,
+ἄκρας ἀγομένη ἐφάπτεται τοῦ κύκλου· ἡ ΔΒ ἄρα ἐφάπτεται      EF are equal to the two (straight-lines) DB, BF (re-
+τοῦ ΑΒΓ κύκλου. ὁμοίως δὴ δειχθήσεται, κἂν τὸ κέντρον       spectively). And their base, F D, is common. Thus, angle
+ἐπὶ τῆς ΑΓ τυγχάνῃ.                                         DEF is equal to angle DBF [Prop. 1.8]. And DEF (is)
+    ᾿Εὰν ἄρα κύκλου ληφθῇ τι σημεῖον ἐκτός, ἀπὸ δὲ τοῦ      a right-angle. Thus, DBF (is) also a right-angle. And
+σημείου πρὸς τὸν κύκλον προσπίπτωσι δύο εὐθεῖαι, καὶ ἡ      F B produced is a diameter, And a (straight-line) drawn
+μὲν αὐτῶν τέμνῃ τὸν κύκλον, ἡ δὲ προσπίπτῃ, ᾖ δὲ τὸ ὑπὸ     at right-angles to a diameter of a circle, at its extremity,
+ὅλης τῆς τεμνούσης καὶ τῆς ἐκτὸς ἀπολαμβανομένης μεταξὺ     touches the circle [Prop. 3.16 corr.]. Thus, DB touches
+τοῦ τε σημείου καὶ τῆς κυρτῆς περιφερείας ἴσον τῷ ἀπὸ       circle ABC. Similarly, (the same thing) can be shown,
+τῆς προσπιπτούσης, ἡ προσπίπτουσα ἐφάψεται τοῦ κύκλου·      even if the center happens to be on AC.
+ὅπερ ἔδει δεῖξαι.                                               Thus, if some point is taken outside a circle, and two
+                                                            straight-lines radiate from the point towards the circle,
+                                                            and one of them cuts the circle, and the (other) meets
+                                                            (it), and the (rectangle contained) by the whole (straight-
+                                                            line) cutting (the circle), and the (part of it) cut off out-
+                                                            side (the circle), between the point and the convex cir-
+                                                            cumference, is equal to the (square) on the (straight-line)
+                                                            meeting (the circle), then the (straight-line) meeting (the
+                                                            circle) will touch the circle. (Which is) the very thing it
+
+
+                                                         107
+STOIQEIWN gþ.                             ELEMENTS BOOK 3
+
+                  was required to show.
+
+
+
+
+                108
