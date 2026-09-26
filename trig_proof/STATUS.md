@@ -1,6 +1,7 @@
 # STATUS — Cumulative Trigonometric Proof Campaign (deterministic rebuild)
 
-**Date:** 2026-09-22. **Scope:** Books 0–20. **Books 21–22: NOT started.**
+**Date:** 2026-09-22; extended 2026-09-26. **Scope:** Books 0–22. The
+Books 21–22 stop was lifted by Kit's directive on 2026-09-26.
 
 ## Per-book claim accounting (from bookN_claims.md)
 
@@ -11,11 +12,11 @@ Exactly one label per claim (PROVED / CHECKED / ASSERTED / INCOMPLETE).
 | 0 | 53 | 43 | 0 | 10 | 0 | P1–P16 (16) |
 | 1 | 51 | 45 | 1 | 5 | 0 | P17–P18 (2) |
 | 2 | 97 | 74 | 12 | 11 | 0 | P19–P24 (6) |
-| 3 | 57 | 34 | 8 | 15 | 0 | P25–P34 (10) |
+| 3 | 57 | 35 | 7 | 15 | 0 | P25–P34 (10) |
 | 4 | 59 | 22 | 2 | 15 | 19 | P35–P36 (2) |
 | 5 | 11 | 8 | 0 | 3 | 0 | — (0) |
 | 6 | 27 | 22 | 2 | 1 | 0 | P37–P38 (2) |
-| 7 | 27 | 21 | 1 | 7 | 1 | P39–P42 (4) |
+| 7 | 27 | 22 | 1 | 7 | 0 | P39–P42 (4) |
 | 8 | 26 | 18 | 0 | 17 | 0 | — (0) |
 | 9 | 23 | 14 | 2 | 8 | 0 | — (0) |
 | 10 | 14 | 3 | 4 | 7 | 0 | P43–P44 (2) |
@@ -29,19 +30,28 @@ Exactly one label per claim (PROVED / CHECKED / ASSERTED / INCOMPLETE).
 | 18 | 20 | 14 | 5 | 1 | 0 | — (0) |
 | 19 | 26 | 9 | 6 | 11 | 0 | — (0) |
 | 20 | 28 | 17 | 0 | 11 | 0 | — (0) |
+| 21 | 13 | 6 | 2 | 5 | 0 | — (0) |
+| 22 | 10 | 7 | 0 | 3 | 0 | — (0) |
 
-**Category totals:** PROVED 489 · CHECKED 71 · ASSERTED 180 · INCOMPLETE 33.
+**Category totals:** PROVED 504 · CHECKED 72 · ASSERTED 188 · INCOMPLETE 32.
+(2026-09-26 prove-what-we-can pass: +2 PROVED from Book 3 C28 and Book 7
+7.1.T2 off-chart; −1 CHECKED (C28), −1 INCOMPLETE (7.1.T2). P33/P34/P44
+upgrades change scope labels within PROVED, not counts.)
 
 **Principles:** P0 (seed) + P1–P61 = **62 principles**, all with complete
-proofs in `cumulative_trig_proof.md`. 5 are PROVED-conditional on named
-asserted imports (P33, P34 on I6; P44 on I1; P51, P52 on 14.II.P1);
-P40 is proved on the principal chart (0,π/2) with off-chart analytic
-proof INCOMPLETE.
+proofs in `cumulative_trig_proof.md`. 2 remain PROVED-conditional on a
+named asserted import (P51, P52 on 14.II.P1); P44 is PROVED conditional
+only on the admitted mass-shell premise E² − p²c⁴ = m²c⁴. (2026-09-26:
+P33/P34 upgraded to PROVED without I6; P44's parametrization derived.)
+P40 is proved on all charts with the corrected sign factor
+σ = sgn(cos x + sin x) (2026-09-26; the stated ε = sgn(sin 2x) is
+falsified off-chart).
 
 ## Arithmetic notes (disclosed, not smoothed)
 
 - **Book 3:** 58 file rows = 57 claims (C1–C57) + 1 zero-counts
-  bookkeeping row. Categories sum to 57. ✓
+  bookkeeping row. Categories sum to 57. ✓ (2026-09-26: C28 CHECKED →
+  PROVED-conditional; 35+7+15+0 = 57 ✓)
 - **Book 4:** 22+2+15+19 = 58, not 59. The 59th is the ST item (A5
   Cartan–Bianchi, standard import cited not re-derived); filed under
   ASSERTED in the table (imports are assertions). 22+2+16+19 = 59. ✓
@@ -49,8 +59,9 @@ proof INCOMPLETE.
   the file says "27 claims evaluated". One claim is unaccounted in the
   file's own tally — flagged, not resolved by invention.
 - **Book 7:** 28 table rows for 27 inventory items (7.1.T2 split across
-  sections). Categories sum over rows: 21+1+7+1 = 31 ≠ 28. The split
-  verdicts inflate the row count; item-level accounting is 21/1/7/1 over
+  sections). Categories sum over rows: 22+1+7+0 = 30 ≠ 28 (2026-09-26:
+  7.1.T2 off-chart INCOMPLETE → PROVED). The split
+  verdicts inflate the row count; item-level accounting is 22/1/7/0 over
   27 items with overlaps. Flagged.
 - **Book 8:** 18+17 = 35 > 26 rows. The 8 inventory ASSERTED vs 17 full-
   accounting ASSERTED reflects premise-dependent vs premise-free
@@ -59,6 +70,8 @@ proof INCOMPLETE.
   verdict counted twice. Flagged.
 - **Book 20:** 17 distinct PROVED over 18 inventory slots (N2's proof
   covers two slots). Table uses 17. ✓
+- **Book 21 (2026-09-26):** 6+2+5+0 = 13 = evaluated. ✓ No new principles.
+- **Book 22 (2026-09-26):** 7+0+3+0 = 10 = evaluated. ✓ No new principles.
 
 The category totals (489/71/180/33) are the sums of the table's category
 columns. They do not equal the sum of "Evaluated" column (764) because

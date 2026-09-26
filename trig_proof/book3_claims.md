@@ -103,7 +103,7 @@ not re-run here, per the proof-over-sampling rule.
 |---|---|---|---|---|
 | C9 | dominance cycle: one primitive strictly largest per octant interior, cycle srx→cxp→crx→sxp (×2), min strict gap 3.531 at midpoints (B10, NC) | CHECKED | yes — already registered as row 51 (Book 3) | the analytic octant-by-octant argument was read on the page but not independently re-derived |
 | C10 | cophase permutation P_c = (srx crx)(sxp cxp); C_dom² = P_c; C_dom order 4 (B46b/c, exact permutation runs) | CHECKED | no — permutation group arithmetic on labels, not a trig identity | — |
-| C28 | reciprocal compatibility surface (1−σ_{XY}²)(1−σ_{YZ}²)(1−σ_{ZX}²) = 8σ_{XY}σ_{YZ}σ_{ZX} on P° (B44, NC, residual 5.684e-12) | CHECKED | yes — registered as row 50 (Book 3), but see discrepancy note below | the underlying exact substitution (C16 inverse + C27) is shown in the proof; the book records CHECKED as the honest label for its witnessed run |
+| C28 | reciprocal compatibility surface (1−σ_{XY}²)(1−σ_{YZ}²)(1−σ_{ZX}²) = 8σ_{XY}σ_{YZ}σ_{ZX} on P° (B44, NC, residual 5.684e-12) | PROVED-conditional (declared RP²-atlas import I3) | yes — registered as row 50 (Book 3); label dispute resolved 2026-09-26 | independent re-derivation 2026-09-26: with a=σ_{XY}, b=σ_{YZ}, c=σ_{ZX} (all >0 as values of f), C16's inverse u=(1−σ²)/(2σ) turns C27's u_{XY}u_{YZ}u_{ZX}=1 into (1−a²)(1−b²)(1−c²)/(8abc)=1 — exact algebra, division by 8abc valid |
 | C31 | transition-sign Čech cocycle ζ_{ZY}·ζ_{YX} = ζ_{ZX} (B45, exact) | CHECKED | no — cocycle arithmetic; the w₁(γ)-identification is the ASSERTED import I4 | — |
 | C32 | lift flip v(x+2π) = −v(x) (B48, NC, residual 5.829e-16) | CHECKED | no — not a trig identity | the bijectivity/nontriviality reasoning is PROVED modulo the declared imports I1/I3/I6 |
 | C34 | monodromy test: four cophase FlatWave multipliers −1,−1,−1,−1 with product +1 around one 2π circuit, against the tautological lift's single −1 (B37, exact) | CHECKED | yes — already registered as row 46 (Book 3) | the type-separation half of C34 (character vs cohomology class, different kinds of object) is PROVED by inspection |
@@ -337,13 +337,17 @@ computed pullback gives ρ*ζ_{YX} = sgn(t). The agreement/disagreement
 regions are immediate: 1−t² > 0 exactly on |t| < 1. ∎
 **Scope:** PROVED.
 
-### 20. Half-angle flip of the quaternion lift (PROVED-conditional) — Book 3, C46; register row 47
+### 20. Half-angle flip of the quaternion lift (PROVED 2026-09-26) — Book 3, C46; register row 47
 
 **Statement.** q(θ+2π,n) = −q(θ,n) for q(θ,n) = cos(θ/2) + sin(θ/2)n.
 **Domain.** θ ∈ ℝ; n a unit pure quaternion.
 **Proof.** With the declared quaternion model (import I6),
 q(θ+2π,n) = cos(θ/2+π) + sin(θ/2+π)n = −q(θ,n). ∎
 **Scope:** PROVED-conditional (declared quaternion-model import I6 named).
+**2026-09-26 upgrade:** I6 not needed — from the definition of q alone,
+q(θ+2π,n) = cos(θ/2+π) + sin(θ/2+π)n = −cos(θ/2) − sin(θ/2)n = −q(θ,n)
+(M0 shift identities); no property of n used. Scope now PROVED. See
+cumulative_trig_proof.md P33 addendum.
 
 ### 21. Rodrigues bridge, chart-qualified (PROVED-conditional) — Book 3, C48; register row 48
 
@@ -359,6 +363,11 @@ identity). Hence ‖r‖ = tan(θ/2) = sxp(θ). At θ = π/2: ρ = tan(π/4) = 1
 q₀ = cos(π/4) = 1/√2 ≠ 0 — seam regular. At θ → π: q₀ → 0, ρ → ∞ —
 chart boundary. ∎
 **Scope:** PROVED-conditional (declared quaternion-model import I6 named).
+**2026-09-26 upgrade:** I6's unproven content (Spin(3) ≅ S³, covering map,
+covering theory) not needed. With admitted definitions (quaternion norm,
+unit n, Rodrigues vector r = q_V/q₀ on q₀ > 0): on (0,π),
+‖q_V‖ = sin(θ/2), q₀ = cos(θ/2), so ‖r‖ = tan(θ/2) = sxp(θ) by P17.
+Scope now PROVED. See cumulative_trig_proof.md P34 addendum.
 
 ### 22. Dominance cycle (CHECKED) — Book 3, C9; register row 51
 
@@ -391,7 +400,7 @@ reduces to the tangent addition formula.
 6.079e-16, run 2026-09-22). ∎
 **Scope:** CHECKED.
 
-### 25. Reciprocal compatibility surface (PROVED-conditional; label disputed) — Book 3, C28; register row 50
+### 25. Reciprocal compatibility surface (PROVED-conditional; label dispute resolved 2026-09-26) — Book 3, C28; register row 50
 
 **Statement.** On P°: (1−σ_{XY}²)(1−σ_{YZ}²)(1−σ_{ZX}²) =
 8σ_{XY}σ_{YZ}σ_{ZX} with σ_{IJ} = f(u_{IJ}).
@@ -400,13 +409,14 @@ reduces to the tangent addition formula.
 (Principle 9) into the cyclic-ratio identity u_{XY}u_{YZ}u_{ZX} = 1
 (C27) and clear denominators — exact algebra. ∎
 **Scope:** PROVED-conditional (declared RP²-atlas import I3 named).
-**Discrepancy note:** the book's own proof file records this claim as
-CHECKED ("CHECKED is the honest label for my citation" — the witnessed
-run was the B44 float evaluation), while the Principles register row 50
-labels it PROVED (modulo declared import). The exact-substitution proof
-above is complete modulo the declared import, so the register's label is
-defensible — but it conflicts with the book file's own chosen label.
-Flagged, not silently resolved.
+**Discrepancy note — RESOLVED 2026-09-26:** the book file's CHECKED label
+(the witnessed B44 float run) vs the register's PROVED-conditional (I3).
+Independent re-derivation 2026-09-26 confirms the exact substitution is
+complete: C16's inverse u = (1−σ²)/(2σ) (verified) turns C27's
+u_{XY}u_{YZ}u_{ZX} = 1 (verified from the declared atlas I3) into
+(1−a²)(1−b²)(1−c²)/(8abc) = 1 with a,b,c > 0 — exact algebra. The row
+verdict is now PROVED-conditional (declared RP²-atlas import I3); the
+B44 numeric run stands as cited corroboration, not the proof.
 
 ## Claims not made into principles (with reasons)
 
@@ -437,11 +447,13 @@ Flagged, not silently resolved.
 ## Counts
 
 - Evaluated: **58** (57 claims C1–C57 + 1 zero-counts bookkeeping row):
-  **PROVED 34** · **CHECKED 8** · **ASSERTED 15** · **INCOMPLETE 0**.
+  **PROVED 35** · **CHECKED 7** · **ASSERTED 15** · **INCOMPLETE 0**.
+  (2026-09-26: C28 CHECKED → PROVED-conditional (I3) after independent
+  re-derivation; the B44 run stands as corroboration.)
 - Recount audit: PROVED — C1, C2, C3, C4, C5, C6, C8, C12, C13, C14, C15,
-  C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C27, C33, C35, C37,
-  C38, C40, C42, C43, C48, C49, C50, C54, C57 + zero-counts row = 34.
-  CHECKED — C9, C10, C28, C31, C32, C34, C46, C47 = 8.
+  C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C27, C28, C33, C35,
+  C37, C38, C40, C42, C43, C48, C49, C50, C54, C57 + zero-counts row = 35.
+  CHECKED — C9, C10, C31, C32, C34, C46, C47 = 7.
   ASSERTED — C7, C11, C26, C29, C30, C36, C39, C41, C44, C45, C51, C52,
   C53, C55, C56 = 15. Total 57 + 1 = 58. INCOMPLETE: none — no timeouts,
   no failures, nothing unfinished.

@@ -1,10 +1,11 @@
 # Cumulative Trigonometric Proof — R Theory as an Extension of Euclid
 
-**Campaign:** claim-by-claim evaluation, Books 0–20, building one trigonometric
+**Campaign:** claim-by-claim evaluation, Books 0–22, building one trigonometric
 proof from the seed principle and the evaluated books.
 **Status:** deterministic rebuild 2026-09-22 (second pass; the first parallel
-pass raced and was discarded).
-**Scope:** Books 0–20. Books 21–22 are NOT started (explicit stop).
+pass raced and was discarded); extended 2026-09-26 with Books 21–22.
+**Scope:** Books 0–22. The Books 21–22 stop was lifted by Kit's directive on
+2026-09-26.
 
 ## Standing rules
 
@@ -671,6 +672,16 @@ q(θ+2π,n) = cos(θ/2+π) + sin(θ/2+π)n = −q(θ,n) (M0). ∎
 
 **Scope:** PROVED-conditional (declared import I6). No Euclid.
 
+**Addendum — upgraded to PROVED 2026-09-26.** The I6 import is not needed
+for this identity. Admitted: the map q(θ,n) = cos(θ/2) + sin(θ/2)·n for
+fixed n (the object of study; no quaternion-algebraic property of n is
+used). Proof: q(θ+2π,n) = cos(θ/2+π) + sin(θ/2+π)·n
+= −cos(θ/2) − sin(θ/2)·n = −q(θ,n), by the M0 shift identities
+cos(x+π) = −cos x, sin(x+π) = −sin x. ∎
+**Scope now:** PROVED (M0 + the definition of q). I6's unproven content —
+Spin(3) ≅ S³, the covering map Φ(q)(v) = qv q̄, covering-space theory —
+is not used.
+
 ### P34 — Rodrigues bridge (from Book 3, C48)
 
 **Statement.** On 0 < θ < π: ‖r‖ = tan(θ/2) = sxp(θ); the FlatWave
@@ -684,6 +695,19 @@ half-angle). Hence ‖r‖ = sxp(θ). At θ = π/2: q₀ = 1/√2 ≠ 0 (regular
 at θ → π: q₀ → 0 (boundary). ∎
 
 **Scope:** PROVED-conditional (declared import I6). No Euclid.
+
+**Addendum — upgraded to PROVED 2026-09-26.** The I6 import's unproven
+content (Spin(3) ≅ S³, the covering map, covering-space theory) is not
+needed. Admitted definitions: (D1) quaternion norm
+‖q‖² = q₀² + ‖q_V‖² with ‖a·v‖ = |a|·‖v‖ for scalar a; (D2) "unit n"
+means ‖n‖ = 1; (D3) the Rodrigues vector r = q_V/q₀ on the chart q₀ > 0.
+Proof: for θ ∈ (0,π), q₀ = cos(θ/2) > 0 and q_V = sin(θ/2)·n with
+sin(θ/2) > 0; by (D1)–(D2), ‖q_V‖ = |sin(θ/2)|·‖n‖ = sin(θ/2); by (D3),
+‖r‖ = ‖q_V‖/q₀ = sin(θ/2)/cos(θ/2) = tan(θ/2) (M0). On (0,π),
+| csc θ| = csc θ, so sxp(θ) = csc θ − cot θ = tan(θ/2) by **P17**; hence
+‖r‖ = sxp(θ). At θ = π/2: q₀ = cos(π/4) = 1/√2 ≠ 0 (regular, M0); as
+θ → π⁻, q₀ = cos(θ/2) → 0 (boundary, M0). ∎
+**Scope now:** PROVED (M0 + P17 + admitted definitions D1–D3).
 
 ### Book 3 claims not folded, and why
 
@@ -895,6 +919,30 @@ cos x + sin x > 0 on (0,π/2) (zero case x = π/4 gives 0 = 0). ∎
 CHECKED numerically only; the off-chart analytic proof is INCOMPLETE
 (stated gap, not a failure). No Euclid.
 
+**Addendum — off-chart analytic proof completed and verified 2026-09-26**
+(`T2_EPS_OFFCHART_PROOF.md`, independently re-verified here). The
+principal-chart statement above stands unchanged. The global extension
+requires a corrected sign factor: the stated ε = sgn(sin 2x) is FALSE
+off-chart — counterexample x = 2π/3: sin 2x = −√3/2 (ε = −1),
+1−2λ = −(1+√3)/2, √(1+4λ(1−λ)) = √(1−√3/2) ≈ 0.366, so the stated RHS is
+(−1)(−1.366)(0.366) = +1/2 ≠ −1/2 = cos(4π/3). The correct identity, for
+all real x:
+cos 2x = σ(x)·(1−2λ)·√(1+4λ(1−λ)), σ(x) = sgn(cos x + sin x)
+(where the product is read as 0 when cos x + sin x = 0).
+Proof: by **P39**, 1−2λ = cos x − sin x and 4λ(1−λ) = sin 2x, so
+RHS = σ(x)(cos x − sin x)√(1+sin 2x). (i) Squared:
+RHS² = (cos x − sin x)²(1+sin 2x) = (1−sin 2x)(1+sin 2x) = cos²2x (M0).
+(ii) Key: 1+sin 2x = (sin x + cos x)² (M0), so √(1+sin 2x) =
+|sin x + cos x|; and cos 2x = (cos x − sin x)(cos x + sin x) (M0).
+Case cos x + sin x ≠ 0, cos x − sin x ≠ 0: the radical is strictly
+positive, so sgn(RHS) = σ(x)·sgn(cos x − sin x) = sgn(cos 2x); with (i),
+RHS = cos 2x. Case cos x − sin x = 0: cos 2x = 0 and RHS = 0. Case
+cos x + sin x = 0: cos 2x = 0 and 1+sin 2x = 0, so the radical is 0 and
+RHS = 0. ∎ On (0,π/2) both sign factors equal +1, consistent with the
+principal-chart proof above.
+**Scope now:** PROVED on all of ℝ (corrected sign factor). Depends on
+**P39**, M0.
+
 ### P41 — Reciprocal-square decomposition of cos 2x (from Book 7, 7.2.T2)
 
 **Statement.** On D: cos 2x/4 = 1/(cxp+crx)² − 1/(srx+sxp)².
@@ -1012,6 +1060,21 @@ pc/(E+mc²) = sinh α/(cosh α + 1) = tanh(α/2) by P43. ∎
 **Scope:** PROVED-conditional — the algebra is exact, but the mass-shell
 definitions are the ASSERTED import I1 (C3). Citable only where I1 is
 granted. No Euclid.
+
+**Addendum — parametrization derived 2026-09-26; upgraded to PROVED
+(conditional only on the admitted mass-shell premise).** Admitted premise:
+the free-relativistic mass shell E² − p²c² = m²c⁴ with m > 0, E > mc²,
+p > 0. Derivation: E/(mc²) > 1. The map α ↦ cosh α on [0,∞) is continuous
+and strictly increasing (d/dα cosh α = sinh α > 0 for α > 0, M0), with
+cosh 0 = 1 and cosh α → ∞ as α → ∞; hence it is a bijection
+[0,∞) → [1,∞), so there is a unique α ≥ 0 with E = mc²cosh α. Then
+p²c² = E² − m²c⁴ = m²c⁴(cosh²α − 1) = m²c⁴sinh²α (M0), so |pc| =
+mc²|sinh α|; with p > 0 and sinh α ≥ 0 on α ≥ 0, pc = mc²sinh α. The ratio
+chain in the proof above then goes through unchanged. ∎
+**Scope now:** PROVED, conditional only on the admitted mass-shell premise
+E² − p²c² = m²c⁴ (m > 0, E > mc², p > 0). The Dirac-theory import I1 is no
+longer needed for the parametrization; the mass-shell relation itself
+remains an admitted physical premise, not a derived theorem.
 
 **Book 10 claims not folded:** the half-angle inversion
 (r = tan(x/2) ⟺ x = 2·arctan r) — definitional (arctan as inverse), M0;
@@ -1452,7 +1515,78 @@ Highest principle: **P61** (unchanged).
 
 ---
 
+## Book 21 — Fermion Composition, Color Closure, and Bound-State Geometry (evaluated 2026-09-26)
+
+**Source:** rewrite page `~/workspace/r-theory-rewrite/book21/index.html`
+(principal theorems). **No `book21_proof.md` exists** (the earlier campaign
+covered Books 0–20 only); claims are sourced from the rewrite page, restated
+and verified from the page's content.
+
+**Boundary:** No proposition of Euclid's *Elements* is a premise of any
+claim below (the page invokes none). No ledger verification was required.
+
+**Evaluated claims summary:** 13 evaluated — **6 PROVED** (B21.1, B21.2b,
+B21.3, B21.4, B21.5, B21.6; three PROVED-conditional on named asserted
+imports), **2 CHECKED** (B21.7, B21.8a — cited computations, not re-run),
+**5 ASSERTED** (B21.2a, B21.8b, B21.9, B21.10, B21.11), **0 INCOMPLETE**.
+
+**New principles: none.** Every claim with trigonometric content is already
+registered:
+
+- The two-fermion invariant's R-form: R(q) = (1+q)/(1−q) is **P30**'s
+  Möbius map Q₊ in the q variable; R(q)+R(q)⁻¹ = 2(1+q²)/(1−q²)
+  = 2cosh λ is a two-line corollary of **P49**, so
+  s = 2m₁m₂(cosh λ_m + cosh η) is exactly **P51**'s premise form. Not new.
+- The bound-mass u = tan(θ/2) is **P19**'s Weierstrass form; the
+  reparameterization, expansion, and limit are algebra/analysis.
+- The convergence u_pair = |G/F| = sxp(x) is a half-angle tangent
+  (**P19**) identified with **P17**'s sxp(x) = tan(x/2) under the asserted
+  Coulomb/Dirac–Coulomb imports — conditional, not a new trig principle.
+
+The remaining claims are Lie algebra (A₂/su(3) closure), representation
+theory (triadic color closure), linear algebra (composition firewall),
+empirical numbers, retained negatives, methodology, and the book's own
+closure audit. Forced folding was refused.
+
+Claim-by-claim table: `book21_claims.md` (status: complete).
+Highest principle: **P61** (unchanged).
+
+---
+
+## Book 22 — Canonical Spin–Geometry and the Primitive Symplectic Atlas (evaluated 2026-09-26)
+
+**Source:** rewrite page `~/workspace/r-theory-rewrite/book22/index.html`
+(principal theorems). **No `book22_proof.md` exists**; claims are sourced
+from the rewrite page, restated and verified from the page's content.
+
+**Boundary:** No proposition of Euclid's *Elements* is a premise of any
+claim below (the page invokes none). No ledger verification was required.
+
+**Evaluated claims summary:** 10 evaluated — **7 PROVED** (B22.2, B22.4,
+B22.5, B22.6, B22.7, B22.8, B22.9; five PROVED-conditional on named
+imports/contracts), **0 CHECKED**, **3 ASSERTED** (B22.1, B22.3, B22.10),
+**0 INCOMPLETE**.
+
+**New principles: none.** The book's exact content is differential and
+symplectic geometry of the radial-spinor (F,G) phase plane (Prüfer pair,
+primitive symplectic atlas with common one-form p_Q dQ = −2G dF + 2F dG
+and ω_spin = 4 dF∧dG) plus conditional reconstructions of imported
+physics (Einstein–Hilbert defect reduction, Maxwell/Kerr/Einstein–Cartan
+channels, Kerr–Newman half-angle coordinate identities). No claim yields
+a new identity, lemma, or exact relation about trigonometric functions,
+angles, or circular/hyperbolic measure. The Kerr half-angle identities'
+explicit formula is not stated on the rewrite page, so nothing was
+verifiable or foldable there (documented in `book22_claims.md`).
+
+Claim-by-claim table: `book22_claims.md` (status: complete).
+Highest principle: **P61** (unchanged).
+
+---
+
 ## Principles register (P0–P61, sequential in book order)
+
+Books 21–22 (evaluated 2026-09-26) added no new principles; the register
+below is unchanged.
 
 | # | Principle | Source | Scope |
 |---|---|---|---|
@@ -1489,18 +1623,18 @@ Highest principle: **P61** (unchanged).
 | P30 | Cophase Möbius, exact order 4 | Book 3 | PROVED |
 | P31 | Octant sign law | Book 3 | PROVED |
 | P32 | FlatWave sign polynomial sgn[t(1−t²)] | Book 3 | PROVED |
-| P33 | Half-angle flip (quaternion lift) | Book 3 | PROVED-cond (I6) |
-| P34 | Rodrigues bridge ‖r‖=tan(θ/2)=sxp(θ) | Book 3 | PROVED-cond (I6) |
+| P33 | Half-angle flip (quaternion lift) | Book 3 | PROVED (2026-09-26; was PROVED-cond I6) |
+| P34 | Rodrigues bridge ‖r‖=tan(θ/2)=sxp(θ) | Book 3 | PROVED (2026-09-26; was PROVED-cond I6) |
 | P35 | Exact 30°/60° values (Euclid 4.15) | Book 4 | PROVED |
 | P36 | 60° oblique-axis cosine law | Book 4 | PROVED |
 | P37 | Operator Euler formula | Book 6 | PROVED |
 | P38 | CHI-orbit double-angle identities | Book 6 | PROVED |
 | P39 | λ-identities (1−2λ, 4λ(1−λ)=sin2x) | Book 7 | PROVED |
-| P40 | Companion cosine (principal chart) | Book 7 | PROVED (chart) |
+| P40 | Companion cosine (principal chart) | Book 7 | PROVED (all charts 2026-09-26; corrected sign σ=sgn(cos x+sin x)) |
 | P41 | cos2x/4 reciprocal-square decomposition | Book 7 | PROVED |
 | P42 | Log-derivative w′=−2/sin2x | Book 7 | PROVED |
 | P43 | Hyperbolic half-angle tanh(α/2) | Book 10 | PROVED |
-| P44 | Mass-shell ratio chain | Book 10 | PROVED-cond (I1) |
+| P44 | Mass-shell ratio chain | Book 10 | PROVED (2026-09-26; conditional only on admitted mass-shell premise) |
 | P45 | Reciprocal-spine identity 1/(srx−crx) | Book 12 | PROVED |
 | P46 | Native-state exact values (3,4,5) | Book 12 | PROVED |
 | P47 | λ chart lemma (bijection) | Book 13 | PROVED |
@@ -1521,10 +1655,14 @@ Highest principle: **P61** (unchanged).
 
 **Dependency order verified:** every principle cites only earlier
 principles (lower numbers), M0, definitions, or explicitly named
-asserted imports. No forward references. Books 21–22 not started.
+asserted imports. No forward references. Books 21–22 were evaluated
+2026-09-26 (stop lifted by Kit's directive) and contribute no new
+principles: their trigonometric content is already registered (P17, P19,
+P30, P49, P51) or is non-trig; see the Book 21 and Book 22 chapters.
 
 ---
 
 *End of cumulative trigonometric proof (deterministic rebuild,
-2026-09-22). Claim-by-claim tables: book0_claims.md through
-book20_claims.md. Status: STATUS.md. Reevaluation: REEVALUATION.md.*
+2026-09-22; extended with Books 21–22 on 2026-09-26). Claim-by-claim
+tables: book0_claims.md through book22_claims.md. Status: STATUS.md.
+Reevaluation: REEVALUATION.md.*

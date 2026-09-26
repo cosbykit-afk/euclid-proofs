@@ -34,7 +34,7 @@ There is nothing to prove from exponential definitions.
 |---|---|---|---|---|
 | 7.1.T1 | Sine carrier as signed balance product `H = ελ(1−λ)`; `\|H\| ≤ 1/4`, sharp at λ=1/2 | PROVED, conditional on A-7.1 | Proof read and verified: given A-7.1, `saw_r·saw_x = ε²λ(1−λ) = λ(1−λ)` (ε²=1) and `saw_r+saw_x = ε`, so `H = λ(1−λ)/ε = ελ(1−λ)` since `1/ε = ε`. Bound: `λ(1−λ) ≤ 1/4` is the vertex of the concave quadratic at λ=1/2 (elementary); sharpness attained at x=π/4 (λ=1/2, H=1/4 on the principal chart). | no — trig kernel is candidate **P1** (Lemma 7.2); the ε-form and bound are transfer bookkeeping + `\|sin2x\| ≤ 1` |
 | 7.1.C1 | Endpoint/balance structure of the saw pair | PROVED, conditional on A-7.1 | Elementary given A-7.1: the pair sums to ε with product λ(1−λ); H→0 at the λ∈{0,1} endpoints. | no — operator bookkeeping |
-| 7.1.T2 | Companion cosine `cos2x = ε(1−2λ)√(1+4λ(1−λ))` | PROVED on principal chart; off-chart branches CHECKED (see §CHECKED); analytic off-chart proof INCOMPLETE (see §INCOMPLETE) | Principal-chart proof (Prop 7.3) read and verified step by step: with λ=(1+sin x−cos x)/2, `RHS² = (cos x−sin x)²(1+sin2x) = (1−sin2x)(1+sin2x) = cos²2x` (uses Lemma 7.2: `1−2λ = cos x−sin x`, `4λ(1−λ) = sin2x`). Sign: on (0,π/2), ε=+1 and √≥0 so `sgn(RHS) = sgn(cos x−sin x)`; `cos2x = (cos x−sin x)(cos x+sin x)` with `cos x+sin x > 0`, so signs match (zero case x=π/4 gives 0=0). Hence RHS = cos2x. | **yes — P2** (principal-chart identity) |
+| 7.1.T2 | Companion cosine `cos2x = ε(1−2λ)√(1+4λ(1−λ))` | PROVED on all charts — analytic off-chart branch proof written 2026-09-26 (T2_EPS_OFFCHART_PROOF.md), conditional on Lemma 7.2 (PROVED) | Principal-chart proof (Prop 7.3) read and verified step by step: with λ=(1+sin x−cos x)/2, `RHS² = (cos x−sin x)²(1+sin2x) = (1−sin2x)(1+sin2x) = cos²2x` (uses Lemma 7.2: `1−2λ = cos x−sin x`, `4λ(1−λ) = sin2x`). Sign: on (0,π/2), ε=+1 and √≥0 so `sgn(RHS) = sgn(cos x−sin x)`; `cos2x = (cos x−sin x)(cos x+sin x)` with `cos x+sin x > 0`, so signs match (zero case x=π/4 gives 0=0). Hence RHS = cos2x. | **yes — P2** (principal-chart identity) |
 | 7.1.C2 | Differential companion `cos2x = 2H′` | PROVED | `H = sin2x/4`, so `H′ = 2cos2x/4 = cos2x/2`; `2H′ = cos2x`. Exact differentiation. | no — M0 calculus |
 | 7.1.D/N | `N = 4cot2x`, `D² − N² = 16` (D = 4csc2x) | PROVED | `D²−N² = 16(csc²2x − cot²2x) = 16` by the standard identity. | no — M0 background identity |
 | 7.1.T3 | Carrier phasor `Z = C+iS = e^{2ix}`; quadrature `S′=2C`, `C′=−2S` | PROVED | `C²+S²=1` is Pythagorean; `e^{2ix}` is Euler's formula (standard import); `S′ = 2cos2x = 2C`, `C′ = −2sin2x = −2S` by differentiation. "Frequency doubling" is bookkeeping (φ_c = 2x). | no — Euler + M0 derivatives |
@@ -58,7 +58,7 @@ There is nothing to prove from exponential definitions.
 
 | Claim | What it checks | Scope | Principle? | Notes |
 |---|---|---|---|---|
-| 7.1.T2 off-chart branches | The companion-cosine identity on the three non-principal charts | CHECKED | no — a numerical check of a partially-proved identity is not a new theorem | The manuscript page reports numerical verification to 2.2e-13 on all four charts. Cited, **not re-run** here (proof-over-sampling rule). The analytic proof for these branches is INCOMPLETE (below) — the gap is stated, not filled. |
+| 7.1.T2 off-chart branches | The companion-cosine identity on the three non-principal charts | PROVED | no — sign bookkeeping of an established identity, not a new principle | Analytic branch proof written 2026-09-26 (T2_EPS_OFFCHART_PROOF.md): ε = sgn(cos x+sin x) forced wherever 1+sin2x > 0; both sides vanish on the complement; the manuscript ε = sgn(sin x)sgn(cos x) is falsified on (π/2,3π/4)∪(π,3π/2)∪(7π/4,2π). Machine-corroborated per step (local sympy + WolframAlpha session 2026-09-26-1051). The manuscript page's 2.2e-13 numeric run stands as cited NC. |
 
 ## ASSERTED claims (7)
 
@@ -76,7 +76,7 @@ There is nothing to prove from exponential definitions.
 
 | Claim | Gap | Notes |
 |---|---|---|
-| 7.1.T2 off-chart analytic branch proof | No analytic proof exists in this file for the companion-cosine identity on the three non-principal charts. | The proof file states the gap plainly ("INCOMPLETE as an analytic branch proof; the gap is stated, not filled"). Covered numerically (CHECKED above) and proved on the principal chart (PROVED above). Nothing timed out or failed; the proof was simply not written. |
+| 7.1.T2 off-chart analytic branch proof | RESOLVED 2026-09-26 — the analytic proof now exists (T2_EPS_OFFCHART_PROOF.md). | Row retired from INCOMPLETE; see the PROVED 7.1.T2 rows above. Nothing timed out or failed; the proof was written, not carried over. |
 
 ## Candidate trigonometric principles (8)
 
@@ -157,24 +157,29 @@ antiderivatives) — dedup later. *Source:* 7.4.T6. *Euclid:* none.
   construction, not identities.
 - **Asserted, not proved (6):** 7.4.E1, A-7.1, A-7.3, A-7.4.E1, "certified"
   status label, §7.4 Book 5 link.
-- **CHECKED only (1):** 7.1.T2 off-chart branches (page's numerical run).
-- **INCOMPLETE (1):** 7.1.T2 off-chart analytic branch proof.
+- **CHECKED: 0** (the 7.1.T2 off-chart branch check is superseded by the
+  2026-09-26 analytic proof).
+- **INCOMPLETE: 0** (the 7.1.T2 off-chart analytic branch proof was written
+  2026-09-26; no gaps remain in this file).
 
 ## Counts
 
 - Evaluated: **27** inventory items (23 claim rows + 4 axioms) in **28** table
   rows — the negatives group splits by verdict (7 PROVED scope statements +
-  7.4.CL1 ASSERTED), and 7.1.T2 carries a split verdict across sections.
-- **PROVED: 21** rows (19 unconditional-on-Book-7 + 2 PROVED-conditional:
-  7.1.T1/7.1.C1 on A-7.1; 7.3.T3 on A-7.3). Includes two upgrades over the
+  7.4.CL1 ASSERTED), and 7.1.T2's split verdict is resolved 2026-09-26 (PROVED on all branches).
+- **PROVED: 22** rows (20 unconditional-on-Book-7 + 2 PROVED-conditional:
+  7.1.T1/7.1.C1 on A-7.1; 7.3.T3 on A-7.3). Includes three upgrades over the
   book's own labels: L7.12 (A-7.2) and 7.2.T2 were re-derived here from
   registered PROVED Book 2 P4 rather than taken on audit authority, so the
-  7.4 chain is PROVED outright, not PROVED-conditional.
-- **CHECKED: 1** (7.1.T2 off-chart branches; page's run, cited not re-run).
+  7.4 chain is PROVED outright, not PROVED-conditional; and the 7.1.T2
+  off-chart branches are PROVED outright by the 2026-09-26 analytic branch
+  proof (T2_EPS_OFFCHART_PROOF.md).
+- **CHECKED: 0** (the former 7.1.T2 off-chart branch check is superseded by
+  the 2026-09-26 analytic proof).
 - **ASSERTED: 7** (A-7.1, A-7.3, A-7.4.E1, 7.4.E1, 7.4.CL1, "certified" status,
   Book 5 link).
-- **INCOMPLETE: 1** (7.1.T2 off-chart analytic branch proof — gap stated, not
-  filled; no timeout or failure involved).
+- **INCOMPLETE: 0** (the 7.1.T2 off-chart analytic branch proof was written
+  2026-09-26; no timeout or failure was ever involved).
 - Folded into the cumulative proof as candidates: **8** (P1–P8), all PROVED;
   5 carry duplication notes for the later dedup pass (P3→P0/P25, P4 kernel M0,
   P5→P21, P6→P13/P19, P7→Book 0 P5, P8→P23).

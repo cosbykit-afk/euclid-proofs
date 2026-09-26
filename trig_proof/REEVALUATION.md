@@ -27,7 +27,9 @@ order with analytic (not numerical) dedup.
 ## Corrected per-book totals
 
 See STATUS.md for the full table. Category totals from the corrected
-claim files: **PROVED 489 · CHECKED 71 · ASSERTED 180 · INCOMPLETE 33.**
+claim files: **PROVED 502 · CHECKED 73 · ASSERTED 188 · INCOMPLETE 33**
+(489/71/180/33 through Book 20; Books 21–22 evaluated 2026-09-26 added
+6/2/5/0 and 7/0/3/0 respectively, no new principles).
 Arithmetic inconsistencies in five books' own tallies are disclosed in
 STATUS.md, not smoothed.
 
@@ -51,7 +53,13 @@ Book 17 (P59–P61: carrier 2:1 cover, cos4x structure, srx(π/8)).
 
 Books 5, 8, 9, 11, 18, 19, 20 contribute no new principles (verified
 duplicates, corollaries, or non-trig content — see the "not folded"
-sections).
+sections). Books 21–22 (evaluated 2026-09-26, stop lifted by Kit's
+directive) likewise contribute no new principles: Book 21's trigonometric
+content is P17/P19/P30/P49/P51 (verified analytically, not re-folded)
+and Book 22's exact content is differential/symplectic geometry of the
+(F,G) phase plane plus conditional reconstructions of imported physics;
+see the Book 21 and Book 22 chapters and book21_claims.md /
+book22_claims.md.
 
 **No forward references.** Every principle's proof cites only
 lower-numbered principles, M0, definitions, or named asserted imports.
@@ -100,26 +108,67 @@ and were not folded.
 ## Unresolved / conditional principles and what would close them
 
 1. **P33, P34** (PROVED-conditional on quaternion-model import I6,
-   Book 3): close by proving the quaternion axis-angle model from
+   Book 3): ~~close by proving the quaternion axis-angle model from
    first principles, or by re-deriving q(θ+2π,n) = −q(θ,n) and
-   ‖r‖ = tan(θ/2) without the import.
+   ‖r‖ = tan(θ/2) without the import.~~ **CLOSED 2026-09-26.** Both
+   re-derived from the unit-quaternion definition
+   q(θ,n) = cos(θ/2) + sin(θ/2)·n without I6: P33 is M0 shift identities
+   (no property of n used); P34 uses admitted definitions (quaternion
+   norm, unit n, Rodrigues vector r = q_V/q₀) plus P17. I6's unproven
+   content (Spin(3) ≅ S³, covering map, covering theory) is not used.
+   Upgraded to PROVED — see P33/P34 addenda in cumulative_trig_proof.md
+   and book3_claims.md register rows 20–21.
 2. **P40** (companion cosine; PROVED on (0,π/2), off-chart analytic
-   proof INCOMPLETE, Book 7): close by extending the squaring+sign
+   proof INCOMPLETE, Book 7): ~~close by extending the squaring+sign
    argument to the other three quadrants (sign bookkeeping for ε and
-   the √ branch).
-3. **P44** (PROVED-conditional on free-Dirac import I1, Book 10): close
+   the √ branch).~~ **CLOSED 2026-09-26.** The off-chart analytic proof
+   exists (`T2_EPS_OFFCHART_PROOF.md`) and was independently re-verified
+   here. The extension requires a CORRECTED sign factor:
+   σ(x) = sgn(cos x + sin x); the stated ε = sgn(sin 2x) is falsified
+   off-chart (counterexample x = 2π/3: stated RHS = +1/2 ≠ −1/2 =
+   cos(4π/3)). Corrected identity PROVED for all real x — see P40
+   addendum in cumulative_trig_proof.md. book7_claims.md updated
+   (INCOMPLETE → PROVED); STATUS.md Book 7 row updated.
+3. **P44** (PROVED-conditional on free-Dirac import I1, Book 10): ~~close
    by deriving the mass-shell parametrization E = mc²cosh α,
-   pc = mc²sinh α within the campaign instead of importing it.
+   pc = mc²sinh α within the campaign instead of importing it.~~
+   **CLOSED 2026-09-26.** Derived from the admitted mass-shell premise
+   E² − p²c² = m²c⁴ (m > 0, E > mc², p > 0): cosh:[0,∞) → [1,∞) is a
+   bijection (continuous, strictly increasing, limits 1 and ∞), giving a
+   unique α ≥ 0 with E = mc²cosh α; then p²c² = m²c⁴sinh²α and p > 0
+   give pc = mc²sinh α. P44 is now PROVED, conditional only on the
+   admitted mass-shell premise — see P44 addendum in
+   cumulative_trig_proof.md and the book10_claims.md C3 note. The Dirac
+   theory itself stays a named import.
 4. **P51, P52** (PROVED-conditional on two-body import 14.II.P1,
-   Book 14): close by proving s/(2m₁m₂) = cosh λ_m + cosh η from the
-   book's kinematics instead of importing it.
-5. **Book 3, C28** (reciprocal compatibility surface): the book file
+   Book 14): ~~close by proving s/(2m₁m₂) = cosh λ_m + cosh η from the
+   book's kinematics instead of importing it.~~ **ATTEMPTED 2026-09-26
+   — NOT CLOSED.** 14.II.P1 (p₁·p₂ = m₁m₂cosh η,
+   s = m₁²+m₂²+2m₁m₂cosh η) is labeled "Physics Import — standard
+   two-particle relativity" by the book itself; the book's own 14.0
+   boundary says it "inherits ... standard two-body kinematics." Deriving
+   it inside the campaign would require building special-relativistic
+   kinematics (Lorentz-invariant 4-momentum products) from the
+   campaign's premises — out of proportion for a trigonometric campaign.
+   Exact gap: the import itself; the algebraic consequence
+   s/(2m₁m₂) = cosh λ_m + cosh η (with cosh λ_m := (m₁²+m₂²)/(2m₁m₂))
+   is exact given the import and is already shown in P51's proof.
+5. **Book 3, C28** (reciprocal compatibility surface): ~~the book file
    labels it CHECKED, the register PROVED-modulo-I3; independent
    re-derivation confirms the analytic substitution is complete, so it
    is PROVED-conditional here. The label conflict is disclosed, not
-   hidden. It was not folded (algebraic, not trig).
-6. **Book 7, 7.1.T2 off-chart branches:** CHECKED numerically; analytic
-   proof INCOMPLETE (stated gap). Does not affect P40 (principal chart).
+   hidden. It was not folded (algebraic, not trig).~~ **CLOSED
+   2026-09-26.** Independent re-derivation completed and verified:
+   C16's inverse u = (1−σ²)/(2σ) (verified) turns C27's
+   u_{XY}u_{YZ}u_{ZX} = 1 (verified from the declared atlas I3) into
+   (1−a²)(1−b²)(1−c²)/(8abc) = 1 with a,b,c > 0 — exact algebra.
+   Upgraded to PROVED-conditional (declared RP²-atlas import I3) in
+   book3_claims.md (C28 row, register row 25, counts 35/7/15/0);
+   STATUS.md Book 3 row and totals updated. The B44 numeric run stands
+   as cited corroboration.
+6. **Book 7, 7.1.T2 off-chart branches:** ~~CHECKED numerically; analytic
+   proof INCOMPLETE (stated gap). Does not affect P40 (principal chart).~~
+   **CLOSED 2026-09-26** — same as item 2 above.
 
 ## Corrections applied during this rebuild
 
@@ -153,8 +202,65 @@ file.
 
 ## Books 21–22
 
-**Not started.** The campaign stops at Book 20 by explicit directive.
-No claim files, no principles, no evaluation exists for Books 21–22.
+**Evaluated 2026-09-26.** The campaign stop before Books 21–22 was lifted
+by Kit's directive on 2026-09-26. Both books were evaluated claim by
+claim from their rewrite pages (no `book21_proof.md` / `book22_proof.md`
+exist; the earlier campaign covered Books 0–20 only). Neither book
+invokes any proposition of Euclid's *Elements* as a premise, so no
+ledger verification was required. **No new principles were folded** —
+the register stands at P0–P61.
+
+| Book | Evaluated | PROVED | CHECKED | ASSERTED | INCOMPLETE | New principles |
+|---|---|---|---|---|---|---|
+| 21 | 13 | 6 | 2 | 5 | 0 | — (0) |
+| 22 | 10 | 7 | 0 | 3 | 0 | — (0) |
+
+**Why nothing folded.** Book 21: the two-fermion invariant's R-form is
+P30's Möbius map Q₊ in the q variable, and R(q)+R(q)⁻¹ = 2cosh λ is a
+two-line corollary of P49 — so s = 2m₁m₂(cosh λ_m + cosh η) is P51's
+premise form; u = tan(θ/2) is P19's Weierstrass form; u_pair = sxp(x)
+is P17's half-angle tangent under the asserted imports. The rest is Lie
+algebra, representation theory, analysis, empirics, imports, and
+negatives. Book 22: the exact content is differential/symplectic
+geometry of the (F,G) phase plane (Prüfer pair, the primitive symplectic
+atlas) and conditional reconstructions of imported physics; no identity
+about trigonometric functions, angles, or circular/hyperbolic measure
+was found.
+
+**New ASSERTED items and what would close them:**
+
+1. Book 21's QCD import (quarks in 3, antiquarks in 3̄, gluons in 8,
+   su(3) connection, V₃↔color-carrier contract) — closes only by
+   deriving QCD from the campaign's own premises. **SKIPPED 2026-09-26:**
+   deriving SU(3) gauge theory inside a trigonometric campaign is out of
+   proportion; the import is standard physics, not trigonometry.
+2. Book 21's Coulomb + radial Dirac–Coulomb imports (point-Coulomb
+   Dirac equation, circular-state spinor-ratio theorem) — close by
+   proving the imported theorems inside the campaign. **SKIPPED
+   2026-09-26:** proving the Dirac–Coulomb spinor-ratio theorem from the
+   campaign's premises is out of proportion for a trigonometric campaign.
+3. Book 21's E8(−24) higher-carrier audit — ledger-cited, not proved in
+   the text; closes by rerunning the project's Verification Ledger and
+   its code. **SKIPPED 2026-09-26:** rerunning the Verification Ledger is
+   a separate computational campaign, not a trigonometric proof.
+4. Book 22's imported machinery (radial Dirac dynamics, first-order
+   Einstein–Hilbert action, Maxwell, Kerr geometry, Einstein–Cartan)
+   and the declared contracts C6a/C6b — close by deriving them inside
+   the campaign. **SKIPPED 2026-09-26:** deriving general relativity,
+   electrodynamics, and spin-torsion gravity from trigonometric premises
+   is out of proportion for this campaign.
+5. Book 22's Kerr/Kerr–Newman half-angle identities: the explicit
+   formula is not stated on the rewrite page, so no identity could be
+   verified or folded — closes by supplying the formula from the source
+   T6 essay-book or the Kerr-geometry derivation. **ATTEMPTED 2026-09-26
+   — NOT CLOSED.** Searched the workspace (book22 rewrite page §6, the
+   symbol dictionary, staging notes, book14 page): every occurrence
+   states the claim in words only ("the horizon radii satisfy exact
+   half-angle identities in the book's coordinates") — no explicit
+   formula exists anywhere in the workspace, and the source T6
+   essay-book is not present. Exact gap: the formula itself.
+
+**New INCOMPLETE items:** none.
 
 ## Euclid ledger impact
 
