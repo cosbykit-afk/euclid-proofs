@@ -86,7 +86,7 @@ claim/assumption/import/convention/status declaration), INCOMPLETE
 | C39 | the fixed minus sign in sgn J_{XY} = −ε_{XY} is a coboundary-level chart-order convention | ASSERTED (page CP; overlap computation not re-derived) | no | — |
 | C41 | spin criterion (w₁ = w₂ = 0), w₂ stability under ⊕1, H*(RP^n;ℤ₂) ≅ ℤ₂[a_n]/(a_n^{n+1}) | ASSERTED (SI import I5) | no | — |
 | C44 | explicit stable Clifford-lift audit with the corrected sign cocycle | ASSERTED (page CP; computation not reproduced here) | no | — |
-| C45 | quaternion model Spin(3) ≅ S³; covering map Φ(q)(v) = qv q̄; covering-space theory | ASSERTED (SI import I6) | no | — |
+| C45 | quaternion model Spin(3) ≅ S³; covering map Φ(q)(v) = qv q̄; covering-space theory | PROVED (2026-09-26 final exam, Exam Proof E3) | no | SI import I6 now derived: Φ: S³ → SO(3) is a surjective homomorphism with kernel {±1} (complete proof in cumulative_trig_proof.md Appendix X); the only admitted input is that S³ is simply connected |
 | C51 | nonselection theorem: none of the nine structures (i)–(ix) selects a preferred lift sign or physical chirality | ASSERTED (page CP; component arguments proved, but the global negative claim rests on bookkeeping + the un-re-derived Book 0 naturality obstruction) | no | honestly kept at ASSERTED, not upgraded |
 | C52 | four necessary conditions for any future chirality mechanism (NC1–NC4) | ASSERTED (forward-looking, page MA) | no | — |
 | C53 | twelve definitions frozen (3.XII) | ASSERTED (definitions) | no | — |
@@ -452,10 +452,11 @@ B44 numeric run stands as cited corroboration, not the proof.
   re-derivation; the B44 run stands as corroboration.)
 - Recount audit: PROVED — C1, C2, C3, C4, C5, C6, C8, C12, C13, C14, C15,
   C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C27, C28, C33, C35,
-  C37, C38, C40, C42, C43, C48, C49, C50, C54, C57 + zero-counts row = 35.
+  C37, C38, C40, C42, C43, C48, C49, C50, C54, C57 + zero-counts row = 35,
+  plus C45 (2026-09-26 final exam, Exam Proof E3) = 36.
   CHECKED — C9, C10, C31, C32, C34, C46, C47 = 7.
-  ASSERTED — C7, C11, C26, C29, C30, C36, C39, C41, C44, C45, C51, C52,
-  C53, C55, C56 = 15. Total 57 + 1 = 58. INCOMPLETE: none — no timeouts,
+  ASSERTED — C7, C11, C26, C29, C30, C36, C39, C41, C44, C51, C52,
+  C53, C55, C56 = 14. Total 57 + 1 = 58. INCOMPLETE: none — no timeouts,
   no failures, nothing unfinished.
 - Candidate principles reported: **25** (18 PROVED, 3 PROVED-conditional,
   4 CHECKED). 24 already registered as rows 28–51 (Book 3); 1 (C22)

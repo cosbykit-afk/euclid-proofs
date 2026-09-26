@@ -10,9 +10,9 @@ Exactly one label per claim (PROVED / CHECKED / ASSERTED / INCOMPLETE).
 | Book | Evaluated | PROVED | CHECKED | ASSERTED | INCOMPLETE | New principles |
 |---|---|---|---|---|---|---|
 | 0 | 53 | 43 | 0 | 10 | 0 | P1–P16 (16) |
-| 1 | 51 | 45 | 1 | 5 | 0 | P17–P18 (2) |
+| 1 | 51 | 46 | 1 | 4 | 0 | P17–P18 (2) |
 | 2 | 97 | 74 | 12 | 11 | 0 | P19–P24 (6) |
-| 3 | 57 | 35 | 7 | 15 | 0 | P25–P34 (10) |
+| 3 | 57 | 36 | 7 | 14 | 0 | P25–P34 (10) |
 | 4 | 59 | 22 | 2 | 15 | 19 | P35–P36 (2) |
 | 5 | 11 | 8 | 0 | 3 | 0 | — (0) |
 | 6 | 27 | 22 | 2 | 1 | 0 | P37–P38 (2) |
@@ -29,14 +29,18 @@ Exactly one label per claim (PROVED / CHECKED / ASSERTED / INCOMPLETE).
 | 17 | 39 | 21 | 4 | 7 | 7 | P59–P61 (3) |
 | 18 | 20 | 14 | 5 | 1 | 0 | — (0) |
 | 19 | 26 | 9 | 6 | 11 | 0 | — (0) |
-| 20 | 28 | 17 | 0 | 11 | 0 | — (0) |
+| 20 | 28 | 18 | 0 | 10 | 0 | — (0) |
 | 21 | 13 | 6 | 2 | 5 | 0 | — (0) |
 | 22 | 10 | 7 | 0 | 3 | 0 | — (0) |
 
-**Category totals:** PROVED 504 · CHECKED 72 · ASSERTED 188 · INCOMPLETE 32.
+**Category totals:** PROVED 507 · CHECKED 72 · ASSERTED 185 · INCOMPLETE 32.
 (2026-09-26 prove-what-we-can pass: +2 PROVED from Book 3 C28 and Book 7
 7.1.T2 off-chart; −1 CHECKED (C28), −1 INCOMPLETE (7.1.T2). P33/P34/P44
 upgrades change scope labels within PROVED, not counts.)
+(2026-09-26 final exam of all 188 ASSERTED items: +3 PROVED — Book 1 T34
+(Exam Proof E1), Book 3 C45 quaternion double cover (Exam Proof E3),
+Book 20 B0 one-generator reduction (Exam Proof E2); ASSERTED 188 → 185.
+Exam ledger: `FINAL_EXAM.md`.)
 
 **Principles:** P0 (seed) + P1–P61 = **62 principles**, all with complete
 proofs in `cumulative_trig_proof.md`. 2 remain PROVED-conditional on a

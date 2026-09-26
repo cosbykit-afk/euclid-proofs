@@ -35,7 +35,7 @@ CHECKED (completed computation), ASSERTED (manuscript claim, assumption,
 import, convention, or status declaration — not proved or computed),
 INCOMPLETE (failed, timed out, or unfinished — none here).
 
-## PROVED claims (45)
+## PROVED claims (46)
 
 | Claim | Restatement | Verdict | Scope | Folded in? | Notes |
 |---|---|---|---|---|---|
@@ -86,11 +86,11 @@ INCOMPLETE (failed, timed out, or unfinished — none here).
 | T45 | pre-naming sufficiency / airlock (factors possess all properties before Book 2 naming) | proof verified by reading (follows from T21–T22; manuscript page tag P) | PROVED | no — meta (closure) | in-text |
 | T46 | analytic seam ≠ physical discontinuity | proof verified by reading (scope declaration; manuscript page tag P) | PROVED | no — non-scope declaration | in-text |
 
-## ASSERTED claims (5)
+## ASSERTED claims (4)
 
 | Claim | Restatement | Scope | Folded in? | Notes |
 |---|---|---|---|---|
-| T34 | uniqueness of continuous extension on dense sets | ASSERTED (imported standard analysis theorem; used as stated, not proved here) | no | the source file labels this PROVED, but by its own description ("imported, not proved here") it is an import — reclassified honestly |
+| T34 | uniqueness of continuous extension on dense sets | PROVED (2026-09-26 final exam, Exam Proof E1) | no | the source file labels this PROVED, but by its own description ("imported, not proved here") it was an import — reclassified honestly, then proved in the final exam: if X is topological, Y Hausdorff, D dense, f,g continuous with f|_D = g|_D, then {x : f(x)=g(x)} = (f,g)^{-1}(Δ_Y) is closed and contains D, hence is X |
 | A1 | the standard import block S: trig periodicity, csc²−cot² = 1, sec²−tan² = 1, half-angle/addition identities, cot(π/8) = √2+1, limit calculus, uniqueness of continuous extension, circle topology, ordinary arithmetic/order reasoning | ASSERTED (declared standard import; used, never derived in the book) | no | every PROVED claim above is conditional on this block |
 | A2 | no-smuggling rules R1–R5 (declared stipulations) | ASSERTED (stipulation) | no | T41 cases 6–8 rest on these |
 | A3 | Declaration 1.I.D1 (Book 0 corpus freeze) | ASSERTED (declared stipulation) | no | — |
@@ -208,14 +208,14 @@ Grouped by category:
   Count: 5.
 - **Definitional / meta / methodological (no trig content):** T4a, T4b, T12,
   T22, T35, T38–T46. Count: 14.
-- **ASSERTED, not proved:** T34 (imported extension-uniqueness theorem),
-  A1–A4. Count: 5.
+- **ASSERTED, not proved:** A1–A4 (stipulations/declarations). Count: 4.
+  (T34 proved in the 2026-09-26 final exam, Exam Proof E1.)
 - **CHECKED, not a new theorem:** C1 (numerical check of proved T15–T18,
   T23–T30). Count: 1.
 
 ## Counts
 
-- Evaluated: **51** (45 PROVED, 1 CHECKED, 5 ASSERTED, 0 INCOMPLETE)
+- Evaluated: **51** (46 PROVED, 1 CHECKED, 4 ASSERTED, 0 INCOMPLETE)
 - Candidate trig principles: **5** (T15, T16, T18, T23, T26), all PROVED
   (conditional on the declared standard import S; no Euclid cited)
 - Not folded: **46** — 5 asserted, 1 numerical check, 40 evaluated with no

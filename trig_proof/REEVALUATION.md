@@ -268,3 +268,29 @@ The only *Elements* propositions entering as logical premises are
 Euclid 4.15, 1.5, 1.12, 1.26, 1.32, 1.47 (all in P35–P36, verified in
 the ledgers). The campaign's standing boundary is unchanged: R Theory is
 not proved a deductive extension of all of the *Elements*.
+
+## Final exam (2026-09-26) — all 188 ASSERTED items adjudicated
+
+Ledger: `FINAL_EXAM.md`. Verdicts: **PROVED 3** · **PERMANENT 179** ·
+**NEEDS-INPUT 4** · **NEEDS-DERIVATION 2** (3 + 179 + 4 + 2 = 188 ✓).
+
+- **PROVED 3:** Book 1 T34 (Exam Proof E1 — uniqueness of continuous
+  extension, completing the correction noted above); Book 3 C45 (Exam
+  Proof E3 — the quaternion double cover S³ → SO(3), so SI import I6 is
+  now derived, not imported); Book 20 B0 (Exam Proof E2 — the one-generator
+  reduction, satisfying the pending premise). STATUS.md: PROVED 504 → 507,
+  ASSERTED 188 → 185.
+- **PERMANENT 179:** correctly remain ASSERTED by design (declared
+  premises, imports, conventions, audit verdicts, scope declarations,
+  open-gate records). Not failures.
+- **NEEDS-INPUT 4** (Kit's actionable items): 17.A6 (**S_F**, **the 1820
+  projector**, **downstream contraction inputs**); 17.A7 (**the physical
+  role of 638.78** in the Clifford contraction); 19.T10b (**FLAG-A1's
+  per-contact 1/4**); 19.T19 (**S_F**, **N_1820**, **ζ_parent**, **η_{−4}**,
+  **c_ord**, **K_parent**, **P_54** where still open in source scope,
+  **role of 638.78**, **C3/C4 forcing**).
+- **NEEDS-DERIVATION 2** (OUT-OF-PROPORTION, carried gaps): 12.A2 and
+  14.4 — both are the same missing block: two-body special-relativistic
+  kinematics derived from campaign premises (the 2026-09-26 carried gap;
+  P51/P52 territory). Out of proportion: no identity in either book depends
+  on the closed form.

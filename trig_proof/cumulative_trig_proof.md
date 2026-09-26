@@ -1666,3 +1666,152 @@ P30, P49, P51) or is non-trig; see the Book 21 and Book 22 chapters.
 2026-09-22; extended with Books 21–22 on 2026-09-26). Claim-by-claim
 tables: book0_claims.md through book22_claims.md. Status: STATUS.md.
 Reevaluation: REEVALUATION.md.*
+
+---
+
+## Appendix X — Final-exam proofs (2026-09-26)
+
+*The three upgrades produced by the final exam of all 188 ASSERTED items
+(FINAL_EXAM.md). None of the three is a trigonometric identity, lemma, or
+exact relation about trigonometric functions, angles, or circular measure,
+so none becomes a numbered principle P62+; they are recorded here as
+proved import-derivations and premise satisfactions, in full.*
+
+### Exam Proof E1 — uniqueness of continuous extension (Book 1, T34)
+
+**Theorem.** Let X be a topological space, Y a Hausdorff space, D ⊆ X dense,
+and f, g: X → Y continuous with f(d) = g(d) for all d ∈ D. Then f = g on X.
+
+**Proof.** Let E = {x ∈ X : f(x) = g(x)}. Since Y is Hausdorff, the diagonal
+Δ_Y = {(y, y) : y ∈ Y} is closed in Y × Y. The map h = (f, g): X → Y × Y,
+x ↦ (f(x), g(x)), is continuous, so E = h⁻¹(Δ_Y) is closed in X. D ⊆ E and D
+is dense, so X = cl(D) ⊆ cl(E) = E. Hence E = X, i.e. f(x) = g(x) for all
+x ∈ X. ∎
+
+*(The Hausdorff hypothesis is satisfied in every use in the campaign,
+where the target is ℝ or ℂ.)*
+
+### Exam Proof E2 — the one-generator reduction (satisfies Book 20, B0)
+
+**Theorem.** On D, every Book-0 primitive (srx, sxp, cxp, crx) and every
+quantity rationally built from them (urx, uxp, H, V, λ, saw_r, saw_x, Ω, χ)
+is a rational function of the single generator z = srx; moreover d/dx maps
+ℝ(z) to itself.
+
+**Proof.** srx = z by definition. By P1, sxp = 1/z. By P4, on each open
+quadrant with ε = sgn(z−1), cxp = (z+ε)/(εz−1) and crx = (εz−1)/(z+ε), both
+in ℝ(z). Hence all four primitives lie in ℝ(z). The derived quantities urx,
+uxp are sums and differences of primitives; H = sin(2x)/4, V = cos(2x)/2
+are rational in the primitives (P0, P9); λ, saw_r, saw_x, Ω, χ are rational
+functions of H, V, λ (P11–P14). All are obtained by rational operations, so
+all lie in ℝ(z). By P5, z′ = −(1+z²)/2 ∈ ℝ(z); for R ∈ ℝ(z),
+dR/dx = R′(z)·z′ ∈ ℝ(z), where R′ is the formal rational derivative. ∎
+
+*Book 20's B0 premise ("Book 0 primitive calculus and one-generator
+reduction") is therefore satisfied: the primitive calculus is P1–P16, all
+PROVED, and the one-generator reduction is the theorem above.*
+
+### Exam Proof E3 — the quaternion double cover (Book 3, C45; SI import I6 derived)
+
+**Admitted.** ℍ = span_ℝ{1, i, j, k} with i² = j² = k² = ijk = −1. From
+ijk = −1: right-multiplying by k gives ij = k; left-multiplying by i gives
+jk = i; and with these, ik = −j, kj = −i, ji = −k, ki = j. In summary:
+i² = j² = k² = −1, ij = k, ji = −k, jk = i, kj = −i, ki = j, ik = −j;
+distinct elements of {i, j, k} anticommute. Multiplication is extended
+bilinearly. Conjugate: q̄ = a − bi − cj − dk for q = a + bi + cj + dk;
+N(q) = qq̄ (shown below to be a nonnegative real). S³ = {q : N(q) = 1},
+V = {bi + cj + dk} ≅ ℝ³.
+
+**Lemma 0.** For pure imaginary u = Σuᵢeᵢ, w = Σwⱼeⱼ (e₁ = i, e₂ = j, e₃ = k):
+uw = −(u·w) + (u×w), since e₁e₂ = e₃, e₂e₃ = e₁, e₃e₁ = e₂ cyclically and
+the reverse products change sign. Consequences: u² = −‖u‖²; if u ⊥ w then
+uw = u×w ∈ V.
+
+**1. Associativity and multiplicativity of the norm.** Both (pq)r and p(qr)
+are trilinear in (p, q, r), so with p = Σ pₐeₐ, q = Σ q_b e_b, r = Σ r_c e_c,
+equality follows termwise from (eₐe_b)e_c = eₐ(e_b e_c) on basis triples.
+If any of a, b, c is 1 it is immediate. The 27 triples in {i, j, k}³:
+all-equal: (aa)a = −a = a(aa); a = b ≠ c: (aa)c = −c = a(ac)
+(e.g. i(ij) = ik = −j); b = c ≠ a: a(bb) = −a = (ab)b
+(e.g. (ij)j = kj = −i); a = c ≠ b: (ij)i = ki = j = i(ji);
+all distinct: even permutations (ij)k = −1 = i(jk), odd permutations
+(ik)j = 1 = i(kj), with cyclic shifts likewise. All 64 basis triples
+associate; by trilinearity (pq)r = p(qr) for all p, q, r ∈ ℍ.
+
+qq̄ = (a+bi+cj+dk)(a−bi−cj−dk): diagonal terms give a² + b² + c² + d²;
+cross terms cancel pairwise (a-terms trivially;
+(bi)(−cj)+(cj)(−bi) = −bc(ij) − bc(ji) = 0;
+(bi)(−dk)+(dk)(−bi) = −bd(ik) − bd(ki) = 0;
+(cj)(−dk)+(dk)(−cj) = −cd(jk) − cd(kj) = 0). Hence
+N(q) = qq̄ = a² + b² + c² + d² ∈ ℝ, ≥ 0.
+
+Conjugation is ℝ-linear. Claim: pq̄ = q̄p̄. Both sides are bilinear in
+(p, q); check basis pairs. If e = 1 or f = 1, trivial. For e, f ∈ {i,j,k}:
+if e = f, ef = −1 ∈ ℝ so pq̄ = −1 = f̄ē; if e ≠ f, ef = σg pure imaginary
+so pq̄ = −σg = −ef, while f̄ē = (−f)(−e) = fe = −ef by anticommutativity.
+Hence pq̄ = q̄p̄ for all p, q.
+
+N(pq) = (pq)(pq̄) = pq·q̄p̄ = p(qq̄)p̄ = p·N(q)·p̄ = N(q)·pp̄ = N(p)N(q),
+since N(q) ∈ ℝ commutes with everything. ∎
+
+**2. S³ is a group.** Closure: N(pq) = N(p)N(q) = 1. Identity: 1 ∈ S³.
+Inverses: for q ∈ S³, q̄ ∈ S³ (N(q̄) = N(q) = 1), qq̄ = 1, and
+q̄q = N(q̄) = 1 (applying xx̄ = N(x) to x = q̄). So q⁻¹ = q̄. ∎
+
+**3. The conjugation map.** For unit q and v ∈ V:
+(qvq̄)̄ = q̄̄v̄q̄ = q(−v)q̄ = −qvq̄ (using §1), so qvq̄ ∈ V (real part 0).
+N(qvq̄) = N(q)N(v)N(q̄) = N(v). Define Φ(q)(v) = qvq̄; it is ℝ-linear in v.
+The identification bi + cj + dk ↦ (b, c, d) is a linear isometry V → ℝ³;
+a linear map preserving the norm preserves the inner product by
+polarization, hence is orthogonal. So Φ(q) ∈ O(3). ∎
+
+**4. Φ is a homomorphism.** Φ(pq)(v) = (pq)v(pq̄) = pqv·q̄p̄ = p(qvq̄)p̄
+= Φ(p)(Φ(q)(v)), using (pq)̄ = q̄p̄ and associativity. ∎
+
+**5. The image lies in SO(3).** S³ is path-connected: for q = a + w′ ∈ S³
+with w′ ≠ 0, put θ = arccos a ∈ (0, π), w = w′/‖w′‖ (unit pure imaginary);
+q(t) = cos(tθ) + sin(tθ)·w, t ∈ [0, 1], has N(q(t)) = 1 (cross term
+cos·sin·(w + w̄) = 0) and joins 1 to q (sin θ = ‖w′‖). The cases q = ±1
+are joined by γ(t) = cos t + sin t·i, t ∈ [0, π]. The entries of Φ(q) are
+quadratic polynomials in (a, b, c, d), hence continuous; det is continuous.
+So det∘Φ: S³ → {±1} is continuous with discrete image on a path-connected
+domain, hence constant; det Φ(1) = 1. Therefore det Φ(q) = 1 for all q,
+and im Φ ⊆ SO(3). ∎
+
+**6. Kernel = {±1}.** If Φ(q) = id_V then qv = vq for all v ∈ V
+(right-multiply qvq̄ = v by q). Write q = a + w, w ∈ V; then wv = vw for
+all v ∈ V. With w = bi + cj + dk and v = i:
+wi = −b − ck + dj, iw = −b + ck − dj; wi = iw gives c = d = 0. Then w = bi
+and with v = j: wj = bk, jw = −bk, giving b = 0. Hence w = 0, q = a ∈ ℝ,
+N(q) = a² = 1, q = ±1. Conversely Φ(±1) = id. ∎
+
+**7. Surjectivity onto SO(3).** (a) Every A ∈ SO(3) has eigenvalue +1: its
+characteristic polynomial has degree 3 over ℝ, hence a real root λ; from
+‖Av‖ = ‖v‖, |λ| = 1, so a real eigenvalue is ±1. If the real root is −1,
+det A = 1 forces the other two eigenvalues λ₂, λ₃ to satisfy λ₂λ₃ = −1;
+they cannot be a conjugate pair (product would be |μ|² = 1), so both are
+real, each ±1, and one is +1. (b) With unit eigenvector n, An = n, A
+preserves n⊥; in an orthonormal basis {n, m, p} the matrix is block-diag
+(1, B) with B ∈ O(2), det B = 1, so B is a rotation through some angle θ:
+Am = cos θ·m + sin θ·p, Ap = −sin θ·m + cos θ·p, with p = n×m.
+(c) For q = cos(θ/2) + sin(θ/2)·n (unit, since n² = −1): decompose
+v = v∥ + v⊥ relative to n. v∥ = αn commutes with q, so qv∥q̄ = v∥.
+For v⊥ ⊥ n: nv⊥ = n×v⊥ (Lemma 0), and
+qv⊥q̄ = (cv⊥ + s(n×v⊥))(c − sn)
+      = c²v⊥ + sc(n×v⊥) − cs(v⊥n) − s²((n×v⊥)n)
+with c = cos(θ/2), s = sin(θ/2). Now v⊥n = −(n×v⊥) and
+(n×v⊥)n = (n×v⊥)×n = −n×(n×v⊥) = v⊥ (triple-product formula), so
+qv⊥q̄ = (c²−s²)v⊥ + 2sc(n×v⊥) = cos θ·v⊥ + sin θ·(n×v⊥).
+Hence Φ(q)n = n, Φ(q)m = cos θ·m + sin θ·p,
+Φ(q)p = cos θ·p + sin θ·(n×p) = cos θ·p − sin θ·m
+(since n×p = n×(n×m) = −m). Φ(q) agrees with A on {n, m, p}, so
+Φ(q) = A. Every A ∈ SO(3) is hit. ∎
+
+**8. Conclusion.** Φ: S³ → SO(3), Φ(q)(v) = qvq̄, is a surjective group
+homomorphism with ker Φ = {±1}; each fiber has exactly two points
+(Φ(p) = Φ(q) ⇔ p = ±q): a double cover. *Admitted topological input (the
+only one):* the 3-sphere S³ is simply connected, so with discrete two-point
+fibers Φ is the universal covering map of SO(3). That is, S³ with Φ is the
+universal double cover of SO(3) — Spin(3) ≅ S³ via Φ. ∎
+
+*The SI import I6 (Book 3, C45) is therefore derived, not imported.*

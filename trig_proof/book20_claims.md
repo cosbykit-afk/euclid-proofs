@@ -29,7 +29,7 @@ substrate: SR kinematics, Dirac theory, Bloch geometry, SM weak sector,
 Coulomb/Dirac–Coulomb analysis, classical EM). The contact with Euclid is
 stylistic only. No ledger citation is claimed.
 
-## PROVED claims (17 distinct)
+## PROVED claims (18 distinct)
 
 | Claim | Restatement | Verdict / scope | Reason / proof sketch |
 |---|---|---|---|
@@ -56,7 +56,7 @@ Supporting lemma used above (proved in §C, verified here):
 
 - **L1 (half-angle rational identities, PROVED).** For t = tan(x/2) (x ≠ π mod 2π): `sin x = 2t/(1+t²)` and `tan(x/2) = sin x/(1+cos x)`. Proof re-derived: sin x = 2 sin(x/2)cos(x/2) = 2t cos²(x/2) = 2t/(1+t²) via cos²(x/2) = 1/(1+tan²(x/2)); and sin x/(1+cos x) = 2 sin(x/2)cos(x/2)/(2cos²(x/2)) = tan(x/2) via 1+cos x = 2cos²(x/2). Exact; no Euclid used.
 
-## ASSERTED claims (11)
+## ASSERTED claims (10)
 
 | Claim | Restatement | Scope | Notes |
 |---|---|---|---|
@@ -74,13 +74,13 @@ Supporting lemma used above (proved in §C, verified here):
 | §5 verdict — 20.5 no-invariant | No Projection-specific invariant survives the nine witnesses | ASSERTED (book's audit conclusion) | Terminal verdict of the redundancy analysis; the correspondence identities are proved but the stripping verdicts are retained. |
 | 15 — 20.6.A2 | Bare-carrier embedding, Projection-only chirality selection, scalar-only local duality dynamics land Class B | ASSERTED (status declarations) | Correctly scoped book declarations; retained. |
 | — no-Class-C | No fully specified Class-C model exists in Book 20's inventory | ASSERTED (book's audit verdict) | Used in C0 closure. |
-| B0 | Book 0 primitive calculus and one-generator reduction (rewrite Book 0) | ASSERTED premise | `book0_proof.md` was not on disk when the book was written; enters as an explicitly named pending premise. |
+| B0 | Book 0 primitive calculus and one-generator reduction (rewrite Book 0) | PROVED (2026-09-26 final exam, Exam Proof E2) | `book0_proof.md` is on disk and its primitive calculus is P1–P16 (all PROVED); the one-generator reduction is proved in cumulative_trig_proof.md Appendix X (every primitive is a rational function of z = srx by P1/P4; d/dx preserves ℝ(z) by P5). The pending premise is satisfied. |
 
 (Count convention per the book: the W-stripping assessments fold into the
-§5 no-invariant verdict; the distinct ASSERTED items are 11: N1, §3
+§5 no-invariant verdict; the distinct ASSERTED items are now 10: N1, §3
 orientation obstruction, N3, bare-carrier Class B, W3 repair, W4
 conclusion, W8 ST, §5 no-invariant verdict, A2 declarations, no-Class-C
-declaration, B0 pending premise.)
+declaration. B0 was the 11th and is PROVED as of the 2026-09-26 final exam.)
 
 ## CHECKED claims (0)
 
@@ -175,9 +175,10 @@ Nothing timed out or failed; all gaps are named ASSERTED premises.
 
 ## Counts
 
-- Evaluated: **17 distinct PROVED claims** (18 inventory slots; N2's proof
-  serves both §2 N2 and the W3-carrier identity, counted once), **0
-  CHECKED**, **11 ASSERTED**, **0 INCOMPLETE**.
+- Evaluated: **18 distinct PROVED claims** (19 inventory slots; N2's proof
+  serves both §2 N2 and the W3-carrier identity, counted once; B0 added as
+  a proved premise 2026-09-26), **0
+  CHECKED**, **10 ASSERTED**, **0 INCOMPLETE**.
 - Candidate trigonometric principles: **3** (P-T1 half-angle rational
   identities, P-T2 rapidity–velocity hyperbolic identity, P-T3 1:3
   counter-rotating phasor decomposition), all PROVED, none citing Euclid.
