@@ -403,6 +403,6 @@ once in the ledger above.
 - Category totals: **PROVED 507 · CHECKED 72 · ASSERTED 185 · INCOMPLETE 32**
   (507 + 72 + 185 + 32 = 796, unchanged evaluated total).
 - Per-book ASSERTED column now reads: 10, 4, 11, 14, 15, 3, 1, 7, 17, 8, 7,
-  7, 13, 12, 8, 8, 3, 7, 1, 10, 11, 4, 3 (Books 0–22), summing to 185.
+  7, 13, 12, 8, 8, 3, 7, 1, 11, 10, 5, 3 (Books 0–22), summing to 185.
 
 *End of final exam, 2026-09-26.*
