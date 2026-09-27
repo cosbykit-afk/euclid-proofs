@@ -64,7 +64,7 @@ There is nothing to prove from exponential definitions.
 
 | Claim | Restatement | Scope | Principle? | Notes |
 |---|---|---|---|---|
-| A-7.1 | Book 2 transfer data import: principal-chart `λ=(1+sin x−cos x)/2`, `saw_r=ελ`, `saw_x=ε(1−λ)`, `saw_r+saw_x=ε=sgn(sin2x)`, `p=1−2λ` | ASSERTED (upstream import) | no | The page's audit notes a dependency-labeling defect on the "certified" λ in the Volume I Book 2 ledger and marks the transfer sections read-but-not-independently-checked; numerically grounded at 3.3e-16 per the page (cited, not re-run). Conditions 7.1.T1 and 7.1.C1. |
+| A-7.1 | Book 2 transfer data import: principal-chart `λ=(1+sin x−cos x)/2`, `saw_r=ελ`, `saw_x=ε(1−λ)`, `saw_r+saw_x=ε=sgn(sin2x)`, `p=1−2λ` | ASSERTED (upstream import) | no | The page's audit notes a dependency-labeling defect on the "certified" λ in the Volume I Book 2 ledger and marks the transfer sections read-but-not-independently-checked; numerically grounded at 3.3e-16 per the page (cited, not re-run). Conditions 7.1.T1 and 7.1.C1. Chart note (WA session 2026-09-26-1740, NC only): with the raw principal-chart λ, `\|saw_r\|+\|saw_x\| ≈ 1.32544 ≠ 1` and `ελ(1−λ) ≈ +0.1892 ≠ sin(2x)/4 ≈ −0.1892` at off-chart x=2.0; on-chart control x=1.0 gives {1, 0.227324, 0.227324}, fully consistent. Whether the saw framework's λ is chart-local (per-chart sawtooth in [0,1]) or the unqualified saw identities need the principal-chart qualifier is OPEN — Kit's call, not WA's. |
 | A-7.3 | Declared two-form `ω = dP∧dV` enabling the formal Hamiltonian | ASSERTED (explicit declaration) | no | Part of the result by declaration, not smuggled in. Conditions 7.3.T3. |
 | A-7.4.E1 | Conserved-level extension hypothesis: study the parent ODE on a larger initial-data space with `K = Σ²−Δ²` as a level | ASSERTED (extension hypothesis) | no | Explicitly labeled a lawful extension, not an inherited theorem. |
 | 7.4.E1 | Conserved-level deformation + elliptic/parabolic/hyperbolic classification by sgn(K) | ASSERTED as extension | no | The classification mathematics is exact **conditional on the extension hypothesis**; the certified carrier fixes K=16. Not proved as a theorem of the carrier. |
@@ -93,8 +93,8 @@ sin2x`. *Scope:* PROVED. *Source:* Lemma 7.2; 7.4.CL2 (corrected). *Euclid:* non
 in P1 and `ε = sgn(sin2x) = +1`: `cos2x = ε(1−2λ)√(1+4λ(1−λ))`. *Proof:* Square the
 RHS and use P1: `RHS² = (cos x−sin x)²(1+sin2x) = (1−sin2x)(1+sin2x) = cos²2x`;
 `sgn(RHS) = sgn(cos x−sin x) = sgn(cos2x)` since `cos2x = (cos x−sin x)(cos x+sin x)`
-with `cos x+sin x > 0` on (0,π/2) (zero case x=π/4 gives 0=0). *Scope:* PROVED on
-the principal chart (off-chart: CHECKED numerically only). *Source:* 7.1.T2.
+with `cos x+sin x > 0` on (0,π/2) (zero case x=π/4 gives 0=0). *Scope:* PROVED on all charts (analytic branch proof 2026-09-26;
+T2_EPS_OFFCHART_PROOF.md). *Source:* 7.1.T2.
 *Euclid:* none.
 
 **P3 — Reciprocal-sum / seed in channel notation.** *Statement:* On D

@@ -21,9 +21,9 @@ Exactly one label per claim (PROVED / CHECKED / ASSERTED / INCOMPLETE).
 | 9 | 23 | 14 | 2 | 8 | 0 | — (0) |
 | 10 | 14 | 3 | 4 | 7 | 0 | P43–P44 (2) |
 | 11 | 30 | 13 | 6 | 7 | 4 | — (0) |
-| 12 | 28 | 13 | 2 | 13 | 0 | P45–P46 (2) |
+| 12 | 28 | 14 | 2 | 12 | 0 | P45–P46 (2) |
 | 13 | 44 | 28 | 3 | 12 | 1 | P47–P48 (2) |
-| 14 | 25 | 16 | 1 | 8 | 0 | P49–P55 (7) |
+| 14 | 25 | 17 | 1 | 7 | 0 | P49–P55 (7) |
 | 15 | 44 | 25 | 11 | 8 | 0 | P56–P57 (2) |
 | 16 | 34 | 29 | 1 | 3 | 1 | P58 (1) |
 | 17 | 39 | 21 | 4 | 7 | 7 | P59–P61 (3) |
@@ -33,7 +33,7 @@ Exactly one label per claim (PROVED / CHECKED / ASSERTED / INCOMPLETE).
 | 21 | 13 | 6 | 2 | 5 | 0 | — (0) |
 | 22 | 10 | 7 | 0 | 3 | 0 | — (0) |
 
-**Category totals:** PROVED 507 · CHECKED 72 · ASSERTED 185 · INCOMPLETE 32.
+**Category totals:** PROVED 509 · CHECKED 72 · ASSERTED 183 · INCOMPLETE 32.
 (2026-09-26 prove-what-we-can pass: +2 PROVED from Book 3 C28 and Book 7
 7.1.T2 off-chart; −1 CHECKED (C28), −1 INCOMPLETE (7.1.T2). P33/P34/P44
 upgrades change scope labels within PROVED, not counts.)
@@ -41,11 +41,14 @@ upgrades change scope labels within PROVED, not counts.)
 (Exam Proof E1), Book 3 C45 quaternion double cover (Exam Proof E3),
 Book 20 B0 one-generator reduction (Exam Proof E2); ASSERTED 188 → 185.
 Exam ledger: `FINAL_EXAM.md`.)
+(2026-09-26 post-exam, at Kit's direction: +2 PROVED — Books 12/14
+two-body SR kinematics 12.A2/14.4 (Exam Proof E4); ASSERTED 185 → 183.
+The NEEDS-DERIVATION gap is closed.)
 
 **Principles:** P0 (seed) + P1–P61 = **62 principles**, all with complete
-proofs in `cumulative_trig_proof.md`. 2 remain PROVED-conditional on a
-named asserted import (P51, P52 on 14.II.P1); P44 is PROVED conditional
-only on the admitted mass-shell premise E² − p²c⁴ = m²c⁴. (2026-09-26:
+proofs in `cumulative_trig_proof.md`. P44, P51, P52 are PROVED conditional
+only on the admitted mass-shell premise E² − p²c⁴ = m²c⁴ (P51/P52's former
+asserted import 14.II.P1 derived as Exam Proof E4, 2026-09-26). (2026-09-26:
 P33/P34 upgraded to PROVED without I6; P44's parametrization derived.)
 P40 is proved on all charts with the corrected sign factor
 σ = sgn(cos x + sin x) (2026-09-26; the stated ε = sgn(sin 2x) is

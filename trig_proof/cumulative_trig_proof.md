@@ -1237,8 +1237,9 @@ circular double-angle.)
 
 ### P51 — Two-cosh sum in half-angle parameters (from Book 14, 14.II.T1)
 
-**Statement.** Given the imported two-body relation
-s/(2m₁m₂) = cosh λ_m + cosh η (asserted import 14.II.P1): for
+**Statement.** Given the two-body relation
+s/(2m₁m₂) = cosh λ_m + cosh η (derived as Exam Proof E4, Appendix X; was
+asserted import 14.II.P1): for
 q_m = tanh(λ_m/2), q_v = tanh(η/2):
 s/(4m₁m₂) = (1 − q_m²q_v²)/((1 − q_m²)(1 − q_v²)).
 
@@ -1246,8 +1247,9 @@ s/(4m₁m₂) = (1 − q_m²q_v²)/((1 − q_m²)(1 − q_v²)).
 over 2(1−q_m²)(1−q_v²) the numerator is
 (1+q_m²)(1−q_v²) + (1+q_v²)(1−q_m²) = 2 − 2q_m²q_v². ∎
 
-**Scope:** PROVED-conditional (asserted import 14.II.P1). Citable only
-where granted.
+**Scope:** PROVED-conditional on the admitted mass-shell premise E²−p²c²=m²c⁴
+(the former asserted import 14.II.P1 is now derived — Exam Proof E4,
+Appendix X, 2026-09-26). Citable where the mass-shell premise is granted.
 
 ### P52 — Bound-state continuation form (from Book 14, 14.III.T1)
 
@@ -1259,7 +1261,8 @@ continuation of P51's premise); inserting P49 and the circular
 half-angle form cos θ = (1−u²)/(1+u²) (P19), the numerator over
 2(1−q_m²)(1+u²) is (1+q_m²)(1+u²) + (1−u²)(1−q_m²) = 2 + 2q_m²u². ∎
 
-**Scope:** PROVED-conditional (inherits P51's asserted import). The
+**Scope:** PROVED-conditional on the admitted mass-shell premise (inherits
+P51's condition via Exam Proof E4). The
 "bound state" reading is the book's assertion, kept out of the
 principle; the formula is exact.
 
@@ -1672,7 +1675,8 @@ Reevaluation: REEVALUATION.md.*
 ## Appendix X — Final-exam proofs (2026-09-26)
 
 *The three upgrades produced by the final exam of all 188 ASSERTED items
-(FINAL_EXAM.md). None of the three is a trigonometric identity, lemma, or
+(FINAL_EXAM.md). A fourth proof, E4 (two-body SR kinematics), was added
+post-exam 2026-09-26 at Kit's direction. None of the four is a trigonometric identity, lemma, or
 exact relation about trigonometric functions, angles, or circular measure,
 so none becomes a numbered principle P62+; they are recorded here as
 proved import-derivations and premise satisfactions, in full.*
@@ -1815,3 +1819,66 @@ fibers Φ is the universal covering map of SO(3). That is, S³ with Φ is the
 universal double cover of SO(3) — Spin(3) ≅ S³ via Φ. ∎
 
 *The SI import I6 (Book 3, C45) is therefore derived, not imported.*
+
+### Exam Proof E4 — two-body special-relativistic kinematics from campaign premises (Books 12/14: 12.A2, 14.4; discharges P51/P52's import)
+
+*Added post-exam 2026-09-26 at Kit's direction ("work on the incomplete").
+The 2026-09-26 exam attempt marked this OUT-OF-PROPORTION on the grounds
+that deriving it "would require building special-relativistic kinematics
+(Lorentz-invariant 4-momentum products) from the campaign's premises."
+The proof below shows the gap is elementary: no Lorentz group, no boosts,
+and no Lorentz-invariance argument are used. The Minkowski bilinear product
+is part of the admitted mass-shell premise's own content (polarization),
+and the cosh form follows from P44's bijection by a range argument.*
+
+**Admitted premise** (identical to P44's): the free-relativistic mass shell
+E² − |p_vec|²c² = m²c⁴ with m > 0, E > 0. Work in c = 1, the books'
+convention: p = (E, p_vec), p² = E² − |p_vec|² = m². The quadratic form
+Q(p) = E² − |p_vec|² determines its symmetric bilinear form by
+polarization, 4B(p₁,p₂) = Q(p₁+p₂) − Q(p₁−p₂), i.e.
+p₁·p₂ = E₁E₂ − p_vec₁·p_vec₂ — no additional import.
+
+**Lemma (3-momentum hyperbolic form).** For p with E² − |p_vec|² = m²,
+m > 0, E > 0: there exist a unique φ ≥ 0 and a unit vector n̂ with
+E = m cosh φ and p_vec = m sinh φ n̂.
+
+*Proof.* E/m ≥ 1. P44's addendum argument — cosh: [0,∞) → [1,∞) is
+continuous and strictly increasing (d/dφ cosh φ = sinh φ > 0 for φ > 0,
+M0), cosh 0 = 1, cosh φ → ∞ — gives a unique φ ≥ 0 with E = m cosh φ.
+Then |p_vec|² = E² − m² = m²sinh²φ, so |p_vec| = m sinh φ (sinh φ ≥ 0 on
+φ ≥ 0). If sinh φ > 0, n̂ = p_vec/|p_vec|; if φ = 0 then p_vec = 0. ∎
+
+**Theorem.** For two 4-momenta p₁, p₂ satisfying the mass shell:
+(a) p₁·p₂ = m₁m₂cosh η for a unique η ≥ 0;
+(b) s := (p₁+p₂)² = m₁² + m₂² + 2m₁m₂cosh η;
+(c) with λ_m ≥ 0 defined by cosh λ_m = (m₁²+m₂²)/(2m₁m₂):
+s = 2m₁m₂(cosh λ_m + cosh η).
+
+*Proof of (a).* By the Lemma, p_i = m_i(cosh φ_i, sinh φ_i n̂_i). Then
+p₁·p₂ = m₁m₂[cosh φ₁cosh φ₂ − sinh φ₁sinh φ₂(n̂₁·n̂₂)].
+Put c_θ = n̂₁·n̂₂ ∈ [−1,1] (Cauchy–Schwarz) and
+u = cosh φ₁cosh φ₂ − sinh φ₁sinh φ₂c_θ. Since sinh φ_i ≥ 0 and c_θ ≤ 1,
+u ≥ cosh φ₁cosh φ₂ − sinh φ₁sinh φ₂ = cosh(φ₁−φ₂) ≥ 1
+by the cosh addition formula (standard import S) and cosh ≥ 1. Thus
+u ∈ [1,∞), and P44's bijection gives a unique η ≥ 0 with u = cosh η.
+Hence p₁·p₂ = m₁m₂cosh η. ∎
+
+*Proof of (b).* s = p₁² + p₂² + 2p₁·p₂ = m₁² + m₂² + 2m₁m₂cosh η, using
+p_i² = m_i² (mass shell) and (a). ∎
+
+*Proof of (c).* (m₁²+m₂²)/(2m₁m₂) ≥ 1 by AM-GM ((m₁−m₂)² ≥ 0), so P44's
+bijection gives a unique λ_m ≥ 0 with cosh λ_m = (m₁²+m₂²)/(2m₁m₂).
+Then s = 2m₁m₂cosh λ_m + 2m₁m₂cosh η by (b). ∎
+
+**Scope:** PROVED, conditional only on the admitted mass-shell premise
+E² − p²c² = m²c⁴ — the same single condition as P44. Uses: P44's
+cosh-bijection argument, the Lemma above, the cosh addition formula
+(standard import S), |n̂₁·n̂₂| ≤ 1 (standard), AM-GM (standard).
+
+**Boundary (what is not claimed).** η is proved to exist as the unique
+nonnegative number with cosh η = (p₁·p₂)/(m₁m₂). Its identification as
+the *physical relative rapidity* — e.g. "in particle 1's rest frame,
+E₂ = m₂cosh η" — requires Lorentz boosts, which are not campaign premises
+and are not needed for the identities. The books use the algebraic
+identities (a)–(c); those are what is proved. The physical reading stays
+outside, exactly as the campaign's import/stipulation discipline requires.

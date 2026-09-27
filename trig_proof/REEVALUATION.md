@@ -140,19 +140,24 @@ and were not folded.
    admitted mass-shell premise — see P44 addendum in
    cumulative_trig_proof.md and the book10_claims.md C3 note. The Dirac
    theory itself stays a named import.
-4. **P51, P52** (PROVED-conditional on two-body import 14.II.P1,
+4. **P51, P52** (were PROVED-conditional on two-body import 14.II.P1,
    Book 14): ~~close by proving s/(2m₁m₂) = cosh λ_m + cosh η from the
-   book's kinematics instead of importing it.~~ **ATTEMPTED 2026-09-26
-   — NOT CLOSED.** 14.II.P1 (p₁·p₂ = m₁m₂cosh η,
-   s = m₁²+m₂²+2m₁m₂cosh η) is labeled "Physics Import — standard
-   two-particle relativity" by the book itself; the book's own 14.0
-   boundary says it "inherits ... standard two-body kinematics." Deriving
-   it inside the campaign would require building special-relativistic
-   kinematics (Lorentz-invariant 4-momentum products) from the
-   campaign's premises — out of proportion for a trigonometric campaign.
-   Exact gap: the import itself; the algebraic consequence
-   s/(2m₁m₂) = cosh λ_m + cosh η (with cosh λ_m := (m₁²+m₂²)/(2m₁m₂))
-   is exact given the import and is already shown in P51's proof.
+   book's kinematics instead of importing it.~~ **CLOSED 2026-09-26
+   (Exam Proof E4, Appendix X).** The 2026-09-26 exam attempt marked this
+   OUT-OF-PROPORTION, reasoning that deriving 14.II.P1 "would require
+   building special-relativistic kinematics (Lorentz-invariant 4-momentum
+   products)." The elementary route was missed: the Minkowski bilinear
+   product is part of the admitted mass-shell premise's own content
+   (polarization — no new import), and p₁·p₂ = m₁m₂cosh η follows from
+   P44's cosh-bijection by a range argument (the bracket lies in [1,∞),
+   so a unique η ≥ 0 exists) — no Lorentz group, no boosts, no
+   Lorentz-invariance argument. Then s = m₁²+m₂²+2m₁m₂cosh η and
+   s = 2m₁m₂(cosh λ_m + cosh η) with cosh λ_m = (m₁²+m₂²)/(2m₁m₂) by
+   AM-GM. Scope: PROVED, conditional only on the admitted mass-shell
+   premise (same condition as P44). The physical "relative rapidity"
+   reading of η is explicitly not claimed — η is the unique nonnegative
+   number with cosh η = (p₁·p₂)/(m₁m₂). 12.A2 and 14.4 are now PROVED
+   (FINAL_EXAM.md); P51/P52 inherit the mass-shell condition.
 5. **Book 3, C28** (reciprocal compatibility surface): ~~the book file
    labels it CHECKED, the register PROVED-modulo-I3; independent
    re-derivation confirms the analytic substitution is complete, so it

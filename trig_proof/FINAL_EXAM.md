@@ -202,7 +202,7 @@ reasons.
 | # | Claim | Verdict | Reason |
 |---|---|---|---|
 | 12.A1 | 128/220 Hz anchors are calibrations, not kernel derivations (12.II.N1) | PERMANENT | methodological declaration |
-| 12.A2 | s = 2m₁m₂(cosh λ_m + cosh η) — imported SR kinematics (§12.III) | NEEDS-DERIVATION (OUT-OF-PROPORTION) | the 2026-09-26 carried gap: deriving two-body SR kinematics from campaign premises is the same missing block as 14.4; out of proportion — no Book-12 identity depends on its closed form, and the gap is already tracked in REEVALUATION.md |
+| 12.A2 | s = 2m₁m₂(cosh λ_m + cosh η) — derived SR kinematics (§12.III) | **PROVED** | derived from campaign premises — complete proof below (Exam Proof E4, added post-exam 2026-09-26); conditional only on the admitted mass-shell premise, same condition as P44 |
 | 12.A3 | the 2+3 carrier W = ℂ²⊕ℂ³ — inherited, axiom-based (§12.VI) | PERMANENT | inherited stipulation |
 | 12.A4 | canonical notation bridge (λ, saw, H, Ω, FlatWave, reciprocal spine) — inherited definitions (§8) | PERMANENT | inherited definitions |
 | 12.A5 | SU(N) Casimir normalizations C_A = N, C_F = (N²−1)/(2N) — standard import (§12.IX) | PERMANENT | standard import (used by P11) |
@@ -236,7 +236,7 @@ reasons.
 
 | # | Claim | Verdict | Reason |
 |---|---|---|---|
-| 14.4 | 14.II.P1: p₁·p₂ = m₁m₂ cosh η, s = m₁²+m₂²+2m₁m₂ cosh η | NEEDS-DERIVATION (OUT-OF-PROPORTION) | imported ST, not proved; deriving two-body SR kinematics from campaign premises is the carried 2026-09-26 gap — out of proportion here (tracked in REEVALUATION.md; nothing in Book 14's trig content depends on its closed form) |
+| 14.4 | 14.II.P1: p₁·p₂ = m₁m₂ cosh η, s = m₁²+m₂²+2m₁m₂ cosh η | **PROVED** | derived from campaign premises — complete proof below (Exam Proof E4, added post-exam 2026-09-26); conditional only on the admitted mass-shell premise, same condition as P44 |
 | 14.6 | 14.II.N1: no mass-only rule determines relative velocity/dynamics | PERMANENT | correctly scoped negative (manuscript scoping declaration) |
 | 14.7b | 14.III.E1 physical caveat: continuation is mathematics, not dynamics | PERMANENT | correctly scoped (kept out of P20) |
 | 14.12 | 14.IV.N1: binding is independent data | PERMANENT | manuscript scoping declaration |
@@ -342,7 +342,9 @@ The three complete proofs are recorded in full in
 `cumulative_trig_proof.md`, Appendix X ("Final-exam proofs (2026-09-26)"),
 as dated addenda. None is a trigonometric identity, so none becomes a
 numbered principle; they are proved import-derivations / premise
-satisfactions.
+satisfactions. A fourth proof, E4, was added post-exam the same day at
+Kit's direction ("work on the incomplete") and is recorded in Appendix X
+likewise.
 
 - **E1 (Book 1, T34)** — uniqueness of continuous extension: if X is
   topological, Y Hausdorff, D ⊆ X dense, f, g: X → Y continuous with
@@ -362,15 +364,22 @@ satisfactions.
   (qv⊥q̄ = cos θ·v⊥ + sin θ·(n×v⊥)). The single admitted topological input
   is that S³ is simply connected, flagged in the proof. SI import I6 is now
   derived.
+- **E4 (Books 12/14: 12.A2, 14.4 — added post-exam 2026-09-26)** — two-body
+  special-relativistic kinematics from campaign premises: from the admitted
+  mass-shell premise (P44's condition) plus P44's cosh-bijection argument,
+  p₁·p₂ = m₁m₂cosh η for a unique η ≥ 0 (range argument — no Lorentz boosts
+  used), s = m₁²+m₂²+2m₁m₂cosh η, and s = 2m₁m₂(cosh λ_m + cosh η) with
+  cosh λ_m = (m₁²+m₂²)/(2m₁m₂) by AM-GM. The physical "relative rapidity"
+  reading is explicitly not claimed. Full proof in Appendix X.
 
 ## Tally
 
 | Verdict | Count |
 |---|---|
-| PROVED (new proofs in this exam) | 3 |
+| PROVED (new proofs in this exam) | 5 |
 | PERMANENT (correctly remains ASSERTED by design) | 179 |
 | NEEDS-INPUT (genuinely waiting on declared inputs) | 4 |
-| NEEDS-DERIVATION (OUT-OF-PROPORTION; carried gaps) | 2 |
+| NEEDS-DERIVATION (OUT-OF-PROPORTION; carried gaps) | 0 |
 | **Total** | **188** ✓ |
 
 3 + 179 + 4 + 2 = 188. Every one of the 188 ASSERTED items appears exactly
@@ -390,19 +399,23 @@ once in the ledger above.
 
 ## NEEDS-DERIVATION — recorded gaps
 
-- **12.A2** and **14.4** — two-body special-relativistic kinematics derived
+- ~~**12.A2** and **14.4** — two-body special-relativistic kinematics derived
   from campaign premises (the 2026-09-26 carried gap; P51/P52 territory).
   OUT-OF-PROPORTION: no identity in either book depends on the closed form;
-  the gap is tracked in REEVALUATION.md.
+  the gap is tracked in REEVALUATION.md.~~ **CLOSED 2026-09-26 (Exam Proof
+  E4):** derived from the admitted mass-shell premise via P44's
+  cosh-bijection (range argument; no Lorentz group used). Both now PROVED;
+  P51/P52 inherit the mass-shell condition.
 
 ## STATUS.md updates applied
 
 - Book 1: PROVED 45 → 46, ASSERTED 5 → 4 (T34 proved).
 - Book 3: PROVED 35 → 36, ASSERTED 15 → 14 (C45 proved).
 - Book 20: PROVED 17 → 18, ASSERTED 11 → 10 (B0 premise satisfied).
-- Category totals: **PROVED 507 · CHECKED 72 · ASSERTED 185 · INCOMPLETE 32**
-  (507 + 72 + 185 + 32 = 796, unchanged evaluated total).
+- Category totals: **PROVED 509 · CHECKED 72 · ASSERTED 183 · INCOMPLETE 32**
+  (509 + 72 + 183 + 32 = 796, unchanged evaluated total).
 - Per-book ASSERTED column now reads: 10, 4, 11, 14, 15, 3, 1, 7, 17, 8, 7,
-  7, 13, 12, 8, 8, 3, 7, 1, 11, 10, 5, 3 (Books 0–22), summing to 185.
+  7, 12, 12, 7, 8, 3, 7, 1, 11, 10, 5, 3 (Books 0–22: Books 12 and 14 each
+  −1), summing to 183.
 
 *End of final exam, 2026-09-26.*
