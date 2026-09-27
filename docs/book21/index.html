@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book 21 — Fermion Composition, Color Closure, and Bound-State Geometry — Euclid Proof Campaign</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="wrap">
+<p class="eyebrow">Euclid Proof Campaign · Book 21</p>
+<h1>Book 21 — Fermion Composition, Color Closure, and Bound-State Geometry</h1>
+<p class="sub">Volume 0. Claim-by-claim proof evaluation.</p>
+
+<div class="meta">
+<dl>
+<dt>Source</dt><dd>Rewrite page r-theory-rewrite/book21/index.html (principal theorems). No book21_proof.md exists (the earlier campaign covered Books 0–20 only); every claim is sourced from the rewrite page, restated and verified from the page&#x27;s content.</dd>
+<dt>Evaluated</dt><dd>2026-09-26</dd>
+<dt>Euclid boundary</dt><dd>No proposition of Euclid&#x27;s Elements is a premise of any claim below (the page invokes none; the only “Euclidean” occurrence is the phrase “Euclidean metric” for the A₂ realization layer). No ledger verification was therefore required.</dd>
+<dt>Status</dt><dd><span class="badge proved">complete</span></dd>
+</dl>
+</div>
+
+<div class="counts"><span class="count"><b>13</b> evaluated</span> · <span class="count"><b>6</b> PROVED</span> · <span class="count"><b>2</b> CHECKED</span> · <span class="count"><b>5</b> ASSERTED</span> · <span class="count"><b>0</b> INCOMPLETE</span></div>
+
+<p><strong>New principles folded: 0.</strong> Every claim with trigonometric content is a corollary or restatement of already-registered principles (P17, P19, P30, P49, P51); the rest is Lie algebra, representation theory, analysis, empirics, imports, or negatives.</p>
+
+
+<h2>Claim-by-claim evaluation</h2>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.1</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Composition firewall: Sym(V_A⊗V_B) = [Sym(V_A)⊗Sym(V_B)] ⊕ [Alt(V_A)⊗Alt(V_B)]; locally visible subsystem coordinates need not determine the full composite state.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED</dd>
+<dt>Folded into a principle?</dt><dd>No — linear algebra, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Verified by dimension count: both sides have dimension mn(mn+1)/2 for dim V_A=m, dim V_B=n; the two summands are orthogonal subspaces of the symmetric sector.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.2a</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Declared extension V₃ = ℂ³ (not derived from Book 0).</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED</dd>
+<dt>Folded into a principle?</dt><dd>No — declaration</dd>
+<dt>Verification notes</dt><dd class="note">The book labels it DECLARED itself; a declaration cannot found a principle.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.2b</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Three-state closure: from declared V₃, centered weights form an equilateral triangle in the sum-zero plane; pairwise differences give the A₂ root system (Cartan [[2,−1],[−1,2]], six roots, regular hexagon); one su(2) + one bridge closes to su(3) (minimal within the declared candidate class); the tetrahedral metric G=½(I+J) restricts to a scalar multiple of the Euclidean metric on the A₂ plane (compatible, not foundational).</p>
+<dl>
+<dt>Scope</dt><dd>PROVED (given the declared V₃)</dd>
+<dt>Folded into a principle?</dt><dd>No — Lie algebra / root-system geometry, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Standard: weights e_i − ⅓Σe_j, differences e_i−e_j = 6 roots; simple roots generate su(3). The weight angles (30°, 150°, 270°) are representation coordinates, firewalled by the book itself as non-spatial.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.3</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Triadic color closure, conditional on the QCD import: 3⊗3̄ = 1⊕8, 3⊗3⊗3 = 1⊕8⊕8⊕10, ε-contraction exactly color-invariant; color/anticolor hexagon interlaces the root hexagon at an exact 30° offset. Obstruction kept: singlet representation theory does not derive confinement, couplings, or a Hamiltonian.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED-conditional (asserted QCD import: quarks in 3, antiquarks in 3̄, gluons in 8, su(3) connection, plus the V₃↔color-carrier projection contract)</dd>
+<dt>Folded into a principle?</dt><dd>No — representation theory, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Dimension checks: 3·3 = 9 = 1+8; 27 = 1+8+8+10. The obstruction is a retained negative about what the exhibited tensors prove.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.4</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Two-fermion invariant: from supplied masses and ordinary special relativity, s = 2m₁m₂(cosh λ_m + cosh η) with λ_m = ln(m₁/m₂), q_m = tanh(λ_m/2), q_v = tanh(η/2); equivalently s/(m₁m₂) = [R(q_m)+R(q_m)⁻¹] + [R(q_v)+R(q_v)⁻¹], R(q) = (1+q)/(1−q). Guards: q_m, q_v are independent physical data; m₁/m₂ = R(q_m) is a coordinate change, not a mass-generation mechanism.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED (exact; SR is background physics, masses supplied)</dd>
+<dt>Folded into a principle?</dt><dd>No — trig kernel already registered</dd>
+<dt>Verification notes</dt><dd class="note">R(q) = (1+q)/(1−q) is P30&#x27;s Möbius map Q₊ in the q variable; R(q)+R(q)⁻¹ = 2(1+q²)/(1−q²) = 2cosh λ_m is a two-line corollary of P49; hence s/(2m₁m₂) = cosh λ_m + cosh η is exactly P51&#x27;s premise form. Nothing new. Sanity: 2m₁m₂cosh λ_m = m₁²+m₂², so s = m₁²+m₂²+2m₁m₂cosh η is the standard 1+1 invariant.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.5</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Bound-mass coordinate: on the declared analytic branch η → iθ, u = tan(θ/2), u² = [(m₁+m₂)²−M²]/[M²−(m₁−m₂)²], M² = (m₁−m₂)² + 4m₁m₂/(1+u²); weak binding u² = B/(2μ) + O(B²); heavy-source limit u² → (m₂−E)/(m₂+E).</p>
+<dl>
+<dt>Scope</dt><dd>PROVED (exact algebra; the expansion/limit are analysis)</dd>
+<dt>Folded into a principle?</dt><dd>No — u = tan(θ/2) is P19&#x27;s Weierstrass form; the rest is algebra/analysis, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Verified: the two displayed forms are equivalent (cross-multiplication gives 4m₁m₂ + (m₁−m₂)² = (m₁+m₂)²); the weak-binding expansion and the m₁→∞ limit check out term by term.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.6</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Independent coordinate convergence: on the n_r = 0, κ &lt; 0 heavy-source circular branch of the imported Dirac–Coulomb theory, |G/F|² = (m−E)/(m+E), so u_pair = |G/F| = sxp(x) exactly, from two independent routes with no fitted mass ratio. The n_r &gt; 0 obstruction (ratio runs with radius; one global u cannot reconstruct a generic excited radial spinor) is part of the theorem.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED-conditional (asserted imports: point-Coulomb Dirac equation; radial Dirac–Coulomb paper&#x27;s circular-state theorem; declared state family)</dd>
+<dt>Folded into a principle?</dt><dd>No — trig content is P19/P17 under the import</dd>
+<dt>Verification notes</dt><dd class="note">|G/F| = tan(θ/2)-type half-angle tangent is P19&#x27;s Weierstrass form; sxp(x) = tan(x/2) on the sine channel is P17. The convergence is the equality of two routes, conditional on the imports — not a new trig principle.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.7</span><span class="badge checked">CHECKED</span></div>
+<p class="claim-text">Verified numbers (recomputed 2026-09-19 from frozen inputs, cited): hydrogen q_m ≈ 0.99891135885, u_H(1S) ≈ 0.003648720323 with α/2 &lt; u_H &lt; u_C; deuteron B_d ≈ 2.22456637 MeV, q_m ≈ 0.00068873505, u_d ≈ 0.0487186123; muonium q_m ≈ 0.99037.</p>
+<dl>
+<dt>Scope</dt><dd>CHECKED (cited recomputation, not re-run per proof-over-sampling discipline)</dd>
+<dt>Folded into a principle?</dt><dd>No — empirical numbers, not a trig identity</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.8a</span><span class="badge checked">CHECKED</span></div>
+<p class="claim-text">Frozen failure: 81/32 is not exact — R_β = (m_n−m_p)/m_e ≈ 2.53098858276 vs 81/32 = 2.53125, residual ≈ −133.6 eV.</p>
+<dl>
+<dt>Scope</dt><dd>CHECKED (numerical comparison)</dd>
+<dt>Folded into a principle?</dt><dd>No — negative result, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Must not be presented as an exact mass formula (the book&#x27;s own guard).</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.8b</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Other frozen failures: fifth-lattice proximity is not mass quantization; closure defects are not musical commas; the order-five mass route failed.</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (retained negatives, not re-derived here)</dd>
+<dt>Folded into a principle?</dt><dd>No — negatives, not trig</dd>
+<dt>Verification notes</dt><dd class="note">Inherited by any future flavor/mass program; may not be silently reversed.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.9</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Preregistration rule (constituent/bound-state/coordinate definitions, reference theory, provenance, uncertainty, Δ_op, failure criterion before testing a mass law).</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (methodology)</dd>
+<dt>Folded into a principle?</dt><dd>No — methodology, not a trig identity</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.10</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Higher-carrier audit (E8(−24)): 248-direction reconstruction, zero-residual particle/mirror matching, su(2,3)⊕u(1)_Y centralizer, commuting SU(5) partner — cited to the project&#x27;s Verification Ledger, not proved in this text; firewalled (no theorem of §§1–7 depends on it).</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (ledger-cited)</dd>
+<dt>Folded into a principle?</dt><dd>No — cited, not proved here</dd>
+<dt>Verification notes</dt><dd class="note">Cannot be stated as established until that ledger and its code are rerun.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B21.11</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Closure audit: Δ_op(Book 21) = ∅; null hypothesis C0 retained; color and mass architectures logically independent.</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (the book&#x27;s own conclusion)</dd>
+<dt>Folded into a principle?</dt><dd>No — meta, not a trig identity</dd>
+</dl>
+</article>
+
+<footer>
+<p><a href="../index.html">← All book pages</a> · Full evaluation tables:
+<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/master/trig_proof/book21_claims.md">trig_proof/book21_claims.md</a></p>
+<p>Verdicts follow the campaign's status grammar: PROVED (complete proof),
+CHECKED (completed computation or cited recomputation), ASSERTED (declared,
+imported, or methodological), INCOMPLETE (unfinished). Nothing here is rounded
+up or down.</p>
+</footer>
+</div>
+</body>
+</html>

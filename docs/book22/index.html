@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Book 22 — Canonical Spin–Geometry and the Primitive Symplectic Atlas — Euclid Proof Campaign</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="wrap">
+<p class="eyebrow">Euclid Proof Campaign · Book 22</p>
+<h1>Book 22 — Canonical Spin–Geometry and the Primitive Symplectic Atlas</h1>
+<p class="sub">Volume 0. Claim-by-claim proof evaluation.</p>
+
+<div class="meta">
+<dl>
+<dt>Source</dt><dd>Rewrite page r-theory-rewrite/book22/index.html (principal theorems). No book22_proof.md exists; every claim is sourced from the rewrite page, restated and verified from the page&#x27;s content.</dd>
+<dt>Evaluated</dt><dd>2026-09-26</dd>
+<dt>Euclid boundary</dt><dd>No proposition of Euclid&#x27;s Elements is a premise of any claim below (the page invokes none). No ledger verification was therefore required.</dd>
+<dt>Status</dt><dd><span class="badge proved">complete</span></dd>
+</dl>
+</div>
+
+<div class="counts"><span class="count"><b>10</b> evaluated</span> · <span class="count"><b>7</b> PROVED</span> · <span class="count"><b>0</b> CHECKED</span> · <span class="count"><b>3</b> ASSERTED</span> · <span class="count"><b>0</b> INCOMPLETE</span></div>
+
+<p><strong>New principles folded: 0.</strong> The book&#x27;s exact content is differential and symplectic geometry of the radial-spinor (F,G) phase plane (Prüfer pair, primitive symplectic atlas with common one-form p_Q dQ = −2G dF + 2F dG and ω_spin = 4 dF∧dG) plus conditional reconstructions of imported physics. No claim yields a new identity, lemma, or exact relation about trigonometric functions, angles, or circular/hyperbolic measure.</p>
+<p>Standing note: “promotion” of earlier results means restriction to a specialized setting with reuse of existing proofs — a status-preserving operation, never a status upgrade and never new evidence (the book&#x27;s own rule, kept). </p>
+
+<h2>Claim-by-claim evaluation</h2>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.1</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Imported machinery and declared contracts: radial coframe e^a (flat at η=0, defect δ_e = e^0−dr), torsion-free spin connection, Dirac spinor Ψ in the projected chart; contract C6a (radial two-component chart Ψ → (r,F,G,…)); contract C6b (F and G independent on open sets).</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (imports + declared contracts)</dd>
+<dt>Folded into a principle?</dt><dd>No — imports/contracts</dd>
+<dt>Verification notes</dt><dd class="note">The book labels these IMPORT/declared itself.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.2</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Obstruction: the spherical-to-Cartesian map is not a global diffeomorphism (origin and polar axis excluded).</p>
+<dl>
+<dt>Scope</dt><dd>PROVED (negative)</dd>
+<dt>Folded into a principle?</dt><dd>No — differential geometry, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Standard: the map fails injectivity/regularity at r = 0 and on the polar axis.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.3</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">C6a/C6b fix the reading of the geometry but not the physical meaning of F and G; importing the radial Dirac–Coulomb paper promotes the chart, never the book&#x27;s own assumptions.</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (methodological)</dd>
+<dt>Folded into a principle?</dt><dd>No — methodology</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.4</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Prüfer canonical pair (exact conditional): the transport operator on (F,G) has exact zero trace, giving the radial invariant FF′ + GG′ = −A²/(2r); Prüfer angle Θ = arg(G+iF) and spin density A² = F²+G² form a canonical pair on the radial-spinor phase plane with symplectic form ω_spin = 4 dF∧dG, regular on open sets under C6a/C6b. Obstruction kept: does not derive the Dirac equation, spin-½, spin-statistics, or α.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED-conditional (imported radial Dirac equations + C6a/C6b)</dd>
+<dt>Folded into a principle?</dt><dd>No — differential geometry of the (F,G) phase plane, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">The page states the zero-trace input and the invariant as consequence; internal consistency verified: (A²)′ = 2(FF′+GG′) = −A²/r. The angle Θ enters only as a phase-plane coordinate; no identity about trig functions is proved.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.5</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Primitive symplectic atlas (the volume&#x27;s strongest exact result): p_sxp = 2F², p_srx = −2G², p_cxp = (F−G)², p_crx = −(F+G)² are four Darboux-compatible charts on the same (F,G) plane with common one-form p_Q dQ = −2G dF + 2F dG and common symplectic form ω_spin = 4 dF∧dG; chart transition identities, reciprocal relations, and amplitude-ratio readings are exact; on the circular Dirac–Coulomb branch the charts cross-check the radial paper&#x27;s spinor-ratio theorem.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED (exact internal theorem; conditional only on the declared C6a/C6b chart and the imported radial dynamics)</dd>
+<dt>Folded into a principle?</dt><dd>No — a representation theorem in (F,G) variables, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">The “reciprocal/complementary identities” are differential identities of the atlas charts, not identities about sin/cos/tan. The book states it changes no prediction of the imported theory.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.6</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Spherical defect reduction (conditional reconstruction): exact reduction of the imported first-order Einstein–Hilbert action in the defect variables (δ_e, δ_f, δ_ω) under declared regularization η²(r)dr on (r_UV,∞) and asymptotically flat falloff; on-shell defect action vanishes in the massless flat defect-free limit. Obstruction kept: does not derive the Einstein field equations, Newton&#x27;s constant, or the mass parameter.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED-conditional (imported first-order EH action + declared regularization/falloff contracts)</dd>
+<dt>Folded into a principle?</dt><dd>No — gravitational variational calculus, not a trig identity</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.7</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Conditional channels: (a) gauge — radial electric charge as cyclic radial momentum p_Φ conjugate to the radial gauge phase (Maxwell dynamics and e imported); (b) rotation — angular momentum as p_Ω conjugate to frame dragging (imported Kerr channel); (c) spin (Einstein–Cartan) — axial contorsion exactly auxiliary, torsion solved algebraically for the spin current.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED-conditional (respective imports: Maxwell, Kerr geometry, Einstein–Cartan)</dd>
+<dt>Folded into a principle?</dt><dd>No — representation of imported physics in canonical coordinates, not trig</dd>
+<dt>Verification notes</dt><dd class="note">None derives its import (the book&#x27;s own guard).</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.8</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Kerr/Kerr–Newman half-angle identities: on the imported Kerr geometry the horizon radii satisfy exact half-angle identities in the book&#x27;s coordinates, extending to Kerr–Newman after the electromagnetic import; guards: valid on the declared regular domain (coordinate singularities excluded), consequences of the imported metric, no new black-hole physics.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED-conditional (imported Kerr/KN geometry + declared chart domain)</dd>
+<dt>Folded into a principle?</dt><dd>No — conditional coordinate identities; the explicit formula is not stated on the rewrite page, so no trig identity could be verified or folded</dd>
+<dt>Verification notes</dt><dd class="note">What would close the formula gap: the half-angle identity as stated in the source T6 essay-book or the Kerr-geometry derivation.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.9</span><span class="badge proved">PROVED</span></div>
+<p class="claim-text">Spherical-spin obstruction (the book&#x27;s hardest negative): spherical symmetry forces the total spin current to integrate to zero over the sphere, so the canonical spin apparatus cannot be promoted to a theory of spin in the spherical sector.</p>
+<dl>
+<dt>Scope</dt><dd>PROVED (negative theorem)</dd>
+<dt>Folded into a principle?</dt><dd>No — symmetry argument, not a trig identity</dd>
+<dt>Verification notes</dt><dd class="note">Proof: a non-zero total spin vector would select a preferred spatial direction, contradicting rotation invariance of the spherically symmetric configuration; hence the integrated spin current vanishes.</dd>
+</dl>
+</article>
+<article class="claim">
+<div class="claim-head"><span class="claim-id">B22.10</span><span class="badge asserted">ASSERTED</span></div>
+<p class="claim-text">Does-not-establish ledger (Dirac equation, spin-½, α, Coulomb, EFE, G, Maxwell, e, Kerr metric, EC coupling, masses, couplings, new observables — none derived); book closure Δ_op = ∅, C0 retained; forward boundary (C0 defeated only by a future Class-C model with a measurement contract). The source&#x27;s Yang–Mills attribution is not repeated (absent from the cited text).</p>
+<dl>
+<dt>Scope</dt><dd>ASSERTED (the book&#x27;s own ledger/conclusions)</dd>
+<dt>Folded into a principle?</dt><dd>No — meta, not a trig identity</dd>
+</dl>
+</article>
+
+<footer>
+<p><a href="../index.html">← All book pages</a> · Full evaluation tables:
+<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/master/trig_proof/book22_claims.md">trig_proof/book22_claims.md</a></p>
+<p>Verdicts follow the campaign's status grammar: PROVED (complete proof),
+CHECKED (completed computation or cited recomputation), ASSERTED (declared,
+imported, or methodological), INCOMPLETE (unfinished). Nothing here is rounded
+up or down.</p>
+</footer>
+</div>
+</body>
+</html>

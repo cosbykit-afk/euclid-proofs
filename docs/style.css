@@ -1,0 +1,55 @@
+:root {
+  --ink: #1a1a2e; --muted: #5b5b6e; --paper: #faf9f6; --card: #ffffff;
+  --line: #e4e1d8; --proved: #1e7e34; --checked: #b7791f; --asserted: #6c757d;
+  --incomplete: #c0392b; --accent: #2c3e70;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink);
+  font-family: Georgia, 'Times New Roman', serif; line-height: 1.65; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+.eyebrow { font-family: -apple-system, 'Segoe UI', sans-serif; font-size: .78rem;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--muted); }
+h1 { font-size: 2rem; line-height: 1.25; margin: .4rem 0 .2rem; }
+.sub { color: var(--muted); font-style: italic; margin: 0 0 1.5rem; }
+.meta { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+  padding: 1rem 1.25rem; font-size: .95rem; margin-bottom: 1.5rem; }
+.meta dt { font-family: -apple-system, 'Segoe UI', sans-serif; font-size: .75rem;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--muted);
+  margin-top: .6rem; }
+.meta dt:first-child { margin-top: 0; }
+.meta dd { margin: .15rem 0 0; }
+.counts { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.25rem 0; }
+.count { font-family: -apple-system, 'Segoe UI', sans-serif; font-size: .85rem;
+  background: var(--card); border: 1px solid var(--line); border-radius: 999px;
+  padding: .3rem .9rem; }
+.count b { font-size: 1rem; }
+.badge { display: inline-block; font-family: -apple-system, 'Segoe UI', sans-serif;
+  font-size: .72rem; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  border-radius: 6px; padding: .22rem .6rem; color: #fff; vertical-align: middle; }
+.badge.proved { background: var(--proved); }
+.badge.checked { background: var(--checked); }
+.badge.asserted { background: var(--asserted); }
+.badge.incomplete { background: var(--incomplete); }
+.claim { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+  padding: 1.1rem 1.25rem; margin: 0 0 1rem; }
+.claim-head { display: flex; align-items: baseline; gap: .7rem; flex-wrap: wrap;
+  margin-bottom: .5rem; }
+.claim-id { font-family: -apple-system, 'Segoe UI', sans-serif; font-weight: 700;
+  font-size: 1rem; color: var(--accent); }
+.claim-text { margin: .4rem 0; }
+.claim dl { margin: .7rem 0 0; font-size: .92rem; }
+.claim dt { font-family: -apple-system, 'Segoe UI', sans-serif; font-size: .72rem;
+  letter-spacing: .08em; text-transform: uppercase; color: var(--muted);
+  margin-top: .55rem; }
+.claim dd { margin: .15rem 0 0; }
+.note { border-left: 3px solid var(--line); padding-left: .8rem; color: #33333f; }
+footer { margin-top: 2.5rem; padding-top: 1.25rem; border-top: 1px solid var(--line);
+  font-family: -apple-system, 'Segoe UI', sans-serif; font-size: .85rem; color: var(--muted); }
+footer a { color: var(--accent); }
+a { color: var(--accent); }
+.booklink { display: block; background: var(--card); border: 1px solid var(--line);
+  border-radius: 10px; padding: 1.25rem 1.4rem; margin: 0 0 1rem; text-decoration: none;
+  color: var(--ink); }
+.booklink:hover { border-color: var(--accent); }
+.booklink h2 { margin: 0 0 .3rem; font-size: 1.3rem; }
+.booklink p { margin: .2rem 0 0; color: var(--muted); font-size: .95rem; }
