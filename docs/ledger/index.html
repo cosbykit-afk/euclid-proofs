@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Live ledger dashboard — Euclid Proof Campaign</title>
+<link rel="stylesheet" href="../style.css">
+<style>
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: .7rem; margin: 1.25rem 0; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: .9rem 1rem; text-align: center; }
+  .card .num { font-size: 1.9rem; font-weight: 700; line-height: 1.2; }
+  .card .lbl { font-family: -apple-system,'Segoe UI',sans-serif; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  .card.proved .num { color: var(--proved); } .card.checked .num { color: var(--checked); }
+  .card.asserted .num { color: var(--asserted); } .card.incomplete .num { color: var(--incomplete); }
+  table.ledger { width: 100%; border-collapse: collapse; background: var(--card); font-size: .88rem; margin: 1rem 0; }
+  table.ledger th, table.ledger td { border: 1px solid var(--line); padding: .4rem .55rem; text-align: right; }
+  table.ledger th:first-child, table.ledger td:first-child { text-align: left; }
+  table.ledger thead th { background: #f0eee7; font-family: -apple-system,'Segoe UI',sans-serif; font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; }
+  table.ledger tfoot td { font-weight: 700; background: #f0eee7; }
+  .tabs { display: flex; gap: .5rem; flex-wrap: wrap; margin: 1.5rem 0 .5rem; }
+  .tab { font-family: -apple-system,'Segoe UI',sans-serif; font-size: .85rem; border: 1px solid var(--line); background: var(--card); border-radius: 999px; padding: .45rem 1.1rem; cursor: pointer; color: var(--ink); }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .tab .upd { opacity: .65; font-size: .75rem; display: block; }
+  .tab.active .upd { opacity: .8; }
+  .md h1 { font-size: 1.5rem; } .md h2 { font-size: 1.25rem; margin-top: 1.8rem; } .md h3 { font-size: 1.1rem; }
+  .md table { width: 100%; border-collapse: collapse; background: var(--card); font-size: .85rem; margin: 1rem 0; display: block; overflow-x: auto; }
+  .md th, .md td { border: 1px solid var(--line); padding: .35rem .5rem; text-align: left; }
+  .md thead th { background: #f0eee7; }
+  .md pre { background: #23232e; color: #e8e6df; padding: .9rem 1.1rem; border-radius: 8px; overflow-x: auto; font-size: .82rem; }
+  .md code { font-family: ui-monospace, Menlo, monospace; font-size: .88em; background: #efede6; padding: .1em .35em; border-radius: 4px; }
+  .md pre code { background: none; padding: 0; }
+  .md blockquote { border-left: 3px solid var(--line); margin: 1rem 0; padding: .2rem 0 .2rem .9rem; color: #33333f; }
+  .err { background: #fdecea; border: 1px solid #f0b9b4; border-radius: 10px; padding: 1rem 1.25rem; margin: 1rem 0; }
+  .loading { color: var(--muted); font-style: italic; }
+  .srcnote { font-size: .85rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+<p class="eyebrow">Euclid Proof Campaign</p>
+<h1>Live ledger dashboard</h1>
+<p class="sub">Reads the campaign ledgers straight from the GitHub repository on every
+load — no rebuild step. When new evaluations are pushed, this page shows them automatically.</p>
+
+<div id="loadstate"><p class="loading">Loading ledgers from the repository…</p></div>
+<div id="errors"></div>
+
+<h2 id="sumhead" hidden>Campaign totals <span class="srcnote">(quoted verbatim from the ledger)</span></h2>
+<div class="cards" id="cards"></div>
+
+<h2 id="examhead" hidden>Final exam <span class="srcnote">(188 ASSERTED items adjudicated)</span></h2>
+<div class="cards" id="examcards"></div>
+
+<a class="booklink" href="books/">
+<h2>Per-book accounting</h2>
+<p>The full per-book claim listing, parsed live from the ledger's table on every load.</p>
+</a>
+
+<h2 id="ledgerhead" hidden>Full ledger texts <span class="srcnote">(rendered live from the repo)</span></h2>
+<div class="tabs" id="tabs" hidden></div>
+<div class="md" id="mdview"></div>
+
+<footer>
+<p><a href="../index.html">← All book pages</a></p>
+<p class="srcnote" id="fetchinfo">Sources:
+<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/main/trig_proof/STATUS.md">trig_proof/STATUS.md</a> ·
+<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/main/trig_proof/FINAL_EXAM.md">trig_proof/FINAL_EXAM.md</a> ·
+<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/main/books/MASTER_LEDGER.md">books/MASTER_LEDGER.md</a><br>
+<span id="fetchedat"></span></p>
+</footer>
+</div>
+
+<script>
+(function () {
+  var RAW = 'https://raw.githubusercontent.com/cosbykit-afk/euclid-proofs/main/';
+  var API = 'https://api.github.com/repos/cosbykit-afk/euclid-proofs/commits?per_page=1&path=';
+  var FILES = [
+    { path: 'trig_proof/STATUS.md',       label: 'Campaign status' },
+    { path: 'trig_proof/FINAL_EXAM.md',    label: 'Final exam' },
+    { path: 'books/MASTER_LEDGER.md',      label: 'Book-proofs master ledger' }
+  ];
+  var texts = {};
+
+  function esc(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
+  /* --- compact markdown renderer: headings, tables, lists, quotes, code, inline --- */
+  function inline(s) {
+    s = esc(s);
+    s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+    s = s.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/\*([^*\n]+)\*/g, '<em>$1</em>');
+    return s;
+  }
+  function isTableSep(line) {
+    return /^\|?[\s:\-|]+\|?$/.test(line) && line.indexOf('-') !== -1;
+  }
+  function splitRow(line) {
+    var t = line.trim();
+    if (t.charAt(0) === '|') t = t.slice(1);
+    if (t.charAt(t.length - 1) === '|') t = t.slice(0, -1);
+    return t.split('|').map(function (c) { return c.trim(); });
+  }
+  function renderMD(src) {
+    var lines = src.split('\n'), out = [], i = 0, inCode = false, codeBuf = [];
+    function flushPara(buf) {
+      if (buf.length) out.push('<p>' + inline(buf.join(' ')) + '</p>');
+    }
+    while (i < lines.length) {
+      var line = lines[i];
+      if (/^```/.test(line)) {
+        if (inCode) { out.push('<pre><code>' + esc(codeBuf.join('\n')) + '</code></pre>'); codeBuf = []; inCode = false; }
+        else inCode = true;
+        i++; continue;
+      }
+      if (inCode) { codeBuf.push(line); i++; continue; }
+      var m;
+      if ((m = line.match(/^(#{1,4})\s+(.*)/))) {
+        out.push('<h' + m[1].length + '>' + inline(m[2]) + '</h' + m[1].length + '>');
+        i++; continue;
+      }
+      if (/^\s*---+\s*$/.test(line)) { out.push('<hr>'); i++; continue; }
+      if (/^\s*>\s?/.test(line)) {
+        var q = [];
+        while (i < lines.length && /^\s*>\s?/.test(lines[i])) { q.push(lines[i].replace(/^\s*>\s?/, '')); i++; }
+        out.push('<blockquote>' + q.map(function (x) { return '<p>' + inline(x) + '</p>'; }).join('') + '</blockquote>');
+        continue;
+      }
+      if (/^\s*([-*]|\d+\.)\s+/.test(line)) {
+        var items = [], ordered = /^\s*\d+\./.test(line);
+        while (i < lines.length && /^\s*([-*]|\d+\.)\s+/.test(lines[i])) {
+          items.push('<li>' + inline(lines[i].replace(/^\s*([-*]|\d+\.)\s+/, '')) + '</li>'); i++;
+        }
+        out.push((ordered ? '<ol>' : '<ul>') + items.join('') + (ordered ? '</ol>' : '</ul>'));
+        continue;
+      }
+      if (line.indexOf('|') !== -1 && i + 1 < lines.length && isTableSep(lines[i + 1])) {
+        var head = splitRow(line), rows = [];
+        i += 2;
+        while (i < lines.length && lines[i].indexOf('|') !== -1 && lines[i].trim() !== '') {
+          rows.push(splitRow(lines[i])); i++;
+        }
+        var h = '<thead><tr>' + head.map(function (c) { return '<th>' + inline(c) + '</th>'; }).join('') + '</tr></thead>';
+        var b = '<tbody>' + rows.map(function (r) {
+          return '<tr>' + r.map(function (c) { return '<td>' + inline(c) + '</td>'; }).join('') + '</tr>';
+        }).join('') + '</tbody>';
+        out.push('<table>' + h + b + '</table>');
+        continue;
+      }
+      if (/^\s*$/.test(line)) { i++; continue; }
+      var para = [];
+      while (i < lines.length && !/^\s*$/.test(lines[i]) && !/^(#{1,4}\s|```|>|\s*([-*]|\d+\.)\s)/.test(lines[i])
+             && !(lines[i].indexOf('|') !== -1 && i + 1 < lines.length && isTableSep(lines[i + 1]))) {
+        para.push(lines[i].trim()); i++;
+      }
+      flushPara(para);
+    }
+    return out.join('\n');
+  }
+
+  function card(num, lbl, cls) {
+    return '<div class="card ' + cls + '"><div class="num">' + num + '</div><div class="lbl">' + lbl + '</div></div>';
+  }
+
+  function show(id) { document.getElementById(id).hidden = false; }
+
+  function fail(path, label) {
+    var d = document.getElementById('errors');
+    d.innerHTML += '<div class="err"><strong>Could not load ' + esc(label) + '.</strong> ' +
+      'Check your connection, or read it directly: <a href="https://github.com/cosbykit-afk/euclid-proofs/blob/main/' +
+      path + '">' + esc(path) + '</a>.</div>';
+  }
+
+  /* --- parse STATUS.md --- */
+  function parseStatus(text) {
+    var m = text.match(/\*\*Category totals:\*\*\s*PROVED\s+(\d+)\s*[·•]\s*CHECKED\s+(\d+)\s*[·•]\s*ASSERTED\s+(\d+)\s*[·•]\s*INCOMPLETE\s+(\d+)/);
+    var totals = m ? { proved: m[1], checked: m[2], asserted: m[3], incomplete: m[4] } : null;
+    var pm = text.match(/P1[–-]P61\s*=\s*\*\*(\d+)\s*principles\*\*/);
+    return { totals: totals, principles: pm ? pm[1] : null };
+  }
+
+  /* --- parse FINAL_EXAM.md tally --- */
+  function parseExam(text) {
+    var out = {};
+    var rows = {
+      'PROVED (new proofs in this exam)': 'proved',
+      'PERMANENT (correctly remains ASSERTED by design)': 'permanent',
+      'NEEDS-INPUT (genuinely waiting on declared inputs)': 'needsinput',
+      'NEEDS-DERIVATION (OUT-OF-PROPORTION; carried gaps)': 'needsderiv',
+      '**Total**': 'total'
+    };
+    text.split('\n').forEach(function (line) {
+      var r = line.match(/^\|\s*(.+?)\s*\|\s*(?:\*\*)?(\d+)/);
+      if (r && rows[r[1]] !== undefined) out[rows[r[1]]] = r[2];
+    });
+    return out;
+  }
+
+  function renderTabs() {
+    var tabs = document.getElementById('tabs'), view = document.getElementById('mdview');
+    FILES.forEach(function (f, idx) {
+      if (!texts[f.path]) return;
+      var b = document.createElement('button');
+      b.className = 'tab' + (idx === 0 ? ' active' : '');
+      b.innerHTML = esc(f.label) + '<span class="upd" data-path="' + f.path + '"></span>';
+      b.onclick = function () {
+        Array.prototype.forEach.call(tabs.children, function (x) { x.classList.remove('active'); });
+        b.classList.add('active');
+        view.innerHTML = renderMD(texts[f.path]);
+      };
+      tabs.appendChild(b);
+      if (idx === 0) view.innerHTML = renderMD(texts[f.path]);
+    });
+    tabs.hidden = false;
+    /* last-commit dates, best effort */
+    FILES.forEach(function (f) {
+      fetch(API + encodeURIComponent(f.path)).then(function (r) { return r.json(); }).then(function (j) {
+        if (j && j[0] && j[0].commit && j[0].commit.committer) {
+          var d = new Date(j[0].commit.committer.date).toISOString().slice(0, 10);
+          var el = document.querySelector('.upd[data-path="' + f.path + '"]');
+          if (el) el.textContent = 'ledger updated ' + d;
+        }
+      }).catch(function () { /* omit silently */ });
+    });
+  }
+
+  Promise.all(FILES.map(function (f) {
+    return fetch(RAW + f.path).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    }).then(function (t) { texts[f.path] = t; })
+      .catch(function () { fail(f.path, f.label); });
+  })).then(function () {
+    document.getElementById('loadstate').style.display = 'none';
+    document.getElementById('fetchedat').textContent =
+      'Fetched from the repository at ' + new Date().toLocaleString() + '. Reload the page for the latest pushed ledgers.';
+
+    if (texts['trig_proof/STATUS.md']) {
+      var s = parseStatus(texts['trig_proof/STATUS.md']);
+      if (s.totals) {
+        document.getElementById('cards').innerHTML =
+          card(s.totals.proved, 'Proved', 'proved') +
+          card(s.totals.checked, 'Checked', 'checked') +
+          card(s.totals.asserted, 'Asserted', 'asserted') +
+          card(s.totals.incomplete, 'Incomplete', 'incomplete') +
+          (s.principles ? card(s.principles, 'Principles (P0–P61)', '') : '');
+        show('sumhead');
+      }
+    }
+    if (texts['trig_proof/FINAL_EXAM.md']) {
+      var e = parseExam(texts['trig_proof/FINAL_EXAM.md']);
+      if (e.total) {
+        document.getElementById('examcards').innerHTML =
+          card(e.proved || '–', 'Proved in exam', 'proved') +
+          card(e.permanent || '–', 'Permanent asserted', 'asserted') +
+          card(e.needsinput || '–', 'Needs input', 'checked') +
+          card(e.needsderiv || '–', 'Needs derivation', 'incomplete') +
+          card(e.total, 'Total items', '');
+        show('examhead');
+      }
+    }
+    var anyText = Object.keys(texts).length > 0;
+    if (anyText) { renderTabs(); show('ledgerhead'); }
+  });
+})();
+</script>
+</body>
+</html>

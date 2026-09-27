@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Per-book accounting — Euclid Proof Campaign</title>
+<link rel="stylesheet" href="../../style.css">
+<style>
+  table.ledger { width: 100%; border-collapse: collapse; background: var(--card); font-size: .88rem; margin: 1rem 0; }
+  table.ledger th, table.ledger td { border: 1px solid var(--line); padding: .4rem .55rem; text-align: right; }
+  table.ledger th:first-child, table.ledger td:first-child { text-align: left; }
+  table.ledger thead th { background: #f0eee7; font-family: -apple-system,'Segoe UI',sans-serif; font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; }
+  table.ledger tfoot td { font-weight: 700; background: #f0eee7; }
+  .err { background: #fdecea; border: 1px solid #f0b9b4; border-radius: 10px; padding: 1rem 1.25rem; margin: 1rem 0; }
+  .loading { color: var(--muted); font-style: italic; }
+  .srcnote { font-size: .85rem; color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="wrap">
+<p class="eyebrow">Euclid Proof Campaign · Live ledger</p>
+<h1>Per-book accounting</h1>
+<p class="sub">Parsed live from the ledger's per-book table on every load — updates itself
+when new evaluations are pushed. Source:
+<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/main/trig_proof/STATUS.md">trig_proof/STATUS.md</a>.</p>
+
+<div id="loadstate"><p class="loading">Loading the ledger…</p></div>
+<div id="errors"></div>
+<div id="table"></div>
+
+<footer>
+<p><a href="../">← Live ledger dashboard</a> · <a href="../../index.html">All book pages</a></p>
+<p class="srcnote" id="fetchinfo"></p>
+</footer>
+</div>
+
+<script>
+(function () {
+  var URL = 'https://raw.githubusercontent.com/cosbykit-afk/euclid-proofs/main/trig_proof/STATUS.md';
+  function esc(s) {
+    return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+  fetch(URL).then(function (r) {
+    if (!r.ok) throw new Error(r.status);
+    return r.text();
+  }).then(function (text) {
+    document.getElementById('loadstate').style.display = 'none';
+    var books = [];
+    text.split('\n').forEach(function (line) {
+      var m = line.match(/^\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(\d+)\s*\|\s*(.*?)\s*\|$/);
+      if (m) books.push({ book: m[1], ev: +m[2], p: +m[3], c: +m[4], a: +m[5], i: +m[6], np: m[7] });
+    });
+    if (!books.length) throw new Error('no rows parsed');
+    var sums = { ev: 0, p: 0, c: 0, a: 0, i: 0 };
+    var rows = books.map(function (b) {
+      sums.ev += b.ev; sums.p += b.p; sums.c += b.c; sums.a += b.a; sums.i += b.i;
+      return '<tr><td>Book ' + b.book + '</td><td>' + b.ev + '</td><td>' + b.p + '</td><td>' +
+        b.c + '</td><td>' + b.a + '</td><td>' + b.i + '</td><td style="text-align:left">' + esc(b.np) + '</td></tr>';
+    }).join('');
+    document.getElementById('table').innerHTML =
+      '<table class="ledger"><thead><tr><th>Book</th><th>Evaluated</th><th>Proved</th>' +
+      '<th>Checked</th><th>Asserted</th><th>Incomplete</th><th>New principles</th></tr></thead><tbody>' +
+      rows + '</tbody><tfoot><tr><td>Column sums (parsed)</td><td>' + sums.ev + '</td><td>' +
+      sums.p + '</td><td>' + sums.c + '</td><td>' + sums.a + '</td><td>' + sums.i +
+      '</td><td></td></tr></tfoot></table>' +
+      '<p class="srcnote">Column sums are computed from the parsed rows. The ledger\u2019s own stated ' +
+      'category totals (with its disclosed arithmetic notes) appear on the <a href="../">dashboard</a>.</p>';
+    document.getElementById('fetchinfo').textContent =
+      'Fetched from the repository at ' + new Date().toLocaleString() + '. Reload for the latest pushed ledger.';
+  }).catch(function () {
+    document.getElementById('loadstate').style.display = 'none';
+    document.getElementById('errors').innerHTML =
+      '<div class="err"><strong>Could not load the ledger.</strong> Check your connection, or read it directly: ' +
+      '<a href="https://github.com/cosbykit-afk/euclid-proofs/blob/main/trig_proof/STATUS.md">trig_proof/STATUS.md</a>.</div>';
+  });
+})();
+</script>
+</body>
+</html>

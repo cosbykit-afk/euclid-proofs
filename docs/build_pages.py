@@ -126,7 +126,7 @@ def book_page(book):
 {cards}
 
 <footer>
-<p><a href="../index.html">← All book pages</a> · Full evaluation tables:
+<p><a href="../index.html">← All book pages</a> · <a href="../ledger/">Live ledger dashboard</a> · Full evaluation tables:
 <a href="https://github.com/cosbykit-afk/euclid-proofs/blob/master/trig_proof/book{book["n"]}_claims.md">trig_proof/book{book["n"]}_claims.md</a></p>
 <p>Verdicts follow the campaign's status grammar: PROVED (complete proof),
 CHECKED (completed computation or cited recomputation), ASSERTED (declared,
@@ -152,6 +152,10 @@ INDEX = """\
 <p class="eyebrow">Euclid Proof Campaign</p>
 <h1>Book webpages</h1>
 <p class="sub">Claim-by-claim proof evaluations, published as readable pages.</p>
+<a class="booklink" href="ledger/">
+<h2>Live ledger dashboard</h2>
+<p>Reads the campaign ledgers (STATUS, final exam, master ledger) straight from the repository on every load — updates itself automatically as research continues.</p>
+</a>
 <a class="booklink" href="book21/">
 <h2>Book 21 — Fermion Composition, Color Closure, and Bound-State Geometry</h2>
 <p>13 claims evaluated 2026-09-26: 6 PROVED · 2 CHECKED · 5 ASSERTED · 0 INCOMPLETE. No new principles.</p>

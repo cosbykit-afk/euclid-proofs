@@ -66,8 +66,8 @@ There is nothing to prove from exponential definitions.
 |---|---|---|---|---|
 | A-7.1 | Book 2 transfer data import: principal-chart `λ=(1+sin x−cos x)/2`, `saw_r=ελ`, `saw_x=ε(1−λ)`, `saw_r+saw_x=ε=sgn(sin2x)`, `p=1−2λ` | RESOLVED 2026-09-27 (Kit: λ chart-local) | no | The page's audit notes a dependency-labeling defect on the "certified" λ in the Volume I Book 2 ledger and marks the transfer sections read-but-not-independently-checked; numerically grounded at 3.3e-16 per the page (cited, not re-run). Conditions 7.1.T1 and 7.1.C1. Chart note (WA session 2026-09-26-1740, NC only): with the raw principal-chart λ, `\|saw_r\|+\|saw_x\| ≈ 1.32544 ≠ 1` and `ελ(1−λ) ≈ +0.1892 ≠ sin(2x)/4 ≈ −0.1892` at off-chart x=2.0; on-chart control x=1.0 gives {1, 0.227324, 0.227324}, fully consistent. Whether the saw framework's λ is chart-local (per-chart sawtooth in [0,1]) or the unqualified saw identities need the principal-chart qualifier is RESOLVED 2026-09-27 — Kit's call: λ is chart-local, not principal-formula-global. Forced per-chart form (derived from `saw_r=ελ`, `saw_x=ε(1−λ)` + the FW-T12 input identity): `λ=(1±√(1−\|sin2x\|))/2`, branch per chart; naive frac-mod-1 wrapping does NOT preserve `(saw_r²−saw_x²)²=1−\|sin2x\|`. Per-chart identities PROVED by substitution on each chart minus the nodal set `{sin2x=0}` (where ε=0 — pre-existing, same as principal chart), CHECKED ~1e-16 incl. off-chart x=2.0 (`chart_local_lambda_check.py`). The principal formula `(1+sin x−cos x)/2` is the principal-chart branch (piecewise ±). 7.1.T1, 7.1.C1 now PROVED outright under this reading. |
 | A-7.3 | Declared two-form `ω = dP∧dV` enabling the formal Hamiltonian | ASSERTED (explicit declaration) | no | Part of the result by declaration, not smuggled in. Conditions 7.3.T3. |
-| A-7.4.E1 | Conserved-level extension hypothesis: study the parent ODE on a larger initial-data space with `K = Σ²−Δ²` as a level | ASSERTED (extension hypothesis) | no | Explicitly labeled a lawful extension, not an inherited theorem. |
-| 7.4.E1 | Conserved-level deformation + elliptic/parabolic/hyperbolic classification by sgn(K) | ASSERTED as extension | no | The classification mathematics is exact **conditional on the extension hypothesis**; the certified carrier fixes K=16. Not proved as a theorem of the carrier. |
+| A-7.4.E1 | Conserved-level extension hypothesis: study the parent ODE on a larger initial-data space with `K = Σ²−Δ²` as a level | ASSERTED (extension hypothesis) | no | Explicitly labeled a lawful extension, not an inherited theorem. NC 2026-09-27 (WA manual session, transcript wa_sessions/2026-09-27-0245.md): K=9 instance Σ(1)≈3.5696, Δ(1)≈−1.9344, Σ²−Δ²≈9.0000; K=−16 instance Σ(2)≈0.04884, Δ(2)≈4.00030, Σ²−Δ²≈−16.0000; WA independently returned matching closed forms. K=0 instance: corroborated in round 2 via the reduced single ODE y′=−y²/2, y(0)=4 → y(x)=4/(2x+1), y(1)=4/3 exactly. Corroboration only — status unchanged. |
+| 7.4.E1 | Conserved-level deformation + elliptic/parabolic/hyperbolic classification by sgn(K) | ASSERTED as extension | no | The classification mathematics is exact **conditional on the extension hypothesis**; the certified carrier fixes K=16. Not proved as a theorem of the carrier. NC 2026-09-27 (WA manual session, transcript wa_sessions/2026-09-27-0245.md): K=9 → elliptic behavior confirmed numerically (Σ(1)≈3.5696, invariant 9.0000); K=−16 → hyperbolic/exponential-decay behavior confirmed (Σ(2)≈0.04884, invariant −16.0000); K=0 parabolic instance corroborated in round 2 (reduced ODE y′=−y²/2 → y(x)=4/(2x+1), y(1)=4/3). Corroboration only — status unchanged. |
 | 7.4.CL1 | Signature firewall: no physical reading of `x, H, E, Σ²−Δ²` | ASSERTED (non-scope stipulation) | no | A methodological boundary declaration, not mathematics — cf. book2 A2/A3. |
 | "certified" status of the core | Status label for the carrier | ASSERTED | no | The manuscript's own term; the page's own finding. Not a mathematical claim. |
 | §7.4 closing link | "Book 5 flow / Axiom Zero realized at doubled phase" | ASSERTED-conditional | no | Inherits Book 5's Axiom Zero as an assumption (per the Volume I ledger); Book 7's use is conditional on it. |
@@ -167,8 +167,9 @@ antiderivatives) — dedup later. *Source:* 7.4.T6. *Euclid:* none.
 - Evaluated: **27** inventory items (23 claim rows + 4 axioms) in **28** table
   rows — the negatives group splits by verdict (7 PROVED scope statements +
   7.4.CL1 ASSERTED), and 7.1.T2's split verdict is resolved 2026-09-26 (PROVED on all branches).
-- **PROVED: 22** rows (20 unconditional-on-Book-7 + 2 PROVED-conditional:
-  7.1.T1/7.1.C1 on A-7.1; 7.3.T3 on A-7.3). Includes three upgrades over the
+- **PROVED: 22** rows (21 unconditional-on-Book-7 + 1 PROVED-conditional:
+  7.3.T3 on A-7.3; 7.1.T1/7.1.C1 upgraded from conditional to unconditional
+  2026-09-27 when A-7.1 resolved). Includes three upgrades over the
   book's own labels: L7.12 (A-7.2) and 7.2.T2 were re-derived here from
   registered PROVED Book 2 P4 rather than taken on audit authority, so the
   7.4 chain is PROVED outright, not PROVED-conditional; and the 7.1.T2
@@ -176,8 +177,8 @@ antiderivatives) — dedup later. *Source:* 7.4.T6. *Euclid:* none.
   proof (T2_EPS_OFFCHART_PROOF.md).
 - **CHECKED: 0** (the former 7.1.T2 off-chart branch check is superseded by
   the 2026-09-26 analytic proof).
-- **ASSERTED: 7** (A-7.1, A-7.3, A-7.4.E1, 7.4.E1, 7.4.CL1, "certified" status,
-  Book 5 link).
+- **ASSERTED: 6** (A-7.3, A-7.4.E1, 7.4.E1, 7.4.CL1, "certified" status,
+  Book 5 link; A-7.1 resolved 2026-09-27).
 - **INCOMPLETE: 0** (the 7.1.T2 off-chart analytic branch proof was written
   2026-09-26; no timeout or failure was ever involved).
 - Folded into the cumulative proof as candidates: **8** (P1–P8), all PROVED;
