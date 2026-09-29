@@ -5,7 +5,7 @@
 (see repair note at the end of §4). No other file changed since the compile
 (mtimes verified: only `book14_proof.md` is newer than this ledger's compile).
 **Source of this ledger:** `~/workspace/euclid_work/books/seed_double_angle.md` and
-`book0_proof.md`–`book20_proof.md` — all 21 files read in full (three extraction passes,
+`book0_proof.md`–`book20_proof.md` — all 22 files read in full (three extraction passes,
 results reconciled here). The previous ledger (compiled 2026-09-22 by the `reevaluate`
 agent) was inaccurate: it claimed 14 books had no proof files. **That is wrong. All 21
 files exist.** This ledger supersedes it entirely.
@@ -23,7 +23,7 @@ its 24-row inventory (§C proofs all present) and are used verbatim. Its ST impo
 are counted under ASSERTED per the file's own rule (the pre-repair ledger's "2 ST
 rows kept separate" no longer applies).
 
-**Campaign-wide totals (claim level, all 21 files):**
+**Campaign-wide totals (claim level, all 22 files):**
 - PROVED: **493** · CHECKED: **79** · ASSERTED: **209** · INCOMPLETE: **32**
 - Book 14 now counted at 16 PROVED / 1 CHECKED / 8 ASSERTED / 0 INCOMPLETE
   (repaired file; verified 2026-09-22).
@@ -208,10 +208,10 @@ Bk 20 I-SR/I-Dirac/I-Bloch/I-VA/I-Coulomb/I-EM imports, D-χ contract.
 
 ## 4. Honest bottom line
 
-- **What is established:** 492 PROVED claims (exact mathematics shown in the files)
-  and 79 CHECKED completed computations across all 21 files. The seed identity is
+- **What is established:** 493 PROVED claims (exact mathematics shown in the files)
+  and 79 CHECKED completed computations across all 22 files. The seed identity is
   PROVED and is actually used (Books 7, 8, 13, 14). The analytic core is thickest in
-  Books 2 (74), 1 (46), 0 (43), 3 (34), 13 (28), 15 (28), 6 (22), 4 (22).
+  Books 2 (74), 1 (46), 0 (43), 3 (34), 13 (29), 15 (28), 6 (22), 4 (22).
 - **What is conditional:** the great majority of physical content rests on declared
   premises — Axiom Zero (Bk 5), the P4/Gates substrate (Bk 4), AX-6.1…6.5 (Bk 6),
   A-7.1…7.4 (Bk 7), the seven Book-8 declarations + carrier package, the rapidity
@@ -220,10 +220,10 @@ Bk 20 I-SR/I-Dirac/I-Bloch/I-VA/I-Coulomb/I-EM imports, D-χ contract.
   contraction premises (Bk 17), A18.1…18.6 open admissions (Bk 18). The files are
   honest about this throughout; no expectation or manuscript label is presented as
   proved mathematics.
-- **What is missing or broken:** 33 INCOMPLETE items in total (the 19 deliberate
+- **What is missing or broken:** 32 INCOMPLETE items in total (the 19 deliberate
   Euclid-4 non-extensions, 7 Book-17 open/skeleton items, 4 Book-11 forward-map/debt
-  items, and singles in Books 7, 13, 16). The batch-parallelism seams (items 8–11)
-  are reconcilable now that all 21 files exist, but were not re-verified in this
+  items, and singles in Books 7 and 16). The batch-parallelism seams (items 8–11)
+  are reconcilable now that all 22 files exist, but were not re-verified in this
   compilation. The pending audits that would close the carrier/inheritance premises
   are largely a matter of cross-citing the now-complete file set.
 - **Manuscript corrections found by this campaign (PROVED as corrections):**
@@ -252,14 +252,26 @@ background-mathematics substrate; ST imports 14.II.P1, 14.V.P1, the Coulomb bind
 law, and the Herm(Sym²(C²)) = 1⊕3⊕5 decomposition (counted under ASSERTED per the
 file's rule); notation import of Book 7's `sxp` convention; the inherited §2.XI.L9
 "certified" wording is flagged, not repaired. Campaign totals revised by arithmetic:
-PROVED 478 − 2 + 16 = **492**; CHECKED 79 − 1 + 1 = **79**; ASSERTED 206 − 5 + 8 =
+PROVED 479 − 2 + 16 = **493**; CHECKED 79 − 1 + 1 = **79**; ASSERTED 206 − 5 + 8 =
 **209** (the old "2 ST rows kept separate" are now inside the 8 per the file's own
-rule); INCOMPLETE 34 − 1 + 0 = **33**. The worker's post-proof random sampling on one
+rule); INCOMPLETE 33 − 1 + 0 = **32**.
+
+*[Correction 2026-09-28: as first written, this note read PROVED 478 − 2 + 16 =
+492 and INCOMPLETE 34 − 1 + 0 = 33, which does not reconcile with the recompiled
+per-book table (§1, script-summed 2026-09-28 across all 22 rows: 493 PROVED / 32
+INCOMPLETE) or the header totals (493 / 79 / 209 / 32). The Book-14 deltas stated
+in this note are unaffected — the old file contributed 2 PROVED (14.I.T1, 14.I.C1
+the only complete proofs) and 1 INCOMPLETE (the truncated file); the rebuilt file
+contributes 16 PROVED and 0 INCOMPLETE per its verified §F counts. The pre-repair
+bases implied by those deltas and the table are therefore 479 and 33. The
+pre-repair ledger itself is not recoverable (single-commit history), so these
+bases are reconciled values, not independently re-attested; a row-by-row re-audit
+of the "counted" table rows would be needed to rule out a table-side ±1.]* The worker's post-proof random sampling on one
 lift identity (noted in the repair handoff) was not repeated and is not the basis of
 any PROVED status here, per the proof-over-sampling rule. The Book 14 footer still
 references `validation/book14/verify_book14.py`, which is absent on disk — kept
 stated honestly in §E of the file and noted here.
 
 *Correction to the previous ledger: the earlier "14 missing book files" claim was
-false — all 21 files exist on disk. The earlier totals (104/8/51/15) covered only
+false — all 22 files exist on disk. The earlier totals (104/8/51/15) covered only
 the 7 files visible at that time.*
