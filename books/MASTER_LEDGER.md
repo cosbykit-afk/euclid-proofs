@@ -41,7 +41,7 @@ rows kept separate" no longer applies).
 | book2 | 74 | 12 | 11 | 0 | none (P74); substrate S1–S5 + definitions D0–D7 declared |
 | book3 | 34 | 8 | 15 | 0 | none; premises N1–N6 (substrate, declarations, imports, inheritances) |
 | book4 | 22 | 8 | 10 groups | 19 (Euclid 4.2–4.5, 4.8–4.9, 4.10–4.14, 4.16; Defs 4.1–4.7 — no R extension) | P4.1, P4.1-C, P4.2-L, P4.2-M, P4.3, P4.4, S1–S6, Gates A–H, N1 differential framework |
-| book5 | 8 (7 conditional on Axiom Zero) | 1 | 3 | 0 | **A0.1, A0.2** (Axiom Zero; granted, not proved) |
+| book5 | 8 (4 conditional on Axiom Zero: C4–C7; C1 conditional on the ASSERTED P-inherit datum; C8–C10 unconditional) | 1 | 3 | 0 | **A0.1, A0.2** (Axiom Zero; granted, not proved) |
 | book6 | 22 (counted) | 2 | 2 claim-level + 17 framing annotations | 0 | AX-6.1…AX-6.5 (declared mathematical data; "0 new primitive axioms") |
 | book7 | 19 (counted) | 1 | 4 | 1 (off-chart branch analytic proof for T2; numeric only) | A-7.1…A-7.4 (transfer data, factorization lemma, two-form ω, E1 extension) |
 | book8 | 18 | 0 | 17 | 0 | D1–D6, D-EM (vacuum EM import contract) |
@@ -55,7 +55,7 @@ rows kept separate" no longer applies).
 | book16 | 29 (labeled, conditional; row 19 split) | 1 | 3 | 1 (four IC defects documented incorrect, not repaired) | AX-16.1…AX-16.5 (heavy-54 selector, index divisibility, dim≤4 truncation, Hodge completion, authority convention) |
 | book17 | 21 (counted) | 4 | 7 | 7 (I1 Frobenius norms; I2 1820 projector blocked at P_6435; I3 S_F OPEN; I4–I7 skeleton defects IC-8/9/10/11) | N-17-1…N-17-6 (definitional stratum, ST imports, C8↔octant correspondence as asserted theorem, charge-matching ansatz, contraction physics, open inputs) |
 | book18 | 14 | 5 | 11 (1 + 6 manuscript admissions + 4 ST imports) | 0 | A18.1…A18.6 (E/B/O matrices, 1820 projector, M_e/Oprop equivariance, γᵢ relations, prefactor/S_F physics, S_F/N_1820 values — all ASSERTED OPEN) |
-| book19 | 9 (counted; 2 split) | 6 | 11 | 0 | none ("proves almost nothing new — and that is its point": audit-honesty file) |
+| book19 | 9 (counted; 3 split: T10, T17, T20) | 6 | 11 | 0 | none ("proves almost nothing new — and that is its point": audit-honesty file) |
 | book20 | 17 | 0 | 11 | 0 | none (B0 Book-0 premise ASSERTED pending; D-χ declared contract) |
 
 **New-axiom register, campaign-wide:** A0.1, A0.2 (Bk 5) · P4.1, P4.1-C, P4.2-L, P4.2-M,
